@@ -9,5 +9,5 @@ structured: Meta-attributes and raw text together.
 
 text: Raw text for each file.
 
-# If you plan to use the BilCat dataset, please cite the following study:
+# Citation:
 C. Toraman, F. Can and S. Koçberber, "Developing a text categorization template for Turkish news portals," 2011 International Symposium on Innovations in Intelligent Systems and Applications, Istanbul, 2011, pp. 379-383. DOI: 10.1109/INISTA.2011.5946096
