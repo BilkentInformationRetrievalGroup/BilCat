@@ -1,10 +1,12 @@
 # BilCat
 Bilkent Text Categorization (Classification) Dataset
 
-Bilkent Text Categorization Dataset: BilCat-MIL and BilCat-TRT
+Bilkent Text Categorization Dataset consists of BilCat-MIL and BilCat-TRT.
 
 There are 2 folders:
+
 structured: Meta-attributes and raw text together.
+
 text: Raw text for each file.
 
 Please find details and cite the following study for the BilCat dataset:
