@@ -1,5 +1,4 @@
-# BilCat
-Bilkent Text Categorization (Classification) Dataset
+# BilCat: Bilkent Text Categorization (Classification) Dataset
 
 Bilkent Text Categorization Dataset consists of BilCat-MIL and BilCat-TRT.
 
