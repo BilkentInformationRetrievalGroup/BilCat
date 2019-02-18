@@ -9,7 +9,7 @@ structured: Meta-attributes and raw text together.
 text: Raw text for each file.
 
 # Citation:
-C. Toraman, F. Can and S. Koçberber, "Developing a text categorization template for Turkish news portals," 2011 International Symposium on Innovations in Intelligent Systems and Applications, Istanbul, 2011, pp. 379-383. DOI: 10.1109/INISTA.2011.5946096
+C. Toraman, F. Can and S. Koçberber. Developing a text categorization template for Turkish news portals. 2011 International Symposium on Innovations in Intelligent Systems and Applications, Istanbul, 2011, pp. 379-383. DOI: 10.1109/INISTA.2011.5946096
 
 C. Toraman. Text categorization and ensemble pruning in Turkish news portals. M. Sc. Thesis. Bilkent University, Ankara, Turkey, 2011.
 
