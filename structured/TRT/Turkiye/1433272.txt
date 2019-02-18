@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1433272 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cfb7b371-2852-483d-8b69-6ec824014e5b </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 18:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+torba kanun onay i��in k����k'te
+</HEADLINE>
+<TEXT>
+Pek çok kanunda değişiklik içeren Torba Yasa Cumhurbaşkanlığı'na gönderildi. 
+
+ Başta borçların yeniden yapılandırılması olmak üzere, öğrenci affı ve pek çok kanunda değişiklik içeren Torba Yasa Cumhurbaşkanlığı&rsquo;na gönderildi. 
+
+  Cumhurbaşkanı Abdullah Gül, 234 maddelik yasayı 15 gün içinde inceleyecek.
+
+
+</TEXT>
+</DOC>

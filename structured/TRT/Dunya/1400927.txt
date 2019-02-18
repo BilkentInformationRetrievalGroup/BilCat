@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1400927 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=df95eb86-cc5e-4977-9057-3cfae359fbdf </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 22:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pakistan'da ��iddetli deprem
+</HEADLINE>
+<TEXT>
+Pakistan'da 7,3 büyüklüğünde deprem meydana geldi.
+
+Pakistan&rsquo;ın güneybatısında Afganistan sınırı yakınlarında Richter ölçeğine göre 7,3 büyüklüğünde bir deprem meydana geldi.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337848 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68b4/l/0l0smilliyet0n0btr0clig0elideri0etrabzonspor0eun0ehisseleri0e10a0e40eprimli0cekonomi0chaberdetay0c160b110b20a10a0c13148930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:01:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+lig lideri trabzonspor���un hisseleri % 10.4 primli
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİKurban Bayramı tatili öncesinde tek seanlık işlemlerde Trabzonspor hisseleri yüzde 10.43 yükselişle 19.05 TL’ye çıktı. Öte yandan önceki gün Manisaspor’a 2-0 yenilen Galatasaray’ın hisseleri yüzde 1.18 düşüşle 335 TL’ye geriledi. Gençlerbirliğini 2-0 yenen Beşiktaş hisseleri de yüzde 4.19 yükselişle 9.94 TL’ye çıktı.İMKB 70 bini zorluyorBu arada, Bayram tatili öncesinde dolar/TL hacimsiz piyasada 600 milyar dolarlık FED kararına ve İrlanda ekonomisine yönelik devam eden endişelerle 1.44 TL’de dalgalanırken, bono da hacimsiz piyasada yüzde 7.72’ye yükseldi. İrlanda’ya ilişkin borç endişeleriyle tek seanslık işlem gününe aşağı yönlü başlangıç yapan İMKB-100 endeksi ise Avrupa borsalarının  yönünü yukarı çevirmesesiyle birlikte günü yüzde 0.64 yükselişle tamamladı. Avrupa borsalarının, euro bölgesi ihracat büyümesine ilişkin güçlü verinin borç endişelerini bastırması ve madencilik hisselerindeki toparlanmayla birlikte yükselişe geçmesinin ardından İMKB 69.998 puanda kapanırken, toplam işlem hacmi 705 milyon lira olarak gerçekleşti.</TEXT>
+</DOC>

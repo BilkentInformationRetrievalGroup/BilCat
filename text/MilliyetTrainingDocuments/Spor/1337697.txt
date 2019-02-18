@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337697 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/faa5ab6/l/0l0smilliyet0n0btr0cali0etandogan0ecalismalara0ebasladi0cspor0csondakika0c150b110b20a10a0c131480a40cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 19:11:41.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ali tando��an ��al����malara ba��lad��
+</HEADLINE>
+<TEXT>Bursaspor cumartesi günü deplasmanda oynayacağı Manisaspor maçı hazırlıklarını akşam saatlerinde yaptığı antrenman ile sürdürdü. Teknik direktör Ertuğrul Sağlam'ın katılmadığı antrenman, yardımcı antrenörler nezaretinde gerçekleştirildi.1 günlük iznin ardından Özlüce Tesisleri'nde hazırlıklara başlayan yeşil beyazlılar serbest düz koşuların ardından yarı sahada çift kale maç yaparak antrenmanı tamamladı. Bugünkü çalışmalara izinli olan Ivankov ve Kirita ile A2 takımında bulunan Emre Pehlivan, Sercan Şen, Anıl Sarak, Okan Deniz, Ümit Milli Takım'da bulunan Serdar Aziz, midesinde problem olan Vederson ile A Milli Takım'da bulunan İbrahim Öztürk katılmadı.Öte yandan Medical Park Antalyaspor karşılaşmasında kafatasında kırıklar meydana gelen ve geçtiğimiz günlerde geçirdiği ameliyat sonrası taburcu olan tecrübeli futbolcu Ali Tandoğan'ın tesislere gelerek salonda ilk çalışmasını gerçekleştirdiği belirtildi.Bursaspor, yarın yapacağı antrenman ile hazırlıklarını sürdürecek.</TEXT>
+</DOC>

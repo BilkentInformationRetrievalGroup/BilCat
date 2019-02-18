@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326271 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5b817a/l/0l0smilliyet0n0btr0cis0ebankasi0edolar0ecinsi0etahvil0eihraci0eicin0epiyasaya0ecikiyor0cekonomi0chaberdetay0c0a50b110b20a10a0c1310a4390cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:00:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+i�� bankas�� dolar cinsi tahvil ihrac�� i��in piyasaya ����k��yor
+</HEADLINE>
+<TEXT>İş Bankası, Kamuoyunu Aydınlatma Platformu’na (KAP) yaptığı açıklamada, “İhraç edilmesi planlanan tahvillerin kredi notunun Ba1 (Moody’s) ve BBB- (Fitch) olması beklenmektedir” dedi. İş Bankası, 27 Eylül’de Türkiye dışında yerleşik gerçek ve tüzel kişilere satılmak üzere dolar cinsinden tahvil ihraç edilmesine ilişkin Sermaye Piyasası Kurumu’na (SPK) başvurmuştu. Bankadan bu konuyla ilgili daha önce yapılan açıklamada ihracın en geç 2011’in ilk çeyreğinde gerçekleştirilmesinin hedeflendiği belirtilmişti.Bankanın ayrıca daha önce yaptığı 1.45 milyar lira tutarında 10 yıla kadar vadeli yurtdışında satılacak tahvil ihracı da dün itibariyle SPK kurul kaydına alındı. Konut kredisi için bankaya gitmeyin.</TEXT>
+</DOC>

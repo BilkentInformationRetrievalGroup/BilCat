@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327263 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5f1b43/l/0l0smilliyet0n0btr0cingilizler0efifa0eya0eguvenmiyor0cspor0csondakika0c0a50b110b20a10a0c1310a6130cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 13:14:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ingilizler f��fa'ya g��venmiyor
+</HEADLINE>
+<TEXT>İngilizler, FIFA’nın 2018 Dünya Kupası’na ev sahipliği yapacak ülkeyi belirlerken adaletli davranacağına inanmıyor.İngiltere’nin önde gelen kamuoyu araştırma şirketlerinden YouGov’un yaptığı ankete katılanların yüzde 72’si, "FIFA, 2018 Dünya Kupası ev sahibini adaletli bir şekilde belirleyebilecek mi?" sorusuna ’hayır’ yanıtını verirken, ’evet’ oyları yüzde 11’de kaldı. Katılımcıların yüzde 17’si ise fikir belirtmedi."FIFA, delegelerin kime oy verdiğini açıklamalı mı?" sorusunda, yanıtların yüzde 76’sı ’evet’ olurken, ’hayır’ yanıtı yüzde 10’da kaldı.Ankete katılanların yüzde 54’ü "İngiltere, 2018 Dünya Kupası’nın ev sahipliğini kazanabilecek mi?" sorusuna ’evet’ derken, yüzde 27’si olumsuz fikir belirtti."İngiltere, Dünya Kupası’nı düzenlemeyi hak ediyor mu?" sorusuna ise katılımcıların yüzde 48’i ’evet’, yüzde 27’si ise ’hayır’ yanıtını verdi.</TEXT>
+</DOC>

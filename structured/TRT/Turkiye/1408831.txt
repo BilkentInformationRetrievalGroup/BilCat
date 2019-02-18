@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1408831 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=903a86c2-e05a-4fe7-8936-2584a4bf494c </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 11:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ar��n��'tan "hizbullah" iddialar��na yan��t
+</HEADLINE>
+<TEXT>
+Kılıçdaroğlu'nun Hizbullah iddialarına yanıt verdi.
+
+Devlet Bakanı ve Başbakan Yardımcısı Bülent Arınç, CHP Genel Başkanı Kemal Kılıçdaroğlu&rsquo;nun Hizbullah iddialarına ilişkin olarak bir açıklama yaptı. 
+
+Arınç, &quot;Duvara çamur at tutmazsa da izi kalır düşüncesi bir siyasetçiye yakışmıyor&quot; dedi.
+</TEXT>
+</DOC>

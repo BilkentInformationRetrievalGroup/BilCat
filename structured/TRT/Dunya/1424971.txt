@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1424971 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=952eb2f2-5e68-471a-949f-881795ff60ac </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 01:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+baradey'den orduya ��a��r��
+</HEADLINE>
+<TEXT>
+Muhalif Lider Baradey, orduyu krize müdahale etmeye çağırdı 
+
+
+Mısır&rsquo;da kritik saatler...
+
+Muhalif Lider Baradey, orduyu krize müdahale etmeye çağırdı. 
+</TEXT>
+</DOC>

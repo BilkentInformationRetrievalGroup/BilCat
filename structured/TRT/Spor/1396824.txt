@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1396824 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=277c3c8c-07f2-496c-bcb1-0a847ce40eb0 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 16:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sydney tenis turnuvas��nda s��rpriz
+</HEADLINE>
+<TEXT>
+Sydney uluslararası tenis turnuvasının bayanlar final maçı sürprizle bitti. 
+
+
+Sydney tenis turnuvasında bayanlar final maçı, dünya tenisinin üç numarası Kim Clisters ile 11&rsquo;nci basamaktaki Çinli Li Na arasındaydı.
+
+Clijsters, bir gün önce, Rus Alisha Kleybanova karşısında oynadığı zorlu yarı final maçının yorgunluğunu üstünden atamamıştı. Durum ilk setin ortalarında ortaya çıktı. Maça hızlı başlayan Clijsters&rsquo;ın performansı, ardarda ilk beş oyunu aldıktan sonra düştü.
+
+Bu andan itibaren kontrolu ele alan Çinli raket, fırsatları iyi değerlendirdi.
+
+Üst üste 6 oyun alan Li Na, seti tie break&rsquo;e taşıdı ve 7-6 kazandı. Clijsters, kaybettiği ilk setin ardından ikinci sette de toparlanamadı.
+
+Belçikalı usta tenisçi yaptığı üç çift hatayla, seti, maçı ve turnuva zaferini Li Na&rsquo;ya bıraktı.
+
+Son seti 6-3 kazanan Li Na, dünyanın üç numarası karşısında sonuca bir buçuk saatte ulaştı.
+
+Çinli tenisçi, geçen yıl yarı finale çıkarak sürpriz yarattığı Avustralya Açık öncesinde bu çıkışıyla
+büyük moral depoladı
+</TEXT>
+</DOC>

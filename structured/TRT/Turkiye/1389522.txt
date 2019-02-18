@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1389522 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=08c2b7aa-2029-4708-9c25-34cc9e6e83d7 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 15:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ptt'den "tahliye" a����klamas��
+</HEADLINE>
+<TEXT>
+"Yargıtay'dan talep gelmesi halinde tebligatları 24 saatte teslim ederiz."
+
+Tartışılan tahliyelerle ilgili bir açıklama da PTT Genel Müdürü Osman Tural&rsquo;dan geldi.
+
+Tural, Yargıtay&rsquo;dan talep gelmesi halinde tebligatları 24 saat içinde teslim edebileceklerini söyledi.
+</TEXT>
+</DOC>

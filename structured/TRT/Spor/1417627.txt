@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1417627 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=77c4c883-aa03-4885-b656-1a9b56a24603 </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 22:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+aybaba: "tur i��in umutluyuz"
+</HEADLINE>
+<TEXT>
+Bucaspor Teknik Direktörü Samet Aybaba Lig'deki maçı düşünerek tam kadro sahaya çıkmadıklarını söyledi. 
+
+Samet Aybaba, maçtan sonra düzenlediği basın toplantısında, &quot;Şanş bulamayan oyuncularımızı denedik. Burada yenildiğimiz gibi kendi sahamızda yenebiliriz. Süper Lig&rsquo;de oynayacağımız maç bizim için daha önemli. O maçta sahadan iyi bir neticeyle ayrılmak istiyoruz&quot; dedi
+</TEXT>
+</DOC>

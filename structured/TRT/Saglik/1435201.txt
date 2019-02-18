@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1435201 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=03e6d36a-2a4e-438f-8cd2-22154b9013f7 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 23:11:03.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+prostat ameliyatlar�� art��k daha kolay
+</HEADLINE>
+<TEXT>
+Hollmium Yag Lazer Teknolojisi ile yapılan prostat ameliyatları artık çok daha kolay olacak.
+
+     Hollmimum Yag adı verilen yeni lazer tekniğinde hem büyüyen prostatın tamamı artık doku bırakmadan temizlenebiliyor hem de her kalınlıktaki böbrek taşları kolayca kırılabiliyor.
+
+     Prostat büyümesinde şimdiye kadar yakma ve buharlaştırma yöntemiyle lazer tekniği kullanılıyordu.
+
+     Ancak yeni geliştirilen Hollmium lazerin özelliği, büyüyen prostatı buharlaştırarak ya da yakarak değil parçalayarak yok etmesi.
+
+     Daha önce uygulanan lazerli yöntemde kanser riski  araştırması da yapılamıyordu.
+
+      Hastanın ağrı çekme, sonda kullanma ya da hastaneda kalma süresi çok daha kısalıyor.
+
+      Hollmium Yag&rsquo;ın bir başka özelliği de  böbrek taşlarını kırabilmesi.       
+
+       Hollmium yag teknolojisinde hastaya kesi yapılmıyor.
+
+      Çok ince endoskoplar ve  fiberoptik kablolarla  idrar kanalından girilerek yapılan ameliyatlar endoskopik kamera ve  monitörlerle izleniyor.
+
+
+</TEXT>
+</DOC>

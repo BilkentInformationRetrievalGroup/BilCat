@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1402175 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=87296043-50c1-4c8c-9d69-e424bbe06915 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 04:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd-��in n��kleer g��venlik anla��mas��
+</HEADLINE>
+<TEXT>
+ABD Başkanı Barack Obama, nükleer güvenlik konusunda Çin ile işbirliğinin artırılmasına yönelik bir anlaşmanın  imzalandığını açıkladı.
+
+
+
+  
+        Çin Devlet Başkanı Hu Jintao&rsquo;nun Washington ziyareti sırasında imzalanan anlaşma, Çin&rsquo;de ortak finanse edilen bir nükleer güvenlik merkezinin kurulmasını öngörüyor.
+  
+         Amerikalı yetkililer, anlaşmayı Çin ile güvenlik alanındaki işbirliğinde bir açılım olarak gördüklerini söyledi.
+  
+         Amerika Birleşik Devletleri Enerji Bakanı Steven Chu,  anlaşmayı, nükleer güvenliğin hayata geçirilmesi yolunda önemli bir adım olarak niteledi.
+  
+        Yetkililer, Çin&rsquo;in bölgede nükleer güvenliğin geliştirilmesi yönündeki etkisini kullanabileceği umudunu dile getirerek, iki ülkenin, merkezi Asya&rsquo;daki diğer ülkelere de açmayı planladığını belirtiyor.
+  
+         Anlaşmaya göre, merkezin bütçesinin büyük bölümünü Çin karşılayacak,  Amerikan tarafı teknoloji ve uzmanlık desteği sağlayacak.
+      
+
+
+
+</TEXT>
+</DOC>

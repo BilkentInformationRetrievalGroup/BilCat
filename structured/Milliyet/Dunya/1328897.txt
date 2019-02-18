@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328897 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f659662/l/0l0smilliyet0n0btr0ckuba0eda0edusen0eucagin0ekara0ekutusu0ebulundu0cdunya0csondakika0c0a60b110b20a10a0c1310a9770cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:01:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+k��ba'da d����en u��a����n kara kutusu bulundu
+</HEADLINE>
+<TEXT>Küba’da düşen uçağın kara kutusunun bulunduğu bildirildi.Küba basınında yer alan haberlerde, kurtarma görevlilerinin, Santi Spiritus eyaletinin Guasimal köyü yakınlarında düşen AeroCaribbean şirketine ait uçağın enkazında yaptıkları aramalar sonucu, uçuş verileriyle ses kayıtlarının bulunduğu kara kutuyu buldukları belirtildi.Bulunan kara kutuyu inceleyen uzmanların, görgü tanıklarının duman ve alevler içinde yere düştüğünü ifade ettikleri çift motorlu ATR tipi türbo pervaneli uçağın düşüş nedenini ortaya çıkarması bekleniyor.Küba’nın doğusundaki Santiago de Cuba kentinden havalanarak başkent Havana’ya giden uçağın düşmesi sonucu 28’i yabancı 61 yolcu ile 7 uçuş personeli hayatını kaybetmişti.</TEXT>
+</DOC>

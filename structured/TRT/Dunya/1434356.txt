@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1434356 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7d5b4b08-9461-448d-9695-eba837b68e45 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 00:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+afganistan'da sald��r��: 18 ��l��
+</HEADLINE>
+<TEXT>
+Afganistan'da silahlı saldırganlar bir bankayı kurşun yağmuruna tuttu, ardından bombalı intihar saldırısı düzenledi.
+
+Afganistan&rsquo;da silahlı saldırganlar Celalabad kentinde asker ve polislere maaşlarının ödendiği sırada önce bankayı kurşun yağmuruna tuttu, ardından bombalı intihar saldırısı düzenledi.
+
+     Bilanço ağır; 18 ölü, 80 yaralı.
+
+     Saldırganlardan bazılarının, üzerlerinde patlayıcılar olduğu ve bankanın içine girerek intihar saldırısı düzenledikleri belirtiliyor. 
+
+     Yaralıların büyük bölümünün durumunun ağır olduğu ve ölü sayısının daha da artabileceği haber veriliyor.
+
+     İntihar saldırısına katılmayan saldırganlardan bazılarının kaçmaya çalışması üzerine, çıkan çatışmada 3 saldırganının ölü olarak ele geçirildiği bildiriliyor.
+
+     Celalabad kentini savaş alanına çeviren saldırının sorumluluğunu Taliban üstlendi.
+
+</TEXT>
+</DOC>

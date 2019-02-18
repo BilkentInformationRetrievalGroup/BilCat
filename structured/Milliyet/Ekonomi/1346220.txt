@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346220 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffbc8e5/l/0l0smilliyet0n0btr0cthales0efransa0eda0e150a0a0ekisiyi0eisten0ecikaracak0cekonomi0csondakika0c250b110b20a10a0c13184120cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 17:00:41.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+thales, fransa���da 1500 ki��iyi i��ten ����karacak
+</HEADLINE>
+<TEXT>Fransız savunma elektroniği şirketi Thales, Fransa’da 1500 kişiyi işten çıkarmayı planlıyor.Radar, havacılık elektronik sistemleri ve güvenlik ekipmanları alanında Avrupa’nın en büyüklerinden olan Thales yetkililerince yapılan açıklamada, bazı faaliyet alanlarında yaşanan talep daralması ve Avro’daki değer kaybı nedeniyle Fransa’daki iş gücünü 1500 kişi azaltmayı planladığını belirtti.Açıklamada, söz konusu işten çıkarma planının 2011 yılında uygulanacağı ifade edildi.Merkezi Fransa’da olan Thales’in 35 bini Fransa’da olmak üzere dünya genelinde 68 bin çalışanı bulunuyor.Thales hisseleri, Paris Borsasında gün ortasında yüzde 1,2 oranında değer kazanarak, 26,94 avrodan işlem gördü.Finansal krizin, bütçe açığı ve kamu borçları üzerindeki olumsuz etkisiyle bir çok Avrupa ülkesi savunma harcamalarını azaltmak zorunda kalmıştı.</TEXT>
+</DOC>

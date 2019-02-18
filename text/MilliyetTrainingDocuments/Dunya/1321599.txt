@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321599 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f49aea9/l/0l0smilliyet0n0btr0ceski0edusmanlar0eortak0eoldu0cdunya0chaberdetay0c0a30b110b20a10a0c130a94650cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:41.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+eski d����manlar ortak oldu
+</HEADLINE>
+<TEXT>GÜVEN ÖZALP Brüksel2015’ten itibaren geçerli olacak ve 50 yıl süreyle yakın işbirliği sağlayacak antlaşmalar gereği iki ülke, nükleer başlıklarla ilgili simülasyon merkezlerini paylaşacak. Tugay düzeyinde ortak bir acil müdahale gücü oluşturulması, birbirlerinin uçak gemilerinden yararlanması, askeri uydu iletişiminden faydalanılması, antlaşmaların öne çıkan diğer unsurlarını oluşturuyor.</TEXT>
+</DOC>

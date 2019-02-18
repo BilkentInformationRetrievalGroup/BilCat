@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325638 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f58aad3/l/0l0smilliyet0n0btr0cdolar0e30ehaftalik0earadan0esonra0e10e40a0a0a0eun0ealtinda0cekonomi0csondakika0c0a40b110b20a10a0c1310a2530cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 19:00:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+dolar 3 haftal��k aradan sonra 1,4000�����n alt��nda
+</HEADLINE>
+<TEXT>ABD Doları, yaklaşık üç haftalık aradan sonra tekrar 1,4000 liranın altındaki seviyelere geriledi.ABD Merkez Bankası’nın (FED), ekonomik toparlanmayı desteklemek amacıyla 2011 yılı ortasına kadar 600 milyar dolarlık tahvil alım kararını açıklamasının ardından dolar, uluslararası piyasalarla birlikte iç piyasada da değer yitirdi.İstanbul serbest piyasada dün 1,4130 liradan kapanan dolar sabah açılışta 1,4030 liradan güne başladı. Öğle saatlerine kadar bu seviyeleri koruyan dolar, daha sonra 1,4000 liranın altına geriledi.Saat 16.15 itibariyle bankalararası piyasada dolar kotasyonlarında alışta en düşük fiyat 1,3850 TL, en yüksek fiyat 1,3880 TL, satışta en düşük fiyat 1,3900 TL, en yüksek fiyat 1,3940 TL düzeyinde bulunuyor. İMKB 100 endeksi de 70.000 puanın üstüne çıkmış durumda.Uluslararası piyasalarda avro-dolar paritesi 1,4267, sterlin-dolar paritesi 1,6285, yen-dolar paritesi ise 80,60 düzeyinde seyrediyor.İstanbul serbest piyasada ise dolar 1,3930 liradan, avro 1,9850 liradan, İngiliz Sterlini 2,2280 liradan ve İsviçre Frangı 1,4500 liradan satılıyor.Dolar hem serbest piyasada hem de bankalararası piyasada 2008 yılı ekim ayı ortalarında 1,4000 lira seviyelerine geriledikten sonra 2009 yılında en düşük olarak 15 Ekim günü 1,4400 liraya kadar gelmişti. Yaklaşık 3 hafta önce 14 Ekim Perşembe günü tekrar 1,4000’ün altına gerileyen dolar burada fazla kalıcı olmadan yukarıya çıkmıştı.</TEXT>
+</DOC>

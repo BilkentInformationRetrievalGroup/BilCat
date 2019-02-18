@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1414315 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ae3b7939-0411-444a-b179-bd169c9ba434 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 19:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+marsel yine kazanamad��
+</HEADLINE>
+<TEXT>
+Milli Tenisçi Marsel İlhan, bu yıl 5. turnuvası olan Zagreb'de de ilk turda yenilerek elendi.
+
+Milli Tenisçi Marsel İlhan, Zagreb&rsquo;de katıldığı ATP 250 serisi turnuvanın ilk turunda Slovak Lukas Lacko&rsquo;yu 3 sette mağluboldu.
+Dünya sıralamasında 87. sırada yer alan İlhan, dünya sıralamasında 107. sırada yer alan rakibi karşısında ilk seti 6/4 aldı. Karşılaşmanın 2. seti aynı skorla Slovak tenisçinin oldu. 
+Üçüncü sete erken servis kırarak başlayan Marsel ilhan bu avantajını koruyamadı, Skor önce 3-3, sonra 4-4 ve 5-5 oldu. Slovak tenisçi önce servis attığı oyunu kazanarak 6-5 öne geçti sonra da servis kırarak Marsel İlhan&rsquo;ı mağlubetti. 
+Böylece Marsel İlhan, bu yıl katıldığı 5. turnuvada da maç kazanamadı.
+
+ 
+</TEXT>
+</DOC>

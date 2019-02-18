@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1423043 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9e6efd1c-dd05-44ee-8724-6adcd008a7b9 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 12:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+quaresma ve almeida arjantin'e kar����
+</HEADLINE>
+<TEXT>
+Portekiz Milli Takımı, Arjantin Milli takımı ile İsviçre'nin Cenevre Stadı'nda bugün özel bir karşılaşma yapacak. 
+
+Portekiz Milli Takımında, Beşiktaş&rsquo;ta gösterdiği başarılı performansla yeniden milli takıma seçilen Ricardo Quaresma ile Beşiktaş&rsquo;ın devre arasında kadrosuna kattığı Hugo Almeida da yer alıyor. 
+Cenevre&rsquo;de yaşayan binlerce Portekiz&rsquo;li, Portekiz Milli Takımının dünkü antremanına büyük ilgi gösterdi.  Real Madrid&rsquo;de forma giyen Cristiano Ronaldo yorgunluğu nedeniyle antrenmana çıkmadı. 
+
+</TEXT>
+</DOC>

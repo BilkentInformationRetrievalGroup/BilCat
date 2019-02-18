@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338383 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fb55761/l/0l0smilliyet0n0btr0cturkiye0eye0edestek0esecim0ekaybettirdi0csiyaset0chaberdetay0c170b110b20a10a0c13152640cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:34:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye���ye destek se��im kaybettirdi
+</HEADLINE>
+<TEXT>PARİS A.A.Fransa’da Sosyalist Parti’nin konsey delegelerine verdiği resepsiyona katılan Kemal Kılıçdaroğlu, eski başbakanlardan Laurent Fabius, eski dışişleri bakanlarından Hubert Vedrine, Sosyalist Parti Genel Sekreteri Martine Aubry ve Sosyalist Parti ’nin geçen seçimlerdeki cumhurbaşkanı adayı Segolene Royal ile görüştü. Görüşmede, CHP ve Sosyalist Parti arasındaki ilişkilerin geliştirilmesi ve Türkiye’nin AB üyeliği süreciyle ilgili gelişmeler değerlendirildi.Alınan bilgiye göre Royal, Kılıçdaroğlu ’na, geçen cumhurbaşkanlığı seçimlerinde Nicolas Sarkozy’ye karşı Türkiye’nin AB üyeliğini savunduğunu hatırlattı. Royal, konu ile ilgili Fransa ’daki tartışmalara atıfta bulunarak, kendisinin Türkiye ’nin üyeliğini savunan bu tavrının, “belki de seçimi kaybetmesine neden olan faktörler arasında yer aldığı” ifade etti. Royal, Türkiye ’de uluslararası kadın konferansı düzenlenmesini önerdi ve bu toplantıya katılmaktan büyük memnunluk duyacağını da dile getirdi.</TEXT>
+</DOC>

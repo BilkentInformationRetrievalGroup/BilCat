@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325636 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f58c5d7/l/0l0smilliyet0n0btr0csimsek0esecim0enedeniyle0eilk0eyarida0edaha0efazla0eharcamayi0eplanlayabiliriz0e0cekonomi0csondakika0c0a40b110b20a10a0c1310a2630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 19:00:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��im��ek: "se��im nedeniyle ilk yar��da daha fazla harcamay�� planlayabiliriz���
+</HEADLINE>
+<TEXT>Maliye Bakanı Mehmet Şimşek, "Tek yapmamız gereken şu, gelecek yıl seçim yılı. Bu nedenle yılın ilk yarısında biraz daha fazla harcamayı planlayabiliriz. İkinci yarısında biraz daha disiplinli olmayı planlıyoruz" dedi.Şimşek, "Bu çift haneli büyüme hızını sürdüremeyeceğiz. Hep böyle gitmeyecek. Çünkü bunu destekleyecek tasarrufumuz yok. Bunu destekleyecek bütün ana yapısal problemlerimizi çözmüş değiliz. Ama hiç şüphe yok ki büyüme yine de önümüzdeki yıllarda güçlü olarak devam edecek" şeklinde konuştu.</TEXT>
+</DOC>

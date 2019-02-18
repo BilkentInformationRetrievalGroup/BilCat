@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321592 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f497ffe/l/0l0smilliyet0n0btr0c50a0edakika0eboyle0eseyahat0eetti0cdunya0csondakika0c0a30b110b20a10a0c130a93320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+50 dakika b��yle seyahat etti
+</HEADLINE>
+<TEXT>Rusya'da 17 yaşında bir çocuğun bir uçağın iniş takımlarına saklanarak 50 dakikalık yolculuğa çıktığı belirlendi. Rus istihbaratından yapılan açıklamaya göre genç adamın havalanında hırsızlık yaptıktan sonra eski Sovyet yapımı uçağın iniş takımlarına saklandığı ve eksi 30 derece yaklaşık 50 dakika boyunca uçtuğu belirlendi.Genç adamın uçuş sırasında üzerinde ince bir montun bulunduğu ve uçak iner inmez derhal tedavi altına alındığı belirlendi. Gença dam tedaviden sonra gözaltına alınacak.</TEXT>
+</DOC>

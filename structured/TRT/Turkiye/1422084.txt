@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1422084 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bc1d85d0-36b0-4393-b955-13546438f739 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 11:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+istanbul'da y��k��m gerginli��i
+</HEADLINE>
+<TEXT>
+Sarıyer'de yıkım öncesi tahliyeye direnen mahalleli ile polis arasında arbede yaşandı.
+
+İstanbul  Sarıyer Çamlıtepe Mahallesi&rsquo;nde yıkım kararı alınan 40 evin tahliyesi sırasında olaylar çıktı. 
+
+     Yıkım kararı bulunan gecekonduların tahliyesi ve yıkımı için binin üzerinde çevik kuvvet polisi saat 04.00 sıralarında mahalleye geldi.
+
+      Sokak girişinde oturma eylemi yapan vatandaşlarla yolu açmaya çalışan polisler arasında arbede yaşandı. 
+     Çıkan olaylar sırasında kalp hastası olduğu öğrenilen Yusuf Birdal fenalaşınca ambulansla hastaneye kaldırıldı.
+
+      Polis, direniş gösteren mahalliye biber gazı ve tazyikli suyla müdahale etti.
+     Öfkeli kalabalık, tahliye için gelen kamyonetleri de taşlamaya başladı. 
+     
+      İstanbul Büyükşehir Belediyesi yetkilileri, Sarıyer&rsquo;de gerçekleştirilmek istenen yıkımların belediye ile bir ilgisinin olmadığını açıkladı.
+
+</TEXT>
+</DOC>

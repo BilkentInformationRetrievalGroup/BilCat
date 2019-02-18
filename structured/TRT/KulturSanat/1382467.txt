@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1382467 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fe644f49-28f1-43bb-8e9a-6e5549938f00 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 21:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+l��semili ��ocuklar i��in...
+</HEADLINE>
+<TEXT>
+Ankara Devlet Opera ve Balesi, "Seslerle Anadolu" müzikali ile sahne alacak. Elde edilecek gelirin tamamı LÖSEV'e bırakılacak.
+
+Ankara Devlet Opera ve Balesi, &rsquo;&rsquo;Seslerle Anadolu&rsquo;&rsquo; müzikali ile Lösemili Çocuklar Vakfı (LÖSEV) yararına sahne alacak.
+
+Ankara Devlet Opera ve Balesi ile ODTÜ Güzel Sanatlar Topluluğu&rsquo;nun ortak düzenlediği organizasyon ODTÜ Kemal Kurdaş Salonu&rsquo;nda gerçekleşecek.
+
+Türkü, dans ve öykülerle oluşturulan &rsquo;&rsquo;Seslerle Anadolu&rsquo;&rsquo; müzikali, Anadolu topraklarından çıkan ritim ve sesin, evrensel formlarına ait düzenlemeleri sahneye koyuyor.
+
+9 Ocak Pazar günü saat 20:00&rsquo;de yapılacak gösteriden elde edilecek gelirin tamamı, 7 bin 500&rsquo;ün üzerinde lösemili çocuk ve ailesini hayata bağlayan LÖSEV&rsquo;e bırakılacak
+</TEXT>
+</DOC>

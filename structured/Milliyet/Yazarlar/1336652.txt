@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1336652 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fa43648/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c150cyazardetay0c13144320cduygusallik0eon0eplanda/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 03:19:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+duygusall��k ��n planda
+</HEADLINE>
+<TEXT>PazartesiAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Hakan Kırkoğlu          hkirkoglu@ttmail.com                                            Müneccimbaşı                                Duygusallık ön planda      Bugün su elementindeki vurgu duygusal ihtiyaçlarımıza, ilişkilerimize ağırlık verebileceğimizi anlatıyor. Duygusal açıdan arınma içerisindeyiz. Geçmişten kaynaklanan konuları yeniden değerlendirebiliriz. Geleceğe ait beklentilerimiz yüksek. Günün ikinci yarısında şansın da bizimle olduğunu göreceğiz. Aşırı duygusallığa dikkat etmek gerek. Olayları yeteri kadar iyi analiz etmeden hareket edebilir, boşvermişlik yapabiliriz. Detaylara daha dikkatli yaklaşmak, objektif olmak gerekiyor. Olaylar ya da kişiler tam olarak göründükleri gibi olmayabilir. Aceleyle karar vermemeye bakmalıyız.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      13 Kasım 2010Edebiyatta Akrep burcu12 Kasım 2010YENi UMUTLAR BESLEYEBiLiRiZ11 Kasım 2010SEBAT GEREK</TEXT>
+</DOC>

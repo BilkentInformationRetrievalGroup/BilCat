@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1407746 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=67e46cc1-9d0f-4af1-9095-de8bdf4040f0 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 12:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"chp'ye yak������r, s��rpriz olmaz"
+</HEADLINE>
+<TEXT>
+Siilivri sanıklarının CHP'den adaylığı tartışmalarına Nurettin Canikli de katıldı.
+
+AK Parti Grupbaşkanvekili Nurettin Canikli Silivri sanıklarının CHP&rsquo;den adaylığı tartışmalarını değerlendirdi. 
+
+Canikli, &quot;CHP&rsquo;ye yakışır, sürpriz de olmaz. Kamuoyunun tepkisini hep birlikte göreceğiz&quot; dedi.
+</TEXT>
+</DOC>

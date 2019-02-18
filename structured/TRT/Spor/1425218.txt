@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1425218 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4c37cb77-9685-4af8-85d0-da1300ae26b0 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 09:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+e.sa��lam ve hagi'den bas��n toplant��s��
+</HEADLINE>
+<TEXT>
+Spor Toto Süper Ligde yarın yapacakları 21. hafta karşılaşmaları için Trabzonspor, Sivas'a; Galatasaray da Gaziantep'e bugün gidiyor.
+
+Spor Toto Süper Ligde bu hafta Eskişehir deplasmanına çıkacak Bursaspor&rsquo;un Teknik Direktörü Ertuğrul Sağlam, saat 11.30&rsquo;da basın toplantısı düzenleyecek.
+Bu hafta, deplasmanda Gaziantepspor ile oynayacak Galatasaray&rsquo;ın Teknik Direktörü George Hagi&rsquo;nin düzenleyeceği basın toplantısı ise 13.30&rsquo;da.
+Sarı-kırmızılılar, yarın oynayacakları Gaziantepspor karşılaşması için saat 20.00&rsquo;de Gaziantep&rsquo;e hareket edecek.
+Lider Trabzonspor da yarın oynayacağı Sivasspor maçı için saat 14.30&rsquo;da Sivas&rsquo;a gidecek.
+ 
+ 
+ 
+
+</TEXT>
+</DOC>

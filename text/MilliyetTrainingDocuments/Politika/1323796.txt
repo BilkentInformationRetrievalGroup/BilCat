@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323796 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f5298f8/l/0l0smilliyet0n0btr0cbaykal0ebu0eyolla0edonmustu0csiyaset0chaberdetay0c0a40b110b20a10a0c130a990a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:09:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+baykal ���bu yolla��� d��nm����t��
+</HEADLINE>
+<TEXT> Baykal, 19 Nisan 1999’daki genel seçimde CHP’nin barajın altında kalması nedeniyle genel başkanlıktan istifa etti. Bunun üzerine Cevdet Selvi genel başkanvekili olurken, olağanüstü kurultay kararı alındı. 22 Mayıs 1999’da yapılan olağanüstü kurultayda Altan Öymen genel başkan seçildi. Ancak kurultay sonrası Parti Meclisi’nde (PM) ortaya çıkan gelişmeler nedeniyle bazı PM üyeleri istifa etti. 26 Haziran 1999’da PM seçiminin yapıldığı olağanüstü kurultaya gidildi. Bu kurultayda, 60 üyeli PM’de çoğunluğu Baykal ekibi kazandı. Baykal ekibinin ağırlıkta olduğu bir PM ile çalışmak zorunda kalan Öymen, parti yönetiminde ortaya çıkan sorunlar nedeniyle 30 Eylül 2000’de olağanüstü kurultayı topladı. Bu kurultayda CHP Genel Başkanlığı’na aday olan Baykal, üçüncü turda seçilerek yeniden aktif siyasete döndü.</TEXT>
+</DOC>

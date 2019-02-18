@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1391533 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8ab523f6-f89d-4002-bdec-3debacfc0269 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 10:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+milan zirvede, napoli takipte
+</HEADLINE>
+<TEXT>
+İtalya Birinci Futbol Ligi'nin (Serie A) 19. haftası oynanan maçlarla geride kalırken, sürpriz sonuçlar haftaya ayrı bir renk kattı.
+
+İtalya Birinci Futbol Ligi&rsquo;nin (Serie A) 19. haftasında oynanan 10 mücadeleden 8&rsquo;inde iki ve üzeri gol atılırken, Cesena-Genoa ve Chievo-Palermo maçlarından diğer karşılaşmaların aksine gol sesi çıkmadı. 
+ Lider Milan, sahasında son haftaların yükselen performansıyla dikkati çeken takımı Udinese&rsquo;yi ağırladı. Karşılaşmada adeta Udinese kaçtı, Milan kovaladı. Mücadeleyi takip eden futbolseverlerin büyük keyif aldığı maçın bir bölümünde konuk ekip, 3-1 öne geçmesine karşın bu üstünlüğünü koruyamadı ve son dakikada gelen gollerle maç 4-4 bitti. Sahasındaki müsabakada, 1 puanı zor kurtaran kırmızı-siyahlı takımın bu sonuçla istikrarsız grafiği devam etmiş oldu. 
+ Bu sezon Serie A&rsquo;nın flaş takımı olduğunu kanıtlayan Napoli ise konuk ettiği kimlik arayışındaki Juventus&rsquo;u çok rahat bir şekilde yenerek, puan tablosunda ikinci sıraya yerleşti. Napoli ile lider AC Milan arasındaki puan farkı ise 4&rsquo;e indi. 
+ Ligin iddialı ekiplerinden Lazio, Olimpiyat Stadı&rsquo;nda kümede kalma mücadelesi veren Lecce&rsquo;ye 2-1 yenilerek, taraftarlarını  üzdü. Lazio, aldığı bu mağlubiyetle hem ikincilik koltuğundan oldu hem de liderin 6 puan gerisinde kaldı. 
+ Sampdoria-AS Roma.......: 2-1
+ Bari-Bologna............: 0-2
+ Catania-FC Inter........: 1-2
+ Cesena-Genoa............: 0-0
+ Chievo-Palermo..........: 0-0
+ Lazio-Lecce.............: 1-2
+ Fiorentina-Brescia......: 3-2
+ Parma-Cagliari..........: 1-2
+ AC Milan-Udinese........: 4-4
+ Napoli-Juventus.........: 3-0
+
+</TEXT>
+</DOC>

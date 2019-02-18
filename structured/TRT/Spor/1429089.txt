@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1429089 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9c3d6ed1-d15b-499c-9999-2962e58594e6 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 09:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+konyaspor'da yeni d��nem
+</HEADLINE>
+<TEXT>
+Teknik Direktör Ziya Doğan'la yollarını ayıran Konyaspor, tecrübeli teknik adam Yılmaz Vural ile anlaştı. 
+
+
+Konyaspor Başkanı Bahattin Karapınar, &quot;Yılmaz Hoca ligi iyi tanıyan tecrübeli bir teknik adam. Sezon sonuna kadar anlaşmaya vardık&quot; dedi.
+
+Yılmaz Vural, son olarak geçen yıl Kasımpaşa&rsquo;yı ligden düşmekten kurtarmış ancak bu sene kötü gidişin ardından İstanbul temsilcisi ile yollarını ayırmıştı.
+
+
+</TEXT>
+</DOC>

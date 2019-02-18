@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1412640 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=966648d1-367b-4caa-9b7d-2479026c1abc </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 23:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bar����'tan k��t�� haber
+</HEADLINE>
+<TEXT>
+2-0'lık Bursaspor yenilgisi sonrasında Galatasaray'a bir kötü haber de Barış Özbek'ten geldi. Barış'ın omuz bağları koptuğu açıklandı.
+
+Karşılaşmanın henüz başlarında rakibi ile girdiği ikili mücadele sonrasında yerde kalan Barış Özbek, sakatlanarak yerini Mustafa Sarp&rsquo;a bırakmak zorunda kalmıştı.
+
+Yapılan kontroller sonrasında tecrübeli oyuncunun omuz bağlarının koptuğu öğrenildi. Barış&rsquo;ın ne kadar sahalardan uzak kalacağı ise İstanbul&rsquo;da çekilecek MR sonrasında belli olacak.
+
+
+</TEXT>
+</DOC>

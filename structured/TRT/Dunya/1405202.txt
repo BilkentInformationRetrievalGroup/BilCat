@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1405202 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e69a06a7-c6b6-436c-8581-bab1874e0331 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 01:00:21.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tunus'ta mumlu protesto
+</HEADLINE>
+<TEXT>
+Günlerdir protesto gösterilerine sahne olan başkent Tunus'ta yüzlerce kişi mum yaktı, şarkı söyledi.
+
+
+Bir hafta boyunca gündüz yapılan protestolarda başkent Tunus zaman zaman şiddet olaylarına da sahne oldu. 
+
+Ancak akşam öyle bir protesto vardı ki yaseminler ülkesinde mumlar yakıldı, marşlar söylendi. 
+
+Yüzlerce kişi akşam kent merkezinde protesto gösterilerinin yapıldığı caddede yer alan Devlet Müzesi&rsquo;nin önünde toplandı. 
+
+Protestolarda mumlar yakıldı, marşlar söylendi. 
+
+Mumlar, ülkede son 1 ayda hayatını kaybeden 100&rsquo;den fazla kişinin anısına yakıldı.
+
+Tunus&rsquo;ta hayatını kaybedenler için Milli Birlik Hükümeti 3 gün yas ilan etmişti.
+</TEXT>
+</DOC>

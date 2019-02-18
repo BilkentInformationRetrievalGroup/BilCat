@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328171 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f634a2a/l/0l0smilliyet0n0btr0cfiliz0eteror0emahkemesinde0cdunya0chaberdetay0c0a60b110b20a10a0c1310a7980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+filiz ter��r mahkemesinde
+</HEADLINE>
+<TEXT>Almanya’da terör eylemi hazırlığı içindeyken yakalanan Fritz Gelowicz adlı Alman teröristin Türk eşi Filiz Gelowicz’in yargılanmasına dün başlandı. Filiz, teröristlere yardım etmekle suçlanıyor. </TEXT>
+</DOC>

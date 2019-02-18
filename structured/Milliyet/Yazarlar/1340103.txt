@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1340103 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fbebe30/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c180cyazardetay0c13155730cguclu0edestekler0ebulabiliriz/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:11:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g����l�� destekler bulabiliriz
+</HEADLINE>
+<TEXT>PerşembeAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Hakan Kırkoğlu          hkirkoglu@ttmail.com                                            Müneccimbaşı                                GÜÇLÜ DESTEKLER BULABiLiRiZ       Bugün güçlü kişilerden destek arayabilir, kendi alanlarında otorite olan kişilerden yardım isteyebiliriz. Oldukça kararlıyız. Düşüncelerimizde netlik aramalıyız. Kendimize olan inancımızı ortaya koyabileceğimiz şartlar var. Pek çok konuda hızlı adımlar atmak kolay olacak. Artan bir iyimserlik içerisinde olacağız. Ancak bugün aşırı idealize ettiğimiz konular yüzünden bazı yanlış anlamalar ve hayal kırıklığıyla karşılaşabiliriz. Başkalarının görüşlerini dikkatle dinlemeli, onların ne dediğini sadece kafamıza göre yorumlamamalıyız. Kendi eksiklerimizi daha rahat görebileceğiz.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      17 Kasım 2010ENERJiK VE HEVESLiYiZ16 Kasım 2010Niyetlerimiz gerçekleşiyor15 Kasım 2010Duygusallık ön planda</TEXT>
+</DOC>

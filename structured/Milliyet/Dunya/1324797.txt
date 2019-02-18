@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324797 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f55a41a/l/0l0smilliyet0n0btr0cucak0ehavada0epatladi0cdunya0csondakika0c0a40b110b20a10a0c1310a0a980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:01:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+u��ak havada patlad��
+</HEADLINE>
+<TEXT>Avustralya havayolu şirketi Qantas’a ait bir Airbus A380’nin teknik arıza yüzünden Singapur’a zorunlu iniş yaptığı bildirildi.Endonezyalı yetkililer, Singapur’dan Avustralya’nın Sydney kentine 433 yolcu taşıyan Airbus A380’nin, Batam Adası yakınlarında arızalandığı ve Singapur Havalimanına zorunlu iniş yaptığını belirtti.Yetkililer, Endonezya’ya ait Batam Adası üzerine motorunda bir patlama meydana gelen ve bazı parçaları adaya düşen uçakta yaralanan olmadığını belirtti.Avustralya havayolu şirketi Qantas, Airbus A380 tipi uçakların uçuşlarını askıya aldığını bildirdi.Qantas Yönetim Kurulu Başkanı Alan Joyce, şirkete ait bir Airbus A380’in teknik arıza nedeniyle Singapur’a zorunlu iniş yapmasının ardından düzenlediği basın toplantısında, uçuşunun güvenli olduğu konusunda tatmin olana kadar ellerindeki 6 Airbus A380’in uçuşlarını askıya aldıklarını duyurdu.Singapur’dan Avustralya’nın Sydney kentine sefer yapan bir Airbus A380, Batam adası yakınlarında motorunda meydana gelen bir arıza nedeniyle Singapur Havalimanına zorunlu iniş yapmıştı.</TEXT>
+</DOC>

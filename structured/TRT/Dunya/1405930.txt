@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1405930 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=be16e256-abf6-43ab-b82a-f3c4e726454b </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 18:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kriz derinle��iyor...
+</HEADLINE>
+<TEXT>
+İrlanda Başbakanı Brian Cowen'i bir darbe de koalisyon ortağı Yeşiller Partisi'nden geldi. 
+
+
+Yeşiller Partisi koalisyondan çekildiğini duyurdu ve 11 Mart olarak açıklanan erken seçim tarihinin daha öne çekilmesi çağrısı yaptı. 
+
+Yeşiller, bununla birlikte 2011 bütçesinin bir an önce parlamentodan geçmesi için destek vereceklerini bildirdi.
+
+Yeşiller Partisi&rsquo;nden 2 bakanın daha çekilmesiyle, 15 üyeli kabinede kalan bakan sayısı 7&rsquo;ye düştü. Başbakan Cowen, kendi partisinden 6 bakanın istifası üzerine, bu bakanlıkları vekaleten yürütüyordu.
+
+Cowen, dün de parti liderliğini bırakmıştı.
+
+Ülkede ekonomik krizi iyi idare edememekle suçlanan Cowen ise, erken seçimin ülke ekonomine daha da zorlayacağını savunuyor
+</TEXT>
+</DOC>

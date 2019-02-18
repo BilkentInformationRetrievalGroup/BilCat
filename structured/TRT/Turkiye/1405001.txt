@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1405001 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7be91032-77d7-46f4-9e22-c30b6a4e95d1 </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 17:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mhp binas��na molotoflu sald��r��
+</HEADLINE>
+<TEXT>
+Kahramanmaraş'ın Pazarcık ilçesinde  MHP ilçe binasına molotof kokteyli atıldı.
+
+
+Kahramanmaraş&rsquo;ın Pazarcık ilçesinde gece meydana gelen olayda, ilçe binasının önüne gelen 2 kişi hazırladıkları molotof kokteylini binaya atıp kaçtı.          
+
+Perde ve sandalyelerin tutuşmasıyla binada yangın çıktı.
+
+İftaiye ekiplerinin müdahalesi ile yangın kısa sürede söndürüldü.
+
+Mobese kayıtlarını incelemeye alan polis, saldırıyı gerçekleştiren kişileri arıyor
+</TEXT>
+</DOC>

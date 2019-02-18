@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326061 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f5b2f0b/l/0l0smilliyet0n0btr0ckarikatur0eprotestosu0csiyaset0chaberdetay0c0a50b110b20a10a0c1310a3950cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 01:09:56.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+karikat��r protestosu
+</HEADLINE>
+<TEXT>CHP Antalya İl Gençlik Kollarına mensup bir grup ATV ve Sabah gazetesinde Kemal Kılıçdaroğlu’nun dansöz kıyafeti ile karikatürize edildiği yayını protesto etmek için Sabah gazetesinin Antalya Bürosu’na siyah çelenk bıraktı. Protesto açıklaması yaptı.</TEXT>
+</DOC>

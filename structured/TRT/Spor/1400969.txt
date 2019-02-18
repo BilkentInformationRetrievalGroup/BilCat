@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1400969 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e11daaec-2978-4c59-b88a-bb05635c43c5 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 00:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+p��nar kar����yaka uzatmada mutlu
+</HEADLINE>
+<TEXT>
+Pınar Karşıyaka ikinci tur ilk maçında Belçika’nın Antwerp Giants takımını 89-82 yendi.
+
+FIBA Eurochallenge&rsquo;deki temsilcimiz Pınar Karşıyaka, J Grubu ikinci tur ilk maçında deplasmanda Belçika&rsquo;nın Antwerp Giants takımı ile karşı karşıya geldi.
+ Son periyoda dek maçı önde götüren Pınar Karşıyaka, final periyodunda hücumda istediği ritmi yakalayamayınca karşılaşmanın normal süresi 77-77&rsquo;lik eşitlikle sona erdi. 
+ Uzatma periyodunda etkili bir oyun ortaya koyan Pınar Karşıyaka, maçtan 89-82&rsquo;lik galip ayrılmayı başardı.
+</TEXT>
+</DOC>

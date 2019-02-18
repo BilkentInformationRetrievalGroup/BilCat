@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336283 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa226b8/l/0l0smilliyet0n0btr0cvettel0esampiyon0e0cspor0csondakika0c140b110b20a10a0c131440a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 21:12:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+vettel ��ampiyon!
+</HEADLINE>
+<TEXT>Formula 1 2010 sezonunun 19. ve son yarışı olan Abu Dabi Grand Prix'sinde birinciliği alan Red Bull takımının Alman sürücüsü Sebastian Vettel, galibiyeti alarak, Alonso, Hamilton, Webber gibi rakiplerini geride bırakıp Dünya Şampiyonu olmayı başardı.Sebastien Vettel, bu şampiyonlukla, Formula 1 tarihinin en genç şampiyon pilotu olma ünvanını da, rakibi McLaren Mercedes sürücüsü Lewis Hamilton'ın elinden almış oldu.  </TEXT>
+</DOC>

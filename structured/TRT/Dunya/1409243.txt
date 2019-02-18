@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1409243 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3b57048f-0741-4c27-b385-501461c64883 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 15:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+aihm'den rumlara ret...
+</HEADLINE>
+<TEXT>
+Avrupa İnsan Hakları Mahkemesi, Rum Ortodoks Kilisesi Başpsikoposu Hrisostomos'un Türkiye aleyhine yaptığı başvuruyu reddetti. 
+
+
+Rum Kesimi&rsquo;nde yayımlanan Politis gazetesinin haberine göre, mahkeme Hrisostomos&rsquo;un &rsquo;&rsquo;Kutsal alanların yağmalandığı, kilise taşınmazlarına ulaşılması hakkının ihlal edildiği ve Kıbrıslı Rumların Kuzey&rsquo;deki kiliselere gitmelerinin engellendiği&rsquo;&rsquo; iddiasıyla Türkiye aleyhine yaptığı başvuruyu değerlendirdi. 
+
+Mahkeme, İkinci Hrisostomos&rsquo;a Kuzey Kıbrıs Türk Cumhuriyeti bünyesindeki Taşınmaz Mal Komisyonu&rsquo;nu adres gösterdi. 
+
+Politis gazetesinin haberine göre, Avrupa İnsan Hakları Mahkemesi, Başpsikopos&rsquo;un dini hakların yerine getirilmesinin ihlali iddiası konusunda da aynı sürece işaret etti. 
+</TEXT>
+</DOC>

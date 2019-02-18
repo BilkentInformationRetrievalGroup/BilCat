@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 1394239 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6064f28e-1816-4a17-b60a-6b72adaeee3c </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 14:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cepte b��y��k bulu�� bir t��rk'ten!
+</HEADLINE>
+<TEXT>
+İsveç Malardalen Üniversitesi’nde araştırmalarını sürdüren Türk profesör Oğuzhan Özcan, cep telefonlarında çığır açacak bir buluşa imza attı.
+
+Profesör Oğuzhan Özcan’ın dünya mobil ve iletişim teknolojileri devi İsveç’te büyük yankı bulan çalışması, cep telefonları aracılığıyla 2 boyutlu &quot;hayalet görüntülerin&quot; görüntülenmesi ve mekanla ilişkilendirilerek bu görüntülerin hareketlendirilmesine imkan sağlıyor.
+
+Teknolojinin ilk prototipi, bu yılın sonunda İsveç’teki ünlü Vastmanlandas Müzesi’nde dünyaya tanıtılacak.
+
+Özcan, bir fizik profesörü ve bir bilgisayar mühendisi profesörünün yer aldığı ve başkanlığını yürüttüğü ekiplerinin mobil cihazlarda mekanla 2 boyutlu görüntü arasındaki ilişkiye yeni bir boyut kazandıran bir teknoloji geliştirdiklerini açıkladı.
+
+Buluşun detayları şöyle;
+
+Söz konusu teknolojide, cep telefonu içindeki bilgisayar yazılımı ve 2 boyutlu görselleri barındıran üç boyutlu bilgisayar modeli, bulunan mekanla çakıştırılıyor ve kullanıcı cep telefonunu hareket ettirdiği zaman mekan içindeki iki boyutlu imgeleri hayalet görüntüler olarak görmeye başlıyor. 
+
+Cep telefonu, çakıştığı iki boyutlu görseller cep telefonu penceresinden bakarak o hayalet görüntülerin bir parçasını görebiliyor.
+
+Tasarımda, bir mekan içinde yatay ve düşey halde hayalet resimler ve videolar bulunduğu varsayılsın. Cep telefonunu elde bir büyüteç gibi tutularak hayalet 2 boyutlu görüntülere bu görseller gözle görülebilir bir hale geliyor.
+
+Aynı şekilde bir metre ötedeki bir başka hayalet imgeye cep telefonunuzu ilerlettiğinizde onu da görme şansına sahip oluyorsunuz. Bugüne kadar bu senaryo teknik olarak yapılamıyordu. Bir fizik profesörü ile bir bilgisayar mühendisi profesörü Özcan&rsquo;ın bu tasarım fikrini dört aylık bir çalışma yaparak gerçekleştirmeyi başardı.
+
+Cep Tielefonlarında Yeni Bir Çığır Açılacak
+
+Geliştirilen teknolojide, kullanıcının, mekanın ortasında duran video görüntülerine nasıl ulaşabileceğini, ulaştığında bu video görüntülerini makinenin nasıl algılayabileceğine dair bugüne kadar yapılmış bir grafik arayüz çözümünün bulunmadığını aktaran Özcan, &quot;Biz bu çalışmamızla beklenen grafik arayüz çözümlerini ortaya koyduk. Bu olay cep telefonu uygulamalarında bir çığır açıyor&quot; diye konuştu.
+
+Uygulama sağlıktan, ticarete, eğlence ve oyun sektörüne ve güvenlik uygulamalarına kadar pek çok alanda fonksiyonel çözümler getirilmesini de sağlayacak.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1381673 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1ad70462-0625-411f-9764-8c366344ca1f </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 10:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bakanlar kurulu toplan��yor
+</HEADLINE>
+<TEXT>
+Toplantıda öncelikli gündem maddesinin uyum yasaları olması bekleniyor.
+
+Yılın ilk Bakanlar Kurulu, Başbakan Recep Tayyip Erdoğan&rsquo;ın başkanlığında toplanacak. 
+
+Toplantıda Türkiye&rsquo;nin iç ve dış gündemi değerlendirilecek.
+
+Bakanlar Kurulu&rsquo;nun öncelikli gündem maddesinin uyum yasaları olması bekleniyor. 
+
+Bu kapsamda Askeri Yargı ile ilgili düzenlemelerin ele alınması öngörülüyor. 
+
+Referandumda kabul edilen Anayasa değişikliklerinin, Türk Silahlı Kuvvetleri&rsquo;ni ilgilendiren bölümleri bir paket haline getirildi. 
+
+Milli Savunma Bakanlığı&rsquo;nın hazırladığı taslakta, Genelkurmay Başkanı ve kuvvet komutanlarının Yüce Divan sıfatıyla Anayasa Mahkemesi&rsquo;nde yargılanabilmeleri hükmü de var. 
+
+Başbakan Erdoğan&rsquo;ın bu ay içerisinde Irak, Katar ve Kuveyt seyahatleri olacak. Yurtdışı temaslarının da görüşülecek konular arasında olması bekleniyor.
+     
+Bakanlar Kurulu&rsquo;nda ekonomi ve Avrupa Birliği sürecindeki son durum da masaya yatırılıyor. 
+ 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1415865 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b7af2e79-28a7-46a1-abb7-b8bef264a5a3 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 11:13:57.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yolcu otob��s�� dereye u��tu
+</HEADLINE>
+<TEXT>
+Zonguldak'ta gizli buzlanma sebebiyle kontrolden çıktığı tahmin edilen bir yolcu otobüsü dereye uçtu. Kazada 3 kişi öldü, 34 kişi yaralandı.
+
+ İstanbul&rsquo;dan Bartın&rsquo;a giden bir yolcu otobüsü, sabah saat dört sıralarında Dorukhan mevkiinde kontrolden çıktı. 
+
+Otobüs karayolunun yaklaşık 15 metre altındaki dereye uçtu.
+
+Kazada ilk belirlemelere göre otobüste bulunan 3 kişi hayatını kaybetti, 34 kişi yaralandı. 
+
+
+</TEXT>
+</DOC>

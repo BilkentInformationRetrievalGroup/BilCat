@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1380043 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e49e4bb9-54dd-401e-a37d-f8c2385b68b2 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 13:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+morales geri ad��m att��
+</HEADLINE>
+<TEXT>
+Bolivya'da yoğun protesto gösterileri üzerine, Devlet Başkanı Evo Morales akaryakıt zammını geri aldı.
+
+6 yıldır akaryakıt fiyatlarının dondurulduğu Bolivya&rsquo;da sübvansiyonların aşağı çekilmesinin ardından, geçen hafta benzin ve motorine yüzde 83&rsquo;e varan oranda zam yapılmıştı.
+
+Morales&rsquo;in, sokaklara dökülen halkı yatıştırmak amacıyla maaşlara yüzde 20 oranında zam yapması, çiftçilere yiyecek desteği sağlayacağını açıklaması da yetmedi.
+
+Ülkede toplu ulaşımda genel greve gidilirken, halk devreye giren askeri araçlarla taşındı.
+
+Çıkan olaylarda 15 kişi yaralandı, Morales taraftarları feci şekilde dövüldü.
+
+Devlet Başkanı Evo Morales, olayların büyümesi üzerine televizyondan yayınlanan açıklamasında, &quot;Bu ülkeyi, halkın isteklerini gözönüne alarak yürüteceğime söz verdim. Şimdide yoldaşlarıma kulak veriyorum&quot; diyerek, akaryakıt zammını geri aldığını duyurdu.
+
+Bolivya&rsquo;da akaryakıta uygulanan sübvansiyon miktarı yılda 380 milyon doları buluyor, bütçe üzerinde ağır yük oluşturuyor.
+</TEXT>
+</DOC>

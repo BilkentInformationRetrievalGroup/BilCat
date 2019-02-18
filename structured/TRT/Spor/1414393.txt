@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1414393 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=594a33af-368f-47a8-8452-d006b1467186 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 22:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursaspor'da ��ifte transfer
+</HEADLINE>
+<TEXT>
+Bursaspor, Gaziantepsporlu Ahmet Arı ve ABD'li Altidore'yi kadrosuna kattı.
+
+Gaziantepspor yönetimi tarafından kadro dışı bırakılan Arı ile Bursaspor yöneticileri arasındaki görüşmeler olumlu sonuçlandı.
+ Arı&rsquo;ın kulübü ile anlaşmaya varan yeşil-beyazlı yönetimin Arı&rsquo;ya karşılık olarak, sözleşme yenilememekte ısrar eden Muhammet Demir&rsquo;i vereceği ve üstüne bir miktar para alacağı öğrenildi. 
+ Bu arada Bursaspor, ABD&rsquo;li oyuncu Altidore&rsquo;yi de kadrosuna kattı. 20 yaşındaki oyuncu ile sezon sonuna kadar sözleşme imzalanan takımda, uzatma opsiyonunun kulübün elinde bulunduğu bildirildi.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321314 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f475512/l/0l0smilliyet0n0btr0cglowacki0eden0ekotu0ehaber0cspor0csondakika0c0a20b110b20a10a0c130a930a0a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 19:16:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+glowacki���den k��t�� haber
+</HEADLINE>
+<TEXT>Spor Toto Süper Lig’de dün Konyaspor ile yapılan karşılaşmada sakatlanarak oyunu terk etmek zorunda kalan Polonyalı savunma oyuncusu Arkadiusz Glowacki’nin Fatih Devlet Hastanesi’nde MR’ı çekildi.Futbolcunun durumunun MR sonuçlarından sonra netlik kazanacağı, hafta sonundaki Galatasaray maçına yetişme olasılığının düşük olduğu belirtildi.Glowacki, ligin 2. haftasındaki Fenerbahçe maçında sakatlanmış ve bu sakatlığının ardından ilk kez dünkü Konyaspor maçında takımda görev almıştı.</TEXT>
+</DOC>

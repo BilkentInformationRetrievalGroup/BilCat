@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1423223 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cb3fa27a-8c4a-41e7-96d3-a631ee043c04 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 11:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ni��de'de bir da��c�� kayboldu
+</HEADLINE>
+<TEXT>
+Niğde'de Demirkazık Dağı'na tırmanan 3 dağcıdan biri kayboldu.
+
+Emli Vadisi&rsquo;nde bulunan Avcıbeli bölgesine çıkan 3 dağcıdan 2&rsquo;si kamp alanına geri döndü.
+
+       Kampa dönen arkadaşları, dağcı Serkan Kaya&rsquo;nın kaybolduğunu farketti.
+ 
+       Kaya&rsquo;nın arkadaşları, durumunu Jandarma ve Arama Kurtarma Ekiplerine haber verdi.
+
+     Ekipler, kaybolan dağcıyı bulmak için bölgede arama çalışmaları başlattı.
+
+</TEXT>
+</DOC>

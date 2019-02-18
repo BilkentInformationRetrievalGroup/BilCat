@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1406919 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=222c34b7-beab-4e0f-ab8d-23eb7e3e2e64 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 16:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+100 milyon dolar ikramiye olur mu?
+</HEADLINE>
+<TEXT>
+Rekor ikramiye kime gitti... İşte detaylar...
+
+ABD&rsquo;li internet arama motoru Google, nisan ayında görevden ayrılacak Üst Yöneticisi (CEO) Eric Schmidt&rsquo;e 100 milyon dolar ikramiye verdi.
+
+Şirketten yapılan açıklamada, ikramiyenin, hisse, hisse senedi opsiyonları ve son 4 senedeki rüçhan haklarını kapsadığı belirtildi.
+
+Google&rsquo;dan geçen günlerde yapılan açıklamada, şirketin kurucularından 37 yaşındaki Larry Page&rsquo;in Üst Yöneticiliği, 10 yıldır şirketin Üst Yöneticiliği görevini yürüten Eric Schmidt&rsquo;den 4 Nisan&rsquo;da devralacağı ifade edilmişti.
+
+Şirketin kurucuları Sergey Brin ve Larry Page ile Eric Schmidt, maaşlarını 1 dolarla sınırladı. Ancak üçü Google&rsquo;ın hisselerinin kontrolünü elinde bulunduruyor.
+
+Schmidt, nisan ayında Üst Yöneticilikten ayrıldıktan sonra Google&rsquo;da kalarak İcra Kurulu Başkanlığını yürütecek.
+</TEXT>
+</DOC>

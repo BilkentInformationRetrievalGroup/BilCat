@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1411566 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b62d76df-3f57-49f3-8856-7cec4b41d424 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 16:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ba��bakan erdo��an a��r��'da
+</HEADLINE>
+<TEXT>
+Erdoğan Ağrı'da 41 tesisin açılışını yaptı.
+
+Başbakan Erdoğan 41 tesisin açılış töreninde Ağrılılar&rsquo;a seslendi.
+
+Erdoğan, hizmetlerin bu bölgeye gelmesinden bazılarının rahatsız olduğunu söyledi.
+
+Erdoğan, &quot;Kimlerin bu ülkede demokrasi, özgürlük, hak, hukuk için çabaladığını, kimlerin kandan medet umduğunu benim vatandaşım çok iyi görüyor&quot; dedi.
+
+Erdoğan sözlerini şöyle sürdürdü: 
+&quot;Üniversite&rsquo;den rahatsız oluyorlar, bölünmüş yollardan rahatsız oluyorlar, açtığımız okullardan rahatsız oluyorlar, spor tesislerinden, hizmet binalarından rahatsız oluyorlar. Merhum Ahmed-i Hani&rsquo;nin o muhteşem eserini Kürtçe ve Türkçe bastığımız için hem de Kültür Bakanlığı eliyle bastığımız için rahatsız oluyorlar. TRT Şeş&rsquo;ten rahatsız oluyorlar, olağanüstü halin kalkmasından rahatsız oluyorlar, demokrasinin ileri standartlara ulaşmasından rahatsız oluyorlar. Biz maskeler ardına gizlenenlerden olmadık. Doğu&rsquo;da konuşup batıda çark edenlerden tahrik siyasetiyle istismar siyasetiyle rant sağlamaya çalışanlardan olmadık. Kimlerin bu ülkede demokrasi için, özgürlük için, hak hukuk için çabaladığını, kimlerin çatışmadan kandan medet umduğunu benim vatandaşım artık çok iyi görüyor.&quot;
+</TEXT>
+</DOC>

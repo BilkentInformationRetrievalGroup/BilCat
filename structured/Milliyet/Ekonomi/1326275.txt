@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326275 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5b8178/l/0l0smilliyet0n0btr0cmehmet0esimsek0esecim0eyilinda0eharcamalar0eartabilir0cekonomi0chaberdetay0c0a50b110b20a10a0c1310a4410cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:00:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mehmet ��im��ek: se��im y��l��nda harcamalar artabilir
+</HEADLINE>
+<TEXT> Şimşek, The Economist tarafından düzenlenen toplantıda yaptığı konuşmada, şunları söyledi:‘Ölü kedi sıçradı mı...’“2009’un son çeyreğinden başlamak üzere güçlü yıllık artı büyüme hızına kavuştuk. Bu yılın ilk 3 çeyreğinin sonuçlarını biliyoruz. Büyüme hızı oldukça güçlü oldu. Yılın ilk yarısında yüzde 11’lik, çift haneli büyüme gördük. Çok güçlü bir şekilde toparlandık. Bu bir, tabiri caizse ’ölü kedinin sıçraması’ mıdır? Aslında büyüme zaafiyetlere sahip mi? Evet, zaafiyetleri var. Bu çift haneli büyüme hızını sürdüremeyeceğiz. Çünkü bunu destekleyecek tasarrufumuz yok. Bütün yapısal problemlerimizi çözmüş değiliz. Ama büyüme yine de önümüzdeki yıllarda güçlü olarak devam edecek.”</TEXT>
+</DOC>

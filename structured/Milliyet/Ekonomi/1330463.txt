@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330463 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f7122e1/l/0l0smilliyet0n0btr0csanayi0euretimi0eeylul0ede0eyuzde0e10a0e40eartti0cekonomi0csondakika0c0a80b110b20a10a0c13116460cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:00:45.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sanayi ��retimi eyl��l'de y��zde 10,4 artt��
+</HEADLINE>
+<TEXT>Türkiye’de, sanayi üretimi Eylül ayında, geçen yılın aynı ayına göre yüzde 10,4 artarken, bir önceki aya göre yüzde 1 azaldı.Türkiye İstatistik Kurumu (TÜİK) 2010 yılı Eylül ayı sanayi üretim endeksi sonuçlarını açıkladı.Sanayi üretim endeksi Ağustos ayında, geçen yılın aynı ayına göre yüzde 10,8 artmış, bir önceki aya göre ise yüzde 4,2 azalmıştı.Sanayinin alt sektörleri incelendiğinde, 2010 yılı Eylül ayında geçen yılın aynı ayına göre, madencilik ve taş ocakçılığı sektörü endeksi yüzde 0,9, imalat sanayi sektörü endeksi yüzde 10,9, elektrik, gaz, buhar ve iklimlendirme üretimi ve dağıtımı sektörü endeksi yüzde 10,8 arttı.Takvim etkisinden arındırılmış endeks 2010 yılı Eylül ayında geçen yılın aynı ayına göre yüzde 12,9 arttı, mevsim ve takvim etkilerinden arındırılmış sanayi üretim endeksi ise bir önceki aya göre yüzde 0,4 geriledi.-ANA SANAYİ GRUPLARI- Ana Sanayi Grupları Sınıflamasına göre, Eylülde geçen yılın aynı dönemine göre en yüksek artış yüzde 19,0 ile sermaye malı imalatında görüldü.Bu sınıflamaya göre diğer gruplar incelendiğinde; ara malı imalatı yüzde 11,8, enerji imalatı yüzde 9,4, dayanıksız tüketim malı imalatı yüzde 5,6, dayanıklı tüketim malı imalatı yüzde 4,9 arttı.-İMALAT SANAYİ ALT GRUPLARI- İmalat sanayi üretim endeksi, alt gruplarının Eylülde 2009 yılının aynı ayına oranla yüzde değişim oranları incelendiğinde en yüksek artış yüzde 34,2 ile başka yerde sınıflandırılmamış makine ve ekipman imalatında görüldü.Bunu yüzde 33,3 ile bilgisayarların elektronik ve optik ürünlerin imalatı, yüzde 25,2 ile diğer imalatlar, yüzde 22,1 ile elektrikli teçhizat imalatı, yüzde 19,4 ile motorlu kara taşıtı, römork ve yarı römork imalatı, yüzde 19,2 ile diğer ulaşım araçlarının imalatı, yüzde 19,0 ile içecek imalatı izledi.Söz konusu dönemde mobilya imalatı yüzde 25,4, kayıtlı medyanın basılması ve çoğaltılması imalatı yüzde 18,8 daraldı.</TEXT>
+</DOC>

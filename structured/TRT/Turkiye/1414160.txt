@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1414160 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d70ebf68-bddc-4cd3-be61-55b2d37556fd </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 16:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bir t��kla mahalle polisine ula����lacak!
+</HEADLINE>
+<TEXT>
+'Web Üzerinden Mahalle Polisine Erişim Projesi' ile artık vatandaş şikayetini, elektronik posta yoluyla polise ulaştırabilecek.
+
+&rsquo;Web Üzerinden Mahalle Polisine Erişim Projesi&rsquo;  ile vatandaş internete girecek şikayet ve tavsiyelerini mahalle polisine kolayca iletebilecek.
+Bu sayede sorunlara daha etkin çözüm üretilmesi de mümkün olabilecek.
+
+Emniyet Genel Müdürlüğü güvenlik hizmetlerini daha etkin yürütebilmek için bir süre önce &quot;Toplum Destekli Polislik&quot; uygulamasına geçti.
+
+Uygulama ile mahalle polisleri vatandaşla doğrudan temasa geçiyor. Böylece suçu oluşmadan önlemeye çalışan polisler, mahallelinin sorunlarına çözüm bulabiliyor.
+
+Mahalledeki elektrik ve su sorunundan asfalt ve ışıklandırma sıkıntısına kadar birçok konunun çözümünde görev alan mahalle polisleri, vatandaşın sıkıntılarını ilgili kurumlara rapor ederek çözüme önemli destek sağlıyor.
+
+Uygulamadan olumlu sonuç alan Emniyet Genel Müdürlüğü vatandaşın  mahalle polisine daha kolay ulaşması için kolları sıvadı.
+
+&rsquo;Web Üzerinden Mahalle Polisine Erişim Projesi&rsquo; Şubat ayının sonunda hayata geçiyor.
+
+Proje ile  vatandaşlar e-devlet üzerinden mahallesinden sorumlu polise ulaşabilecek.
+  
+İnternet sitesinde mahalle polisinin bir fotoğrafı da bulunacak. Vatandaşlar, mahalle polisine elektronik posta  yoluyla ulaşarak, şikayet ve tavsiyelerini iletebilecek.
+
+Mahalle polisleri gerektiğinde vatandaşlarla yüz yüze de görüşecek. Böylece sorunlara daha hızlı ve etkin çözüm yolları üretilebilecek.   
+</TEXT>
+</DOC>

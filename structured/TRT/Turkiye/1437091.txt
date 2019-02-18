@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1437091 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fd81de4e-140c-4f9e-a94e-e9b32e714084 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 15:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+osmaniye'de silahl�� ��at����ma
+</HEADLINE>
+<TEXT>
+Osmaniye'nin Bahçe ilçesinde iki grup arasında çıkan silahlı çatışmada 1 kişi öldü, 10 kişi yaralandı.
+
+   
+     Bahçe ilçesinde, bir su fabrikasının işletme tartışması, silahlı çatışmaya dönüştü.
+
+     İki grup arasında çıkan çatışmada, fabrikada işçi olarak çalışan Orhan Orhan öldü, 10 kişi yaralandı.
+
+     Yaralılar, çeşitli hastanelerde tedavi altına alındı.
+
+    Özel Hareket ekipleri çatışmadan sonra dağa kaçan 4 kişinin yakalanması için operasyon başlattı.
+
+</TEXT>
+</DOC>

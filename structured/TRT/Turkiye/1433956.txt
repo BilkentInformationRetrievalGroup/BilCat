@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1433956 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=41e7844e-43be-484d-8a93-ba77ac3b4791 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 12:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+af��in'deki g������kte i��letme kusurlu
+</HEADLINE>
+<TEXT>
+Jeoloji Mühendisleri Odası, kömür havzasındaki gerilim çatlaklarını dikkate almayan işletmeyi kusurlu buldu. 
+
+    Türkiye Jeoloji Mühendisleri Odası Kahramanmaraş Afşin&rsquo;deki kömür havzası heyelanıyla ilgili raporunu açıkladı. Türkiye Jeoloji Mühendisleri Odası bölgedeki incelemelerini tamamladı.
+
+    İncelemeler sonucunda, işçilerin kömürün çıkarıldığı tabana inmesini sağlayan basamakların hem yüksekliğinin hem de açılarının doğru ayarlanmadığı tespit edildi.
+
+     Hazırlanan raporda , bölgeden geçen çayın kömür havzasındaki yeraltı sularını beslediği ve bu suları boşaltacak yeterli direnaj kuyularının açılmadığı bilgisine yer verildi.
+
+     Türkiye Jeoloji Mühendisleri Odasının raporuna göre, kömür havzasındaki gerilim çatlakları heyelanın habercisiydi, ancak kömür işletmesi gerekli önlemleri almadı.
+
+</TEXT>
+</DOC>

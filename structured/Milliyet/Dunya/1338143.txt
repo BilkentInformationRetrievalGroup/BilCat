@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338143 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fb15fb1/l/0l0smilliyet0n0btr0chindistan0eda0eolu0esayisi0e60a0ea0eyukseldi0cdunya0csondakika0c160b110b20a10a0c13150a730cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:02:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hindistan���da ��l�� say��s�� 60���a y��kseldi
+</HEADLINE>
+<TEXT>Hindistan’da dün akşam saatlerinde 5 katlı bir binanın çökmesi sonucu ölenlerin sayısı 60’a yükseldi. Daha önce yapılan açıklamada, 51 kişinin öldüğü belirtilmişti.Başkent Yeni Delhi Emniyet Sözcüsü Rajan Bhagat, bugün AFP’ye yaptığı açıklamada, başkentin doğu yakasında kalabalık bir semt olarak bilinen Laxmi Nagar’da bulunan binanın çökmesi sonucu, enkaz altında kalan 60 kişinin öldüğünü, 80 kişinin de yaralandığı ve çeşitli hastanelerde tedavi gördüğünü kaydetti.Acil durum görevlilerinin enkaz altındakileri kurtarma çalışmalarını sürdürdüğünü belirten Bhagat, "Enkaz altında daha birçok insan olabilir, onları sağ kurtarmak için elimizden geleni yapıyoruz" diye konuştu.</TEXT>
+</DOC>

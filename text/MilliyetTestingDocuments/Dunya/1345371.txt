@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1345371 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/ff94847/l/0L0Smilliyet0N0Btr0Chindistan0Edan0Eyeni0Efuze0Edenemesi0Cdunya0Csondakika0C250B110B20A10A0C131830A70Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:00:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hindistan'dan yeni füze denemesi
+</HEADLINE>
+<TEXT>,  başlık taşıma kapasiteli orta menzilli  denemesi yaptı.
+
+Hindistan Savunma Bakanlığı Sözcüsü Sitanşu Kar, geliştirilmiş Agni-1 füzesinin, ülkenin doğusundaki Orissa eyaleti açığındaki bir adadan başarılı bir şekilde fırlatıldığını belirtti.
+
+700 kilometre menzilli, 12 tonluk Agni-1 füzesinin gelişmiş yöngüdüm sistemi bulunuyor ve 1000 kilogram ağırlıkta başlık taşıyabiliyor.</TEXT>
+</DOC>

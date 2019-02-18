@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333356 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f8326a4/l/0l0smilliyet0n0btr0caltinin0eatesi0esondu0cekonomi0csondakika0c10a0b110b20a10a0c13126640cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+alt��n��n ate��i s��nd��
+</HEADLINE>
+<TEXT>Uluslararası piyasalarda altının ons fiyatı dün, 1,422,55 dolara yükselerek yeni bir rekor daha kırmasının ardından, bugün altın daha stabil bir seyir izliyor.Saat 12.30 itibariyle uluslararası piyasalarda altının onsu alışta 1,403,30 dolar, satışta da 1,403,88 dolar arasında işlem görüyor.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324799 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f55a41b/l/0l0smilliyet0n0btr0cvecdi0egonul0ebaku0eden0eayrildi0cdunya0csondakika0c0a40b110b20a10a0c1310a0a920cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:01:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+vecdi g��n��l bak��'den ayr��ld��
+</HEADLINE>
+<TEXT>Milli Savunma Bakanı Vecdi Gönül, resmi ziyaret için geldiği Azerbaycan’ın başkenti Bakü’den ayrıldı.Bakan Gönül’ü, Uluslararası Haydar Aliyev Havaalanında, Azerbaycan Savunma Bakanı Sefer Abiyev, Türkiye’nin Bakü Büyükelçisi Hulusi Kılıç, Türk Silahlı Kuvvetleri Bakü Ataşesi Tuğgeneral Özhan Ayaş ve Azerbaycanlı yetkililer uğurladı.Milli Savunma Bakanı Gönül, iki günlük Azerbaycan temasları çerçevesinde, Abiyev’in yanı sıra Azerbaycan Cumhurbaşkanı İlham Aliyev, Başbakan Artur Rasizade ve Savunma Sanayi Bakanı Yaver Cemalov ile biraraya geldi.</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1427462 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1f9ddaf0-ac0d-4f77-aba8-4d1780f1649c </URL>
+<DATE> 2011/02/13 </DATE>
+<TIME> 15:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+artvin'de okullar a����lmadan tatil oldu
+</HEADLINE>
+<TEXT>
+Artvin'de yoğun kar yağışı nedeniyle ilk ve orta dereceli okullar iki gün tatil edildi.
+
+Kar yağışı Artvin&rsquo;de hayatı olumsuz etkiliyor.
+
+Şehir içerisinde yaklaşık 30 santimetreyi bulan kar yağışı köylerde etkisini artırdı. 
+
+İl Milli Eğitim Müdürlüğü, Artvin merkezde pazartesi, salı, merkeze bağlı köylerde de çarşamba gününe kadar ilk ve orta dereceli okulların yarıyıl tatili uzatıldı.
+
+İlde bir haftadır etkili olan kar yağışı nedeniyle çatılardan düşen karlar da tehlike saçıyor. 
+
+Meteoroloji yetkililerinden alınan bilgiye göre Artvin&rsquo;de yoğun kar yağışı çarşamba gününe kadar devam edecek.
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1424146 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a4fb1794-6141-461a-a314-a71f51110046 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 17:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ameliyatta b��t��n damarlar parlayacak
+</HEADLINE>
+<TEXT>
+Doktorlar, ameliyat esnasında en ince damarlara ve en ince sinirlere kadar her şeyi görebilecekler.
+
+ABD’nin California Eyaleti’nde, San Diego Üniversitesi’nde geliştirilen teknolojiyle, damarlara enjekte edilen “floresan sıvı” sayesinde doktorlar, ameliyat esnasında en ince damarlara ve en ince sinirlere kadar her şeyi görebilecekler. 
+
+Floresan sıvı, sinirlerin ameliyat esnasında parlayarak görünmesini sağlayacak ve kalıcı hasarlara neden olan dikkatsizlikler azalmış olacak. 
+
+Bilim adamlarının uzun zamandır üzerinde çalıştığı bu buluş, fareler üzerinde denendi ve olumlu sonuç alındı. Şimdiki hedef sıvıyı insanlar üzerinde denemek.
+</TEXT>
+</DOC>

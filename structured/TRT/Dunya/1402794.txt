@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1402794 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=26ce9051-db2f-4f21-b188-bd1f59f79b8a </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 14:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��l�� say��s�� 750'ye yakla��t��
+</HEADLINE>
+<TEXT>
+Brezilya'da geçen haftaki sel, çamur seli ve toprak kaymalarından ölenlerin sayısı 741'e ulaştı.
+
+Sellerin vurduğu Brezilya&rsquo;da Sao Paolo kentinde şiddetli yağış alarmı verilirken, geçen haftaki sel, çamur seli ve toprak kaymalarından ölenlerin sayısı 741&rsquo;e ulaştı, 200&rsquo;den fazla kişi de halen kayıp...
+
+Rio de Janeiro savcılığı, ölü sayısının kayıp 207 kişi ile birlikte bine yaklaşmasından endişe edildiğini açıkladı.
+
+Dağlık bölgedeki felakette kurtarma ekipleri uzak yerlerdeki küçük yerleşim birimlerine ulaştıkça, bulunan ceset sayısı günden güne yükseliyor. 
+
+Sao Paolo&rsquo;da yeniden başlayan şiddetli yağmur sonucunda bazı noktalarda sel suları araçların pencerelerine kadar yükseldi. Kentin bir çok noktası için sel alarmı verildi. 
+
+Sel felaketinden en fazla etkilenen yerleşim merkezleri Teresopolis ve Nova Friburgo&rsquo;da insanların içme suyu ve barınacak yer sıkıntısı devam ediyor.
+
+Çevre kentlerden gelen askeri kuvvetler ise yiyecek yardımı yapmak, güvenliği sağlamak ve kurtarma çalışmalarına katılmak için felaket bölgesi Teresopolis&rsquo;te. 
+
+Askeri helikopterle  gönderilen yardımlarla selzedelerin ihtiyaçları  giderilmeye çalışılıyor.
+
+Ulaşılamayan bölgelerde birçok köy ve kasaba hala çamur altında. 
+</TEXT>
+</DOC>

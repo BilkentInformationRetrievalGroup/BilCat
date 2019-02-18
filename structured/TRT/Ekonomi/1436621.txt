@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1436621 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d923fb3a-cf46-4c33-85a8-901ec90cefcc </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 10:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+jcr, cari a������a dikkat ��ekti
+</HEADLINE>
+<TEXT>
+Japon kredi derecelendirme kuruluşu, BB olan notu teyit etti, cari açığa dikkat çekti.
+
+
+Japon kredi derecelendirme kuruluşu JCR, Türkiye’nin BB olan kredi notunu teyit ederek, not görünümünün durağan olduğunu belirtirken, dış dengelerdeki yapısal oynaklıklar ve yabancı para likidite pozisyonlarının zayıflığının Türkiye’nin rating notunun en önemli negatif girdileri olduğunu bildirdi.
+
+JCR Eurasia Rating Başkanı Orhan Ökmen, 2010 yılında yapılan telafi edici yatırım harcamaları sayesinde Türkiye’nin önemli bir büyüme elde ettiğini belirterek, ekonomi için en önemli endişe kaynağının cari açık olduğuna dikkat çekti.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1403721 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=942b2623-d832-4ce5-8174-b00f6b496a00 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ygs'ye ba��vurular tamam
+</HEADLINE>
+<TEXT>
+Üniversite sınavının ilk basamağı olan YGS'ye başvuru işlemleri tamamlandı. Sınava toplam 1 milyon 648 bin aday girecek.
+     
+
+
+    27 Mart 2011 tarihinde yapılacak olan sınavın güvenliğine ilişkin alınan tüm önlemler, bu sınavda da uygulanacak. 
+ 
+    Ayrıca adaylara &rsquo;&rsquo;Sınava Giriş Belgesi&rsquo;&rsquo; gönderilmeyecek. Bilgiler atamalar tamamlandıktan sonra ÖSYM&rsquo;nin internet adresinden öğrenilebilecek.
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 1393387 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e8e02b80-745b-4487-9fc9-6c912d2282b6 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 18:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+anayasa mahkemesi'nde yeniden yap��lanma
+</HEADLINE>
+<TEXT>
+Anayasa değişikliği kapsamında Anayasa Mahkemesi'ni yeniden yapılandıran tasarı TBMM Başkanlığına sunuldu.
+
+
+     Anayasa Mahkemesi&rsquo;nin yapısını ve işleyişini değiştiren uyum yasa tasarısı, Türkiye Büyük Millet Meclisi&rsquo;ne sevkedildi.
+
+
+      HSYK ve Kamu denetçiliğinin ardından, Anayasa Mahkemesi uyum yasa tasarısı 80 maddeden oluşuyor. 
+
+     Tasarıya göre Yüksek Mahkeme&rsquo;nin asıl üye sayısı 11&rsquo;den 17&rsquo;ye çıkarılıyor. 
+
+     Anayasa Mahkemesi&rsquo;ne bireysel başvuru hakkı getiriliyor. 
+     
+     Tasarıya göre, Anayasa Mahkemesi iki bölüm ve Genel Kurul halinde çalışacak. 
+     Genel Kurul en az 12 üye ile toplanacak. Bölümler ve genel kurul, kararlarını salt çoğunluk ile alacak. 
+
+      Genel Kurul, siyasi partilere ilişkin davalara, iptal ve itiraz başvurularına ve Yüce Divan sıfatıyla yürütülecek yargılamalara bakacak. 
+
+     Siyasi partilerin kapatma kararı  için toplantıya katılan üyelerin üçte ikisinin oyu gerekecek.
+
+     Yüce Divan dışındaki davalar dosya üzerinden incelenecek. Bireysel başvurularda duruşma yapılabilecek. 
+
+     Anayasa Mahkemesi Başkanı 4, üyeler ise 12 yıllığına seçilecek. Bir kişi 2 defa üye olamayacak.
+
+
+
+
+</TEXT>
+</DOC>

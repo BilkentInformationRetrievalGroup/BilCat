@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341860 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fca34b8/l/0l0smilliyet0n0btr0cbogazici0ekoprusunde0eintihar0egirisimi0eyasaniyor0cturkiye0csondakika0c190b110b20a10a0c13159320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 13:08:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bo��azi��i k��pr��s��nde intihar giri��imi ya��an��yor
+</HEADLINE>
+<TEXT>Boğaziçi Köprüsü'nün korkuluklarına çıkan bir kişi intihar girişiminde bulunuyor. Olay yerine gelen polis ekiplerinin intihar etmek isteyen kişiyi ikna etme çabaları sürüyor. Bu sırada olayı izlemek isteyen sürücüler nedeniyle trafikte yoğunluk yaşanıyor.</TEXT>
+</DOC>

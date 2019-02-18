@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1432119 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f2506cee-6974-41fc-9a83-17b30469052e </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 18:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hisse senetleri de��er kazand��
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi günü 611 puan artarak 65 bin 973 puandan tamamladı.
+
+
+
+ Hisse senetleri günlük ilk yarısında ortalama yüzde 0,93 oranında değer kazandı. 
+
+Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 15 kuruştan işlem gördü.
+
+Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,25 seviyesinde bulunuyor.
+
+ Uluslararası piyasalarda altının ons fiyatı bin 381 dolar. 
+ Kapalıçarşı&rsquo;da Cumhuriyet altını 465 liradan alıcı buldu. 
+
+ Dünya borsalarına gelince...
+
+Asya Pasifik piyasaları bugün değer artışları vardı.
+
+ Avrupa borsaları ise kararsız ve karışık bir tablo çizdi.
+
+ New York Borsası düşüşle açıldı.
+</TEXT>
+</DOC>

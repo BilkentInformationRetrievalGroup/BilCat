@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1424179 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a0b3c67c-1f90-432a-b528-39c1d35fdce4 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 10:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+gelece��i yanl���� bilen falc��ya hapis
+</HEADLINE>
+<TEXT>
+Romanya'da geleceği yanlış bilen falcı ya da büyücülerin “geleceği” pek parlak olmayacak. Kehaneti yanlış çıkan hapsi boylayacak!
+
+Romanya&rsquo;da hükümet bir ay önce falcı ve büyücülere vergi zorunluluğu getirmişti. 
+
+Uygulamaya tepki gösteren büyücüler, hükümeti “kara büyü” yapmakla tehdit etmişti.
+
+Ancak bu tehdit işe yaramadı! Yeni yasa teklifine göre, kehanetleri doğru çıkmayan falcılar para cezasına çarptırılacak ya da hapse atılacak.
+
+“Falcıların Kraliçesi” Bratara Buzea, “Bu yasanın geçmemesi için son nefesime kadar mücadele edeceğim” dedi.
+
+Geçtiğimiz hafta senatoda kabul edilen taslak yasanın yürürlüğe girmesi için parlamentonun onayı gerekiyor.
+</TEXT>
+</DOC>

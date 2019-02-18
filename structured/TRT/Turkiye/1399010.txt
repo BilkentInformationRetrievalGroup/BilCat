@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1399010 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f6e21ec8-eaf2-4b53-bb80-237e5bf1f37b </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 10:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"e��ler mhp'ye oy vermiyor"
+</HEADLINE>
+<TEXT>
+MHP Genel Başkan Yardımcısı Osman Çakır, MHP'lilerin eşlerinin MHP'ye oy vermediğini söyledi.
+
+Gaziantep’te bulunan MHP Genel Başkan Yardımcısı Osman Çakır, kendisinin parti genel merkezinde araştırma, strateji ve geliştirme biriminin başkanı olduğunu söyleyerek, partililere ilginç bir çıkışta bulundu. 
+
+Çakır şöyle dedi: “Burada yapmış olduğumuz çalışmalar şunu gösteriyor. Partililerimizin yüzde 70’inin eşi maalesef partimize oy vermiyor. En son seçimlerde ortalama 6 milyon aldık. 
+
+Bu oyların 3 milyonu erkek, 3 milyonu kadın değil. 4 milyon 200 bini erkek, diğeri kadın. Bu ne demek? Bize oy verenlerin çoğu bekar ya da eşler oy vermiyor. 
+
+Bizim bayanlarımızda da şöyle bir şey var; bizim beyler eve gidiyor efeleniyor, küfeleniyor hanımı kızdırıyor. 
+
+Hanım da diyor &quot;Sen misin böyle yapan&quot; sandıkta intikamını alıyor. Bu söylediklerim tahmini değil araştırmaların sonucu.”
+
+</TEXT>
+</DOC>

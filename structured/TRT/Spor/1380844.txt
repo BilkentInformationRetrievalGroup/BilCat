@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1380844 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ca03da32-2437-4a70-86ea-7ef55a379ba1 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 14:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+reina: "liverpool'dan ayr��lmayaca����m"
+</HEADLINE>
+<TEXT>
+Liverpool'un İspanyol kalecisi Pepe Reina kulüp değiştirmeyeceğini açıkladı.
+
+Liverpool&rsquo;un İspanyol kalecisi Pepe Reina, İngiltere basınında yer alan ve kulüp değiştireceğine işaret eden  söylentilere cevaben yaptığı açıklamada, kulübüyle olan anlaşmasına sadık kalacağını söyledi.
+ 
+28 yaşındaki kaleci, isminin, İngiltere ile Avrupa&rsquo;nın diğer büyük ekipleriyle anılmasından artık sıkıntı duyduğunu belirtti, sözünün ve verdiği taahhütlerin ardında duran bir kişiliği olduğunu kaydetti.
+   
+Basında yer alan haberlerde kalecinin Manchester United veya Arsenal&rsquo;e transfer olabileceği ileri sürülüyordu.
+  
+</TEXT>
+</DOC>

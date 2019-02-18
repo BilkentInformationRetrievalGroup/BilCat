@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1411184 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3a196c45-95bd-41c0-866f-be22cf5aa9ea </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 11:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2010'da ka�� turist geldi?
+</HEADLINE>
+<TEXT>
+TÜİK, Türkiye'nin 2010 yılındaki turizm geliri ve ülkeye gelen turist sayısına ilişkin rakamları açıkladı. 
+
+TÜİK, Türkiye&rsquo;nin 2010 yılı turizm gelirinin 20 milyar 806 milyon 748 bin 444, turizm giderinin ise 4 milyar 825 milyon 214 bin 101 dolar olduğunu açıkladı. 
+
+Ülkeye 33 milyon 27 bin 943 ziyaretçi gelirken, 6 milyon 557 bin 233 vatandaş ise yurtdışına gitti.
+ 
+
+</TEXT>
+</DOC>

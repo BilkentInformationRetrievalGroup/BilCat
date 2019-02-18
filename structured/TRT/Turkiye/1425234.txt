@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1425234 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1cef7629-f104-420f-b0b9-926ee9404f68 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 10:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+40 yerde deprem kay��t istasyonu
+</HEADLINE>
+<TEXT>
+Deprem kayıt istasyonu kurulacak iller arasında Ankara, Antalya, Konya, Adana, Kocaeli, Van ve Bingöl de bulunuyor.
+
+Deprem tehlikesine karşı harekete geçen hükümet, 40 yerde deprem kayıt istasyonu kurmak için kolları sıvadı. 20 adet zayıf ve 20 adet kuvvetli yer hareketi olmak üzere toplam 40 yerde kurulacak olan deprem kayıt istasyonu arasında Ankara, Antalya, Konya, Adana gibi iller yer alıyor. 
+
+CHP Denizli Milletvekili Ali Rıza Ertemür&rsquo;ün soru önergesine Başbakan Yardımcısı Cemil Çiçek&rsquo;in verdiği yanıt 40 adet deprem kayıt istasyonu alımı yapıldığını ortaya koydu.
+
+40 Yerde Deprem Kayıt İstasyonu
+
+Başbakan Yardımcısı Cemil Çiçek, 2010 yılında Ulusal Sismik Ağın Geliştirilmesi (USAG) Projesi kapsamında 20 adet zayıf ve 20 adet kuvvetli yer hareketi olmak üzere toplam 40 adet deprem kayıt istasyonu alımı yapıldığını bildirdi. 
+
+Başbakan Yardımcısı Çiçek, bu istasyonların alımı için 1 milyon 66 bin 602,00 TL proje ödeneği kullanıldığını açıkladı. 
+
+İstasyon Kurulacak İller
+
+Cemil Çiçek&rsquo;in verdiği bilgiye göre deprem kayıt istasyonu kurulacak olan yerler şöyle: 
+
+&quot;Edirne, Kırklareli, Kocaeli, Adapazarı, Bartın, Samsun, Giresun, Konya-Kulu, Konya-Merkez- Konya-Ereğli, Antalya, Nevşehir, Kayseri, Tunceli, Bingöl (zayıf yer hareketi), Kahramanmaraş-Elbistan, Kahramanmaraş-Göksun, Van (zayıf yer hareketi), Manisa, Şanlıurfa, Ankara (zayıf yer hareketi), Ankara (kuvvetli yer hareketi), Çorum, Amasya, Malatya, Muğla-Köyceğiz, Burdur, Bitlis, Muş, Ağrı, Amasya-Merzifon, Erzincan, Van (kuvvetli yer hareketi), Adıyaman, Çankırı, Bolu, Bursa, Tokat, Adana ve Bingöl (kuvvetli yer hareketi).&quot
+</TEXT>
+</DOC>

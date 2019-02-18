@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1394559 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1c6f5a12-a477-4acf-b9d9-eaf07c8cdab3 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 17:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+serdar ��zkan ile yollar ayr��ld��
+</HEADLINE>
+<TEXT>
+Galatasaray, Serdar Özkan ile olan sözleşmesini karşılıklı olarak feshetti.
+
+Galatasaray, ikinci yarıda kadrosunda düşünmediği Serdar Özkan&rsquo;ın sözleşmesini karşılıklı olarak feshetti.
+ Galatasaray&rsquo;ın resmi internet sitesinden yapılan açıklama şöyle: &quot;Galatasaray Profesyonel Futbol Takımı oyuncularımızdan Serdar Özkan&rsquo;la sözleşmemiz karşılıklı olarak feshedilmiştir. Oyuncuya bundan sonraki futbol yaşamında başarılar dileriz.&quot;
+
+</TEXT>
+</DOC>

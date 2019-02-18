@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337221 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa73617/l/0l0smilliyet0n0btr0chakem0ehuseyin0egocek0ee0euluslararasi0egorev0cspor0csondakika0c150b110b20a10a0c13147120cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:12:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hakem h��seyin g����ek'e uluslararas�� g��rev
+</HEADLINE>
+<TEXT>FIFA kokartlı hakemlerden Hüseyin Göçek, UEFA tarafından Arnavutluk-Makedonya (A) milli takımları arasında yapılacak özel maçta görevlendirildi.Türkiye Futbol Federasyonundan yapılan açıklamada, 17 Kasım Çarşamba günü Arnavutluk ile Makedonya (A) milli takımları arasında, Arnavutluk’un Korca şehrinde oynanacak özel maçı Hüseyin Göçek’in yöneteceği belirtildi.Mücadelede Göçek’in yardımcılıklarını Bülent Gökçü ve Erdinç Sezertam’ın yapacakları bildirildi.</TEXT>
+</DOC>

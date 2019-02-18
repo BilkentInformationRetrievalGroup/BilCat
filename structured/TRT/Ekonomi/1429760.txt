@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1429760 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=396e4410-d44e-4601-87ce-493cc8eb85e3 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 17:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"yasak kalkmazsa intihar ederiz"
+</HEADLINE>
+<TEXT>
+Hükümetin soğan ihracatını yasaklamasına tepki gösteren çiftçiler, intihar tehdidinde bulundu.
+
+Hindistan&rsquo;da hükümetin soğan fiyatlarındaki artışı önlemek için ihracat yasağı getirmesi çiftçilerin tepkisini çekti. Ülkenin batısındaki Maharaşta eyaletinde, soğan üreticileri, ihracat yasağının kaldırılması için gösteri düzenledi.
+
+Göstericilerden 19&rsquo;u, bir su deposuna tırmanarak, intihar etme tehdidinde bulundu.
+
+Maliyetin yüksek olduğuna dikkat çeken soğan üreticileri, soğan fiyatlarının düşmesine rağmen, 1 buçuk aydır uygulanan ihracat yasağının kaldırılmamasını eleştirdi.
+
+Çiftçiler, yasağın kaldırılmaması halinde, hükümetin kendilerine sübvansiyon sağlamasını istedi.
+
+Hindistan, artan gıda fiyatlarını frenlemek için, sadece soğana değil, geçici bir süreyle şekere de ihracat yasağı getirmişti.
+
+</TEXT>
+</DOC>

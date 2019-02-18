@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1439669 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f5a6114b-c6aa-4e9e-a742-6b4533fdaf85 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 22:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"ab'den vize muafiyeti istiyoruz"
+</HEADLINE>
+<TEXT>
+Dışişleri Bakanı Ahmet Davutoğlu, Türkiye'nin Avrupa Birliği'nden vize diyalogu değil, vize muafiyeti beklediğini söyledi.
+
+Ahmet Davutoğlu, Avrupa Birliği Adalet ve İçişleri Bakanlarının toplantısından çıkan Türkiye ile Vize diyalogu başlatılması kararını değerlendirdi.
+     Bu kararın Türkiye&rsquo;nin beklentilerini karşılamadığını belirten Davutoğlu, &quot;Türkiye hiçbir şartla herhangi bir ülkeden başka bir muameleyi kabul edemez. Vize diyalogu değil vize muafiyeti istiyoruz. Vize muafiyeti hedefine dönük müzakere süreci başlatılmaksızın, göçmenlere ilişkin geri kabul anlaşmasını hayata geçirme sürecinin başlatılması mümkün değildir&quot; dedi.
+</TEXT>
+</DOC>

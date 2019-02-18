@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1403474 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0299540c-2b62-46d5-888c-807e22ffbfd9 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 08:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kont��rl�� hatt�� olanlar dikkat!
+</HEADLINE>
+<TEXT>
+Aboneliği çeşitli nedenlerle iptal olmuş faturasız hat sahibinin hesabında kalan TL'ler GSM operatörleri tarafından 1 Ocaktan itibaren ödeniyor...
+
+Hak sahiplerinin iade için ilgili operatöre müracaatta bulunması gerekiyor. 
+
+GSM operatörleri, web siteleri aracılığıyla konuyu duyurmaya başladı. 
+
+Zaman gazetesinin haberine göre, bilgi Teknolojileri ve İletişim Kurumu&rsquo;nun 2010 Eylül&rsquo;de aldığı karar ile ön ödemeli hatlarda kalan TL&rsquo;lerin iadesine açıklık getirilmiş, kararın uygulamaya geçilmesi için operatörlere 1 Ocak 2011&rsquo;e kadar süre tanınmıştı. 
+
+Bahsi geçen yeni uygulama ile çeşitli nedenlerle aboneliği iptal olan hat sahibi, iptal tarihinden başlayarak 3 ay içerisinde ilgili işletmeciye başvurmak suretiyle hattında kalan TL&rsquo;leri talep edebilme imkanına kavuştu. 
+
+İşletmeciler ise başvuruları 15 gün içinde yerine getirmekle yükümlü. 
+
+Abonenin iade talebinde bulunmaması halinde, işletmeci bu tutarı bir yıl kendi nezdinde saklayacak. Olayı duyuran web sitelerinden birinin başanalisti Betül Sungurlu, &quot;Ön ödemeli hattını iptal eden tüketici 3 ay içerisinde müracaat etmezse ya da 1 yıl içinde eski operatörüne geri dönmezse hattındaki bakiyeye bir daha ulaşamıyor.&quot; dedi.
+
+ 
+
+
+
+</TEXT>
+</DOC>

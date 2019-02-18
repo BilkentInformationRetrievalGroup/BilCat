@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1394251 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=db30032a-00b5-492b-82d7-05b588f13e95 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 14:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��n��l'den helikopter kazas�� a����klamas��
+</HEADLINE>
+<TEXT>
+Milli Savunma Bakanı Vecdi Gönül, Ankara'da meydana gelen helikopter kazasıyla ilgili konuştu.
+
+5 üstteğmenin şehit olduğu Ankara&rsquo;daki helikopter kazasının sebebi araştırılıyor...
+Milli Savunma Bakanı Vecdi Gönül, Ankara&rsquo;da önceki gün meydana gelen askeri helikopter kazasına ilişkin ilk defa konuştu. 
+
+Milli Savunma Bakanı Vecdi Gönül, İzmir&rsquo;de, &quot;Bakım yönüyle herhangi bir endişemiz yok, ama araştırmalar yapılır, acaba teknik arıza mı oldu, yoksa vertigo mu oldu. Vertigo sisli havada ve gece şartlarında daha çok akla geliyor.&quot; dedi.
+
+İzmir&rsquo;de gazetecilerin konuya ilişkin sorularını cevaplandıran Vecdi Gönül, uçak ve helikopterlere yeterli bakım yapıldığını belirtti.
+
+Parçaların çok önemli kısmının Türkiye&rsquo;de üretildiğini ve NATO standartlarında test edildiğini kaydeden Vecdi Gönül, &quot;Bakım yönüyle herhangi bir endişemiz yok ama araştırmalar yapılır, acaba teknik arıza mı oldu, yoksa vertigo mu oldu. Vertigo sisli havada ve gece şartlarında daha çok akla geliyor. Teknik sonuçlar açıklanmadan birşey söylemem doğru olmaz.&quot; diye konuştu.
+
+</TEXT>
+</DOC>

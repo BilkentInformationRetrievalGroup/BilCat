@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1434808 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d587896e-306b-4cd0-b847-a2454cc33f39 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 13:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ilk cemre d����t��!
+</HEADLINE>
+<TEXT>
+İlk cemre hayava düştü... Yozgat'ta çiğdemler çiçek açtı.
+
+
+Mart ayı yaklaştı, baharın müjdecisi cemre havaya düştü.     
+
+Yozgat&rsquo;ta da soğuk hava yerini güneşli havaya bıraktı.
+
+Cemre havaya düştü, çiğdemler çiçek açtı. 
+
+Güneşi gören yamaçlarda açan çiğdemler, baharı özleyen çocuklara ilk müjdeyi verdi.
+
+15 gün sonra ise cemre toprağa düşecek ve bahar mevsimi kendini iyiden iyiye hissettirecek.
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1410595 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=11590e92-c7df-466a-8bfd-2d36da4a59c5 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 18:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bar��a busquets ile nikah tazeledi
+</HEADLINE>
+<TEXT>
+Barcelona, Busquets'in sözleşmesini 2015'e kadar uzattı.
+
+İspanya&rsquo;nın Barcelona Kulübü, genç defans oyuncusu Sergio Busquets&rsquo;in sözleşmesini haziran 2015&rsquo;e kadar uzattı.
+ 22 yaşındaki futbolcu Busquets ile sözleşme yenileyen Barcelona, 2015 haziran ayına kadar İspanyol futbolcunun bonservisini elinde bulundururken ayrıca 1 yıl uzatma opsiyonu da koydu. 
+ Barcelona ayrıca, futbolcunun tek taraflı olarak sözleşmeyi fesh etme olasılığında ise daha önceden 80 milyon avro ödeme zorunluluğunu da 150 milyon avroya çıkardı.
+</TEXT>
+</DOC>

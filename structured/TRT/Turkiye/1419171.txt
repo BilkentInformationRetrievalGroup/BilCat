@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1419171 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b960a971-abfa-4087-8fa3-70eeefb5a696 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 11:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yine soba zehirlenmesi
+</HEADLINE>
+<TEXT>
+Osmaniye'nin Düziçi ilçesinde sobadan sızan karbonmonoksit gazından 1 kişi hayatını kaybetti, 2 kişi tedavi altına alındı.
+
+Uzunbanı mahallesinde oturan bir aileden haber alınamayınca komşuları kapıyı kırarak içeri girdi.
+
+          Evde, 3 kişiyi baygın halde bulan komşuları, olay yerine 112 ekiplerini çağırdı.
+
+          Aile, ambulansla Osmaniye Devlet Hastanesine kaldırılarak tedavi altına alındı.
+
+          Sobadan sızan karbonmonoksit gazından zehirlenen 3 yaşındaki Berkay Yiğit,  tüm müdahalelere rağmen kurtarılamadı.
+
+          Yoğun bakım servisine alınan Anne Fatma ve baba Osman Yiğit&rsquo;in tedavisi sürüyor.
+
+</TEXT>
+</DOC>

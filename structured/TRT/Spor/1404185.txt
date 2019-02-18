@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1404185 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bc3cb2ec-a78a-4807-b2c2-1631555572c8 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 18:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+moussa, cavcav'��n hesab��na uymuyor
+</HEADLINE>
+<TEXT>
+Gençlerbirliği Kulübü Başkanı İlhan Cavcav, Moussa'nın maliyetini yüksek buldu.
+
+Gençlerbirliği Kulübü Başkanı İlhan Cavcav&rsquo;ın, transferi düşünülen Ouwo Moussa Maazou&rsquo;nın maliyetini yüksek bulduğu öğrenildi.
+ Gençlerbirliği teknik heyetinin transferini istediği Fransa&rsquo;nın Bordeaux takımının forveti Nijeryalı Ouwo Moussa Maazou için istenen ücret, kırmızı-siyahlı kulübün başkanı İlhan Cavcav&rsquo;a iletildi.
+ Ancak Cavcav, ücreti yüksek buldu ve transferin gerçekleşmesi için teklifin kulübün ekonomik koşullarına uygun düzeye çekilmesini bekleme kararı aldı. 
+ Gençlerbirliği&rsquo;nin, 22 yaşındaki golcü Moussa&rsquo;nın transferi için 24 Ocak Pazartesi gününe kadar opsiyonu bulunuyor
+</TEXT>
+</DOC>

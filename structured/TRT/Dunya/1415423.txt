@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1415423 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e888f00e-a3b5-4645-a750-aa471c69749d </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 21:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kom��u ter��risti iade etmiyor
+</HEADLINE>
+<TEXT>
+Yunanistan, DTP'nin eski genel başkan yardımcısı Mustafa Sarıkaya'yı Kıbrıs Rum Kesimi'ne geri gönderiyor.
+
+
+Yunan makamlarının, Selanik&rsquo;te tutuklu bulunan ve siyasi iltica talebinde bulunan, kapatılan DTP&rsquo;nin eski genel başkan yardımcısı Mustafa Sarıkaya&rsquo;yı Kıbrıs Rum Kesimi&rsquo;ne geri göndermeyi kararlaştırdığı bildirildi.
+
+Yunanistan&rsquo;da yayınlanan Elefterotipiya gazetesi, Selanik&rsquo;te iltica talebinde bulunan Sarıkaya&rsquo;nın bu isteğinin, Avrupa Birliği&rsquo;ne ilk girdiği ülke olan Kıbrıs Rum Kesimi&rsquo;ne ulaştırıldığını, Rum Kesimi&rsquo;nin de sözkonusu talebin incelenmesi konusunda olumlu yanıt verdiğini yazdı.
+         
+Gazete, Sarıkaya&rsquo;nın &quot;terör örgütü kurmaktan&quot; arandığını ve Türk makamlarının uluslararası tutuklama kararı yayınlayarak iadesini istediğini hatırlattı.
+
+Mustafa Sarıkaya, geçen ay Kıbrıs Rum Havayolları&rsquo;nın Baf-Sofya seferini yapan uçağına binmiş ancak Bulgaristan&rsquo;daki elverişsiz hava şartları  nedeniyle uçak Selanik&rsquo;e zorunlu iniş yapmıştı.
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1406309 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=78ded48f-3930-4496-946f-5be8112541f0 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 08:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+karakol'da deh��et sa��t��
+</HEADLINE>
+<TEXT>
+Amerika Birleşik Devletleri'nin Detroit kentinde karakola giren bir kişi çevreye ateş açtı.
+
+
+Amerika Birleşik Devletleri&rsquo;nin Detroit kentinde meydana gelen olayda saldırgan öldürülürken, 4 polis yaralandı.
+
+      Yerel medya, karakola giren silahlı bir kişinin çevreye ateş açtığını ve polislerin karşılık verdiğini duyurdu.
+
+       Çatışmada biri ağır olmak üzere 4 polis memurunun yaralandığı, saldırganın ise öldürüldüğü belirtildi.
+
+       Saldırının nedeni henüz bilinmiyor.
+</TEXT>
+</DOC>

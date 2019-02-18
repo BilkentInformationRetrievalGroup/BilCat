@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337689 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa9d973/l/0l0smilliyet0n0btr0ctatilin0eilk0e30egunundeki0ekazalarda0e440ekisi0eoldu0cturkiye0csondakika0c150b110b20a10a0c13147930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 19:08:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tatilin ilk 3 g��n��ndeki kazalarda 44 ki��i ��ld��
+</HEADLINE>
+<TEXT>DOĞAN HABER AJANSI HAFTA sonlarının da eklenmesiyle 9 güne çıkan Kurban Bayramı tatilinin daha ilk 3 gününde yollar yine kan gölüne döndü. İstanbul ve Ankara dışındaki, yurdun dört bir yanında meydana gelen kazalarda, 44 kişi öldü, 179 kişi de yaralandı.Tatil öncesi karayollarında alınan tüm tedbirlere ve yapılan uyarılara karşın kazalar hız kesmedi. 9 günlük tatilin ilk günü olan 13 Kasım Cumartesi günü meydana gelen 27 kazada 21 kişi öldü, 87 kişi de yaralandı.Tatilin ikinci günü olan 14 Kasım Pazar günü meydana gelen 16 kazada ise 12 kişi öldü, 79 kişi de yaralandı.Tatilin üçüncü günü olan 15 Kasım Pazertesi günü saat 16.00 sıralarına kadar meydana gelen 11 kazada da 11 kişi yaşamını yitirirken, 13 kişi de yaralandı.</TEXT>
+</DOC>

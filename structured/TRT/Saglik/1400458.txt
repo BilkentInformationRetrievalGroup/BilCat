@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1400458 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=580ade33-ede0-4f12-8494-6d480b90e407 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 14:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+'kemoterapi'den sonra ye��il ��ay!
+</HEADLINE>
+<TEXT>
+Araştırmaya göre yeşil çay; kanser hastalığı tedavisinde kullanılan kemoterapi ilaçlarının yan etkisini azaltıyor ve ilacın etkisini ise artırabiliyor
+
+Yeşil çayın, kanser hastalığının tedavisinde kullanılan kemoterapi ilaçlarının etkilerini azalttığı ve ilacın etkisini ise artırdığı belirlendi.
+
+ABD&rsquo;den Emory Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof. Dr. Ömer Küçük ile Fırat Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof. Dr. Ayhan Doğukan ve Veteriner Fakültesi Öğretim Üyesi Prof. Dr. Kazım Şahin tarafından yürütülen bir araştırma kapsamında, yeşil çay, kemoterapi ilacı verilen ve böbrek hastalığı oluşturulan ratlarda (büyük sıçan) denendi.
+
+Prof. Dr. Kazım Şahin, AA&rsquo;ya yaptığı açıklamada, kanser tedavisinde kullanılan kemoterapi ilaçlarının oksidatif stres gibi bilinen birçok yan etkisi olduğunu belirterek, ratlarda denenen yeşil çayın, bu yan etkileri azalttığını saptadıklarını bildirdi.
+
+Deneyde kullanılan ve böbrek rahatsızlığı oluşturulan ratlara, 2 hafta süreyle kemoterapi ilacı ile birlikte yeşil çaydan elde edilen &quot;Epigallocatechin-3-gallate&quot; maddesini verdiklerini anlatan Prof. Dr. Şahin, bu ratların, yeşil çay verilmeyen kontrol gurubundaki ratlarla karşılaştırmasını yaptıklarını belirterek, şunları kaydetti:
+
+&quot;Kemoterapi ilaçları kontrolsüz çoğalan kanser hücrelerine etki ederken aynı şekilde vücudumuzdaki fonksiyonların devamı için aşırı çoğalan normal canlı vücut hücreleri üzerine de etki ederler. Bu da normal hücrelerin zarar görmesine ve yan etkilerinin ortaya çıkmasına neden olur. İşte bizim ratlar üzerinde yaptığımız çalışmada bu yan etkinin yeşil çay ile azaltılabileceğini tespit ettik. Yeşil çay verilmeyen ratlarda kemoterapi ilaçlarının bilinen birçok yan etkisi ortaya çıkarken, yeşil çayda bulunan &rsquo;Epigallocatechin-3-gallate&rsquo;&rsquo; maddesini verdiğimiz ratlarda kemoterapi ilacının olumsuz etkisinin azaldığı, kemoterapi ilacının etkisini ise olumlu yönde artırdığını saptadık.&quot;
+
+Prof. Dr. Şahin, araştırma sonucunda elde edilen bulguların kanser hastaları için büyük önem taşıdığını ifade ederek, &quot;Yeşil çayın antikanserojen bir özelliğe sahip olduğu biliniyordu. Bizim araştırmamızda hangi mekanizma ile etkili olduğunu ortaya koyduk. Bundan sonra kemoterapi ilacı alan kanser hastalarına yeşil çaydaki &rsquo;Epigallocatechin-3-gallate&rsquo; maddesi de verilerek hastalığın yan etkileri azaltmak mümkün olacak&quot; diye konuştu.
+</TEXT>
+</DOC>

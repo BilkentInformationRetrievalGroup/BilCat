@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1395182 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3e0173e6-be02-4ee7-8733-ffd3d81dbf38 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 10:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sanayi ciro ve sipari�� endeksleri artt��
+</HEADLINE>
+<TEXT>
+Sanayi Ciro Endeksi, 2010 yılı Kasım ayında, 2009 yılının aynı ayına göre yüzde 16,5 arttı, bir önceki aya göre ise yüzde 9,5 azaldı. 
+
+Türkiye İstatistik Kurumu (TÜİK), Kasım 2010 dönemine ilişkin &rsquo;&rsquo;Sanayi Ciro ve Sipariş Endeksleri&rsquo;ni yayımladı.  
+
+Buna göre, Sanayi Üretim Anketi kapsamında yer alan imalat sanayii ile madencilik ve taşocakçılığı kısımlarında bulunan işyerlerinden 2005=100 temel yıllı oluşturulan Sanayi Ciro Endeksi, 2010 yılı Kasım ayında önceki yılın aynı ayına göre yüzde 16,5 arttı, bir önceki aya göre ise yüzde 9,5 azaldı. 
+
+Sanayinin alt sektörleri incelendiğinde, geçen yıl Kasım ayında, bir önceki yılın aynı ayına göre, madencilik ve taşocakçılığı endeksi yüzde 23,4, imalat sanayi endeksi ise yüzde 16,3 artış kaydetti.   
+
+Ciro endeksi, mal ve hizmetler için pazar büyüklüğünü göstermeyi amaçlıyor. 
+
+Ana sanayi grupları sınıflamasına göre Kasım ayında en yüksek artış yüzde 24,7 ile ara malı imalatında görüldü. 
+
+İmalat sanayi alt sektörlerinin 2010 yılı Kasım ayında 2009 yılının aynı ayına göre yüzde değişim oranları incelendiğinde, en yüksek artışın yüzde 76,1 ile bilgisayarların, elektronik ve optik ürünlerin imalatında gerçekleştiği görüldü. Bunu yüzde 37,1 ile makine ve ekipmanların kurulumu ve onarımı takip etti.
+
+Sipariş Endeksi
+Avrupa Birliği düzenlemelerine göre, imalat sanayi kısmında sipariş ile çalışan faaliyetlerde bulunan ve Sanayi Üretim Anketi&rsquo;nin kapsamına giren işyerlerinden, 2005=100 temel yıllı oluşturulan Sanayi Sipariş Endeksi de Kasımda bir önceki yılın aynı ayına göre yüzde 17,9 arttı, ekim ayına göre ise yüzde 9 azaldı.   
+
+Sipariş Endeksinin 2010 yılı Kasım ayında 2009 yılının aynı ayına göre yüzde değişim oranları incelendiğinde, en yüksek artış oranı yüzde 112,1 ile diğer ulaşım araçlarının imalatında görüldü. Bunu yüzde 88,5 ile bilgisayarların, elektronik ve optik ürünlerin imalatı izledi.
+
+</TEXT>
+</DOC>

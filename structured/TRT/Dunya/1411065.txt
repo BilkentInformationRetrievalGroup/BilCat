@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1411065 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3e2a5e8b-4d81-49b1-808f-ab9c1df65c98 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 10:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+diaspora'dan yeni giri��im
+</HEADLINE>
+<TEXT>
+ABD'de Ermeni nüfusun en yoğun yaşadığı eyalet olan Kaliforniya'da yerel meclise, 1915 olaylarına ilişkin Ermeni iddialarını içeren tasarı sunuldu. 
+
+Tasarıda 24 Nisan 2011 tarihinin 1915 olayları için anma günü ilan edilmesi isteniyor. 
+
+Tasarıda ayrıca, Beyaz Saray ve Kongre&rsquo;ye 1915 olaylarını sözde soykırım olarak tanımaları çağrısında da bulunuluyor.
+
+Kaliforniya&rsquo;daki Ermeni diasporası hemen her yıl yerel meclisinden benzer tasarıları geçiriyor. 
+
+Ancak bu ve benzeri tasarılar ülke genelinde Federal Yönetimi bağlamıyor. 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1424306 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e95fcc48-1a05-4e19-9178-30f4dbab3a05 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 11:11:37.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trabzonspor'dan efsane ba��kana vefa
+</HEADLINE>
+<TEXT>
+Bordo-mavili ekibin efsane başkanlarından Şamil Ekinci adına yaptırılan müze törenle açıldı.
+
+    Trabzonspor&rsquo;un başında 4 şampiyonluk yaşayan Şamil Ekinci adına Trabzon&rsquo;da yapılan müzenin açılış töreni oldukça görkemli geçti.
+    Törende Trabzonspor Kulübü Başkanı Sadri Şener&rsquo;le birlikte Trabzon Valisi Recep Kızılcıktan, Belediye Başkanı Orhan Fevzi Gümrükçüoğlu ve Teknik Direktör Şenol Güneş de hazır bulundu.
+     Açılışta konuşan Sadri Şener kulübe yakışan bir müze yaptıklarını belirterek &quot;Trabzonspor&rsquo;un şanlı tarihindeki bu kupaları taraftarlara en güzel şekilde sergilemek istiyoruz&rsquo; dedi.
+     Kendisi adına yapılan müzenin gurur kaynağı olduğunu ifade eden Efsane Başkan Şamil Ekinci ise hayatının en güzel hediyesini aldığını söyleyerek tüm Trabzonspor camiasına teşekkür etti. 
+
+</TEXT>
+</DOC>

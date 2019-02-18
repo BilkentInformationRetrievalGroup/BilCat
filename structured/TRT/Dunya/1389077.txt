@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1389077 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7f468566-4ed6-4de9-9811-4d87231852f6 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 10:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kore'de tansiyon d������������������yor
+</HEADLINE>
+<TEXT>
+Kuzey ve Güney Kore ile ABD ordusu alarm seviyelerini normale indirdi.
+
+     Güney Kore ajansı Yonhap&rsquo;taki habere göre, &quot;Kuzey Kore, askerlerine verdiği her türlü duruma hazır olmaları&quot; yönündeki talimatı kısa süre önce kaldırdı. 
+
+     Yonhap, Güney Kore ordusu ile Güney Kore&rsquo;deki Amerikan kuvvetlerinin de bunun sonucunda alarm seviyelerini normale indirdiğini duyurdu.
+
+     Bu arada, Güney Kore, 2011 yılının ilk askeri tatbikatını yaptı.
+     
+     Tatbikat ile Güney Kore ordusu, &quot;Kuzey&rsquo;in tüm saldırılarına karşı hazırız&quot; mesajı veriyor.
+
+     23 Kasım&rsquo;da, Kuzey Kore&rsquo;nin Güney Kore&rsquo;ye ait bir adayı bombalaması sonucu 2&rsquo;si asker 4 kişinin ölmesi üzerine iki ülke ilişkileri gerginleşmişti.
+</TEXT>
+</DOC>

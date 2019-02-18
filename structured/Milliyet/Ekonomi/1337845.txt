@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337845 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68ba/l/0l0smilliyet0n0btr0cadana0ecimento0ecimsa0edaki0e140e120epayini0eyabancilara0esatma0ekarari0ealdi0cekonomi0chaberdetay0c160b110b20a10a0c1314890a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:00:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+adana ��imento, ��imsa���daki % 14.12 pay��n�� yabanc��lara satma karar�� ald��
+</HEADLINE>
+<TEXT>İSTANBUL Reuters Şirketten İMKB’ye gönderilen ve KAP’ta yer alan açıklamada, bu satışa aracılık etmek üzere Standard Ünlü Menkul Değerler’in yetkilendirildiği ve gerekli işlemlerin yürütülmesi için genel müdürlüğün yetkili kılınmasına karar verildiği belirtildi. Açıklama sonrasında Adana Çimento hisseleri yüzde 3.10 yükselişle 5.32 TL’den, Çimsa hisseleri ise yüzde 1.43 düşüşle 10.35 TL’den kapandı.   </TEXT>
+</DOC>

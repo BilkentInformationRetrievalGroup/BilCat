@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1402017 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b51f780d-a1c4-4940-8a10-0c8d595750bb </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 20:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ye��ilyurt 0 - 3 nil��fer belediyesi
+</HEADLINE>
+<TEXT>
+Voleybol Teledünya Bayanlar Türkiye Kupası çeyrek final ilk maçında Nilüfer Belediyesi, Yeşilyurt'u deplasmanda 3-0 yendi.
+
+
+Yeşilyurt Spor Salonu&rsquo;nda yapılan mücadelede konuk ekip setleri 25-15, 25-21 ve 25-20 kazanarak, karşılaşmadan 3-0 galip ayrıldı.
+
+İki ekip arasında 16-17 Şubat tarihlerinde yapılacak rövanş mücadelesinin ardından dörtlü finale yükselecek takım belli olacak
+</TEXT>
+</DOC>

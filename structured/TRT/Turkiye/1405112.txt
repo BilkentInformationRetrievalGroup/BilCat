@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1405112 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d3b5ba31-5e2a-4ed2-8a1c-85bc2a1d42ca </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 20:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ubuk��u'dan dan����tay'a cevap...
+</HEADLINE>
+<TEXT>
+Milli Eğitim Bakanı Nimet Çubukçu bazı gazetelerde çıkan ''Meclis'e Çubukçu için suç duyurusu'' başlıklı haberlerle ilgili açıklama yaptı.
+
+
+Bazı basın organlarında &rsquo;&rsquo;Danıştay&rsquo;dan bir ilk: Meclis&rsquo;e Çubukçu İçin Suç Duyurusu&rsquo;&rsquo; başlıklı bir haber yer aldı.
+
+Haberde, Danıştay&rsquo;ın &quot;İdare, yargı kararlarını uygulamıyor&quot; gerekçesiyle, Milli Eğitim Bakanı Nimet Çubukçu hakkında Meclis Başkanlığı&rsquo;na suç duyurusunda bulunduğu iddia edildi.
+
+Çubukçu, haber ve danıştay kararı ile ilgili olarak yazılı açıklama yaptı.
+
+Bakan Nimet Çubukçu&rsquo;nun yaptığı yazılı açıklama şöyle:
+&quot;Danıştay adeta bakanlık makamının yerine geçerek, bir ilçe milli eğitim müdürlüğüne kimi atamamız gerektiğini söylemektedir. Oysa idari yargı, idarenin takdir hakkını ortadan kaldırmaya yönelik yerindelik kararı alamaz.&quot;
+
+Çubukçu, atama yetkisinin doğrudan bakana verildiğini ve yaptığı atamaların hukuk devleti ilkelerine uygun olduğunu belirtti. Çubukçu açıklamalarına şöyle devam etti:
+ 
+&quot;Danıştay&rsquo;ın, bakanlığın yetki tasarrufunu tartışmaya açacak bir karar ihdas etmiş olması son derece düşündürücüdür. Danıştay verdiği bu kararla, hukuk devleti ilkesine uygun davranmadığı gibi; uygulamada kaos yaratacak, idareyi kilitleyecek bir karara da imza atmıştır.&quot
+</TEXT>
+</DOC>

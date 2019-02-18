@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1417340 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fda213d7-0806-4ecd-9669-2f9d5c0000cc </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 16:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran askerleri 2 ki��iyi ��ld��rd��
+</HEADLINE>
+<TEXT>
+İran askerleri kaçakçılık için sınırı geçen 15 yaşındaki iki çocuğu öldürdü.
+
+Gece 03.00 sıralarında Van&rsquo;ın Özalp ilçesinden akaryakıt kaçakçılığı yapmak amacıyla İran sınırını geçmeye çalıştıkları öne sürülen üç çocuğa ateş açıldı.
+
+Ömer Pay (15) ile Suat Baykara (15) açılan ateş sonucu hayatını kaybetti.
+
+Hüsnü Baykara ise yaralandı.
+</TEXT>
+</DOC>

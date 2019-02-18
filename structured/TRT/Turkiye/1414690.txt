@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1414690 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eff6af53-fa21-4363-9b50-68c67220f280 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 10:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otob��s devrildi
+</HEADLINE>
+<TEXT>
+Kırşehir'in Mucur ilçesinde yoldaki buzlanma sebebi ile otobüs devrildi; 4'ü ağır 35 yolcu yaralandı.
+
+Kaza, Kırşehir&rsquo;in Mucur ilçesinin Çamlık mevkiinde meydana geldi.
+
+     İstanbul&rsquo;dan gelip Malatya yönünde seyreden bir otobüs kar yağışı ve buzlanmanın etkisiyle kayarak devrildi. 
+
+     Otobüste bulunan 35 yolcu yaralandı.
+
+     Sağlık durumu ağır olan 4 kişi Kırşehir Devlet Hastanesi&rsquo;nde ameliyata alındı.
+
+</TEXT>
+</DOC>

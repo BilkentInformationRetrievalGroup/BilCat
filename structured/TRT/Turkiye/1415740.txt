@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1415740 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1a697645-d4e5-415f-84b9-1af35267453e </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 10:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+do��uda kar etkisini s��rd��r��yor
+</HEADLINE>
+<TEXT>
+Van, Bitlis ve Hakkari'de çok sayıda köy ve mezra yolu ulaşıma kapandı.
+
+Van merkezde kar kalınlığı 15,  yüksek kesimlerde 50 santimetreyi buldu.
+
+
+     Kar temizleme ekipleri ve esnaf, el ele vererek caddelerdeki karları küreklerle temizledi.
+
+
+     Ekipler, caddelerde biriken kar yığınlarını kepçelerle kamyonlara doldurak şehir dışına taşıdı.
+
+
+     Bitlis&rsquo;te, gece etkisini arttıran kar hayatı olumsuz etkiledi.
+
+
+     Yükseklerde 1 metreyi aşan kar kalınlığı şehir merkezinde 40 santimetreyi buldu.
+
+
+     Hakkari&rsquo;de ise Yüksekova-Şemdinli karayolu kar ve tipi yüzünden ulaşıma kapandı.
+
+</TEXT>
+</DOC>

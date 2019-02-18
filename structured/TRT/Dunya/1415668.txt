@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1415668 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1d0a4d65-1167-4473-aee6-4d41f999f6fb </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 08:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pakistan'da bombal�� sald��r��
+</HEADLINE>
+<TEXT>
+Bir otomobile yerleştirilen patlayıcı infilak etti, 9 kişi öldü 20 kişi yaralandı.
+
+
+Pakistan&rsquo;ın kuzeybatısındaki Peşaver kenti güne bombalı saldırıyla uyandı.
+
+Saldırıda en az 9 kişi öldü 20 kişi yaralandı. 
+
+
+Afganistan sınırına yakın bir bölgedeki anayolda bomba yüklü bir araç bu sabah infilak etti. 
+
+Peşaver kentinde son bir hafta içinde üçüncü kez düzenlenen saldırıda hayatını kaybedenler arasında kadın ve çocukların da bulunduğu bildiriliyor. 
+
+Yaralılardan bazılarının durumunun ağır belirtilirken, ölü sayısının artmasından endişe ediliyor.
+
+Hükümet yetkilileri ve güvenlik güçlerinin hedef alındığı bu tür saldırıları çoğunlukla Taliban&rsquo;ın Pakistan koluna bağlı militanlar üstleniyor.  
+
+</TEXT>
+</DOC>

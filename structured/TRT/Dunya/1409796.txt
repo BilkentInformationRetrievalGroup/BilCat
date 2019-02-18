@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1409796 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ec2b212d-8cec-4937-9c17-4bd68b8fe584 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 05:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+da����stan'da bombal�� sald��r��: 4 ��l��
+</HEADLINE>
+<TEXT>
+Doğıstan Özerk Cumhuriyeti'nde bombalı saldırı düzenlendi.
+
+Rusya&rsquo;ya bağlı Dağıstan Özerk Cumhuriyeti&rsquo;nde düzenlenen bombalı saldırıda 4 kişi öldü.
+
+
+
+        Rus ajansları, yerel güvenlik kaynaklarına dayanarak verdikleri haberlerde, Hasavyurt&rsquo;ta bir kafeteryanın önünde bomba yüklü bir aracın infilak ettiğini duyurdu.
+
+       Saldırıda 6 kişinin de yaralandığı bildirildi.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1402134 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e819f567-2a68-4bda-9d63-95a4b94c867c </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 01:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+beyaz saray ��n��nde ��in protestosu
+</HEADLINE>
+<TEXT>
+ABD Başkanı Barack Obama, Çin Devlet Başkanı Hu Jintao ile biraraya geldi. Görüşme, Beyaz Saray önünde protesto gösterilerine yol açtı.
+
+ 
+     Tibetliler&rsquo;den Uygur Türkleri&rsquo;ne, Amerikan İnsan Hakları savunucularından çevreci örgütlere çok sayıda kişi, Beyaz Saray önünde eylem yaptı.
+ 
+     Göstericiler, Çin&rsquo;in insan hakları konusundaki tutumunu eleştirdi.
+ 
+     İki lider arasında görüşmelerin sürdürüldüğü Beyaz Saray&rsquo;ın çevresinde yoğun güvenlik önlemleri alındı.
+ 
+     Çin Devlet Başkanı Hu Jintao&rsquo;nun 4 günlük bu ziyareti, 2006&rsquo;dan beri Amerika Birleşik Devletleri&rsquo;ne yaptığı ilk ziyaret olması bakımından önem taşıyor.
+
+
+</TEXT>
+</DOC>

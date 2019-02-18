@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1386721 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=39273679-c552-425f-a267-bca98587d6e4 </URL>
+<DATE> 2011/01/05 </DATE>
+<TIME> 15:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��m zamanlar��n en d������k de��eri
+</HEADLINE>
+<TEXT>
+İMKB bugün valörlü tahvilin bileşik faizi, önceki kapanışa göre 0,22 puan düşerek yüzde 6,86'ya indi.
+
+İstanbul Menkul Kıymetler Borsası (İMKB) Tahvil ve Bono Piyasası Kesin Alım Satım Pazarında işlem gören 8 Ağustos 2012 vadeli,İMKB bugün valörlü tahvilin bileşik faizi, önceki kapanışa göre 0,22 puan düşerek yüzde 6,86&rsquo;ya indi.
+
+Bu tahvilin basit getirisi yüzde 7,00 oldu. Bu kağıdın önceki kapanıştaki basit getirisi yüzde 7,23, bileşik getirisi yüzde 7,08 olmuştu.
+
+Gösterge kağıdın gördüğü bu oran, tüm zamanların en düşük değeri olarak kaydedildi.
+
+Kotasyonlar
+Bankalararası piyasada dolar kotasyonları, saat 15.15 itibariyle, alışta en düşük 1,5470 lira, en yüksek 1,5500 lira, satışta en düşük 1,5520 lira, en yüksek 1,5560 lira seviyesinde bulunuyor.
+
+Repo
+İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarında gecelik işlemler en düşük yüzde 4,01, en yüksek yüzde 7,52 ve ortalama yüzde 6,27&rsquo;den yapılıyor.
+
+Parite
+Uluslararası piyasalarda avro-dolar paritesi 1,3195, sterlin-dolar paritesi 1,5558, yen-dolar paritesi ise 82,65 düzeyinde seyrediyor.
+
+</TEXT>
+</DOC>

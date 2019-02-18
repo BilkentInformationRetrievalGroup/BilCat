@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1419398 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=60559245-f817-451a-8ac3-630631633df8 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 15:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+futbolda kurallar de��i��iyor mu?
+</HEADLINE>
+<TEXT>
+Futbol dünyasında gözler önümüzdeki hafta İsviçre'nin Zürih kentine çevrilecek.
+
+Gelecek hafta 13 şirket, Uluslararası Futbol Federasyonları Birliği FIFA&rsquo;nin merkezinde, futboldaki tartışmalı pozisyonlara bir çözüm olarak geliştirdikleri teknolojileri tanıtacak. 
+ Geçtiğimiz yıl, &quot;çipli top&quot; ve kale çizgisi teknolojilerinin futbola uygulanmasını şiddetle reddeden IFAB gibi FİFA başkanı Sepp Blatter de futbolda teknolojinin kullanılmasına karşı uzun süre direnmişti. Ancak, 2010 Dünya Kupası&rsquo;nda oynanan İngiltere-Almanya maçında İngiliz futbolcu Frank Lampard&rsquo;ın bariz golü verilmeyince, tartışmalar yeniden alevlenmiş, Blatter üzerindeki baskı da giderek artmıştı. 
+ UEFA başkanı Michel Platini&rsquo;nin aksine Blatter de artık futbolda teknolojinin kullanılmasını düşünüyor: &quot;İşe yarayacaksa, bu teknolojiyi kullanmalıyız&quot; diyen Blatter, IFAB&rsquo;ın da bu konuya sıcak baktığını bildirdi.
+ 5 Mart&rsquo;taki toplantıda, kale çizgisi teknolojisine alternatif olarak &quot;kale arkası hakem&quot; uygulaması da tekrar gündeme getirilecek. &quot;Kale arkası hakem&quot; uygulamasının 2012 Avrupa Kupası Finalleri&rsquo;nde yürürlüğe girmesi söz konusu. 
+ Toplantıda tartışılması planlanan bir diğer konu da, sahaya hayvan girmesi, oyuna ikinci topun sürülmesi ve yabancı nesnelerin atılması durumunda hakemlerin nasıl davranacağı.
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1386756 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=913d8d29-4fa1-462b-860a-18bf0d84fd0f </URL>
+<DATE> 2011/01/05 </DATE>
+<TIME> 16:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"yarg��lamalara tutuksuz devam edilecek"
+</HEADLINE>
+<TEXT>
+Adalet Bakanlığı, tartışılan tahliyelerle ilgili açıklama yaptı.
+
+
+Adalet Bakanlığı&rsquo;ndan tartışılan tahliyelerle ilgili açıklama yapıldı.
+
+    Bakanlıktan yapılan açıklamada, &quot;Yargılamalara tutuksuz devam edilecek olmasını af olarak değerlendirmek mümkün değildir.&quot; denildi.
+
+</TEXT>
+</DOC>

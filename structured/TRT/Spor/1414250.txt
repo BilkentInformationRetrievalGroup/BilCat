@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1414250 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=130c7cb7-9b90-45dd-9710-fc22865c0f5d </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 18:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ak��r'a uluslararas�� g��rev
+</HEADLINE>
+<TEXT>
+Cüneyt Çakır, İngiltere ile Gana arasında oynanacak hazırlık maçını yönetecek.
+
+FIFA kokartlı hakemlerden Cüneyt Çakır, 29 Mart 2011&rsquo;de İngiltere ile Gana arasında Londra&rsquo;daki Wembley Stadı&rsquo;nda oynanacak hazırlık maçını yönetecek.
+ İngiltere Futbol Federasyonu&rsquo;nun özel davet yazısı ile bu maça istediği Cüneyt Çakır&rsquo;ın yardımcılıklarını Bahattin Duran ve Tarık Ongun&rsquo;un yapacağı bildirildi.
+ İngiltere, FIFA dünya sıralamasında 6&rsquo;ncı sırada yer alırken, Gana 16. basamakta bulunuyor.
+</TEXT>
+</DOC>

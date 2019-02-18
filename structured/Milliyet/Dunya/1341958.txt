@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341958 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fcbb024/l/0l0smilliyet0n0btr0ceverest0eyakininda0ebinlerce0eturist0emahsur0ekaldi0cdunya0csondakika0c190b110b20a10a0c13159690cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 15:01:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+everest yak��n��nda binlerce turist mahsur kald��
+</HEADLINE>
+<TEXT>Dünyanın en yüksek zirvesi Everest yakınlarında kötü hava koşulları yüzünden 2 bin kadar yabancı turist dağda mahsur kaldı.Yetkililerin verdikleri bilgiye göre, turistlerle rehberleri, yoğun bulutlar ve rüzgar nedeniyle havayollarının uçuşları iptal etmeleri üzerine, Everest yakınındaki bir zirvenin 2800 metre eteğindeki Lukla köyünde 5 gündür mahsur kaldılar.Nepal ordusuna ait helikopterlerin bugün turistleri köyden tahliye etmeye başladıkları belirtildi.Her yıl bölgeyi binlerce turist ve dağcı ziyaret ediyor. Turistler bölgeye küçük uçaklarla ulaşıyor.</TEXT>
+</DOC>

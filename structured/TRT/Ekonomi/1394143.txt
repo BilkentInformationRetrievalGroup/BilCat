@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1394143 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b9e6970a-6708-494e-8be4-14f0ccefdbf8 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 12:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+almanya "oh"��ekti!
+</HEADLINE>
+<TEXT>
+ AB'nin güçlü ekonomisi Almanya, ekonomik krizi atlattı. Son verilere göre ülke, geçen yıl yüzde 3 virgül 6 büyüdü. 
+
+Almanya Federal İstatistik Dairesi, ekonomideki toparlanmaya gösteren bu rakamın, iki Almanya&rsquo;nın birleştiği 1990 yılından bu yana kaydettiği en yüksek büyüme oranı olduğunu açıkladı. 
+
+  Çin&rsquo;den sonra dünyanın ikinci büyük ihracatçısı olan Almanya durumunun iyileşmesinde, ihracatının ve iç talebinin güçlü biçimde artması etkili oldu.
+
+ Ülkede ithalat önceki yıla göre yüzde 9 virgül 4,  ihracatsa yüzde 14 virgül 2 oranında  arttı.
+
+  Bütçe açığı bakımındansa haberler bu kadar iyimser değil. Almanya&rsquo;nın bütçe açığı, gayri safi yurt içi hasılanın yüzde 3 buçuğuna çıktı.
+
+  Böylece, bütçe açığı son beş yılda ilk kez Avrupa Birliği&rsquo;nin belirlediği yüzde 3&rsquo;lük üst limiti geçti.
+
+
+</TEXT>
+</DOC>

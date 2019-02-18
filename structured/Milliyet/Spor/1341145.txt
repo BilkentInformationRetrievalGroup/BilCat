@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341145 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fc71676/l/0l0smilliyet0n0btr0ckocaman0ebayiltti0cspor0chaberdetay0c190b110b20a10a0c13158340cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:12:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kocaman bay��ltt��
+</HEADLINE>
+<TEXT>Teknik Direktör Aykut Kocaman yönetiminde salonda ve sahada olmak üzere iki bölüm halinde gerçekleştirilen idman 2,5 saat sürdü. Sakatlıkları ve rahatsızlıkları süren Emre Belözoğlu, Özer Hurmacı, Cristian Baroni ve Ertuğrul Taşkıran antrenmana çıkmazken, bu futbolcular tedavi ve çalışmalarını tesislerde devam etti. Güiza, bireysel oyuncu antrenörü Dolu Arslan eşliğinde salonda çalışırken, pas çalışmasının ardından takımdan ayrılan Selçuk Şahin de idmanı salonda tamamladı. Milli takımlardan dönen Gökhan Gönül, Volkan Demirel, Kazım ve Andre Santos rejenerasyon çalışması yaptı. </TEXT>
+</DOC>

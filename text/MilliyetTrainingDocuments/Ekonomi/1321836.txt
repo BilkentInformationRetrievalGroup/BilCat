@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321836 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f49c204/l/0l0smilliyet0n0btr0cturkiye0enin0eonemi0eartti0ekuresel0esatin0ealma0eagi0eturk0ebaskan0esecti0cekonomi0chaberdetay0c0a30b110b20a10a0c130a94920cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:00:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye���nin ��nemi artt��, k��resel ���sat��n alma��� a���� t��rk ba��kan se��ti
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİABD merkezli IMAP’te kararın oybirliğiyle alındığını belirten Başev, bu gelişmede Türkiye’nin performansı ve gelişmekte olan ülkelerin artan öneminin de etkili olduğunu söyledi.Başev, “Türkiye krizdeki performansıyla dünyanın ilgi odağı oldu. Seçildiğim bu pozisyon Türk şirketlerinin küresel itibarını da daha yukarıya taşıyacak. Tercihin nedeni şirket performansımızın yanı sıra Türkiye’ye duyulan güven” dedi.4 Türk yatırıma hazırBu yıl IMAP’de 10 milyar dolar civarı bir birleşme ve satın alma hacmi beklediklerini belirten Başev, Türkiye’nin de hareketli bir yatırım piyasasına dönüştüğünü kaydederek şunları söyledi:“IMAP olarak son 10 yılda 2 bin şirketin birleşme ve satın almasında rol oynadık. Bizim başkanlığımızda gelişmekte olan ülkelere yayılacağız. İlk hedef Rusya ve Ukrayna’ya girmek. Birleşme ve satın almalar bu yıl Türkiye’de 2009’a göre yüzde 40 arttı. 3 Seas olarak bugüne dek Türkiye’de 42 ortaklığa danışmanlık hizmeti verdik. TeliaSoneria’nın AzerCell yatırımı, Fiba’nın Kumport’u alması gibi girişimlerde biz varız. Şu an Hırvatistan’da ilaç, İspanya’da ambalaj, İngiltere’de sağlık ve Mısır’da finans yatırımına hazırlanan 4 Türk firmasına danışmanlık yapıyoruz. Amerikalı bir firma da Türkiye’de teknoloji alanında bir ortaklık gerçekleştirecek.” Sistem nasıl işliyor?Merkezi Florida’da olan IMAP, şu şekilde çalışıyor: Örneğin bir Türk firması yabancı bir ortak bulmak istediğinde, IMAP ağının Türk ortağı olan 3 Seas’e başvuruyor. 3 Seas ise 30 ayrı ülkedeki ortaklarına, Türk şirketin isteklerini anlatıyor. Tüm ortaklar kendi ülkelerindeki uygun adaylarla temasa geçiyor. Yabancı firmalar Türkiye’ye yatırım yapmak istediğinde de sistem benzer bir şekilde işliyor.En yeni konut projelerinin adresi burası.</TEXT>
+</DOC>

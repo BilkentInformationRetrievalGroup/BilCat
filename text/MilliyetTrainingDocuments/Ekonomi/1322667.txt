@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322667 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4dbadc/l/0l0smilliyet0n0btr0ckredi0ekarti0emusterilerine0esahte0einternet0esitesi0euyarisi0cekonomi0csondakika0c0a30b110b20a10a0c130a96640cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:00:48.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kredi kart�� m����terilerine sahte internet sitesi uyar��s��
+</HEADLINE>
+<TEXT>Türkiye Bankalar Birliği (TBB), kredi kartı müşterilerine yönelik olarak açılan sahte internet sitelerine ilişkin uyarıda bulundu.TBB’nin duyurusunda, son günlerde TBB’nin adı kullanılarak banka müşterilerinin kredi kartı borçlarını öğrenebileceklerini belirten sahte internet siteleri açıldığı kaydedildi.Kredi kartı sahiplerini dolandırmayı amaçlayan bu tür internet siteleri ile TBB’nin ve bankaların bir ilgisi olmadığı ve söz konusu sahte internet sitelerine yönelik gerekli hukuki girişimlerde bulunulduğu bildirildi.Bu konuda 29 Eylül 2010 tarihinde bir kamuoyu duyurusu yapıldığı hatırlatılan açıklamada, şunlar kaydedildi: "İyi niyetli olmayan girişimlerin devam etmesi nedeniyle kamuoyuna bir kez daha bilgi verilmesi gerekli görülmüştür. Kredi kartı sahiplerinin borçları da dahil olmak üzere bilgi alabilecekleri tek yer kredi kartını aldıkları kuruluşlardır. Bunun haricinde başka bir yerden kart borcunu öğrenmek mümkün değildir.Kredi kartı bilgilerinin ve kişisel bilgilerin elde edilmesine yönelik olarak açılan bu tür internet sitelerine girilmemesi ve talep edilen bilgilerin doldurulmaması olası dolandırıcılık eylemlerine maruz kalınmaması açısından büyük önem arz etmektedir."</TEXT>
+</DOC>

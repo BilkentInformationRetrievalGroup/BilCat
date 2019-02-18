@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342606 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea48/l/0l0smilliyet0n0btr0csira0egeldi0egalatasaray0ea0cspor0chaberdetay0c20a0b110b20a10a0c13161620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+s��ra geldi galatasaray���a
+</HEADLINE>
+<TEXT>Son beş sezondur Beşiktaş'ı 6, Fenerbahçe'yi de 4 kez yenen Anadolu'nun sarı-kırmızılı ekibi, Galatasaray karşısında ise galibiyete hasret kaldı. Kayserispor, bu süreçte rakibiyle 13 maç yaptı, bunlardan 5 beraberlik elde edebildi.</TEXT>
+</DOC>

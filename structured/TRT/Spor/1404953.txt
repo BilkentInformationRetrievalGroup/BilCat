@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1404953 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=25cc0b78-283d-4556-a8a2-80d08a98de32 </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 15:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+nadal, murray ve soderling 4. turda
+</HEADLINE>
+<TEXT>
+Avustralya Açık Tenis Turnuvası'nda erkeklerde 3. tur karşılaşmaları tamamlandı.
+
+
+Turnuvanın 1 numaralı seri başı İspanyol Rafael Nadal, Avustralyalı rakibi Bernard Tomic&rsquo;i 3-0 mağlup ederek 4. tura çıktı.
+
+İlk seti zorlanmadan 6-2 alan Nadal, 4-0 geriye düştüğü 2. seti de 7-5 kazandı. İspanyol raket, 3. seti de 6-3 kazanarak karşılaşmadan 3-0 galip ayrıldı. Rafael Nadal, 4. turda Hırvat Marin Cilic ile karşılaşacak.
+
+Turnuvanın 4 numaralı seri başı İsveçli Robing Soderling de Çek rakibi Jan Hernych&rsquo;i 3-0 yenerek 4. tura yükselen taraf oldu. Soderling, setleri 6-3, 6-1 ve 6-4 kazandı. İsveçli raket 4. turda Ukraynalı Alexandr Dolgopolov ile karşı karşıya gelecek. 
+
+5 numaralı seri başı İskoç Andy Murray de İspanyol rakibi Guillermo Garcia-Lopez&rsquo;i kolay geçti. Rakibine 3 sette sadece 4 oyun veren Murray karşılaşmayı 6-1, 6-1 ve 6-2&rsquo;lik setlerle 3-0 kazandı. Murray, 4. turda Avusturyalı Jurgen Melzer&rsquo;in rakibi oldu.
+
+Erkeklerde 3. tur 2. gün toplu sonuçları şöyle:
+Rafael Nadal (İspanya) - Bernard Tomic (Avustralya):3-0 (6-2, 7-5, 6-3)
+Marin Cilic (Hırvatistan) - John Isner (ABD):3-2 (4-6, 6-2, 6-7, 7-6, 9-7)
+Milos Raonic (Kanada) - Mikhail Youzhny (Rusya):3-1 (6-4, 7-5, 4-6, 6-4)
+David Ferrer (İspanya) - Richard Berankis (Litvanya): 3-0 (6-2, 6-2, 6-1)
+Robin Soderling (İsveç) - Jan Hernych (Çek C.): 3-0 (6-3, 6-1, 6-4)
+Alexandr DolgoPolonyaov (Ukrayna) - Jo-Wilfried Tsonga (Fransa): 3-2 (3-6, 6-3, 3-6, 6-1, 6-1)
+Andy Murray (İngiltere) - Guillermo Garcia-Lopez (İspanya):3-0 (6-1, 6-1, 6-2)
+Jurgen Melzer (Avusturya) - Marcos Baghdatis (Kıbrıs Rum k.):  Baghdatis çekildi (6-7, 6-2, 6-1, 4-3)
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320886 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f46aad3/l/0l0smilliyet0n0btr0cgalatasaray0eda0etaffarel0eziyareti0cspor0csondakika0c0a20b110b20a10a0c130a92840cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:16:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+galatasaray'da taffarel ziyareti
+</HEADLINE>
+<TEXT>Galatasaray’ın unutulmaz kalecilerinden Claudio Taffarel, bugün Florya Metin Oktay Tesisleri’nde sarı-kırmızılı takımı ziyaret etti.Özel işleri nedeniyle Türkiye’de bulunan Taffarel, sabah antrenmanı sırasında, eski takım arkadaşları ve diğer Galatasaraylı futbolcularla bir araya geldi.Taffarel, Galatasaray’da forma giydiği dönemden takım arkadaşı olan Gheorghe Hagi ve vatandaşı Elano Blumer ile de bir süre sohbet etti.</TEXT>
+</DOC>

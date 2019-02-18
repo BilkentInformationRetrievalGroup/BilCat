@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1392235 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9dbc5e6b-917d-4bca-9867-3e4db44703bd </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 18:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+piyasalar g��n�� nas��l kapatt��?
+</HEADLINE>
+<TEXT>
+Borsa günü 67 bin 874 puandan tamamladı.
+
+İstanbul Borsası, yurt dışı piyasalara paralel olarak haftaya düşüşle başladı. İMKB Ulusal-100 Endeksi haftanın ilk işlem gününü 895 puan azalarak 67 bin 874 puandan kapattı. Dolar ise yükselişini sürdürüyor.
+
+Hisse senetleri günlük ortalama yüzde 1,30 oranında değer yitirdi. 
+
+Avrupa&rsquo;da borç sorununun devamına yönelik kaygıların &quot;Avro-Dolar paritesi&quot; üzerinde yarattığı baskı iç piyasaya da yansıyor. 
+   
+Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 4 kuruştan işlem gördü.
+
+Uluslararası piyasalarda altının ons fiyatı bin 372 dolar olurken  Kapalıçarşı&rsquo;da Cumhuriyet altını 464 liradan alıcı buldu. 
+
+    Dünya Borsaları
+Asya ve Uzakdoğu piyasalarında karışık bir tablo vardı. Avrupa borsalarında ise değer kayıpları yaşandı. New York Borsası düşüşle açıldı.
+
+
+
+</TEXT>
+</DOC>

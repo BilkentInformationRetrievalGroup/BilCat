@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322680 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4e7588/l/0l0smilliyet0n0btr0cahmedinejad0etan0erusya0eya0eagir0esuclama0cdunya0csondakika0c0a30b110b20a10a0c130a96860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:01:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ahmedinejad'tan rusya'ya a����r su��lama
+</HEADLINE>
+<TEXT>İran Cumhurbaşkanı Mahmud Ahmedinejad, S-300 uçaksavar füzelerini satmaktan vazgeçen Rusya’yı "şeytana" teslim olmakla suçladı.Rusya Devlet Başkanı Dimitriy Medvedev, BM’nin yaptırım kararını gerekçe göstererek haziranda çıkardığı kararnameyle S-300 sistemlerinin İran’a satışını yasaklamıştı.Ahmedinejad, bugün devlet televizyonunda yayınlanan açıklamasında, Tahran’ın 2007’de Moskova ile imzaladığı anlaşmanın geçerli olduğunu belirterek, Rusya’nın anlaşmayı tek taraflı ihlal etmesi yüzünden tazminat ödemesi gerektiğini söyledi.</TEXT>
+</DOC>

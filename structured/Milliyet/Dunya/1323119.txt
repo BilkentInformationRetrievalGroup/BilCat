@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323119 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4efaa0/l/0l0smilliyet0n0btr0cendonezya0eda0e60ebuyuklugunde0edeprem0cdunya0csondakika0c0a30b110b20a10a0c130a97170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:01:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+endonezya'da 6 b��y��kl������nde deprem
+</HEADLINE>
+<TEXT>Endonezya’nın doğu kıyısı açıklarında bugün 6 büyüklüğünde bir deprem meydana geldi.Bir yetkili, gelen ilk bilgilere göre can ve mal kaybı olmadığını belirtti.Yetkili, depremin merkez üssünün Batı Papua bölgesindeki Kaimana kentinin 106 kilometre güneydoğu kesiminde, 50 kilometre derinlikte olduğunu kaydetti.Amerikan Jeolojik Araştırma Kurumu da, bu bölgede 29 kilometre derinlikte 6,1 büyüklüğünde bir deprem olduğunu açıkladı.</TEXT>
+</DOC>

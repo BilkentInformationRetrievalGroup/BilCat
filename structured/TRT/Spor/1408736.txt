@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1408736 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8cb28fdc-cc04-4971-b60f-9837a451410d </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 10:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+murray, yar�� finaldeki rakibini bekliyor
+</HEADLINE>
+<TEXT>
+Nadal-Ferrer maçının galibi, yarı finalde Murray'in rakibi olacak.
+
+Avustralya Açık Tenis Turnuvasında, tek erkeklerde Büyük Britanya&rsquo;dan Andy Murray, çeyrek finalde Ukrayna&rsquo;lı Aleksandr Dolgopolov ile karşılaştı. 
+Seri başı olmadan çeyrek finale yükselmeyi başaran tek tenisçi olan Dolgopolov, Murray karşısında iyi bir mücadele sergiledi. Murray, karşılaşmanın setlerini 7/5 6/3 6/7 ve 6/3 alarak yarı finale yükseldi.
+Andy Murray, yarı finalde iki İspanyol tenisçiyi karşı karşıya getiren maçın galibi ile oynayacak. 
+Rafael Nadal ile David Ferrer şu sıralarda çeyrek final mücadelesi yapıyor.
+Tek erkeklerde yarı final karşılaşmaları, Cuma günü yapılacak.
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1435432 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1bca20a2-72b1-4696-81dd-8249db01bd10 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 10:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ampiyonlar liginde heyecan
+</HEADLINE>
+<TEXT>
+Avrupa Şampiyonlar Ligi'nde  2. tur heyecanı yarın ve Çarşamba günü 4 maçla devam edecek. Hamit Altıntop'lu Bayern Münih, İnter karşısında.
+
+Avrupa Şampiyonlar Ligi&rsquo;nde 2. tur heyecanı, yarın ve çarşamba günü oynanacak ilk maçlarla devam edecek. 
+Danimarka temsilcisi Kopenhag, yarın İngiliz Chelsea&rsquo;yi konuk edecek. İspanya&rsquo;nın güçlü takımlarından Real Madrid ise, deplasmanda Fransa&rsquo;nın Lyon takımıyla karşılaşacak. 
+Çarşamba günü ise İtalya&rsquo;nın İnter takımı, milli futbolcu Hamit Altıntop&rsquo;lu Bayern Münih&rsquo;i ağırlayacak. Günün ikinci maçında Fransız temsilci Marsilya da Manchester United&rsquo;ı konuk edecek. 
+Yarın ve Çarşamba günü oynanacak 4 maç da saat 21.45&rsquo;te başlayacak.  Bu maçların rövanşları 15 ve 16 Mart tarihlerinde yapılacak.
+
+ 
+
+</TEXT>
+</DOC>

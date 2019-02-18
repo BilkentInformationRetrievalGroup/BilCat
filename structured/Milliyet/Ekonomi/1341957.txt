@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341957 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fcb28a8/l/0l0smilliyet0n0btr0cirlanda0edis0eyardima0eihtiyac0eoldugu0ecok0eacik0e0cekonomi0csondakika0c190b110b20a10a0c13159430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 15:00:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+irlanda: 'd���� yard��ma ihtiya�� oldu��u ��ok a����k'
+</HEADLINE>
+<TEXT>AB ve Uluslararası Para Fonu’ndan (IMF) gelecek bir yardıma İrlanda’nın ihtiyacı olmadığını defalarca söyleyen İrlanda hükümeti, sonunda dış yardıma ihtiyacı olduğunu kabul etti. İrlanda Maliye Bakanı Brian Lenihan, "Bankacılık sektöründeki sorunları çözmek için dış yardıma ihtiyaç olduğu çok açık" dedi.İrlanda Başbakan Yardımcısı Mary Coughlan ise Avrupa Birliği (AB) ortalamasının oldukça altında olan İrlanda’daki yüzde 12,5’lik kurumlar vergisinin "müzakere edilemeyeceğini" bildirdi. Coughlan, kurumlar vergisini artırmayacaklarını ifade etti.İrlanda’da kurumlar vergisinin düşük olması, ülkeye yabancı yatırımlar açısından çok fazla avantaj sağladığı gerekçesiyle birçok AB ülkesi tarafından eleştiriliyor.Ekonomistler, İrlanda’nın sadece dışarıdan gelecek yardıma dayanmasına izin verilmemesi, bunun yanı sıra kamu gelirlerini artırmak için kurumlar vergisinin de artırılması gerektiğini tartışıyorlar.Lenihan, İrlanda’nın sorununun çok borçlu bankacılık sisteminden kaynaklandığını, banka kurtarmaların maliyetinin 45 milyar avroyu (60,1 milyar dolar) bulduğunu belirterek, bankacılık sistemini istikrara kavuşturmak için dış yardım almak gerektiğini kaydetti.</TEXT>
+</DOC>

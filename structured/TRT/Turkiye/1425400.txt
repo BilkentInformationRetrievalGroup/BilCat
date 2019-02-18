@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1425400 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=837420e4-6fe2-44fc-85ee-4fb8055347c1 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 11:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��zcan, ka��maz'�� hsyk'ya ��ikayet etti
+</HEADLINE>
+<TEXT>
+YÖK Başkanı Yusuf Özcan, Sincan 1'inci Ağır Ceza Mahkemesi Başkanı Osman Kaçmaz'ı HSYK'ya şikayet etti.
+
+YÖK Başkanı Yusuf Ziya Özcan, Kaçmaz&rsquo;ın görevini doğru ve tarafsız yapamayacağı kanısını uyandırdığını ve hakkında disiplin soruşturması açılarak gereğinin yapılmasını istediğini belirtti.
+    
+Sincan 1&rsquo;inci Ağır Ceza Mahkemesi Başkanı Osman Kaçmaz,  YÖK Başkanının üniversitelere gönderdiği başörtüsü genelgesi ile ilgili olarak kovuşturmaya yer olmadığına dair kararı kaldırmış ve soruşturma açılmasına karar vermişti.
+
+</TEXT>
+</DOC>

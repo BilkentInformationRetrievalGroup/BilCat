@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1392724 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a7f8d75d-48bc-48f0-81ce-68e9dcfcfb22 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 10:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cari a������������k 5 milyar 933 milyon
+</HEADLINE>
+<TEXT>
+Türkiye'nin ödemeler dengesi bilançosuna göre, geçen yıl Ocak-Kasım döneminde cari işlemler açığı 41 milyar 630 milyon dolara ulaştı.  
+
+Kasım ayında ise cari açık 5 milyar 933 milyon dolar oldu. 
+</TEXT>
+</DOC>

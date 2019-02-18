@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342516 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fcee838/l/0l0smilliyet0n0btr0csign0eistanbul0e20a10a0eda0ereklamcilar0ebulusuyor0cekonomi0chaberdetay0c20a0b110b20a10a0c13160a930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:00:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sign istanbul 2010'da reklamc��lar bulu��uyor
+</HEADLINE>
+<TEXT>Fuar 2010 yılında 30 farklı ülkeden 400 katılımcı şirket ve temsilcilik ile 17 bin profesyonel ziyaretçiyi buluşturmayı hedefliyor. Fuarı düzenleyen İFO İstanbul Fuar Genel Müdür Yardımcısı Zekeriya Aytemur, satın alma kararlarını veren tüketici, firma sahibi ve departman temsilcilerinin fuarda yer alacağına dikkat çekti. Uluslararası otoritelerle konferanslar, çözüm sunumları, uygulama eğitimleri bu yıl “Bilginin kilit taşı” sloganı ile düzenlenen Sign Istanbul 2010’da yer alacak.</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1420934 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c8f7c9fb-1731-424b-a811-6c5a773ac124 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 11:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��nl�� gitarist ya��ama veda etti
+</HEADLINE>
+<TEXT>
+Türkiye'de de yakından takip edilen ünlü gitarist Gary Moore İspanya'da yaşamını yitirdi. 
+
+58 yaşındaki Moore, 1968&rsquo;da Dublin&rsquo;de rock- blues yapan Skid Row grubunu kurmuş, ardından Thin Lizzy, Jack Bruce ve Ginger Baker (Cream), Greg Lake, Cozy Powell, George Harrison, Ozzy Osbourne, blues yıldızları B.B. King, Albert King ve Albert Collins gibi önemli isimlerle çalışmıştı.
+</TEXT>
+</DOC>

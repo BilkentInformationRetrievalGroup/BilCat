@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339565 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fbc6d18/l/0l0smilliyet0n0btr0cbayramin0eaci0ebilancosu0egiderek0eartiyor0cturkiye0csondakika0c170b110b20a10a0c131540a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 19:09:51.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bayram��n ac�� bilan��osu giderek art��yor
+</HEADLINE>
+<TEXT>Kurban Bayramı’nın ikinci günü yurt genelinde meydana gelen trafik kazalarında 7 kişi öldü, 59 kişi yaralandı.AA muhabirinin derlemelerine göre, saat 18.00’e kadar yurt genelinde meydana gelen 19 ayrı kazada 7 kişi hayatını kaybetti. Kazalarda yaralanan 59 kişi ise çeşitli hastanelerde tedavi altına alındı.Bayram tatilinin ilk gününden bu yana trafik kazalarında ölenlerin sayısı 79’e yükselirken, yaralıların sayısı ise 363 oldu.Güvenli sürüşün sırlarını öğrenmek için tıklaYorum yaz</TEXT>
+</DOC>

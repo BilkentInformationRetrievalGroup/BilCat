@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1424477 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3d616459-d3b3-4424-a18b-e361f2b12f53 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 15:00:44.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+balina kurtarma operasyonu
+</HEADLINE>
+<TEXT>
+Meksika'da Balıkçı ağlarına dolanan kambur balina büyük çabalar sonucu ölümden kurtarıldı. 
+
+
+     Kambur balina Los Cabos Meksika sularının tadını çıkarıyordu ki, kuyruğu balıkçı ağlarına takıldı. 
+
+     Üstelik kurtulmaya çalıştıkça daha da ağlara sarıldı. 
+
+     Bölgedeki altı dalgıç 8 metre uzunluğunda 30 tonluk balinayı kurtarmak için çalışmalarına başladı.
+
+     30 dakika süren operasyonda, balıkçı ağlarını kesen dalgıçlar balinayı kurtarmayı başardı.
+
+     Kambur balinanın kuyruğunda kesikler oluştuğu için, birkaç gün gözlem altında tutulacak. Ardından da Meksika sularında yeniden özgürlüğün tadını çıkaracak. 
+</TEXT>
+</DOC>

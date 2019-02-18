@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1424907 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fee044d4-8b71-4908-925d-709f66f236a1 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 22:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ziraat bankas�� ve be��ikta��'tan veda
+</HEADLINE>
+<TEXT>
+CEV Kupası’ndaki temsilcilerimiz Ziraat Bankası ve Beşiktaş, rakiplerine yenilerek kupaya son noktayı koydu.
+
+CSKA Sofya takımına CEV Kupası’ndaki ilk maçında kaybeden Ziraat Bankası Ankara’daki ikinci maçta rakibini 3-0 yendi. Oynanan altın seti 19-17 kaybeden Ziraat Bankası kupadan elendi.
+ Beşiktaş Bayan Voleybol Takımı ise CEV Cup 3. Tur 2. maçında, İtalya&rsquo;nın Chateau d&rsquo;Ax Urbino takımına 3-0 yenilerek kupadan elendi.
+ Beşiktaş, rakibine ilk maçta da deplasmanda 3-1 mağlup olmuştu.
+</TEXT>
+</DOC>

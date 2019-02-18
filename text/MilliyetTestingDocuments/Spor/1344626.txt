@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344626 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd80d95/l/0l0smilliyet0n0btr0cterim0ekomsu0eyolunda0cspor0csondakika0c210b110b20a10a0c1316590a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 17:13:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+terim kom��u yolunda
+</HEADLINE>
+<TEXT>Milli Takım’daki görevini bırakmasının ardından hiçbir takımın başına geçmeyen Terim’in, kötü sonuçların ardından Nikos Nioplias ile yollarını ayıran Panathinaikos’un teklifine sıcak baktığı öne sürüldü.Ligde alınan başarısız sonuçlar üzerine Nioplias’ın istifası sonrası hoca arayışlarını sürdüren Panathinaikoslu yöneticilerin Terim ile masaya oturduğu ve aradaki ufak pürüzlerin halledilmesi sonrası anlaşma sağlanacağı belirtildi.(hürriyet)</TEXT>
+</DOC>

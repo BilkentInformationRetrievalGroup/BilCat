@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327401 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5f3e58/l/0l0smilliyet0n0btr0cpakistan0eda0ebombali0esaldirida0eolu0esayisi0e40a0ea0eyukseldi0cdunya0csondakika0c0a50b110b20a10a0c1310a6310cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:02:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+pakistan'da bombal�� sald��r��da ��l�� say��s�� 40'a y��kseldi
+</HEADLINE>
+<TEXT>Pakistan’ın kuzeybatısındaki bir camiye düzenlenen bombalı saldırıda ölenlerin sayısının 40’a yükseldiği bildirildi.Şahid Ullah adlı yetkili, Peşaver kenti yakınlarındaki Darra Adam Hel bölgesinde bir Sünni camisine cuma namazı sırasında yapılan saldırıyı bir intihar komandosunun düzenlediğini söyledi.Olayda onlarca kişi yaralanırken, saldırıdan sonra caminin yıkıldığı belirtildi.</TEXT>
+</DOC>

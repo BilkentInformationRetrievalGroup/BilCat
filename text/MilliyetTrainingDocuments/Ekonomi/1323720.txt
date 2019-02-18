@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323720 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298e3/l/0l0smilliyet0n0btr0ctbb0euyardi0esahte0esitelere0edikkat0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99660cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:01:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tbb uyard��: sahte sitelere dikkat
+</HEADLINE>
+<TEXT>TBB’den yapılan açıklamada, Türkiye Bankalar Birliği’nin adı kullanılarak banka müşterilerinin “kredi kartı borçları”nı öğrenebileceklerini belirten sahte internet siteleri açıldığı, kredi kartı sahiplerini dolandırmayı amaçlayan bu tür internet siteleriyle TBB’nin ve bankaların bir ilgisi bulunmadığı duyuruldu. Kredi kartı sahiplerinin borçları da dahil olmak üzere bilgi alabilecekleri tek yerin, kartın alındığı kuruluş olduğunun altı çizilen açıklamada şöyle denildi: “Bunun haricinde başka bir yerden bilgi almak mümkün değil. Kredi kartı bilgilerinin elde edilmesine yönelik olarak açılan bu tür internet sitelerine girilmemesi ve talep edilen bilgilerin doldurulmaması olası dolandırıcılık eylemlerine maruz kalınmaması açısından büyük önem arz etmektedir.”Konut kredisi için bankaya gitmeyin.</TEXT>
+</DOC>

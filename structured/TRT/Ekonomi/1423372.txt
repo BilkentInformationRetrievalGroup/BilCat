@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 1423372 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b7f0146f-2382-4d77-8039-b1c2a9099189 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 13:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+imkb ilk seansta % 0,58 y��kseldi
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi ilk seansı 381 puan artarak 65 bin 635 puandan tamamladı.
+
+Hisse senetleri günün ilk yarısında ortalama yüzde sıfır virgül 58 oranında değer kazandı. 
+
+     Serbest piyasada Amerikan Doları 1 lira 59 kuruş, Avro ise 2 lira 16 kuruştan işlem görüyor.
+
+     Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8 virgül 63 seviyesinde bulunuyor.
+
+     Uluslararası piyasalarda altının ons fiyatı bin 362 dolar. 
+
+     Kapalıçarşı&rsquo;da Cumhuriyet altını 463 liradan alıcı buluyor. 
+
+    
+ Dünya Borsalarında Durum
+     
+     New York Borsası&rsquo;nda dün Dow Jones Sanayi endeksi yüzde sıfır virgül 58, teknoloji göstergesi Nasdaq yüzde sıfır virgül 46&rsquo;lık artış kaydetti.
+     
+     Çin Merkez Bankası&rsquo;nın faizleri çeyrek baz puan arttırmasının ardından Asya Pasifik piyasalarında  değer kayıpları ön planda.
+
+     Avrupa borsaları ise karışık yatay bir seyir izliyor.
+
+</TEXT>
+</DOC>

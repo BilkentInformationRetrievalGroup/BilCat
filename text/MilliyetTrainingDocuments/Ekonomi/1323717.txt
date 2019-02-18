@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323717 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298e7/l/0l0smilliyet0n0btr0c0eirlanda0eyunanistan0ea0edoner0emi0ekorkusu0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:01:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���irlanda yunanistan���a d��ner mi?��� korkusu
+</HEADLINE>
+<TEXT>BRÜKSEL AAEkonomik ve parasal işlerden sorumlu AB Komisyonu Üyesi Olli Rehn, gelecek hafta başında Dublin’i ziyaret ederek parlamento gündemindeki 15 milyar euro’luk kemer sıkma paketi için destek isteyecek.İrlanda’da paketin oylaması öncesinde iktidar kanadından bir milletvekilinin istifa etmesi, hükümetle muhalefet arasındaki sandalye farkını 3’e düşürdü. Kamuoyunda büyük tepki çeken paketin reddedilmesi halinde piyasalar tarafından ağır bir şekilde cezalandırılması beklenen İrlanda’nın, Euro Bölgesi’nin, Uluslararası Para Fonu’nun da (IMF) katkısıyla oluşturduğu 750 milyar euro’luk kurtarma fonuna başvurma seçeneğini değerlendireceği belirtiliyor.   </TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1392730 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9975c5e8-59fa-43ff-ad02-482b7cec78e1 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 10:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otomobil sat������������lar������nda tarihi rekor
+</HEADLINE>
+<TEXT>
+Otomobil satışlarıyla ilgili rakamlar açıklandı. Rakamlara göre, otomobil satışlarında tarihi rekora ulaşıldı.
+
+Otomotiv Distribütörleri Derneği (ODD) verilerine göre, 2010 yılı Aralık ayında, geçen yılın Aralık ayına göre otomobil satışları yüzde 73,95 oranında artarak 99 bin 461 adet olarak gerçekleşti.
+
+Böylece 2010&rsquo;da otomobil satışları 509 bin 784 adetle tarihin en yüksek rakamına ulaştı.
+
+Bundan önceki rekor 466 bin 748 adetle 2000 yılında gerçekleşmişti. 
+
+2010&rsquo;da bu rekor 43 bin 36 aşılmış oldu.
+
+</TEXT>
+</DOC>

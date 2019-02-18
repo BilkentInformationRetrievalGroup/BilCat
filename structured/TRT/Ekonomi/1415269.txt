@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1415269 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2a841779-ba7a-45c9-aeb3-0bf94d45ea5a </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 18:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+piyasalarda m��s��r ��okunu atlatma ��abas��
+</HEADLINE>
+<TEXT>
+Dünya piyasaları, Mısır'daki olayların tedirginliği üzerinden atma çabasında. Borsalar tepki alımlarıyla yönünü yukarı çevirdi. İMKB 1544 puan artı.
+
+Dünya piyasaları, Mısır&rsquo;daki olayların tedirginliğini üzerinden atma çabasında... Borsalar tepki alımlarıyla yönünü yukarı çevirdi.
+
+İstanbul Borsası Ulusal-100 Endeksi haftanın ikinci işlem gününü, bin 544 puan artarak 64 bin 822 puandan tamamladı. Hisse senetleri günlük ortalama yüzde 2,44 değer kazandı. Serbest piyasada Amerikan Doları 1 lira 58 kuruşa, Avro ise 2 lira 18 kuruşa indi.
+
+Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,12 seviyesine geriledi.
+
+Uluslararası piyasalarda altının ons fiyatı, bin 330 dolar olurken Kapalıçarşı&rsquo;da Cumhuriyet altını 452 liradan alıcı buldu. 
+
+Mısır&rsquo;daki olayların etkisiyle geçen hafta sert düşüşlerin yaşandığı borsalara tepki alımları gelmeye başladı.
+
+Asya Pasifik piyasaları ve Avrupa borsalarındaki artı kapanışların ardından New York Borsası da yükselişle açıldı.
+</TEXT>
+</DOC>

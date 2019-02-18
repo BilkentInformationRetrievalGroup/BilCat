@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341146 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fc71675/l/0l0smilliyet0n0btr0ckaleci0earaniyor0e0cspor0chaberdetay0c190b110b20a10a0c13158350cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:12:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kaleci aran��yor!
+</HEADLINE>
+<TEXT>Serkan’ın antrenmanlarda Volkan’ı zorlayacak bir görüntü çizemediği ve bu yüzden fazla forma şansı bulamadığı öğrenilirken, son Ankaragücü kupa maçında yediği hatalı gollerle iyice gözden düştüğü belirlendi. Teknik Direktör Kocaman’ın devre arasında takıma yeni bir yedek kaleci transferi düşündüğü, büyük umutlarla kadroya dahil edilen Serkan Kırıntılı ile sezon sonunda yolların ayrılabileceği ifade edildi.</TEXT>
+</DOC>

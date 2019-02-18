@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1401989 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c597009e-5d65-4361-a3db-c5e82e432c91 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 19:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+real madrid'den federasyona su��lama
+</HEADLINE>
+<TEXT>
+Real Madrid Kulübü, İspanya Futbol Federasyonu'nu (RFEF), teknik direktör Jose Mourinho karşıtı hakemleri kendi maçlarına vermekle suçladı.
+
+
+RFEF, Kral Kupası çeyrek final rövanş maçlarının hakemleriyle ilgili internetteki resmi sitesinde yayınladığı yazısında, Atletico Madrid-Real Madrid maçına verilen hakem Delgado Ferreiro&rsquo;nun sakatlığı dolayısıyla değiştirildiğini ve yerine Javier Turienzo&rsquo;nun görev yapacağını bildirdi. Ancak RFEF, bunu duyururken, &quot;Turienzo, son aylarda hakemler tarafından kendisine ön yargılı davranıldığını düşünen Mourinho&rsquo;nun dikkatli bakışları altında düdük çalacak&quot; 
+ifadesini kullandı.
+
+İspanyol basınının gündeme getirip, konunun büyümesi üzerine, Real Madrid Kulübü yazılı bir açıklama yaparken, söz konusu ifadelerden &quot;üzüntü ve büyük rahatsızlık&quot; duyduğunu dile getirdi. RFEF&rsquo;in &quot;objektiflik, tarafsızlık, denge kurmaktan uzak olduğunu, Real Madrid kulübüne, teknik direktörüne ve taraftarına saygısızlık ettiğini&quot; savunan Real Madrid, teknik direktörleri Mourinho&rsquo;nun imajının bu şekilde kullanılmasına asla müsaade etmeyeceğini 
+kaydetti.
+
+Bu arada tüm bu polemiklerin ardında, La Liga&rsquo;da son oynanan ve 1-1 berabere sona eren Almeria-Real Madrid maçı sonrasında, teknik direktör Jose 
+Mourinho&rsquo;nun, iki penaltıyı vermediği gerekçesiyle maçın hakemi Perez Lasa&rsquo;yı 
+suçlayan sözlerinin yattığı söyleniyor. Mourinho, düzenlediği basın toplantısında, &quot;İspanyol hakemlere karşı olduğum söylenemez. Ama eğer samimi biri varsa Almeria maçından sonra polemik olmadığını, ancak çalınmayan iki penaltı olduğunu söylemeli. Benim hakemlerin samimiyetlerinden şüphem yok ama açık şeyler var. Bu polemik değildir. Polemik, olmayan şeyler varmış gibi gösterildiğinde olur. Bir hakem alçak gönüllü olmalı: (İki penaltı oldu ve ben hata yaptım) diyebilmeli&quot; diye konuştu
+</TEXT>
+</DOC>

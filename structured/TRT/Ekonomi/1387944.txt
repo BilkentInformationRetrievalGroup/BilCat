@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1387944 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b0cd3b93-e207-4d4f-ab96-2d6b79417e1a </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 14:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��ik'ten enflasyon sepeti a����klamas��
+</HEADLINE>
+<TEXT>
+Türkiye İstatistik Kurumu, enflasyon sepetinde yer alan ürünlerle ilgili eleştirilere cevap verdi. 
+
+TÜİK, sepette olmadığı öne sürülen ürünlerin sepetteki ağırlıklı ürünler arasında yer aldığına dikkat çekti.
+
+Enflasyon Sepeti İle İlgili Zorunlu Açıklama başlığı altında yapılan duyuruda, enflasyon sepetinin, hane halklarının tüketiminde ağırlık kazanan ürünlerin dahil edilmesi ve ağırlığını yitiren ürünlerin çıkarılması suretiyle her yıl güncellendiği ifade edildi.
+
+Açıklamada, ürünlerin hane halklarının yaptığı harcamalar oranında temsil edildiği  bildirilerek en ağırlıklı ürünlerden bazılarının kira, elektrik, ekmek, otomobil, et, tüp, dolmuş ücreti, benzin, doğalgaz ve sigara olduğu kaydedildi. 
+
+Buna karşın, flüt, lens, epilasyon cihazı, MP3 çalar, cips, veteriner ücreti, bulaşık bezi gibi ürünlerin toplam ağırlığının yüzde 1 bile  olmadığı bildirildi.
+</TEXT>
+</DOC>

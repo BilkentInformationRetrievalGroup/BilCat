@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338129 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fb5b8ad/l/0l0smilliyet0n0btr0cvideo0eoyunu0eyuzunden0eannesini0eoldurdu0cdunya0csondakika0c170b110b20a10a0c131530a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:02:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+video oyunu y��z��nden annesini ��ld��rd��
+</HEADLINE>
+<TEXT>Yonhap Ajansının haberine göre, polis evde 43 yaşındaki anne ile kendini asan oğlunun cesetlerini buldu.Evin 12 yaşındaki kızı polise verdiği ifadede, ağabeyi ile annesinin video oyunları konusunda sık sık tartıştığını söyledi.Ülkede yaklaşık 2 milyon internet ve video oyunları "bağımlısı" olduğunu tahmin eden hükümet, bu bağımlılıkla mücadele amacıyla kampanya başlatılacağını açıkladı.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337894 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fac68b5/l/0l0smilliyet0n0btr0cimrali0eziyaretine0ebayram0eengeli0csiyaset0chaberdetay0c160b110b20a10a0c13149330cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:08:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+imral�� ziyaretine bayram engeli
+</HEADLINE>
+<TEXT>Geçen yıl yaptırılan Yüksek Güvenlikli F Tipi Cezaevi’nde, İmralı’ya nakledilen Şeyhmuz Poyraz, Cumali Karsu, Hakkı Alkan, Hasbi Aydemir ve Bayram Kaymaz ile tutulan Abdullah Öcalan, her ayın ikinci ve dördüncü pazartesi günleri birinci derece yakınlarıyla görüşüyor. Geçen pazartesi günü kötü hava koşulları nedeniyle yapılamayan rutin görüşme, bugün Kurban Bayramı tatili nedeniyle yapılamadı. Öcalan’ın savunmasını üstlenen Avukat Ömer Çelik, ziyaretin önümüzdeki pazartesi gününe ertelendiğini açıkladı.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337895 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fac68b1/l/0l0smilliyet0n0btr0ckurtlar0evadisi0efilistin0eisrail0ele0eiliskileri0edaha0eda0egerecek0csiyaset0chaberdetay0c160b110b20a10a0c13149350cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:08:49.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kurtlar vadisi filistin israil���le ili��kileri daha da gerecek
+</HEADLINE>
+<TEXT>DIŞ HABERLER SERVİSİAmerikan Associated Press (AP) ajansı, Gazze’ye insani yardım götüren filoya İsrail’in kanlı baskının konu alındığı filmin, kötü olan Türk-İsrail ilişkilerini daha da kötü hale getirebileceği yorumunda bulundu. İsrail aleyhtarı filmin kanlı baskın tartışmasının bir yan ürünü olduğunu iddia eden ajans, Türkiye’nin düşmanlarını konu alan Kurtlar Vadisi’ni James Bond and Rambo’ya yanıt olarak değirlendirdi. Ajans, geçen günlerde fragmanı yayınlanan filmden kesitler aktarırken, kahraman Polat Alemdar saldırıda 9 Türk’ün ölümünün öcünü almak için baskın emrini veren İsarilli komutanı avlamak amacıyla yola çıktığını anlattı. Bir başka kesitte ise İsrailli güvenlik güçlerinin çocukları rehin aldığı ve yaşlı insanları vurduğu gözler önüne seriliyor. AP, yeni filmin ABD’nin ilişkileri kötüleşen iki müttefikinin daha önce olduğu gibi, şimdi de aynı etkiyi ve hatta daha fazlasına neden olabileceği iddiasında bulundu.</TEXT>
+</DOC>

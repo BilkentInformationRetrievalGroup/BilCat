@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1388800 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3cab52f6-4c3e-47e8-aa1b-575bfdd95317 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 00:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sis hava ula����m��n�� aksatt��
+</HEADLINE>
+<TEXT>
+Diyarbakır'da meydana gelen yoğun sis nedeniyle, uçak seferleri Malatya'ya yönlendirildi.  
+
+
+Diyarbakır&rsquo;da meydana gelen yoğun sis nedeniyle, 3 uçak Malatya Havaalanı&rsquo;na yönlendirildi.
+
+Sis nedeniyle görüş mesafesinin yer yer 200 metreye kadar düştüğü Diyarbakır&rsquo;da, uçak seferleri yapılamadı.
+
+İstanbul-Diyarbakır seferlerini yapan 3 yolcu uçağı Diyarbakır Havaalanı&rsquo;na iniş yapamayınca Malatya&rsquo;ya yönlendirildi.
+
+İzmir-Diyarbakır seferini yapan bir yolcu uçağı ise iniş yapamayınca geri döndü.
+
+Meteoroloji yetkilileri, sisin sabah saatlerine kadar etkisini sürdüreceğini bildirdi
+</TEXT>
+</DOC>

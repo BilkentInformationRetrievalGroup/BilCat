@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 1420966 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d6154a7b-93c6-4c62-9ae6-484ea5eb390e </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 12:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa olumlu ba��lad��
+</HEADLINE>
+<TEXT>
+İMKB ilk seansta yüzde 0,35 yükseldi, dolar 1,57, Avro ise 2,14 TL'den işlem görüyor.
+
+
+Borsa haftaya olumlu başladı. Ulusal-100 Endeksi de ilk seansı 232 puan artarak 65 bin 541 puandan tamamladı.
+
+Serbest piyasada Dolar 1 lira 57 kuruştan, Avro ise 2 lira 14 kuruştan işlem görüyor.
+      
+Uluslararası Para Fonu IMF ve Uluslararası Kredi Derecelendirme Kuruluşu Moody&rsquo;s&rsquo;den gelen açıklamalar, Türkiye&rsquo;nin kredi notunun arttırılmasına dönük beklentileri güçlendirdi.
+
+İstanbul Borsasında hisse senetleri günün ilk yarısında ortalama yüzde 0,35 oranında değer kazandı. 
+
+Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,34 seviyesinde bulunuyor.
+
+Uluslararası piyasalarda altının ons fiyatı bin 347 dolar. 
+
+Kapalıçarşı&rsquo;da Cumhuriyet altını 454 liradan alıcı buluyor. 
+
+Dünya borsalarına gelince...
+     
+New York Borsası Cuma günü Amerika&rsquo;da açıklanan son 2 yılın en düşük işsizlik verisiyle yükseldi.
+
+Asya Pasifik piyasalarında bugün değer artışları ön planda... 
+
+Avro bölgesinde Şubat ayı yatırımcı güven endeksi beklentilerden iyi gelirken, Avrupa borsalarında da yükselişler yaşanıyor
+</TEXT>
+</DOC>

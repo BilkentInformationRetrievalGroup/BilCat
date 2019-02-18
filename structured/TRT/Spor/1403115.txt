@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1403115 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6aa7eea9-1e7b-4f45-bc22-71282659bf96 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 19:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+alt��l�� izmir'de 493 tl verdi
+</HEADLINE>
+<TEXT>
+İzmir'de bugün koşulan at yarışları sonucunda altılı ganyan 493,89 lira ikramiye verdi.
+
+Türkiye Jokey Kulübü&rsquo;nden yapılan açıklamaya göre altılı ganyan 2, 7, 1, 8, 9, 12 şeklinde sonuçlandı. 
+
+7, 1, 8, 9, 12 şeklinde neticelenen beşli ganyan 89,73 lira, 1, 8, 9, 12 biçiminde tamamlanan dörtlü ganyan 5,58 lira ve 8, 9, 12 biçiminde oluşan üçlü ganyan da 1,98 lira ikramiye kazandırdı.
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1379679 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1a0e33e4-1ceb-4a00-9e56-7b5f40700f21 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 03:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+m��s��r'da kilisenin d������nda patlama
+</HEADLINE>
+<TEXT>
+Mısır'ın İskenderiye kentinde yılbaşı akşamı meydana gelen patlamayla sarsıldı.
+
+
+Patlama, yılbaşı ayini sırasında bir kilisenin dışında meydana geldi. İlk belirlemelere göre 5 ölü ve 7 yaralının olduğu patlama sonrası ölü ve yaralı sayısının artmasından endişe ediliyor.
+
+Mısır&rsquo;da Hristiyanlar 79 milyonluk nüfusun yüzde 10&rsquo;unu oluşturuyor.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328902 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f659661/l/0l0smilliyet0n0btr0cistanbul0edan0enew0eyork0ea0e10esaatte0eucacak0cdunya0csondakika0c0a60b110b20a10a0c1310a9810cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul'dan new york'a 1 saatte u��acak
+</HEADLINE>
+<TEXT>Daily Mail gazetesinin haberine göre, X-43A, New York ile Avustralya’nın Sydney kenti arasındaki 21 saatlik uçuş mesafesini sadece iki buçuk saate indirecek. New York-İstanbul arası ise 1 saatten biraz fazla bir süre alacak.NASA, önümüzdeki üç sene boyunca X-43A projesine toplam 15 milyon dolar aktaracak. Ancak atmosferin içinde çeşitli irtifalarda yükselip alçalarak yol alacak jetin tekrar kullanılabilir özellikte olması için kullandığı materyalden tasarımına kadar mühendisliğinde birçok sorunun aşılması gerekiyor.Haziran ayında hipersonik bir jet ile yapılan test uçuşunda, üç dakika boyunca 7 bin 200 kilometre hızın üzerine çıkıldı.Ekim ayında ise uzay turizminin öncü girişimcilerinden Richard Branson’ın Virgin Galactic SpaceShipTwo hava aracı 13 bin 700 metre yüksekliğe erişmeyi başardı.</TEXT>
+</DOC>

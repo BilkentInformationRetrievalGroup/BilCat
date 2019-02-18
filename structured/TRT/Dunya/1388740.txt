@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1388740 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9b721e21-427e-481f-8b47-89dd180ed779 </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 22:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'de patlamalar...
+</HEADLINE>
+<TEXT>
+Maryland'de, iki kamu binasının posta odasında patlama meydana geldi. 
+
+Olayda ölen ya da yaralanan olmazken, terörist saldırı olasılığı üzerinde de duruluyor. 
+
+Patlamalardan birinin Hanover, diğerinin ise Annapolis&rsquo;teki federal hükümet binalarında meydana geldiği bildirildi. 
+
+
+</TEXT>
+</DOC>

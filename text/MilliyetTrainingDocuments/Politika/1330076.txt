@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330076 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f68eab6/l/0l0smilliyet0n0btr0cchp0eliderinden0etebrik0csiyaset0chaberdetay0c0a70b110b20a10a0c13111970cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:09:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp liderinden tebrik
+</HEADLINE>
+<TEXT>RA ANKACHP’den yapılan açıklamada, Kılıçdaroğlu’nun Kurban Bayramı dolayısıyla mektupları gönderdiği ve söz konusu kişilerin bayramlarını tebrik ettiği belirtildi.</TEXT>
+</DOC>

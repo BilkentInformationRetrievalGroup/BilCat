@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1396872 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b644420f-315c-4ab7-9135-b5daed392456 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 17:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mardin'de silah operasyonu...
+</HEADLINE>
+<TEXT>
+Mardin'in Derik ilçesinde 11 otomatik silah, 4 tabanca ele geçirildi.
+
+Alınan ihbar üzerine jandarma ekipleri Derik&rsquo;te bir eve baskın düzenledi.
+
+     Evde yapılan aramalarda 11 otomatik silah, 4 tabanca ve çok sayıda muhimat bulundu.
+
+     Olayla ilgili 3 kişi gözaltına alındı.
+
+</TEXT>
+</DOC>

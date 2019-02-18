@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1409437 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6d435e15-8799-433b-870b-035361706280 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 17:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+henin'den ikinci kez veda
+</HEADLINE>
+<TEXT>
+Belçikalı tenisçi Justine Henin, sakatlığı nedeniyle tenisi bıraktığını açıkladı.
+
+Daha önce de tenisi bırakan ve birkaç yıl aradan sonra kortlara tekrar dönen dünya sıralamasının eski 1 numarası Belçikalı tenisçi Justine Henin, sağ dirseğindeki sorun nedeniyle tenisi yine bıraktığını belirtti.
+ 28 yaşındaki Henin, 2008&rsquo;in mayıs ayında kariyerinin zirvesindeyken tenisi bıraktığını açıklamış, geçen yıl ocak ayında kortlara geri dönmüştü.
+ 43 kez WTA turnuvalarında şampiyon olan Henin, 4 Fransa Açık (Roland Garros), 2 ABD Açık ve 1 de Avustralya Açık olmak üzere toplam 7 Grand Slam şampiyonluğuna imza attı. 
+ Henin, Fransa Açık şampiyonluklarından 2&rsquo;sini set kaybetmeden kazanarak ulaşılması zor bir başarı elde etti. Justine Henin, Atina-2004 olimpiyatlarında da altın madalyanın sahibi oldu.
+</TEXT>
+</DOC>

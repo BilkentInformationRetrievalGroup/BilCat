@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1422114 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cec0be2f-d373-4bc5-969d-7eac7a461fb9 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 13:00:25.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ar��lar ye��il sahay�� istila etti
+</HEADLINE>
+<TEXT>
+Futbolcular istilaya uğrayan sahada yere kapaklanan hakemi bayrağı ile böyle kurtarmaya çalıştı.
+
+İtalya&rsquo;da oynanan 3. lig maçında sahayı istila eden arılar izleyici, görevli ve oyunculara ecel terleri döktürdü. 
+
+Saha ve tribünlerin neredeyse her yanını istila eden arılar maçın durmasına futbolcu ve hakemlerin saha ortasında adeta mahsur kalmasına neden oldu. Hakeme saldıran arıları bazı futbolcular yan hakemin bayrağı ile uzaklaştırmaya çalıştı. 
+
+Maç sırasında yaşanan istilada onlarca kişiyi arı sokarken, maç tatil edilmek zorunda kalındı.
+
+</TEXT>
+</DOC>

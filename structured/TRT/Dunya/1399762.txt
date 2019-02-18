@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1399762 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=004aee64-00f5-43e5-8062-ab9f679d70cb </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 23:00:32.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trafikte deh��et anlar��
+</HEADLINE>
+<TEXT>
+Dünyanın farklı yerlerinde yaşanan ve sürücüler ile yetkililere ders verir nitelikteki bazı kazalar kameralara yansıdı...
+
+Kazaların bazıları trafikte hız ve dikkatsizliğin nelere mal olacağını gözler önüne sererken, bazıları ise yol yapım çalışmalarında gerekli önlemlerin alınmamasının nelere mâlolduğunu gösteriyor.
+
+</TEXT>
+</DOC>

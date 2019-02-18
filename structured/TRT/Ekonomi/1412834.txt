@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1412834 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e82b6aac-291c-47d7-86ca-e4572039e407 </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 10:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kamu i����ilerine ikramiyeleri ��deniyor
+</HEADLINE>
+<TEXT>
+Kamuda çalışan işçiler, ikramiyelerinin yarısını yarın alacak. İkramiyelerin ikinci yarısının ödeneceği tarih de belli oldu.
+
+Kamuda çalışan işçiler ikramiyelerinin yarısını yarın (31.1.2011) alacak. İkramiyelerin ikinci yarısı ise 30 Haziran 2011&rsquo;de ödenecek.
+
+Bakanlar Kurulu&rsquo;nun &rsquo;&rsquo;6772 Sayılı Kanun Kapsamına Giren Kurumlarda Çalışan İşçilere 2011 Yılında Yapılacak İlave Tediyelerinin Sürelerinin Düzenlenmesi Hakkında Kararı&rsquo;&rsquo; Resmi Gazete&rsquo;de yayımlanarak yürürlüğe girdi.
+
+Buna göre, 6772 sayılı kanun kapsamına giren kurumlarda çalışan işçilere bu yıl; kanun çerçevesinde yapılacak ilave tediyenin (ikramiye) birinci yarısının yarın, diğer yarısının 30 Haziran 2011 tarihinde ödenmesi kararlaştırıldı.
+
+Maden işletmelerinin münhasıran yeraltı işlerinde çalışanlara yapılacak ilave ikramiyenin tamamı ise 27 Aralık 2011 tarihinde ödenecek.
+</TEXT>
+</DOC>

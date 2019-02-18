@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1420779 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d08d77a7-90bb-4d9a-ab72-caf222b17885 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 10:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��anakkale'de sis
+</HEADLINE>
+<TEXT>
+Çanakkale Boğazı'nda sis nedeniyle bazı deniz seferleri yapılamıyor.
+
+     Çanakkale Boğazı&rsquo;nda sabah saatlerinden itibaren sis etkisini artırmaya başladı.
+
+     Yoğun sis nedeniyle Çanakkale Boğazı deniz trafiğine kapatıldı.
+
+     Sis nedeniyle Lapseki - Gelibolu arası yapılan araba vapuru seferleri iptal edildi.
+
+     Deniz seferlerinin olumsuz etkilenmesi nedeniyle Çanakkale&rsquo;de uzun araç kuyrukları oluştu.
+
+     Çanakkale-Eceabat arası gerçekleştirilen araba vapuru seferleri kontrollü olarak sağlanıyor.
+</TEXT>
+</DOC>

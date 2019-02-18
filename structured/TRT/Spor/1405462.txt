@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1405462 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a7b05434-623d-4c97-9f5d-553179d0f9b9 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 10:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+federer'den bir rekor daha
+</HEADLINE>
+<TEXT>
+İsviçreli tenisçi Roger Federer, Slam turnuvalarında üst üste 27 kez çeyrek final görerek, Jimmy Connors'ın bu alandaki rekoruna ortak oldu.
+
+İsviçreli tenisçi Roger Federer, Avustralya Açık Tenis Turnuvası&rsquo;nın 4. turunda İspanyol Tommy Robredo&rsquo;yu 3-1 yendi ve Grad Slam turnuvalarında üst üste 27 kez çeyrek final görerek, Jimmy Connors&rsquo;ın bu alandaki rekoruna ortak oldu. 
+
+Kariyerinde 16 Grand Slam şampiyonluğu bulunan Federer, Rod Laver Arena&rsquo;da oynanan karşılaşmada Robredo&rsquo;yu, 6-3, 3-6, 6-3 ve 6-2&rsquo;lik setlerle yendi. 
+
+İlk servislerinin yüzde 69&rsquo;unu oyuna sokan ve bu oranın yüzde 79&rsquo;undan sayı çıkartan Federer, maçı 10 &rsquo;&rsquo;ace&rsquo;&rsquo;, 1 çift hata ve 40 basit hata ile tamamladı. Buna karşılık Robredo, 6 &rsquo;&rsquo;ace&rsquo;&rsquo;, 1 çift hata ve 21 basit hata ile oynadı. 
+
+Federer, Grand Slam turnuvalarında son kez, 2004&rsquo;teki Fransa Açık&rsquo;ta 3. turda elenerek çeyrek finale çıkamamıştı.
+</TEXT>
+</DOC>

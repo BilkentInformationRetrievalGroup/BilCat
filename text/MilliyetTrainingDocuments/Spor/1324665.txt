@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1324665 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5587f3/l/0L0Smilliyet0N0Btr0Cezeli0Erakiplerin0Easlantepe0Eisbirligi0Cspor0Csondakika0C0A40B110B20A10A0C1310A0A810Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 11:12:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ezeli rakiplerin Aslantepe işbirliği
+</HEADLINE>
+<TEXT>Galatasaray'ın yeni stadı Türk Telekom Arena'ya kurulacak dev skorbordlardaki golleri, Fenerbahçe Asbaşkanı Ali Koç'un yarattığı KoçSistem'in yazılımı gösterecek. Elektronik altyapıyı ise ,  ve  hazırlayacak
+Galatasaray ve Fenerbahçe'nin ezeli rekabeti 'de işbirliğine dönüştü. Galatasaray'ın yeni stadyumu Türk Telekom Arena nam-ı diğer Aslantepe'nin skorbordunu ve diğer elektronik altyapısını  şirketleri yapacak. Koç Bilgi Sistemleri Grubu'nu sekiz yıl yöneten ve yeniden yaratan ve aynı zamanda Fenerbahçe'nin Asbaşkanı Ali Koç böylece Galatasaray'ın Türk Telekom Arena'daki skorlarını yazacak. Koç Holding'in üstleneceği proje kapsamında 80'er metrekarelik iki  yerleştirilecek. 80 metrekarelik dev skorbordta Galatasaray'ın maç sonuçları Koç Sistem'in yazılımı gösterecek.
+ALTYAPI DA KOÇ'TAN
+Galatasaray Pazarlama A.Ş Genel Müdürü Hakan Aydınol, projenin uluslararası standartlarda olacağını ve tecrübesi nedeniyle KoçSistem ile gerçekleştireceklerini söyledi. Yazılımı Koç Sistem'den alacaklarını söyleyen Aydınol, donanım kısmını ise yine holdinge bağlı olan şirketlerin üstleneceğini söyledi. Aydınol, "Koç Grubu şirketlerinin daha önce bu konuda yaptığı projeler var. Donanım kısmı ve altyapı da holding tarafından yapılacak. 650 ekran ve diğer skorbordlar için Grundig, Arçelik ve Beko ile anlaşıldı" dedi. Arçelik ve KoçSistem'in geliştirdikleri  'indeki 'yeni nesil sayısal yayıncılık' sisteminin bir benzerinin uygulanacağı Türk Telekom Arena'da localarda ve koridorlara konması planlanan ekranların maliyeti konusunda net bir bilgi vermeyen Aydınol, stadta taraftarların yoğun olarak bulunduğu bölümlerde bir çok  olacak.
+80 METREKARELİK DEV SKORBORDLAR GELİYOR
+Ali Sami Yen Stadyumu'nda yer alan skorbord tarihe karışacak ve yeni statta dünya standartlarında olan 80 metrekarelik iki büyük ekran yer alacak.</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1431061 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4248beb2-7ca1-4bb0-ac00-d2e52bee172c </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 21:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hizbullah'tan intikam yemini
+</HEADLINE>
+<TEXT>
+Hizbullah, öldürülen komutanları Imad Moughniyeh'nin intikamının alınacağı konusunda İsrail'i uyardı.
+
+Hizbullah lideri Hasan Nasrallah, Moughniyeh&rsquo;in öldürülüşünün yıldönümü nedeniyle düzenlenen törende yaptığı konuşmada, 3 yıl önce Kudüs&rsquo;ün bombalanması sırasında ölen komutanlarının intikamının alınacağını söyledi.
+
+İsrailli liderler ve generalleri uyaran Nasrallah, &quot;Dünyanın neresine giderseniz gidin, her zaman tetikte olun Moughniyeh&rsquo;nin kanı yerde kalmayacak&quot; dedi.  
+
+İsrailli yetkililer, istihbarat uyarıları nedeniyle Moughniyeh&rsquo;nin ölümünün yıldönümünde 4 yurtdışı diplomatik görevin durdurulduğunu bildirdi.
+</TEXT>
+</DOC>

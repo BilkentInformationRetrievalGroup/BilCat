@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1320376 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f42cbdf/l/0L0Smilliyet0N0Btr0Cborsa0Egune0Edususle0Ebasladi0Cekonomi0Csondakika0C0A20B110B20A10A0C130A90A960Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:01:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa güne düşüşle başladı
+</HEADLINE>
+<TEXT>Bileşik Endeksi birinci seansta, önceki kapanışa göre 122,85 puan azalarak 68.951,48 puan seviyesinde açıldı.
+
+Hisse senetleri, bu seviyede ortalama yüzde 0,18 oranında değer kaybetti</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337897 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fac5dbf/l/0l0smilliyet0n0btr0ckpss0ede0eaz0epuan0ealan0eistifa0eetsin0csiyaset0chaberdetay0c160b110b20a10a0c13149390cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:09:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kpss���de az puan alan istifa etsin
+</HEADLINE>
+<TEXT>RA MilliyetCHP Grup Başkanvekili Muharrem İnce, twitter üzerinden Milli Eğitim Bakanı Nimet Çubukçu’ya ilginç öneride bulundu. İnce şunları kaydetti: “Şu Çubukçu KPSS’ye girse... Kaç puan alır. Size söz... Nimet Hanım’la KPSS’ye girmek isterim. Az puan alan istifa eder. Ya soruların tümünü yapar, ya barajı geçemez. Nimet Hanım’ın girdiği sınav kesin yenilenir. Utanmadan bir de öğretmenlere mesaj göndermiş. Ben okul ve öğretmen ismi istiyorum, vermiyor. Kendisi cepten mesaj çekiyor. Böyle bakan işte. Bakanlık babasının çiftliği mi? O telefonlara mesaj gönderiyorsa biz okula neden mektup gönderemiyoruz? Tüm öğretmenlerin gününü kutluyorum. Peki bütün öğretmenler Nimet Hanım’dan gelen mesajı istiyor mu?  Çevrenizdeki öğretmenlere söyleyin. Kılıçdaroğlu mektup yazacaktı size ama Çubukçu isimlerinizi vermedi diye.”</TEXT>
+</DOC>

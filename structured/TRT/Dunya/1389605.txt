@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1389605 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=789f7f9c-b571-4a30-b897-0632c0e2786f </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 17:00:13.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+uykusunda vurdular...
+</HEADLINE>
+<TEXT>
+65 yaşındaki bir Filistinli sivil uykusunda İsrail kurşunlarına hedef oldu. 
+
+
+İsrail askerleri ile Batı Şeria&rsquo;daki &quot;güvenlik duvarı&quot;nı protesto eden Filistinliler arasında zaman zaman çatışma yaşanıyor. 
+
+Geçen hafta Filistinli bir kadın askerlerin attığı gaz bombası nedeniyle zehirlenerek ölmüştü. 
+
+İsrail askerleri ve göstericiler arasında yine çatışma çıktı. Göstericiler, gaz bombası ve tazyikli su kullanan askerlere taş attı. 
+
+Aynı bölgede İsrail askerleri 65 yaşındaki bir Filistinliyi de uykusunda öldürmüştü. 
+
+Filistin yönetiminin serbest bıraktığı Hamas mensuplarını yeniden tutuklamak için düzenlenen operasyon sırasında meydana gelmişti. 
+
+İsrail, operasyon sırasında yaşlı adamı yanlışlıkla öldürdüğünü kabul etti. 
+
+
+</TEXT>
+</DOC>

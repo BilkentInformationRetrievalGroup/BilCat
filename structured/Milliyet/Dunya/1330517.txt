@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330517 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f70eff3/l/0l0smilliyet0n0btr0cirak0eta0ebombali0esaldiri0e50ekisi0eoldu0cdunya0csondakika0c0a80b110b20a10a0c13116320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:01:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��rak'ta bombal�� sald��r��: 5 ki��i ��ld��
+</HEADLINE>
+<TEXT>Irak’ın Şiilerce kutsal Kerbela kentinde düzenlenen saldırıda 5 kişi öldü, 28 kişi yaralandı.Yetkililerin verdikleri bilgiye göre, bomba yüklü araçla düzenlenen saldırıda ölen ve yaralananlar arasında İranlı hacılar da bulunuyor.</TEXT>
+</DOC>

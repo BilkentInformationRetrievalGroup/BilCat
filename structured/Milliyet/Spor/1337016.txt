@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337016 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa6a58c/l/0l0smilliyet0n0btr0cbesiktas0ein0erakipleri0eevinde0egalip0cspor0csondakika0c150b110b20a10a0c13146420cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:11:41.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+be��ikta��'��n rakipleri evinde galip
+</HEADLINE>
+<TEXT>Beşiktaş'ın UEFA Avrupa Ligi'ndeki rakiplerinden Bulgaristan'ın CSKA Sofia takımı ve Portekiz'in Porto ekibi, liglerinde oynadıkları maçlardan galip ayrıldı.Bulgaristan Ligi'nin 14. haftasından Lokomotiv Plovdiv'i konuk eden CSKA Sofia, Marquinhos'un golüyle maçı 1 - 0 kazandı. Portekiz Ligi'nin 11. hafta mücadelesinde ise Portimonense'yi ağırlayan Porto, Walter Henrique ve Givanildo Hulk'un golleriyle sahadan galip ayrıldı.</TEXT>
+</DOC>

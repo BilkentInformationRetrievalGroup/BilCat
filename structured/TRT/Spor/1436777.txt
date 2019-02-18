@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1436777 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f990a5b7-ba4c-407b-8c41-4d6b8967ef14 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 11:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+d. kiev-be��ikta�� ma����na frans��z hakem
+</HEADLINE>
+<TEXT>
+Dinamo Kiev - Beşiktaş mücadelesini Fransa Futbol Federasyonu'ndan Tony Chapron yönetecek. 
+
+ 
+Beşiktaş ile Dinamo Kiev arasında 24 Şubat 2011 Perşembe günü oynanacak UEFA Avrupa Ligi 2. tur rövanş maçını yönetecek hakemler açıklandı.
+ 
+Ukrayna&rsquo;nın Kiev şehrindeki Valeriy Lobanovskiy Stadı&rsquo;nda saat 22.05&rsquo;te başlayacak karşılaşmayı Fransa Futbol Federasyonu&rsquo;ndan Tony Chapron yönetecek. Chapron&rsquo;un yardımcılıklarını Emmanuel Boisdenghien ve Michael Annonier yapacak. 
+ 
+İlave yardımcı hakemlik görevini Clement Turpin ve Said Ennjimi&rsquo;nin yapacağı müsabakanın dördüncü hakemi ise Fredy Fautrel.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331422 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f7264be/l/0l0smilliyet0n0btr0cchp0ekurultay0etarihini0eacikladi0csiyaset0csondakika0c0a80b110b20a10a0c13117310cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 14:20:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp kurultay tarihini a����klad��
+</HEADLINE>
+<TEXT>CHP'de, Önder Sav ile ekibinin tasfiye edilmesine neden olan tüzük değişimi konusu karara bağlandı. Genel Sekreter Süheyl Batum tüzük değişikliği için Kurultay'ın ne zaman yapılacağını açıkladı.CHP Genel Sekreteri Süheyl Batum, 12 Haziran 2011'de yapılması planlanan milletvekili genel seçimlerinden sonra Tüzük Kurultayı yapılacağını açıkladı.Geçtiğimiz hafta yaşanan tartışmalardan sonra Genel Başkan Kemal Kılıçdaroğlu'nun tasfiye ettiği Önde Sav ve ekibi seçimlerden önce seçimli kurultay yapılmasını ve tüzüğün de değişmesini istemişti.</TEXT>
+</DOC>

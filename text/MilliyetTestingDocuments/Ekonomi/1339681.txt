@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339681 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fbe2cb2/l/0l0smilliyet0n0btr0c10a0eayda0eturkiye0eye0e260e70emilyar0edolar0esicak0epara0egirdi0cekonomi0chaberdetay0c180b110b20a10a0c13154560cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 01:00:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 ayda t��rkiye���ye 26.7 milyar dolar s��cak para girdi
+</HEADLINE>
+<TEXT>RA ANKATürk parasının değerlenme eğiliminin devam etmesinin de etkisiyle sıcak paranın getirisinin katlanarak arttığı bu yıl ocak-ekim döneminde Türkiye’ye gelen net sıcak para tutarı önceki dört yılın toplamını geçti. Sıcak para Türkiye’de son sekiz yılda gelişmiş ülkelerde 50-100 yılda elde edemeyeceği kadar çok getiri sağladı. Sıcak paranın son sekiz yılda Türkiye’de kazandığı parayı, Japonya’da 190 yılda, ABD’de 79 yılda zor kazanılıyor.Ankara Ticaret Odası’nın (ATO) Merkez Bankası, İMKB ve benzeri kuruluşların verilerinden yaptığı değerlendirmeye göre, TL faizlerinin diğer ülkelere göre nispeten yüksek seyretmesi, hisse senedi fiyatlarının yükselme potansiyeli ve TL’nin değerlenme eğiliminin devam etmesi Türkiye’yi sıcak paranın en gözde ülkelerinden biri haline getirdi. Merkez Bankası’nın verilerine göre ocak-ekim döneminde Türkiye 3.6 milyar dolarlık kısmı İMKB’de işlem gören hisse senetlerine, 10.2 milyar doları da devlet iç borçlanma senetlerine olmak üzere toplam 13.8 milyar dolarlık portföy yatırımı girişi yaşandı. Bu arada Ocak-Eylül 2010 itibariyle 12.9 milyar dolarlık yabancıların Türkiye’ye getirdikleri net mevduat da dikkate alınırsa, bu dönemdeki net sıcak para girişi 26.7 milyar dolara ulaştı.</TEXT>
+</DOC>

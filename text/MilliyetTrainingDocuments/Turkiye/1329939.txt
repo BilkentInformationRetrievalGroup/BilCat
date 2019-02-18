@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1329939 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f687430/l/0l0smilliyet0n0btr0csabiha0egokce0ende0eucuslar0edurma0enoktasina0egeldi0cturkiye0csondakika0c0a60b110b20a10a0c13111370cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 23:09:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sabiha g��k��e���nde u��u��lar durma noktas��na geldi
+</HEADLINE>
+<TEXT>İSTANBUL'u etkisi altına alan yoğun sis nedeniyle hava trafiği olumsuz etkilendi.İstanbul’un Anadolu yakasını akşam saatlerinde etkisi altına alan yoğun sis, özellikle Sabiha Gökçen Havalimanı’nda hava ulaşımın olumsuz etkiliyor. Akşam saatlerinde etkisini iyice arttıran yoğun sis nedeniyle görüş mesafesi 100 metrenin altına inince uçuş trafiği durma noktasına geldi.Dün 100 metre olan görüş mesafesi bugün 50 metreye kadar inince, Sabiha Gökçen Havalimanı’na iniş yapamayan 11 yolcu uçağı divert (yönlendirilerek) edilerek Atatürk Havalimanı’na iniş yapmak zorunda kaldı. </TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326362 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bb659/l/0l0smilliyet0n0btr0cniang0edia0eve0egonul0ebelirsiz0cspor0chaberdetay0c0a50b110b20a10a0c1310a4550cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:45.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+niang, dia ve g��n��l belirsiz
+</HEADLINE>
+<TEXT> Niang’ı dün deneyen teknik heyet net bir sonuç alamazken, Dia ve Gökhan Gönül’ün de oynama olasılıkları, antrenman eksiklikleri nedeniyle güç görünüyor. Teknik Direktör Kocaman dün Stoch’u sağ kanatta deneyip Santos’u orta alanın solunda kullandı.</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1393793 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b9a376f2-84f3-42f8-98c8-769f680d7d63 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 06:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+liderler biraraya geliyor
+</HEADLINE>
+<TEXT>
+KKTC Cumhurbaşkaanı Eroğlu ile Rum Yönetimi Lideri Hristofyas, yeni yılın ilk görüşmesi için bugün biraraya geliyor.
+
+Kıbrıs sorununa kapsamlı çözüm bulma amaçlı müzakereler bugün (12.01.2011) yapılacak liderler görüşmesiyle devam edecek.
+
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Derviş Eroğlu ile Rum Yönetimi Lideri Dimitris Hristofyas, yeni yılın ilk görüşmesini bugün gerçekleştirecek. 
+     
+Saat 10&rsquo;da başlayacak görüşme Birleşmiş Milletler Genel Sekreteri&rsquo;nin Kıbrıs Özel Temsilcisi&rsquo;nin ara bölgedeki resmi konutunda yapılacak.
+     
+19&rsquo;uncu görüşmelerinde liderler Eroğlu&rsquo;nun Ankara&rsquo;da geçirdiği kalp ameliyatının ardından ilk kez bir araya gelecek.
+     
+Eroğlu ve Hristofyas, 26 Ocak&rsquo;ta ise Cenevre&rsquo;de gerçekleştirecekleri üçlü zirvede Birleşmiş Milletler Genel Sekreteri Ban Ki Moon ile birlikte süreci gözden geçirecek.
+</TEXT>
+</DOC>

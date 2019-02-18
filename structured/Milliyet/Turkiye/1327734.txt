@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327734 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f608bd7/l/0l0smilliyet0n0btr0cbodrum0ea0e40a0a0eabd0eli0eturist0cturkiye0csondakika0c0a50b110b20a10a0c1310a6860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:16:52.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bodrum'a 400 abd'li turist
+</HEADLINE>
+<TEXT>Hollanda bayraklı yolcu gemisi"Prinsendam", Muğla’nın Bodrum ilçesine geldi.Bodrum Gemi Yanaşma İskelesi’ne yanaşan 205 metre uzunluğundaki gemide, 400 ABD’li turist ve yaklaşık 200 personel bulunduğu belirtildi.Gemiden inen bazı turistler kent merkezinde alışveriş yaparken, bazıları da tarihi yerleri gezdi.Bodrum Kalesi Sualtı Arkeoloji Müzesi, Halikarnas Mozolesi, Bodrum Antik Tiyatro ve Değirmenler mevkisini gezen turistler, hatıra fotoğrafı çektirdi.Geminin bir süre Bodrum’da kaldıktan sonra Yunan adalarına gideceği öğrenildi.</TEXT>
+</DOC>

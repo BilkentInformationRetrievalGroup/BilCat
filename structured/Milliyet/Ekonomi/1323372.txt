@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323372 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f508d91/l/0l0smilliyet0n0btr0cborsa0eyukselisle0ekapandi0cekonomi0csondakika0c0a30b110b20a10a0c130a97820cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 19:00:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa y��kseli��le kapand��
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsasında (İMKB) işlem gören hisse senetleri günlük bazda ortalama yüzde 0,12 oranında değer kazandı.İMKB 100 Endeksi, ikinci seansta 166,63 puan azalarak 68.604,63 puandan kapandı. Hisse senetleri ikinci seansta ortalama yüzde 0,24 oranında geriledi.İlk seanstaki 249,05 puanlık artış dikkate alındığında, borsa endeksi günün tamamında 82,42 puan yükseldi.Hisse senetleri günlük bazda ortalama yüzde 0,12 değer kazandı.</TEXT>
+</DOC>

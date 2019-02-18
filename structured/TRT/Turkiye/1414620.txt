@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1414620 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=85fdbf85-7738-4d5d-9201-fe9560a6bc7a </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 07:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otob��s u��uruma yuvarland��
+</HEADLINE>
+<TEXT>
+Kırşehir'de otobüs uçuruma yuvarlandı 4'ü ağır 35 kişi yaralandı.
+
+  
+     Kaza, Kırşehir&rsquo;in Mucur ilçesi Çamlık mevkiinde kar yağışı ve buzlanmanın etkisiyle meydana geldi.
+      
+     Sağlık durumu ağır olan biri Iraklı 4 kişi, Kırşehir Devlet Hastanesi&rsquo;nde ameliyata alındı. 
+ 
+     Otobüsün İstanbul&rsquo;dan aldığı yolcuları Malatya&rsquo;ya taşıdığı öğrenildi.
+    
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1406906 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8823d35d-7e1b-4054-b837-56cfdfc13c1d </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 16:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"israil'in ����mar��k tavr��n�� g��steriyor"
+</HEADLINE>
+<TEXT>
+Cumhurbaşkanı Abdullah Gül, İsrail'in hazırladığı Mavi Marmara raporunu eleştirdi.
+
+Cumhurbaşkanı Abdullah Gül, İsrail&rsquo;in Mavi Marmara saldırısına ilişkin hazırladığı rapora tepki gösterdi.
+
+Gül, &rsquo;&rsquo;İsrail&rsquo;in yaptıklarının uluslararası hukukla hiç bir ilgisi yoktur. İsrail&rsquo;in açıkladığı bu rapor, hiçbir meşruiyeti, inandırıcılığı olmayan kendi belgesinden başka bir şey değildir, İsrail hükümetinin ne kadar dünyayı umursamaz ve uluslararası hukuku dikkate almayan şımarık tavrını gösteriyor&rsquo;&rsquo; dedi.
+</TEXT>
+</DOC>

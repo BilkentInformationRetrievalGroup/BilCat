@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323367 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f50bddd/l/0l0smilliyet0n0btr0cpetrol0eofisi0eepdk0ecezasini0eodedi0cekonomi0csondakika0c0a30b110b20a10a0c130a98160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 19:00:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+petrol ofisi, epdk cezas��n�� ��dedi
+</HEADLINE>
+<TEXT>Petrol Ofisi, Enerji Piyasası Düzenleme Kurumu’nun (EPDK) uyguladığı para cezasını ödedi.Petrol Ofisi’nden Kamuyu Aydınlatma Platformu’na (KAP) gönderilen yazıda, "EPDK’nın şirketimiz aleyhine uyguladığı 29.400.000 TL tutarındaki idari para cezasının yüzde 25’lik indirimli tutarı olan 22.050.000 TL, yasal itiraz haklarımız saklı tutularak bugün ödenmiştir" denildi.</TEXT>
+</DOC>

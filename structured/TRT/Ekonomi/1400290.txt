@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1400290 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=06af4a6f-315a-4830-848e-6e475fd2d21a </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 12:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"kuzey k��br��s hava yollar��" kuruluyor
+</HEADLINE>
+<TEXT>
+KKTC'de yeni havayolu şirketinin kuruluş anlaşması imzalanıyor.
+
+Kıbrıs Türk Hava Yollarının iflasının ardından &rsquo;&rsquo;Kuzey Kıbrıs Hava Yolları&rsquo;&rsquo; adıyla kurulacak yeni havayolu şirketinin kuruluş anlaşması bugün imzalanıyor.
+
+Kuzey Kıbrıs Türk Cumhuriyeti&rsquo;nde, ilk kez, devlet-özel sektör ve Türkiye&rsquo;den bir şirketin oluşturacağı konsorsiyumla kurulacak.
+
+Kuzey Kıbrıs Hava Yolları&rsquo;nın imza törenine, Türk Hava Yolları Yönetim Kurulu Başkanı Hamdi Topçu da katılacak.
+
+Kuzey Kıbrıs Türk Cumhuriyeti Bayındırlık ve Ulaştırma Bakanı Ersan Saner, yeni şirketin yüzde 60 oranındaki yerel yatırımcı payının, ödenmesi gereken yüzde 25 tutarının, banka hesabına yatırıldığını açıkladı.
+
+Yeni şirketin 3 uçaklık filoyla Mart sonunda tarifeli uçuşlara başlaması bekleniyor. 
+</TEXT>
+</DOC>

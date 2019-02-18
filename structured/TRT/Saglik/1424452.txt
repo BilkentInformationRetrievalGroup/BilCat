@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1424452 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3ebd652-0b75-4fb2-beaf-884aa7674316 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 11:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+az�� da ��o��u da kalbe zarar
+</HEADLINE>
+<TEXT>
+İngiliz bilim insanlarının araştırması, geceleri 6 saatten az uyumanın kalp krizi riskini önemli ölçüde artırdığını ortaya koydu.
+
+Warwick Üniversitesi Tıp Fakültesi uzmanlarının araştırmasına göre 6 saatten az uyumak, kalp krizi riskini %48, inme riskini de %15 artırıyor.
+
+ABD, İsveç ve Japonya’nın da aralarında olduğu farklı ülkelerde yapılan ve 475 bin kişinin uyku alışkanlıklarının incelendiği 15 araştırma sonucunu değerlendiren uzmanlar, modern hayatın gerekliliği gibi görünen geç uyuyup erken kalkmanın kalp sağlığı üzerindeki olumsuz etkilerine dikkat çekti.
+
+Yeterli uykuyu almamanın iştah merkezini kontrol eden “leptin” ve “ghrelin” hormonlarının dengelerini bozduğunu vurgulayan uzmanlar, bunun da daha çok yemeğe, fazla kiloya, dolayısıyla da kalp krizi, yüksek tansiyon, kolesterol, diyabet gibi sağlık sorunlara neden olduğunun altını çizdi. 
+
+“European Heart Journal”da yayımlanan araştırmayı yapan ekipten Dr. Michelle Miller “Az uyumak kalbinizi riske sokuyor, ancak günde dokuz saatten fazla uyumak da kalp hastalığının erken belirtisi olabilir” dedi.
+
+</TEXT>
+</DOC>

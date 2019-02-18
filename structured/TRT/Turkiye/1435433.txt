@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1435433 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=214c4d63-b0a2-4f07-9a77-1e8eb37f58e5 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 10:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+y��ksekova'da patlay��c�� pani��i
+</HEADLINE>
+<TEXT>
+Piknik tüpü süsü verilmiş patlayıcı fünye ile patlatılarak etkisiz hale getirildi.
+
+
+     Hakkari&rsquo;nin Yüksekova ilçesinde bir otelin önüne piknik tüpü süsü verilmiş patlayıcı bırakıldı.
+
+     Patlayıcıyı farkeden otel çalışanları olayı polise bildirdi.
+
+     Bomba imha ekipleri, patlayıcı fünye yardımıyla infilak ettirdi.
+
+     Olay yerinden kaçan zanlının yakalanması için operasyon başlatıldı.
+
+</TEXT>
+</DOC>

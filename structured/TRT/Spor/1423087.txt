@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1423087 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1de0a8f7-cff3-4c57-96ad-a6a3a525a69b </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 11:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��mitlerimiz romanya'da
+</HEADLINE>
+<TEXT>
+Ümit Milli Takımımız bugün özel maçta Romanya ile karşılaşacak.
+
+Manisa 19 Mayıs Stadı&rsquo;nda oynanacak maç saat 17.30&rsquo;da başlayacak.
+
+Karşılaşmayı Koray Gençerler, Volkan Akçit ve Cumhur Altay hakem üçlüsü yönetecek. Müsabakanın dördüncü hakemi ise Tolga Atsan.
+
+Ümit Milli Takımımızın kadrosunda şu oyuncular bulunuyor:
+
+Beşiktaş&rsquo;tan Necip Uysal, Bursaspor&rsquo;dan İsmail Haktan Odabaşı ve Serdar Aziz, Dardanelspor&rsquo;dan Sakıb Aytaç, Denizlispor&rsquo;dan Musa Nizam, Eskişehirspor&rsquo;dan Alper Potuk, Galatasaray&rsquo;dan Anıl Dilaver, Emre Çolak, Eray İşcan, Serkan Kurtuluş ve Yusuf Onur Arıkan, Gençlerbirliği&rsquo;nden Mahmut Boz, Özkan Karabulut, Soner Aydoğdu, Büyükşehir Belediyespor&rsquo;dan Abdulkadir Kayalı, Kasımpaşa&rsquo;dan Barış Başdaş ve Şahin Aygüneş, Konyaspor&rsquo;dan Musa Çağıran ile Bayer Leverkusen&rsquo;den Burak Kaplan.
+
+</TEXT>
+</DOC>

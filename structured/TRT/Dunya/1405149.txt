@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1405149 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=660013e8-5b16-49c9-88cb-9938432d84d2 </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 22:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+irlanda'da siyasi kriz
+</HEADLINE>
+<TEXT>
+Başbakan Brian Cowen partisi Fianna Fail'in başkanlığından istifa etti.
+
+
+Ekonomik krizin ardından İrlanda siyasi kriz çıkmazında...
+
+Birkaç gün önce 6 bakanın hükümetten istifa etmesinin ardından, Başbakan Brian Cowen partisi Fianna Fail&rsquo;in başkanlığından istifa etti.
+
+Cowen, Mart ayında yapılacak genel seçime kadar hükümetin başında durmaya devam edeceğini açıkladı.
+
+Fakat muhalefet ve kendi partisinden milletvekilleri dahi başbakanın bu manevrasına tepki gösterdi.
+
+Muhalefet, başbakanın bu niyetini demokrasiye bir hakaret olarak niteledi ve gelecek hafta parlamentoda verecekleri güvenoylaması teklifiyle Cowen&rsquo;ı görevinden düşürmek üzere harekete geçti.
+
+Hafta içinde Cowen&rsquo;ın istifasını isteyen 6 bakan görevi bırakmıştı.
+</TEXT>
+</DOC>

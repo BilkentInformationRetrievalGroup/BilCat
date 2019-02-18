@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340035 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fbe7d8e/l/0l0smilliyet0n0btr0cmesut0eozil0eden0ereklamlara0eret0e0cspor0chaberdetay0c180b110b20a10a0c13155580cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:02:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mesut ��zil���den reklamlara ret!
+</HEADLINE>
+<TEXT>Alman Bild gazetesinde yayımlanan haberde, Mesut’un son yıllarda yaklaşık 15 firmadan gelen cazip önerileri kabul etmediği belirtildi. “Ben reklamlarda yer almak için futbol oynamıyorum” ifadelerini kullanan genç yetenek, “Sadece kendimle özdeşleştirdiğim ürünlerin reklamlarında oynamak isterim. Sahada gösterdiğim mücadeleyi ‘Reklam yıldızı olayım’ diye yapmıyorum” sözleriyle reklam dünyasından çok futbol sahalarında boy göstermeyi tercih ettiğini ortaya koydu.Haberde yapılan yorumda Mesut’un bu tavrının ilk sezonunu yaşadığı Real Madrid’deki kariyerine daha fazla konsantre olmak istediğinin açık bir göstergesi olduğu belirtildi. Werder Bremen’den, 15 milyon euro bonservis bedeliyle Real Madrid’e transfer olan yıldız oyuncu, yıllık 5 milyon eurodan 6 senelik sözleşmeye imza atmıştı.</TEXT>
+</DOC>

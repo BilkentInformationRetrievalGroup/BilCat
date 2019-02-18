@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1426868 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d75d2e77-2dd7-491a-a7d0-4bd18bfe4d4f </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 23:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+elektrikte trt pay��na yeni d��zenleme
+</HEADLINE>
+<TEXT>
+EPDK'nın yaptığı yeni düzenlemeye göre; tüketicilerin, iletim, dağıtım, sayaç okuma ile kaçak elektrik bedellerinden TRT payı alınmayacak.
+
+
+Enerji Piyasası Düzenleme Kurulu (EPDK), yaptığı yeni düzenlemeyle net enerji ve sayaç okuma dışındaki perakende satış hizmet bedelleri toplamının TRT payının hesaplanmasında dikkate alınmasına karar verdi.
+
+Konuya ilişkin Resmi Gazetenin dünkü (12.02.2011) sayısında yayımlanan karara göre;
+
+Enerji Piyasası Düzenleme Kurulunun 1 Şubat 2011 tarihli toplantısında; 9 Temmuz 2008 tarihli ve 5784 sayılı kanun ile 4 Aralık 1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Gelirleri Kanunun 4&rsquo;üncü maddesi (c) bendinde yapılan düzenleme ve 28 Aralık 2010 tarih ve 2999 sayılı Kurul kararı uyarınca, nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişiler tarafından; iletim, dağıtım, sayaç okumaya ilişkin perakende satış hizmeti ve kayıp enerjiye ilişkin bedeller hariç olmak üzere, net enerji ve sayaç okuma dışındaki perakende satış hizmet bedelleri toplamının TRT Payının hesaplanmasında dikkate alınmasına karar verildi.
+
+Karar; tüketicilerin, iletim, dağıtım, sayaç okuma ile kaçak elektrik bedellerinden TRT payı alınmayacağı anlamına geliyor. 
+
+Mevcut uygulamada enerji bedelinin yanı sıra vergiler, harçlar ve fonlar da eklendikten sonra oluşan sistem kullanım bedeli üzerinden yüzde 2 TRT payı alınıyordu.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326851 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5e44da/l/0l0smilliyet0n0btr0ccin0euzaya0emeteoroloji0euydusu0egonderdi0cdunya0csondakika0c0a50b110b20a10a0c1310a5410cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 11:01:20.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��in, uzaya meteoroloji uydusu g��nderdi
+</HEADLINE>
+<TEXT>tarihleri arasında Pekin’de yapıldı.GEO eşbaşkanlığını yürüten Çin Meteoroloji Müdürü Ceng Guoguang, "yeryüzüyle ilgili gözlemler yapılmasına büyük önem veren Çin hükümetinin, gözlem verilerinin Afrika kıtası ve Asya-Pasifik bölgelerindeki ülkelerle paylaşılmasını önümüzdeki beş yıl içinde hızlandıracağını" söyledi.Çin Uluslararası Radyosu’nun haberinde, Çin’in 2007 yılında "On Yıllık Yeryüzü Gözlem Sistemleri Planı" hazırladığı ve 1-2 Kasım’da Çin Meteoroloji Uydularının Asya-Pasifik Bölgesi Aboneleri Birinci Toplantısı’nın yapılarak, bu bölgede gözlem teknolojisi değişimi ve veri paylaşımının hızlandırılmasının sağlandığı ifade edildi. </TEXT>
+</DOC>

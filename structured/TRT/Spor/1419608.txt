@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1419608 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=835a37c1-538b-460c-8b67-f0298123f4d1 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 21:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursa'da kazma vuruldu
+</HEADLINE>
+<TEXT>
+Yeşil Beyazlıların yeni stad yapımı için Velodrom Tesislerinde yıkım çalışmaları, törenle başladı.
+
+Bursaspor kulübünün uzun zamandır gündeminde olan yeni stad projesi için ilk kazma vuruldu.
+ Törene  Büyükşehir Belediye Başkanı Recep Altepe&rsquo;nin yanı sıra Bursaspor Kulübü Başkanı İbrahim Yazıcı ve Ertuğrul Sağlam katıldı.
+ Altepe, yaklaşık 45 bin kişi kapasiteli stadyumda 207 engelli koltuğu bulunacağını kaydetti. 70 loca, 851 kişilik tuvalet, 85 kapı, 96 turnike, otoparkları ve yeşil alanlarıyla Türkiye&rsquo;nin en modern stadyumunu inşa edeceklerini belirten Altepe, trafikte bir sorun yaşanmaması için gerekli bağlantı yollarının sağlanması için çalışmaların sürdüğüne işaret etti.
+ 17 Şubat&rsquo;ta ihalesi yapılacak stadın 3 yıl içerisinde bitirilmesi bekleniyor.
+</TEXT>
+</DOC>

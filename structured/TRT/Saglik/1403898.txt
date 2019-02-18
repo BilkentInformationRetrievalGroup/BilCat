@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 1403898 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3e0febf-7401-4ae9-9d74-8aa6df49763e </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 14:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+3d hasta m�� ediyor?
+</HEADLINE>
+<TEXT>
+ABD ve Güney Kore'deki araştırmalarda 3D televizyon izleyicilerinin dörtte birinin bulantı veya baş ağrısından şikayet ettiği bildirildi.
+
+Hollywood stüdyolarından Japon film yapımcılarına pek çok sektör, 3D’nin geleceğine inanıyor, yatırım yapıyor. Ancak bu süreçte pek dile getirilmeyen bir sorun var. 
+
+Huffington Post’un haberine göre ABD’li optometristler 3D televizyon izleyen her dört kişiden birinin mide bulantısı ve baş ağrısından mustarip olduğunu söylüyor.
+
+Teknoloji gerçek hayata gittikçe daha yakınlaşan 3D görüntüler üretmede başarılı. Bu nedenle de eğlencenin geleceğinde 3D’ye büyük bir pay biçiyorlar. 
+
+Amerikan Optometri Derneği’nin çevrimiçi anket yoluyla yürüttüğü bir araştırmada, 3D televizyon izleyenlerin yüzde 25’inde farklı derecelerde göz yorgunluğu, mide bulantısı, baş ağrısı gibi şikayetler ortaya çıktığı belirlenmiş.
+
+Güney Kore’de okul çağında 115 çocuk üzerinde yapılan bir araştırma da, 3D ekrana yakından bakmanın 2D ekrana kıyasla daha çok göz yorgunluğu yarattığını göstermiş. Bunun üzerine Güney Kore hükümeti, 3D film izlerken en az saatte bir 15 dakikalık bir mola verilmesi gerektiği yolunda uyarı yayımladı.
+
+Firmaların da bu konuda yaptırdığı araştırmalar mevcut. Ancak sonuçlar genellikle kamuoyuna duyurulmayıp, kullanım kılavuzlarında veya kurumsal yayınlarda uyarılar şeklinde kendini gösteriyor.
+
+ Örneğin bir firmanın Avustralya’daki web sitesinde uzunca süre 3D televizyon izlemenin göz yorgunluğu, dengede bozulma, mide bulantısı yaratabileceği belirtilerek, uykusuzken, yorgunken ve içki içerken izleme yapılmaması öneriliyor. 
+
+3D görüntüleri izlemenin yarattığı bu sorunlar esasen gözlerin normal 3 boyutlu mekanları algılarken, yani yakınlaşıp uzaklaşan cisimlere odaklanırken yaptığı kas hareketlerini 3D’de yapamamasından kaynaklanıyor.
+
+Başka deyişle, yakınlaşan bir cisme odaklanmak için gözler içeri doğru dönerek ve eliptik şeklinde değişiklik yaratarak odağı koruyor. Ancak 3D televizyonda ‘yakınlaşan’ bir cisim varmış gibi görünse de aslında televizyon ekranının kişiye yakınlaştığı yok.
+
+Dolayısıyla gözün ‘odaklanması gerektiğini’ düşündüğü noktayla cismin gerçek mesafesinin birbirinden farklı olması, gözün net görmek için ekstra çaba harcamasına neden oluyor. 
+
+Gözlerinde az da olsa problem olan kişilerin, 3D karşısında diğerlerine kıyasla daha çok sorun yaşaması da gözlerinin bu adaptasyonda zorlanmasından kaynaklanıyor.
+
+Bu sorunun farkında olan firmalar, çoktan gözlüksüz kullanılabilen 3D ve hologram görüntü teknolojilerini geliştiriyorlar. 
+
+Gözün doğal işleyişini değiştirmeye çalışmadan 3D algı yaratabilecek teknolojiler, uzmanların tahminlerine göre, 2-3 yıl içinde seri şekilde tüketilmeye başlayacak.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1423700 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1a4fd887-0b71-4d51-97dd-bc049ec8c252 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 18:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hido da ersan da mutlu
+</HEADLINE>
+<TEXT>
+NBA'da oynayan hidayet Türkoğlu ve Ersan İlyasova'nın takımları rakiplerini yendi.
+
+Amerikan Ulusal Basketbol Ligi&rsquo;ne (NBA)  oynanan maçlarla devam edilirken milli basketbolcularımız Hidayet Türkoğlu ile Ersan İlyasova&rsquo;nın takımları galip geldi.
+
+Milli basketbolcu Hidayet Türkoğlu&rsquo;nun takımı Orlando Magic, Los Angeles Clippers&rsquo;i ağırladı.
+
+Maçta Orlando Magic rakibi Clippers&rsquo;i 101-85 yendi.
+
+Hidayet Türkoğlu maçta 5 sayı, 8 ribaunt, 7 asistle oynadı.
+
+Ersan İlyasova&rsquo;nın takımı Milwoukee Bucks da 4 maçlık yenilgi serisine Toronto Raptors karşısında son verdi.
+
+Milli basketbolcu İlyasova&rsquo;nın takımı Milwoukee Bucks sahasında oynadığı Toronto Raptors&rsquo;u 92-74 yendi.
+
+Ersan İlyasova 34 dakika sahada kalırken 6 sayı, 8 ribaunt ve 1 asistle oynadı.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318620 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f385df5/l/0l0smilliyet0n0btr0cisrailli0ebakan0eturkiye0eyi0eboykot0eetmek0emilli0egurur0cdunya0chaberdetay0c0a10b110b20a10a0c130a850a90cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 01:00:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+israilli bakan: t��rkiye���yi boykot etmek milli gurur
+</HEADLINE>
+<TEXT>İsrail’de yayın yapan Kanal 10 televizyonun haberine göre, basında Türkiye’nin “İsrail’i tehdit olarak tanımladığı” iddialarının yer almasının ardından Mizeshnikov, ülke vatandaşlarının ulusal itibarı korumalarını ve turizmde “Türkiye’yi tamamen boykot etmeleri” gerektiğini söyledi. Misezhnikov “Türkiye’ye ne kadar az gidersek, mesajımızı alma imkanı da o kadar artar” dedi.</TEXT>
+</DOC>

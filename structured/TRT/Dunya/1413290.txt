@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1413290 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e02ed951-3e9a-46b4-927a-7d29a7ca5ffc </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 19:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da yolsuzluklara isyan
+</HEADLINE>
+<TEXT>
+Hindistan'da binlerce kişi, yolsuzlukları gerekçe göstererek hükümeti protesto etti.
+
+Yeni Delhi&rsquo;de yürüyen 5 bin gösterici, Başbakan Manmohan Singh&rsquo;i yolsuzlukların üzerine gitmek yerine, örtbas etmeye çalışmakla suçladı.
+
+Hindistan&rsquo;ın kurucusu Mahatma Gandhi&rsquo;nin ölüm yıldönümünde düzenlenen gösteride, yolsuzlukların ülkeyi kökten çürütmeye başladığı savunuldu.
+
+Hindistan&rsquo;da yolsuzluklar Singh hükümetine yöneltilen eleştirilerin başında geliyor. Başbakanın telekom lisansları konusundaki yolsuzluk suçlamalarının soruşturulmasını önlemesinin, ülkeyi 39 milyar dolarlık zarara uğrattığı savunuluyor.
+
+Hindistan Anayasa Mahkemesi, geçen hafta hükümetten, kara para aklamalar konusunda soruşturma açmasını istemişti.
+</TEXT>
+</DOC>

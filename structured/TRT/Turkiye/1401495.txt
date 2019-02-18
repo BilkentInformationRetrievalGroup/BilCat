@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1401495 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6a8c9efe-b331-400b-8701-5a19cc64b52c </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 12:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bitlis ve istanbul'da ter��r g��zalt��lar��
+</HEADLINE>
+<TEXT>
+14 kişi gözaltında...
+
+Bitlis ve İstanbul&rsquo;da terör örgütü PKK&rsquo;ya yönelik düzenlenen operasyonda 14 kişi gözaltına alındı.
+
+Eşzamanlı olarak akşam saatlerinde düzenlenen operasyonlarda Bitlis&rsquo;te 13, İstanbul&rsquo;da da 1 kişi yakalandı.
+
+Gözaltına alınan 14 kişinin terör örgütüt PKK&rsquo;yla bağlantılı oldukları iddia edildi
+</TEXT>
+</DOC>

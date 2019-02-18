@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1428761 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7ea86a8a-7258-4a49-82e9-e5a164ca4afa </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 21:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'ta ��ok karar
+</HEADLINE>
+<TEXT>
+Siyah-beyazlı yönetim, İbrahim Üzülmez'in sözleşmesini feshetti.
+
+ Beşiktaş Kulübü, taraftarların sevgilisi olan, 11 yıldır siyah-beyazlı formayı giyen tecrübeli oyuncu İbrahim Üzülmez&rsquo;in sözleşmesini feshetti.
+ İşte Beşiktaş Kulübü&rsquo;nün konu hakkındaki açıklaması: &quot;13 Şubat 2011 tarihinde oynanan MKE Ankaragücü - Beşiktaş müsabakasının devre arasında soyunma odasında futbolcumuz İbrahim Üzülmez&rsquo;in sebebiyet verdiği sportmenliğe aykırı davranış neticesinde, teknik heyetimizin verdiği rapor ve durum Yönetim Kurulumuz&rsquo;un bugün olağanüstü yaptığı toplantıda değerlendirilmiş ve İbrahim Üzülmez&rsquo;in sözleşmesinin feshedilerek kulübümüz ile olan ilişkisinin kesilmesine oy birliği ile karar verilmiştir.&quot;
+</TEXT>
+</DOC>

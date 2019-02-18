@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325098 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5788cc/l/0l0smilliyet0n0btr0ciki0eulke0earasinda0eesir0eve0ecenaze0edegisimi0cdunya0csondakika0c0a40b110b20a10a0c1310a1950cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+iki ��lke aras��nda esir ve cenaze de��i��imi
+</HEADLINE>
+<TEXT>Ermenistan ile Azerbaycan, Kızılhaç denetiminde esir ve cenaze değiş tokuşu yaptı.Azerbaycan haber sitesi APA’nın haberine göre, Azeri-Ermeni cephe hattında bulunan Gazah bölgesinin Bela Cefarli köyü yakınlarındaki tarafsız bölgede, 2009 yılında Ermeniler tarafından esir edilen Eldar Tağıyev (47) adlı Azerbaycan vatandaşı ile geçen ay tutulduğu hapishanede intihar eden Manvel Sarıbekyan adlı Ermeninin cesedi değiş tokuş edildi.Kayıp, Esir ve Ölen kişilerden sorumlu Azeri Devlet Komisyonunun yaptığı açıklamada, geçen hafta Azerbaycan ve Ermenistan arasında Rusya’nın Astrahan kentinde imzalanan deklarasyon hatırlatılarak, esir ve cenaze değişimin bu çerçevede yapıldığı bildirildi.</TEXT>
+</DOC>

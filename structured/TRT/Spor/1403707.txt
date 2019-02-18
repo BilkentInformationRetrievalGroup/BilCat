@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1403707 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ecf101e8-c0a5-48c3-93f9-07288a450a7e </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+polat'tan bas��n toplant��s��
+</HEADLINE>
+<TEXT>
+Galatasaray olağanüstü Genel Kurul'a gidecek mi?
+
+Galatasaray Kulübü Başkanı Adnan Polat&rsquo;ın bugün basın toplantısı
+düzenleyeceği bildirildi.
+Sarı-kırmızılı kulüpten yapılan açıklamaya göre, Polat&rsquo;ın basın toplantısı saat 15.00&rsquo;te. 
+Galatasaray Kulübü İkinci Başkanı Mehmet Helvacı, dünkü yönetim kurulu toplantısının ardından yaptığı açıklamada,  Adnan Polat&rsquo;tan olağanüstü genel kurula gitme talebinde bulunduğunu ve Başkan Polat&rsquo;ın bu konuyu 24 saat düşüneceğini söylemişti.
+
+ 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322359 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4c9373/l/0l0smilliyet0n0btr0cuzay0emekigi0een0eerken0eyarin0efirlatilacak0cdunya0csondakika0c0a30b110b20a10a0c130a95770cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 11:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+uzay meki��i en erken yar��n f��rlat��lacak
+</HEADLINE>
+<TEXT>Uzay mekiği Discovery’nin son anda ortaya çıkan elektrik arızası nedeniyle en erken yarın fırlatılabileceği açıklandı.Florida eyaletinde bulunan Atlas Okyanusu’na nazır Cape Canaveral uzay merkezinden 1 Kasım günü 6 astronotla birlikte uzaya fırlatılması beklenen Discovery mekiği, Uluslararası Uzay İstasyonu’na (UUİ) yeni bir depolama modülü ve bir ’insansı’ robot götürecekti. Mekiğin kuyruğuna yakın, ikiz yörünge manevra motorlarına yakıt sağlayan boruda sızıntı tespit edilmesi sonucu, mekiğin fırlatılması daha önce de ertelenmişti.Cape Canaveral görevlilerden Mike Moses, bu defa, mekiğin üç motorundan birinde bulunan elektronik sistemde bir sorun tespit ettiklerini bildirdi. Moses, "Sorun hakkında kesin bir fikir edinmek üzereyiz, emin olmalıyız, üzerinde çalışmalıyız, yanılmamamız gerekiyor" dedi.Discovery’nin son uçuşunun ardından, Endeavour uzay mekiği de, 2011’in başlarında bir sefer yapacak.Kongre ve ABD Başkanı Barack Obama tarafından daha önce onaylanmasına rağmen, Endeavour’un üçüncü bir sefer yapıp yapmayacağı, Kongre’nin yıl sonunda yapacağı incelemeden sonra vereceği karara bağlı.</TEXT>
+</DOC>

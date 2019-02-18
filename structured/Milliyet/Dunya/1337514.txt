@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337514 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa94a31/l/0l0smilliyet0n0btr0cbangkok0eta0eel0ebombali0esaldiri0e10eolu0e80eyarali0cdunya0csondakika0c150b110b20a10a0c1314760a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bangkok'ta el bombal�� sald��r��: 1 ��l��, 8 yaral��
+</HEADLINE>
+<TEXT>Tayland’ın başkenti Bangkok’ta bir minibüse el bombası atıldı, 1 kişi öldü 8 kişi yaralandı.Polisten yapılan açıklamada, el bombasının başkentin doğusundaki bir semtte seyir halindeki minibüse atıldığı ve bombanın tipinin belirlenmesi için bomba uzmanlarının beklendiği belirtildi.Açıklamada, "Olay öğrenciler arasındaki bir çatışma mı yoksa başka bir şey mi söz konusu, henüz bilinmiyor" denildi.</TEXT>
+</DOC>

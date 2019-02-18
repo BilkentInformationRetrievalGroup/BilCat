@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343569 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7f4/l/0l0smilliyet0n0btr0cguus0ehiddink0ememnun0cspor0chaberdetay0c210b110b20a10a0c13164810cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:45:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+guus hiddink memnun
+</HEADLINE>
+<TEXT>Hollanda’nın De Telegraaf gazetesinde yayınlanan makalesinde Türk Milli Takımı’nın içinde bulunduğu değişim süreci ile ilgili düşüncelerini dile getiren tecrübeli hoca, Türkiye’nin başına ülke futbolunun içinde bulunduğu durumu bilerek geldiğini kaydetti.Takımın gençleştirme operasyonuna ihtiyacı olduğunu vurgulayan Hollandalı teknik adam, “Bu karar Almanya ve Azerbaycan yenilgilerinin ardından alınmış bir karar değildir. Benimle yapılan müzakerelerde de ben zaten bu düşüncedeydim. Bu sadece A takımın ortaya koyduğu performansla ilgili bir durum da değil; birkaç yıl içinde Türk futbolunu modernize etme çabası” dedi.</TEXT>
+</DOC>

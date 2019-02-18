@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1419292 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=de7d6ebb-b011-487f-a7b9-22d4c22e4856 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 14:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta�� lafayett defterini kapad��
+</HEADLINE>
+<TEXT>
+Beşiktaş Cola Turka, ABD'li basketbolcu Oliver Lafayett'nin transferinden sağlık sorunları nedeniyle vazgeçti. 
+
+Beşiktaş Kulübü Basın Sözcüsü Prof. Dr. Mete Düren, Oliver Lafayette&rsquo;nin sağlık durumu ile ilgili kulübün internet sitesinden açıklama yaptı: &quot;Beşiktaş Cola Turka Erkek Basketbol Takımımız&rsquo;a transferi planan Oliver Lafayette&rsquo;nin yapılan geniş kapsamlı tetkiklerinde kardiolojik açıdan ağır spor yapmasının sakıncalı olduğu belirlenmiş ve gerekli ileri tedavisi için kendisine önerilerde bulunulmuştur.
+ Bu nedele Oliver Lafyette&rsquo;nin Beşiktaş Cola Turka Erkek Basketbol Takımımız&rsquo;a transferinden vazgeçilmiştir.
+ Kamuoyunun bilgilerine saygılarımla sunarım.&quot;
+</TEXT>
+</DOC>

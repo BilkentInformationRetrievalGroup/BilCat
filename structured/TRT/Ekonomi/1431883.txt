@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1431883 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=974d028d-903d-4856-ac41-f11c934266c4 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 15:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��in'in talebi pamu��a rekor k��rd��rd��
+</HEADLINE>
+<TEXT>
+Çin'de pamuk talebinin artmasının stokları azaltması sonucu pamuk vadelileri New York'ta ilk kez 2 doların üstüne çıkarken Zhengzhou'da rekor kırdı.
+
+Mayıs vadeli pamuk, New York&rsquo;taki Ice Futures&rsquo;ta yüzde 3.6&rsquo;lık artışla 2.0193 dolar/0,45 kg olarak rekor kırdı. Eylül vadeli pamuk ise, Zhengzhou Commodity Exchange&rsquo;te ton başına yüzde 2.8 tırmanışla 34,780 yuan (5,299 dolar) olarak tüm zamanların rekorunu kırdı.
+
+Dünyanın en büyük dördüncü pamuk üreticisi Avustralya, 15 Şubat&rsquo;ta üretim tahminlerini 839,000&rsquo;e indirdi.
+
+Commonwealth Bank of Australia&rsquo;da emtia stratejisti olan Luke Matthews, şu anki ivmenin yadsınamaz bir boğa piyasası yarattığını söyledi. Bloomberg’in haberine göre Matthews, 2 doları aşan fiyatların bundan sonra hangi yöne gidebileceğinin ise belirsiz olduğunu dile getirdi.  
+
+ABD Tarım Bakanlığı, en büyük tüketici ve ithalatçı olan Çin&rsquo;de pamuk talebinin 2010-2011 sezonunda 47 milyon balya olacağı tahmininde bulundu. Bakanlığa göre, pamuktaki üretim açığı, küresel stokların 42.8 milyona gerileyerek 1996&rsquo;dan beri en düşük seviyeye inmesini sağlayabilir.
+
+</TEXT>
+</DOC>

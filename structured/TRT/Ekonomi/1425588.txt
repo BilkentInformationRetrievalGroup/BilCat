@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1425588 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5cdfe484-27cd-4311-9105-0c2780b4bddb </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 15:01:07.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+topraks��z tar��ma ilgi b��y��yor
+</HEADLINE>
+<TEXT>
+Denizli'de jeotermal enerjiyle topraksız tarım yapılan seraların sayısı her geçen gün artıyor. 
+
+
+Türkiye&rsquo;deki pek çok serada yüksek maliyet sebebiyle ısıtma yapılamıyor.
+   
+     Isıtmada yüzde 30 tasarruf sağlayan jeotermal enerji bu açıdan önemli bir kaynak.
+
+     Zengin jeotermal kaynaklara sahip Denizli&rsquo;de sanayiciler seracılığa yöneliyor. 
+
+    Topraksız tarımla geleneksel üretimin yaklaşık 5 katı ürün alınabiliyor.
+    
+    Denizlili girişimciler 800 dekarlık alanı kaplayan modern seraları 6 bin dekara çıkarmak için hazırlık yapıyor. 
+
+</TEXT>
+</DOC>

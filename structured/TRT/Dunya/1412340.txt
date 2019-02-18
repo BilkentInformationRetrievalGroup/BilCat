@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1412340 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=99e8fd4b-29e9-4776-ad21-5cbc102000d7 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 15:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"intihar eylemcisi kuzey kafkasyal��"
+</HEADLINE>
+<TEXT>
+Moskova'da havalimanına yönelik terörist saldırı düzenleyen kişinin Kuzey Kafkasya doğumlu 20 yaşında bir erkek olduğu açıklandı. 
+
+
+24 Ocak&rsquo;ta ülkenin en büyük havalimanı olan Domodedova&rsquo;ya yönelik bombalı saldırıda 35 kişi ölmüştü. 
+
+Olaya ilişkin soruşturmayı yürüten komitenin sözcüsü, 20 yaşındaki Kuzey Kafkasyalı saldırganın kimliğinin belirlendiğini ancak şu aşamada adının açıklanmayacağını söyledi. 
+
+Saldırıdan sonra &quot;intikam yemini&quot; eden Rusya Başbakanı Vladimir Putin, saldırıyla Çeçenistan&rsquo;daki militan gruplar arasında bir bağlantı bulunamadığını açıklamıştı. 
+
+Tüm gözler bölgedeki Dağıstan ve diğer özerk Cumhuriyetlerdeki militan hareketlere çevrilmişti. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323704 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298ff/l/0l0smilliyet0n0btr0coecd0eekonomik0etoparlanma0eyilbasindan0eberi0eyavasladi0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99480cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:00:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+oecd: ekonomik toparlanma y��lba����ndan beri yava��lad��
+</HEADLINE>
+<TEXT>PARİS AAMerkezi Paris’te bulunan OECD’nin yayımladığı ‘Ekonomik Görünüm Raporu’nda, küresel ekonomik toparlanmanın kırılgan ancak genel anlamda yolunda olduğu vurgulanarak, özellikle vergi teşviklerinin düşük olması nedeniyle ticari değişim ve faaliyetlerdeki büyümenin yıl başından bu yana zayıfladığına dikkat çekildi.2012’ye kadar faiz artırmasınlarOECD Genel Sekreteri Angel Gurria, düzenlediği basın toplantısında yaptığı açıklamada, ABD Merkez Bankası (Fed) ve Avrupa Merkez Bankası’nın (ECB) 2012 yılının ilk yarısına kadar faiz artırmaması gerektiğine dikkat çekti. Gurria borcu yüksek ülkelerde hükümetlerin kamu açığının ve borçlarının Gayri Safi Yurt içi Hasıla’ya (GSYH) oranları konusunda hedef belirlemesi ve borç seviyesini kabul edilebilir düzeye çekmek için çaba göstermesi gerektiğini vurguladı. Son dönemde dolardaki değer kaybına bağlı olarak  gelişmekte olan ülkeler arasında kızışan kur savaşlarına da değinen Gurria, tek başına kur oranı ayarlamalarının küresel dengesizlikleri çözmeyeceğini aksine korumacılığı artıracağını belirtti. OECD, 2011 yılı için birlik ülkelerinin büyüme beklentilerini de düşürdü. Buna göre, kuruluş 2011 yılı için OECD büyüme beklentisini yüzde 2.80’den yüzde 2-2.5 arasına indirdi. Ayrıca ABD için büyüme beklentisi yüzde 3.2’den yüzde 1.75-2.25 seviyesine düşürüldü. Raporda, OECD Bölgesi’nde bu yıl yüzde 2.5-3, 2012’de ise yüzde 2.5-3 aralığında büyüme beklendiği belirtildi. OECD’nin mayıs ayında yayımladığı bir rapora göre, OECD Bölgesi’nin bu yıl yüzde 2.7, gelecek yıl ise yüzde 2.8 büyüyeceği tahmin edilmişti.</TEXT>
+</DOC>

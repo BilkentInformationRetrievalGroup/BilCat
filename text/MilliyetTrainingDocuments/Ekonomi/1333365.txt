@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333365 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f8556f2/l/0l0smilliyet0n0btr0cnew0eyork0eborsasi0edususle0ebasladi0cekonomi0csondakika0c10a0b110b20a10a0c1312760a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+new york borsas�� d��������le ba��lad��
+</HEADLINE>
+<TEXT>New York Borsası, güne düşüşle başladı.Borsanın açılışında, düne göre, Dow Jones Sanayi Endeksi yüzde 0,2 (20,44 puan) azalarak 11.326,31 puana geriledi.Açılışta, Standard & Poor’s 500 Endeksi yüzde 0,1 (1,17 puan) değer kaybederek 1.212,23 puan, Nasdaq Teknoloji Endeksi ise yüzde 0,1 (2,63 puan) azalarak 2.560,35 puan oldu.</TEXT>
+</DOC>

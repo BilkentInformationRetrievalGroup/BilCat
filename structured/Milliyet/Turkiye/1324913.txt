@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324913 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f5698ee/l/0l0smilliyet0n0btr0ctaksim0edeki0esaldiriyi0eteror0eorgutu0epkk0eya0ebagli0ekurdistan0eozgurluk0esahinleri0eustlendi0e0cturkiye0csondakika0c0a40b110b20a10a0c1310a1480cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:11:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+taksim'deki sald��r��y��, ter��r ��rg��t�� pkk'ya ba��l�� k��rdistan ��zg��rl��k ��ahinleri ��stlendi.
+</HEADLINE>
+<TEXT>Taksim'deki saldırıyı, terör örgütü PKK'ya bağlı Kürdistan Özgürlük Şahinleri (TAK) adlı grup üstlendi.Grup, internet siteleri üzerinden yaptığı açıklamayla saldırıyı üstlenirken, "Komuta kademesinde yer alan Vedat Acar, kendi inisiyatifi ile örgütlendirilmiş" denildi Ayrıntıları aktaracağız</TEXT>
+</DOC>

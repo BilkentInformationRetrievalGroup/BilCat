@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341114 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc70dd4/l/0l0smilliyet0n0btr0cistanbul0eda0elaz0emektebi0eacildi0csiyaset0chaberdetay0c190b110b20a10a0c1315790a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:09:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul���da laz mektebi a����ld��
+</HEADLINE>
+<TEXT>AKA-DER İstanbul’da Lazca öğretmek için Laz Mektebi açtı. AKA-DER, memleketlerinden ayrı kalıp Lazcayı unutanların ya da Lazca bilmedikleri için nineleriyle iletişim kuramayan yeni nesil gençlerin, yabancı dil kurslarından önce Lazca öğrenmeye koştuklarını belirtti. AKA-DER Başkanı Altan Açıkdilli, derneklerinin 6 yıl önce Anadolu halklarının kendi tarihlerini ve kültürlerini öğrenmeleri için kurulduğunu ve bugün 11 şubeye ulaştıklarını söyleyerek, geçen hafta Kadıköy şubelerinde Laz Mektebi açıldığını belirtti.</TEXT>
+</DOC>

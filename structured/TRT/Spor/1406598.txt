@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1406598 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=acf9ef9b-785b-460b-b5bc-64d8e4abf9ab </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 12:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+psv galibiyetle ba��lad��
+</HEADLINE>
+<TEXT>
+Hollanda Birinci Futbol Ligi'nde sezonun ilk yarısını lider tamamlayan PSV Eindhoven, ikinci yarıya da galibiyetle başladı.
+
+PSV Eindhoven deplasmanda VVV Venlo&rsquo;yu 3-0 yenerken, en yakın rakibi FC Twente de Groningen karşısında önemli bir galibiyet aldı. Ajax&rsquo;ta Martin Jol&rsquo;un yerine göreve gelen Frank de Boer ligdeki ilk yenilgisiyle tanıştı.
+
+Ligde son sıralarda bulunan VVV Venlo deplasmanında rahat bir oyun sergileyen PSV Eindhoven, maçı zorlanmadan kazanmasını bildi. 11. dakikada Wilfred Bouma ile 1-0 öne geçen PSV, 45. dakikada Jeeremain Lens&rsquo;in attığı gole farkı ikiye çıkardı. İkinci yarıya da hızlı başlayan lider, aradığı gole erken kavuştu. 46. dakikada ağları havalandıran Atiba Hutchinson farkı 3&rsquo;e çıkardı ve maç bu sonuçla tamamlandı.
+
+Puan sıralamasında ikinci sırada bulunan FC Twente ile dördüncü sıradaki Groningen&rsquo;in mücadelesi zevkli anlara sahne oldu. Evinde oynamanın avantajıyla maça başlayan Groningen, 33. dakikada Tim Matavz&rsquo;ın golüyle 1-0 öne geçti. FC Twente buna 40. dakika Marc Janko ile karşılık verdi ve ilk yarı 1-1 sona erdi. İkinci yarıda daha kontrolü bir oyun sergileyen FC Twente&rsquo;ye galibiyeti getiren golü 81. dakika Marc Janko attı.
+
+Frank dBoer&rsquo;un teknik direktörlük görevine gelmesiyle birlikte sıçrama yapan Ajax&rsquo;ın, ligdeki galibiyet serisine ise FC Utrecht son verdi. Kendi sahasında Ajax karşısında rahat bir oyun sergileyen FC Utrecht, 22 ve 24. dakikalarda Edouard Duplan ve 82. dakikada Ismo Vorstermans&rsquo;ın attığı gollerle maçı 3-0 kazandı.
+
+Eredivisie&rsquo;nin 20. haftasında alınan sonuçlar şöyle:
+
+ADO Den Haag - sc Heerenveen:3-1, Heracles Almelo - AZ Alkmar:0-0, NEC Nijmegen - NAC Breda:2-2, Willem II - Vitesse:1-0, Feyenoord - De Graafschap:0-1, FC Utrecht - Ajax:3-0, Roda JC Kerkrade - Excelsoior:3-0, VVV Venlo - PSV Eindhoven:0-3, FC Groningen - FC Twente:1-2
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1388708 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=256c8010-d4ca-42f0-8cc5-ab4eb9907464 </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 21:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+vak��fbank yenilgisizli��ini s��rd��rd��
+</HEADLINE>
+<TEXT>
+Avrupa Bayanlar Şampiyonlar Ligi (A) Grubu'nda Vakıfbank Güneş Sigorta Türk Telekom, Polonya'nın Bank BPS Fakro takımını 3-1 yendi.
+
+
+Polonya&rsquo;da yapılan karşılaşmada ilk seti 25-23 kaybeden temsilcimiz sonraki setleri 20-25, 14-25 ve 14-25 kazanarak grup maçlarında 5&rsquo;te 5 yaptı ve ilk sıradaki yerini korudu.  
+
+İki takım arasında İstanbul&rsquo;da yapılan ilk maçı da Vakıfbank Güneş Sigorta Türk Telekom yine 3-1 kazanmıştı
+</TEXT>
+</DOC>

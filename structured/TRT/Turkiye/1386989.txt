@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 1386989 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=03fbfeed-acef-40c7-a672-094448512b5a </URL>
+<DATE> 2011/01/05 </DATE>
+<TIME> 19:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+torba tasar�� maratonu s��r��yor
+</HEADLINE>
+<TEXT>
+216 maddelik torba kanun tasarısının 70 maddesi komisyondan geçti. Geçenler arasında çalışma hayatını yakından ilgilendiren maddeler de var. 
+
+
+
+216 maddelik torba kanun tasarısının Meclis Plan ve Bütçe Komisyonundaki görüşmeleri sürüyor. Tasarının şu ana kadar 70 maddesi görüşülerek, komisyondan geçti. Geçenler arasında çalışma hayatına ilişkin radikal düzenlemeler içeren maddeler var.
+10&rsquo;dan Fazla İşçi Çalıştıran Yerlerde Staj Uygulaması
+10&rsquo;dan fazla işçi çalıştıran iş yerlerinde staj uygulaması yapılacak. Bu işyerlerinde stajyerlere, 18 yaşını bitirenlere uygulanan asgari ücretin üçte 1&rsquo;i oranında ödeme yapılacak. 
+
+31 Aralık 2015&rsquo;e kadar işe alınan sigortalılar için geçerli olmak üzere, bu kişilerin sigorta primlerinin işveren payları, işsizlik sigortası fonundan karşılanacak. Bu süreler çeşitli kriterlere bağlı olarak 6 ay ile 48 ay arasında olacak.
+Kazazedelerin Aldıkları Sağlık Hizmetinin Bedelini SGK Karşılayacak
+Tasarı ile Karayolları Trafik Kanununda da önemli değişiklikler yapıldı. Trafik kazaları sebebiyle tüm sağlık kuruluşlarının sundukları sağlık hizmet bedelleri, kazazedenin sosyal güvencesi olup olmadığına bakılmaksızın SGK tarafından karşılanacak.
+Sıfır Araç Alım-Satımında Bürokrasi Kalkıyor
+Yeni araç alanlara ilişkin düzenlemlerde ise bürokratik engeller kaldırılıyor. Artık yeni araç alanlar, tescile ilişkin geçiçi belge alarak, aracını kullanmaya başlayabilecek. 
+
+Yeni araçların ruhsat ve diğer belgeleri, ikinci el araç satışlarındaki gibi posta yoluyla araç sahibine gönderilecek.
+
+Yabancı plakalı araçların Türkiye&rsquo;de geçerli sigortaları yoksa, zorunlu mali sorumluluk sigortası sınırdan girişte yaptırılacak.
+     
+Zorunlu mali sorumluluk sigortası pulunun da araçların ön camlarına yapıtırılması mecburiyeti kaldırılıyor.
+
+
+</TEXT>
+</DOC>

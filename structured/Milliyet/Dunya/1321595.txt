@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321595 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f49aeab/l/0l0smilliyet0n0btr0cendonezya0eya0eciplak0eyardim0cdunya0chaberdetay0c0a30b110b20a10a0c130a94620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+endonezya���ya ����plak yard��m
+</HEADLINE>
+<TEXT> Ülkede şiddet eylemleriyle de tanınan muhafazakar gruplar Anderson’un Allah’ın kurallarına aykırı geldiğini söyleyerek yardımın kabul edilmemesi gerektiğini söyledi. Grup “Çıplak pozlar daha da büyük felaketlere neden olur” dedi. </TEXT>
+</DOC>

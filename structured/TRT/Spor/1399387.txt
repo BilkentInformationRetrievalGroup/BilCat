@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1399387 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b6be9143-e9c7-43ce-91a4-d1aba1b6bc4f </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 14:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'tan borsa'ya fink a����klamas��
+</HEADLINE>
+<TEXT>
+Beşiktaş Kulübü, Alman futbolcu Michael Fink'in sözleşmesinin askıya alındığını İstanbul Menkul Kıymetler Borsası'na bildirdi.
+
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş&rsquo;den borsaya yapılan açıklamada, &rsquo;&rsquo;Profesyonel futbolcularımızdan Michael Fink&rsquo;in transferikonusunda Hannover Kulübü ile yapılan görüşmelerde mutabakat sağlanamamış olup; futbolcu ile aramızdaki 01.09.2010 başlangıç, 31.05.2012 bitiş tarihli TFF Profesyonel Futbolcu Sözleşmesi, yabancı kontenjanı sorunu nedeni ile futbolcunun sözleşmeden doğan hakları saklı kalmak kaydıyla, askıya alınmıştır&rsquo;&rsquo; denildi.
+
+</TEXT>
+</DOC>

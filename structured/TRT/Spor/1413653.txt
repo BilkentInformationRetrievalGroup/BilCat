@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1413653 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5e6ab4c3-fa00-4fc6-b682-38a76105bf76 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 10:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e bayanlarda da lider
+</HEADLINE>
+<TEXT>
+Türkiye Kadınlar Basketbol Ligi'nde (TKBL) 15. hafta geride kalırken, Fenerbahçe averajla liderliğini sürdürdü.
+
+Sarı-lacivertliler, deplasmanda İstanbul Üniversitesi&rsquo;ni 93-81 yenerek puanını 29&rsquo;a çıkardı ve bu haftayı da averajla liderlik koltuğunda geçti.
+
+Galatasaray Medical Park ise derbi maçta Beşiktaş Cola Turka&rsquo;yı 71-53&rsquo;lük skorla geçmeyi başararak, 29 puan ve averajla 2. sıradaki yerini korudu.
+
+TKBL&rsquo;nin 15. haftasında alınan sonuçlar şöyle:
+
+Galatasaray Medical Park-Beşiktaş Cola Turka: 71-53
+İstanbul Üniversitesi-Fenerbahçe: 81-93
+Samsun Basketbol-Tarsus Belediyesi: 84-91
+Ceyhan Belediyesi-BOTAŞ Spor: 78-80 (uzatmada)
+Mersin Büyükşehir Belediyesi-Panküp Kayseri Şeker: 51-52
+Alanya Belediyesi-Burhaniye Belediyesi: 74-8
+</TEXT>
+</DOC>

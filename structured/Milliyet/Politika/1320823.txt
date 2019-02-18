@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320823 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f4101ee/l/0l0smilliyet0n0btr0caskerler0eemre0eitaat0eetmedi0csiyaset0chaberdetay0c0a20b110b20a10a0c130a90a630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:13:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+askerler emre itaat etmedi
+</HEADLINE>
+<TEXT>Ak Parti Genel Başkan Yardımcısı Ömer Çelik, Cumhurbaşkanı Gül’ün Köşk’te verdiği resepsiyona katılmayan komutanları sert bir dille eleştirdi: “Başkomutanın davetine silahlı kuvvetler gibi teamülleri güçlü bir kurumun katılmaması benim gözümde emre itaatsizlikle eşdeğerdir.”</TEXT>
+</DOC>

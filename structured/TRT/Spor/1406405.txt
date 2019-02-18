@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1406405 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=34f0db5a-33ea-4eef-baf5-7ac5701968d3 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 10:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+universiade i��in geri say��m
+</HEADLINE>
+<TEXT>
+Türkiye, 25. Dünya Üniversiteler Kış Oyunları'na (Universiade Erzurum-2011) 11 branşta, 74'ü bayan toplam 153 sporcuyla katılacak.
+
+
+Erzurum&rsquo;un ev sahipliğinde, 27 Ocak-6 Şubat tarihleri arasında düzenlenecek Universiade Erzurum-2011&rsquo;de Türkiye, alp disiplini, biathlon, buz hokeyi, curling, kayakla atlama, kayaklı koşu, kuzey kombine, snowboard, serbest stil kayak, artistik paten ve sürat pateni olmak üzere bütün branşlarda mücadele edecek. Toplam 153 sporcunun 74&rsquo;ünü bayan, 79&rsquo;unu ise erkek sporcular 
+oluşturuyor.
+
+Bireysel sporlarda en fazla sporcu 18 ile snowboardda yer alırken, Türkiye&rsquo;nin kuzey kombinede 1 milli sporcusu bulunuyor. Kayakla atlama ve kuzey kombinede bayan sporcu yarışmıyor.
+
+Alp disiplini Konaklı Kayak Merkezi&rsquo;nde, kayaklı koşu, kuzey kombine ve biatlon Kandilli Kayak Merkezi&rsquo;nde, kayakla atlama Kiremitlik Tepe Tesisleri&rsquo;nde, serbest stil kayak ve snowboard Palandöken Kayak Merkezi&rsquo;nde, sürat pateni Palandöken&rsquo;deki buz salonlarında, buz hokeyi Cemal Gürsel mevkisindeki buz salonlarında, artistik paten Yenişehir&rsquo;deki buz salonunda, curling ise Türkiye&rsquo;nin ilk curling salonunda yapılacak.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340040 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fbe7d8f/l/0l0smilliyet0n0btr0cmessi0eboyle0eistedi0e10e0a0cspor0chaberdetay0c180b110b20a10a0c13155570cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:02:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+messi b��yle istedi 1-0
+</HEADLINE>
+<TEXT>Barcelonalı yıldız futbolcu, orta sahada Brezilyalılardan kaptığı top sonrası 4 rakip savunma oyuncusunu birer birer  geçip, ceza sahasına yaklaştığı sırada kalenin sağ alt köşesine yerden süper bir şut çıkardı. Brezilya’ya karşı kariyerindeki ilk golünü kaydeden Messi, takımının Haziran 2005’ten beri ilk kez rakibi karşısında galip gelmesini sağladı.Fenerbahçe’nin başarılı savunma oyuncusu Andre Santos, Brezilya Milli Takımı’nın ilk 11’inde sahaya çıktı. Sarı-lacivertli futbolcu, 90 dakika boyunca başarıyla görev yaptı. Bu arada Fransa özel maçta deplasmanda İngiltere’yi 2-1 yendi. Benzama ve Valbenau’nun gollerine, Crouch karşılık verdi. </TEXT>
+</DOC>

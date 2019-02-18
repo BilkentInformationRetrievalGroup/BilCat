@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342198 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fcca7de/l/0l0smilliyet0n0btr0cgocukte0ecocuk0earaniyor0cturkiye0csondakika0c190b110b20a10a0c13159880cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 17:09:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g������kte ��ocuk aran��yor
+</HEADLINE>
+<TEXT>Edinilen bilgiye göre Gaziosmanpaşa Bağlarbaşı Mahallesi Sipahiler Caddesi Yeşim Sokak üzerinde bulunan 2 katlı binanın duvarında çökme meydana geldi. Sokağa düşen duvarın altında bir çocuğun kaldığını iddia eden mahalle sakinleri durumu itfaiye polis ve sağlık ekiplerine haber verdi. Olay yerine gelen Gaziosmanpaşa itfaiye ekipleri ile bir kepçe çöken duvarı kaldırma çalışmalarına başladı. Çocuğun duvarın altında kaldığı ihbarı nedeniyle de sağlık ekipleri olay yerinde hazır bekletiliyor</TEXT>
+</DOC>

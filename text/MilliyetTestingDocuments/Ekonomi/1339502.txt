@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339502 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fbbadc0/l/0l0smilliyet0n0btr0cabd0eham0epetrolunun0evaril0efiyati0e820edolarin0ealtina0egeriledi0cekonomi0csondakika0c170b110b20a10a0c13153980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 19:00:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+abd ham petrol��n��n varil fiyat�� 82 dolar��n alt��na geriledi
+</HEADLINE>
+<TEXT>ABD ham petrolünün varil fiyatı 82 doların altına geriledi.Çin hükümetinin enflasyonla mücadele için sert önlemler alacağı açıklaması ve faiz oranlarını yükseltebileceği endişeleri üzerine ABD ham petrolünün varil fiyatı aralık ayı teslimi düne göre 56 sent azalarak 81,78 dolara düştü. ABD ham petrolünün varil fiyatı bir ara 1 dolardan fazla değer kaybederek 81,18 dolarla 29 Ekim’den bu yana en düşük seviyesine indi.Londra Brent tipi ham petrolün varil fiyatı da 30 sentlik düşüşle 84,43 dolar oldu.ABD ham petrolünün varil fiyatı dört gündür değer kaybediyor. Geçen hafta perşembe günü 88,63 dolarla iki yılın en yüksek seviyesini gören ABD ham petrolünün varil fiyatı o günden bu yana yüzde 7’den fazla değer kaybetti.Geçen hafta cuma günü 84,88 dolardan haftayı kapatan ABD ham petrolünün varil fiyatı pazartesi günü 85 dolar seviyesinde işlem görüyordu.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342561 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fced8e8/l/0l0smilliyet0n0btr0c0erecm0eidamdan0ehafiftir0eiddiasi0csiyaset0chaberdetay0c20a0b110b20a10a0c13160a780cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:09:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���recm idamdan hafiftir��� iddias��
+</HEADLINE>
+<TEXT>DIŞ HABERLER SERVİSİLaricani Amerikan Wall Street Journal gazetesine verdiği röportajda, recm cezasının etkili bir caydırıcı olduğunu belirttikten sonra, “Taşlama cezasında bazı kurallar vardı. Sınırlı sayıda ve belirli bir biçimde taş atılır. Bazıları, taşlamanın idamdan daha hafif bir ceza olduğunu düşünüyor. Çünkü kurtulma şansınız var. Taşlananların yüzde 50’den fazlası ölmeyebilir” dedi. Laricani, başkanlığını yaptığı konseyin, Aştiyani’nin idamdan kurtulması için çalıştığını da ekleyerek, bunun için kocasının ailesinin idam cezasının iptalini istemesi gerektiğini vurguladı. </TEXT>
+</DOC>

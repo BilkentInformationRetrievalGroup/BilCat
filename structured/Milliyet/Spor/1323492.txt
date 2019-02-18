@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323492 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f500de0/l/0l0smilliyet0n0btr0cfiorentina0eda0efrey0een0eaz0e40eay0eyok0cspor0csondakika0c0a30b110b20a10a0c130a97620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 19:16:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+fiorentina'da frey en az 4 ay yok
+</HEADLINE>
+<TEXT>İtalya Birinci Futbol Ligi takımlarından Fiorentina’nın Fransız kalecisi Sebastien Frey, sakatlığı nedeniyle en az 4 ay sahalardan uzak kalacak.Fiorentina Kulübünün açıklamasında, Fransız kalecinin dünkü idmanda dizinden sakatlandığı ve 4-6 ay futbol oynayamayacağı belirtildi.Frey’in çapraz bağlarında esneme meydana geldiği kaydedilen açıklamada, oyuncunun haftaya ameliyat olacağı ifade edildi.</TEXT>
+</DOC>

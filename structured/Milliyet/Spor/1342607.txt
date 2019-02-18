@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342607 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea46/l/0l0smilliyet0n0btr0ctek0etek0ekutlama0cspor0chaberdetay0c20a0b110b20a10a0c13161640cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tek tek kutlama
+</HEADLINE>
+<TEXT> Güneş, "Ay-yıldızlı forma bizim için oldukça önemli. Orada Trabzonspor'u ne kadar fazla futbolcu temsil ederse, o kadar güzel işler yapmışız demektir. Umarım bu sayıyı daha da artırırız" diyerek hem oyuncularını tatlı bir dille uyardı, hem de kutladı. </TEXT>
+</DOC>

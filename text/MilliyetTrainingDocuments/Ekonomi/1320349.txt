@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320349 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f44fbb0/l/0l0smilliyet0n0btr0cborsa0ebirinci0eseansta0edustu0cekonomi0csondakika0c0a20b110b20a10a0c130a91940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa birinci seansta d����t��
+</HEADLINE>
+<TEXT>İMKB Bileşik Endeksi birinci seansta, önceki kapanışa göre 51,80 puan azalarak 69.022,52 puandan kapandı.Hisse senetleri ortalama yüzde 0,07 değer kaybetti.</TEXT>
+</DOC>

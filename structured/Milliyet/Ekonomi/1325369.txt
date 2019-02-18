@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325369 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f57df0c/l/0l0smilliyet0n0btr0chazine0eden0egeri0ealim0eihalesi0cekonomi0csondakika0c0a40b110b20a10a0c1310a2170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:00:41.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hazine'den geri al��m ihalesi
+</HEADLINE>
+<TEXT>Hazine, 12 Ocak 2011 itfalı tahvil ihalesinde net 200 milyon liralık geri alım yaptı.İhalede, ortalama fiyat 103,527 lira oldu.İhaleye nominal 491,3 milyon liralık teklif gelirken, nominal geri alım tutarı 193,2 milyon lira oldu.Hazine, ihalede geri alınacak azami tutarın net 200 milyon lira olacağını açıklamıştı.</TEXT>
+</DOC>

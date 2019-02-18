@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1393522 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=529451f9-d8a4-430a-992b-81092307c8d6 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 21:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tebligat kanunu kabul edildi
+</HEADLINE>
+<TEXT>
+Yeni Yasayla, bugüne kadar posta idaresi veya memur aracılığıyla iletilen tebligatlar elektronik yolla da yapılabilecek. 
+
+
+     Elektronik yolla tebligat yapılmasına imkan veren Tebligat Kanunu Meclis&rsquo;te kabul edildi. 
+
+
+     Yasayla, bugüne kadar posta idaresi veya memur aracılığıyla iletilen tebligatlar elektronik yolla da yapılabilecek. 
+
+     Yurt dışındaki Türk vatandaşları söz konusu ise, bugüne kadar Adalet Bakanlığı aracılığıyla yapılan tebligat, bundan böyle doğrudan ilgili temsilciliğe gönderilebilecek. 
+
+     Adli sicil kayıtlarına da yeni düzenleme getiriliyor. 
+     Kişiler, kendileriyle ilgili adli sicil ve arşiv kayıtlarını sorgulayabilecek. 
+ 
+     Adli Sicil ve Arşiv Kaydı Paylaşım Sistemi&rsquo;nden elektronik ortamda yapılacak sorgulamalardan ücret alınmayacak. 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331576 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f735e46/l/0l0smilliyet0n0btr0chazine0eden0e30ebankaya0etahvil0eartirimi0eyetkisi0cekonomi0csondakika0c0a80b110b20a10a0c13117760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 15:00:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hazine���den 3 bankaya tahvil art��r��m�� yetkisi
+</HEADLINE>
+<TEXT>Hazine Müsteşarlığı, 10 yıl vadeli avro cinsinden tahvilin artırımı için 3 bankaya yetki verdi.Hazine Müsteşarlığı’ndan yapılan duyuruya göre, 2011 yılı dış borçlanma programının ön finansmanı amacı ile avro cinsinden 18 Mayıs 2020 vadeli tahvilin artırımı (reopening) için, bugün BNP Paribas, Deutsche Bank ve HSBC;ye ortak lider bankalar olarak yetki verildi.</TEXT>
+</DOC>

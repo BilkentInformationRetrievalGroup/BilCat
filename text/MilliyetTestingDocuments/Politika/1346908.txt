@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346908 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fff54e4/l/0l0smilliyet0n0btr0csadece0ekanun0euygulaniyor0csiyaset0chaberdetay0c260b110b20a10a0c13186380cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:09:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sadece kanun uygulan������yor
+</HEADLINE>
+<TEXT>İZMİT’te ölen Belediye eski başkanlarından Necati Gençoğlu’nun cenaze törenine katılmak üzere kente gelen Milli savunma Bakanı Vecdi Gönül, 1 amiral ile 2 generalin görevden alınmalarıyla ilgili soru üzerine “Generallerin görevden alınması 926 sayılı kanunun 65’inci maddesinin uygulanmasından ibarettir. Askeri yedeki özel güvenlik uygulaması 4 yıl önce başladı zaten. Yaygınlaştırmaya çalışıyoruz” dedi. </TEXT>
+</DOC>

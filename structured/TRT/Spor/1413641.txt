@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1413641 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a71060f7-1c7a-49e2-961c-509292c89350 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 10:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e ��lker liderli��ini s��rd��rd��
+</HEADLINE>
+<TEXT>
+Beko Basketbol Ligi'nde 17. hafta mücadelesi hafta sonu yapılan maçlarla tamamlandı.
+
+Sarı-lacivertliler, deplasmanda karşılaştığı Aliağa Petkim&rsquo;i 94-71&rsquo;lik skorla yenerek puanını 32&rsquo;ye çıkardı ve bu haftayı da liderlik koltuğunda geçen takım oldu.
+
+Banvit ise sahasında Beşiktaş Cola Turka&rsquo;yı ağırladı. Karşılaşmadan 14 sayı farkla 82-68 galip ayrılan Banvit, 14. galibiyetine imza attı ve 31 puanla 2. sıradaki yerini korudu.
+
+Efes Pilsen de sahasında Erdemirspor&rsquo;u 78-71 yenerek, 30 puan ve averajla haftayı 3. sırada geçti.
+
+Sahasında Pınar Karşıyaka&rsquo;yı 80-67&rsquo;lik skorla geçen Galatasaray Cafe Crown ise 30 puan ve averajla 4. sırada yer aldı.
+
+Beko Basketbol Ligi&rsquo;nde sonuçlar şöyle:
+
+Türk Telekom-Olin Edirne: 77-72 (uzatmada)
+Galatasaray Cafe Crown-Pınar Karşıyaka: 80-67
+TOFAŞ-Medical Park Trabzonspor: 78-64
+Bornova Belediyesi-OYAK Renault: 84-73
+Efes Pilsen-Erdemirspor: 78-71
+Banvit-Beşiktaş Cola Turka: 82-68
+Mersin Büyükşehir Belediyesi-Antalya Büyükşehir Belediyesi: 73-71
+Aliağa Petkim-Fenerbahçe Ülker: 71-94      
+</TEXT>
+</DOC>

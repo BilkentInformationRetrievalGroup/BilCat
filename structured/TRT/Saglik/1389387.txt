@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1389387 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fce56bef-7b48-4f92-b613-5602bbe39360 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 14:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+a s��n��f�� ��cretsiz tedavi
+</HEADLINE>
+<TEXT>
+Lösemili Çocuklar Hastanesi (LÖSANTE) en yüksek düzeyde hizmet veren hastaneler arasında yerini aldı.
+
+Alınan bilgiye göre, yataklı servisler, yoğun bakım, ayaktan tedavi üniteleri gibi gerekli olan tüm altyapıya sahip olan Türkiye&rsquo;nin ilk ve tek Lösemili Çocuklar Hastanesi LÖSANTE, &quot;Özel Hastaneler Puanlandırılması ve İlave Ücret Alınması Hakkında Yönerge&quot; gereği oluşturulan 2011 yılı puanlar sonucu en yüksek düzeyde hizmet veren hastaneler arasına girdi.  
+
+Muayeneden tahlile, kan temininden pijamasına kadar hastalara tamamen ücretsiz tedavi olanağı sunan LÖSANTE, lösemili çocuklara gelişmiş ülkeler standartlarında hizmet verdiği gibi, hastalara karşılıksız sosyal olanaklar da sunuyor.
+
+</TEXT>
+</DOC>

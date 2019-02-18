@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1433466 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b65d5f10-5c47-4714-9c99-eec05d014638 </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 23:10:59.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ocuklarda burun t��kan��kl������na son
+</HEADLINE>
+<TEXT>
+Kışın çocuklarda burun tıkanıklığı çok sık görülüyor. Soluk almakta zorlanan burnunu temizleyemeyen bebekler için "burun aspiratörü" geliştirildi.
+
+       Kış ayları ile birlikte çocuklarda  burun tıkanıklığına sebep olan üst solunum yolu enfeksiyonları daha çok görülmeye başlandı...
+
+     Çocuklarda huzursuzluğa, iştahsızlığa ve uykusuzluğa yol açan burun tıkanıklığı için burun aspiratörü geliştiridi. Aspiratörün ilginç bir yanı da elektrik süpürgesi yardımı ile çalışıyor olması...
+
+      Bir ucu elektrik süpürgesine takılan burun aspiratörünün diğer ucu da bebeğin burun deliğine yaklaştırılıyor. Süpürgenin vakum gücü ile burun içindeki akıntılar çekilerek temizleniyor.
+
+    Elektrik süpürgesinin ise 800 Watta çalıştırılması gerekiyor...
+           
+     0-6 yaş arası bebeklerde kullanılabilen burun aspiratörü, bebeğe herhangi bir acı ya da zarar vermiyor.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1422254 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dd06a448-6a5b-4f09-a73c-473db9a6f0cd </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 13:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa ilk seansta art����ta
+</HEADLINE>
+<TEXT>
+  İstanbul Borsası Ulusal-100 Endeksi ilk seansı 594 puan artarak 65 bin 499 puandan tamamladı.
+
+
+
+ Hisse senetleri günün ilk yarısında ortalama yüzde sıfır virgül 91 oranında değer kazandı. 
+
+ Serbest piyasada Amerikan Doları 1 lira 57 kuruş, Avro ise 2 lira 14 kuruştan işlem görüyor.
+
+ Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8 virgül 46 seviyesinde bulunuyor.
+
+  Uluslararası piyasalarda altının ons fiyatı bin 356 dolar. 
+
+  Kapalıçarşı&rsquo;da Cumhuriyet altını 457 liradan alıcı buluyor. 
+
+ Dünya borsalarına gelince...
+
+ New York Borsası&rsquo;nda dün Dow Jones Sanayi endeksi yüzde sıfır virgül 57, teknoloji göstergesi Nasdaq yüzde sıfır virgül 53&rsquo;lük artış kaydetti.
+
+ Asya Pasifik piyasaları bugün karışık bir tablo çiziyor.
+
+ Avrupa borsalarında ise sınırlı değer artışları ön plana çıkıyor.
+
+</TEXT>
+</DOC>

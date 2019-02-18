@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1430782 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=211737d0-83b6-4237-9dd6-19cade78098e </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 16:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ihracat hedefleri i��in te��vik sistemi
+</HEADLINE>
+<TEXT>
+Devlet Bakanı Zafer Çağlayan, oluşturacakları sistemle hangi ülkenin ne alıp ne sattığını tespit ederek,Türk sanayicisinin önünü açacaklarını söyledi.
+
+ Devlet Bakanı Zafer Çağlayan İzmir&rsquo;de işadamlarıyla bir araya geldi.
+
+     Bakan Çağlayan, toplantıda, ihracat hedeflerini gerçekleştirebilmek için daha planlı ve  programlı bir çalışmanın içinde olduklarını söyledi.
+
+     Zafer Çağlayan, yatırım teşvik sisteminin yatırım yapacaklara ve ihracatçıya yol göstereceğini belirtti. 
+
+   
+Çağlayan, &quot;Artık Türkiye elimde şu malım var bunu nereye satabilirim düşüncemizin yanı sıra asıl dünya için ülke için diğer ülkeler için ne üretebilirim ve hangi sektörlerin destekleneceği rekabet edeceğimiz bir yapıya dönüşecek&quot; dedi
+</TEXT>
+</DOC>

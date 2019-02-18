@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1396860 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6a00d859-095a-43c0-914c-8d882385a61d </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 13:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ast��m hastalar��na uyar��
+</HEADLINE>
+<TEXT>
+Uzmanlar, astım hastalarına kendilerine uygun bölgelerde yaşamaları konusunda uyarıyor.
+
+
+
+Astım hastalığının sahil kesimlerinde daha zor kontrol altına alındığı, bu hastaların daha rahat yaşayabilmesi için kendilerine uygun coğrafi bölgeleri bulması gerektiği bildirildi.
+
+Erciyes Üniversitesi Tıp Fakültesi Hastanesi Göğüs Hastalıkları Anabilim Dalı Başkanı Prof. Dr. Ramazan Demir, yaptığı açıklamada, astım hastalığının solunum yollarının daralmasıyla oluştuğunu, solunum yollarındaki daralmanın sebebinin oradaki kasların bazı alerjenler ve diğer etkenlerle kasılması olduğunu söyledi.
+
+Sahil bölgelerinde, nemi seven mantarların da astıma sebep olabileceğini anlatan Demir, şunları söyledi:
+
+&quot;Genellikle sahil kesiminde yaşayan astımlıları kontrol etmek daha zordur diye bir şey vardır. Bunun sebebi de bu alerjenlerin sahil kesiminde daha çok olması ve astımlıları tetikleyip hasta olmalarına sebep olmasıdır. Astımlılar için kuru iklime sahip olan İç Anadolu Bölgesi, Doğu Anadolu Bölgesi daha uygundur. Ama bu herkes için geçerli olmayabilir&quot;.
+
+Demir şöyle devam etti: &quot;Bir kişinin mesela soğuğa karşı duyarlılığı vardır, soğukta kolayca enfeksiyon meydana gelebilir. Soğuğa karşı kendini koruyamazsa bu bölgelerde de hasta olabilir. Bir başka durum da hava kirliliğidir. Astımlı, kuru iklim bölgesinde olmasına rağmen hava kirliliğinden dolayı hasta olabilir. Bu nedenlerden dolayı astım hastalarının daha kolay tedavi edilebilmesi ve daha rahat yaşamaları için kendilerine en uygun bölgeyi bulmaları gerekiyor.&quot;
+
+</TEXT>
+</DOC>

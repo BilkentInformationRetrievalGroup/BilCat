@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1400080 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9184bb5e-e75e-4333-9db1-1026b2e2d625 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 10:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta ��iddet: 14 ��l��
+</HEADLINE>
+<TEXT>
+Devrik lider Saddam Hüseyin'in memleketi Tikrit'te düzenlenen intihar saldırısında 42 kişi öldü. 
+
+Selahaddin Vali Yardımcısı Ahmed Abdül Cabbar&rsquo;ın açıklamasına göre saldırgan, polis adaylarını hedef aldı. 
+
+Kalabalığın içine giren intihar eylemcisinin vücudundaki bombayı patlaması sonucu en az 42 kişi yaşamını yitirdi. Olayda yaklaşık 100 kişinin de yaralandığı bildiriliyor. 
+
+
+
+
+
+</TEXT>
+</DOC>

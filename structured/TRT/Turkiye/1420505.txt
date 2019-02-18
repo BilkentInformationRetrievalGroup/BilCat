@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1420505 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d4ec3337-9cfd-4b64-949a-8ef27cc36a6a </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 00:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sakarya'da trafik kazas��
+</HEADLINE>
+<TEXT>
+Sakarya'da meydana gelen trafik kazasında 2 kişi öldü, 13 kişi yaralandı.
+
+
+ 
+    Sakarya&rsquo;nın Pamukova ilçesinde, minibüsün kamyona çarpması sonucu meydana gelen kazada 2 kişi öldü, 13 kişi yaralandı.   
+ 
+      Turgutlu mevkiinde bir minibüs, aynı istikamete giden kamyona arkadan çarptı.    
+ 
+      Kazanın ardından Pamukova Devlet Hastanesine kaldırılan yaralılardan, İsmail Çilesiz ve Cemil Demir, hastanede öldü.
+
+      
+   
+
+</TEXT>
+</DOC>

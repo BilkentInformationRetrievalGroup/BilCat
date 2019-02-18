@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1382207 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4ba65131-fe0d-465e-83c7-71f1dc92df6b </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 16:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e topba���� yap��yor
+</HEADLINE>
+<TEXT>
+Sarı lacivertliler, kupada Yeni Malatyaspor ile karşılaşacak.
+
+Fenerbahçe, 2 haftalık tatilin ardından Spor Toto Süper Lig&rsquo;de ikinci yarı hazırlıklarına yarın (04.01.2011) başlayacak.
+Can Bartu Tesisleri&rsquo;nde yarın toplanacak Fenerbahçe takımı, ilk antrenmanını basına açık olarak saat 18.00&rsquo;de yapacak.
+Çalışmalarını 12 Ocak Çarşamba gününe kadar İstanbul&rsquo;da sürdürecek. 
+Fenerbahçe, Ziraat Türkiye Kupası&rsquo;nda 13 Ocak Perşembe günü deplasmanda Yeni Malatyaspor ile yapacağı karşılaşmanın ardından kamp çalışması için Antalya&rsquo;ya geçecek.
+
+</TEXT>
+</DOC>

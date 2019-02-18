@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332342 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f76b6a9/l/0l0smilliyet0n0btr0cjaponlarla0etemiz0eenerji0eanlasmasi0cekonomi0chaberdetay0c0a90b110b20a10a0c13120a0a50cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/09 </DATE>
+<TIME> 01:01:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+japonlarla temiz enerji anla������������������������mas������������������������
+</HEADLINE>
+<TEXT>Niyet mektubunda Türkiye’de temiz enerji ve yenilenebilir enerji kullanımının yaygınlaştırılması konularında Ar-Ge ve uygulamada işbirliği yapılması, yeni toplu taşıma sistemleri gibi konularda spesifik projeler geliştirilmesinin öngörüldüğüne işaret edilen açıklamada, sıfır emisyonlu bina projesi ile rüzgar enerjisi santrallerinin enerji arz kapasitelerinin geliştirilmesi ve şebeke istikrarının arttırılması amacıyla RES ve HES’ten oluşan hibrit sistem kurulmasının öncelikli projeler arasında yer aldığı kaydedildi.</TEXT>
+</DOC>

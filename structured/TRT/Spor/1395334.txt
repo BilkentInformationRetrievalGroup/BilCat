@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1395334 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0aef0634-26ec-4bbf-ad5b-9b7b473b6604 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 12:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'tan ��verson a����klamas��
+</HEADLINE>
+<TEXT>
+Beşiktaş Kulübü, yıldız basketbolcusu Allen Iverson'ın sağlık durumuyla ilgili açıklama yaptı.
+
+Siyah-beyazlı kulübün internet sitesinde Yönetim kurulu adına yapılan açıklamada, şu ifadelere yer verildi:
+
+&rsquo;&rsquo;BJK Cola Turka Erkek Basketbol Takımı oyuncumuz Allen Iverson&rsquo;ın tespit edilen rahatsızlığından dolayı Amerika Birleşik Devletleri&rsquo;ndeki doktoruyla yapılan görüşme neticesinde kendisinin küçük bir cerrahi müdahale geçirmesi ve Şubat ayının ilk haftasında rehabilitasyon çalışmaları için tekrar İstanbul&rsquo;a dönmesine karar verilmiştir.&rsquo;&rsquo;
+</TEXT>
+</DOC>

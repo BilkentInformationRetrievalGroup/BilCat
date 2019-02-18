@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346944 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fff9332/l/0l0smilliyet0n0btr0cfenerbahce0efransa0eda0esuper0cspor0chaberdetay0c260b110b20a10a0c13186990cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:13:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+fenerbah������e fransa���������da s������per
+</HEADLINE>
+<TEXT>Ancak daha sonra oyuna ağırlığını koyan Fenerbahçe 25-22’lik setle durumu eşitledi: 1-1 Sarı-lacivertli ekip üçüncü seti ise yine 25-22 önde kapattı ve skoru 2-1’e getirdi. Başabaş şekilde geçen dördüncü seti de 25-23 kazanmayı başaran Fenerbahçe maçtan 3-1 galip ayrıldı.İlk maçta İtalya’nın Sisley Treviso takımına 3-2 yenilen Fenerbahçe, üçüncü maçını 7 Aralık’ta deplasmanda Rusya’nın Lokomotiv Belgorod takımı ile oynayacak.</TEXT>
+</DOC>

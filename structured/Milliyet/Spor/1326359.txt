@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326359 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bc845/l/0l0smilliyet0n0btr0cfilenin0esultanlari0etokyo0eya0egitti0cspor0chaberdetay0c0a50b110b20a10a0c1310a4750cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+filenin sultanlar�� tokyo���ya gitti
+</HEADLINE>
+<TEXT>Türkiye’nin de mücadelesini sürdüreceği ikinci tur öncesinde antrenman programları için maçlara 2 gün ara verilirken, Filenin Sultanları da dün tarihi sınavlara çıkacağı Tokyo’ya geldi. Dünü dinlenerek geçiren milli takımımızın çalışmalarına bugün yeniden başlayacağı ve cumartesi günü TSİ 03.30’da oynanacak Sırbistan maçına hazır olacağı belirtildi.</TEXT>
+</DOC>

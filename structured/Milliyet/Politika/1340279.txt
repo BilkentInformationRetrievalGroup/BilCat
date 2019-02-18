@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340279 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc141a2/l/0l0smilliyet0n0btr0cbatida0esaganak0eyagis0egorulecek0csiyaset0csondakika0c180b110b20a10a0c131560a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 11:08:46.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bat��da sa��anak ya������ g��r��lecek
+</HEADLINE>
+<TEXT>RA: Parçalı bulutlu geçecek. Sabah ve gece saatlerinde yer yer hafif sis görülecek 22İZMİR: Parçalı çok bulutlu ve aralıklı sağanak yağışlı geçecek. Sabah saatlerinde yer yer sis görülecek 20ANTALYA: Parçalı bulutlu 25SAMSUN: Parçalı ve az bulutlu 20ERZURUM: Parçalı ve az bulutlu geçecek. Sabah ve gece saatlerinde buzlanma ve don olayı ile birlikte yer yer hafif sis görülecek 15DİYARBAKIR: Parçalı ve az bulutlu 22-BÖLGELERDE HAVA DURUMU-Devlet Meteoroloji İşleri Genel Müdürlüğü’nün son verilerine göre bölgelerde hava durumu şöyle olacak:MARMARA: Parçalı ve çok bulutlu, İstanbul, Bursa, Yalova, Edirne, Kırklareli, Tekirdağ, Çanakkale ve Balıkesir çevreleri aralıklı sağanak yağışlı geçecek. Sabah ve gece saatlerinde bölgenin doğusunda yer yer hafif sis görülecek.EGE: Parçalı ve çok bulutlu, İzmir, Manisa ve Aydın çevreleri aralıklı sağanak yağışlı geçecek. Sabah ve gece saatlerinde yer yer sis görülecek.AKDENİZ: Parçalı bulutlu geçecek.İÇ ANADOLU: Parçalı bulutlu geçecek. Sabah ve gece saatlerinde bölge genelinde yer yer hafif sis görülecek.BATI KARADENİZ: Parçalı bulutlu geçecek. Sabah ve gece saatlerinde bölge genelinde yer yer sis görülecek.ORTA ve DOĞU KARADENİZ: Parçalı ve az bulutlu geçecek. Sabah ve gece saatlerinde bölgenin iç kesimlerde yer yer hafif sis görülecek.DOĞU ANADOLU: Parçalı ve az bulutlu geçecek. Sabah ve gece saatlerinde bölgenin kuzeyinde buzlanma ve don olayı ile birlikte yer yer hafif sis görülecek.GÜNEYDOĞU ANADOLU: Parçalı ve az bulutlu geçecek.</TEXT>
+</DOC>

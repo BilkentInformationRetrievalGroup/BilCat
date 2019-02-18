@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1430034 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ba8b7c19-78b3-446b-b6f6-93838f39f7a7 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 02:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bilkent ��niversitesinde patlama
+</HEADLINE>
+<TEXT>
+Güvenlik kulübesinde meydana gelen patlamada 1 güvenlik görevlisi yaralandı. Patlamanın nedeni henüz belirlenemedi.
+
+
+Ankara&rsquo;da Bilkent Üniversitesi Doğu Kampüsü girişinde bulunan güvenlik noktasında patlama meydana geldi. Olayda 1 güvenlik görevlisi yaralandı. 
+
+Gece 23.00 sıralarında Bilkent Üniversitesi Doğu Kampüsü girişindeki güvenlik noktasında, henüz belirlenemeyen bir nedenle patlama meydana geldi. 
+
+Patlamanın ardından çıkan yangın olay yerine gelen itfaiye ekiplerince söndürülmeye çalışılırken, kulübede bulunan güvenlik görevlisi yaralandığı belirlendi.
+
+Polis bölgeyi güvenlik şeridiyle kapatırken, itfaiye ekiplerinin yangın söndürme çalışmaları devam ediyor.
+
+Patlamanın doğalgaz borusundan sızan gazdan kaynaklanmış olabileceği üzerinde duruluyor.
+</TEXT>
+</DOC>

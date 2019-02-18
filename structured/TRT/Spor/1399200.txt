@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1399200 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=06bbdd9d-6334-4aa3-a2b1-157756592ac4 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 12:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+lakers'a clippers ��elmesi
+</HEADLINE>
+<TEXT>
+Clippers'a 99-92 yenilen Lakers'ın 7 maçlık galibiyet serisi son buldu. 
+
+Amerikan Ulusal Basketbol Ligi&rsquo;ne (NBA) oynanan 2 karşılaşmayla devam edildi.
+ Los Angeles Clippers, sahasında Los Angeles Lakers&rsquo;ı 99-92 yenerek, rakibinin 7 maçlık galibiyet serisine son vermeyi başardı. 
+ Staples Center&rsquo;da oynanan karşılaşmada, Eric Gordon 30 sayıyla takımı Clippers&rsquo;ı sırtladı. 
+ Beş oyuncunun çift haneli sayılara ulaştığı Lakers&rsquo;da ise yıldız oyuncu Kobe Bryant&rsquo;ın 27 sayı ve 9 ribaundu, Andrew Bynum&rsquo;ın 18 sayı ve 13 ribauntluk performansı yenilginin önüne geçemedi.
+ Gecenin diğer maçında, San Antonio Spurs evinde Denver Nuggets&rsquo;ı 110-97 mağlup etti.
+</TEXT>
+</DOC>

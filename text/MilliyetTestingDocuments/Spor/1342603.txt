@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342603 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea4b/l/0l0smilliyet0n0btr0cacilis0esultanlar0edan0cspor0chaberdetay0c20a0b110b20a10a0c13161590cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+a����l���� sultanlar���dan
+</HEADLINE>
+<TEXT>Devlet Bakanı Faruk Nafiz Özak, Dünya 6. ‘sı olan A Milli Bayan Takımı oyuncuları, Voleybol Federasyonu Başkanı Erol Ünal Karabıyık, Uluslararası Voleybol Federasyonları Birliği Asbaşkanı Alexandar Boricic ve CEV Asbaşkanı Riet Ooms, GSG Müdürü Yunus Akgül açılış kurdelasını beraber kestiler.  7 bin seyirci kapasiteli salon temeli atıldıktan 8 ay 13 gün sonra dünkü Fenerbahçe-Vakıfbank Güneş Sigorta maçıyla hizmete girdi. </TEXT>
+</DOC>

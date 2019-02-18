@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1411792 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d74efb35-5e9a-40df-8de7-ae3706e16465 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 21:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kuzu'dan 'ba��kanl��k sistemi'ne destek
+</HEADLINE>
+<TEXT>
+Başkanlık sistemine tam destek veren Burhan Kuzu, "Gerekirse kapı kapı, ev ev gezerek bu modeli anlatırız" dedi. 
+
+
+Başbakan Erdoğan&rsquo;ın Başkanlık sistemiyle ilgili açıklamalarını, Meclis Anayasa Komisyonu Başkanı Burhan Kuzu da İstanbul&rsquo;da değerlendirdi.
+
+Burhan Kuzu, &quot;Başkanlık modeli cennet vaad etmiyor ki, tabi ki sıkıntısı olacaktır. Ama parlamento modelinin sıkıntısı daha çoktur. Bu modelde koalisyon olmadığı için, koalisyon dönemindeki sıkıntıdan istifade etmek isteyen fırsatçılar, bu modelde istifade edemeyecekler. Gerekirse kapı kapı ev ev gezerek bu modeli millete anlatırız&quot; diye konuştu.
+</TEXT>
+</DOC>

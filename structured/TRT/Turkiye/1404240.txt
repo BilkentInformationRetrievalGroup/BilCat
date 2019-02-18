@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1404240 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a6ae28dd-a46f-495f-ae75-8a16e8f4dbcd </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 18:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iki ilde ila�� yolsuzlu��u...
+</HEADLINE>
+<TEXT>
+Hatay'da ilaç yolsuzluğunda 25 kişi gözaltına alınırken, Iğdır'da da ihaleye fesat karıştırdıkları iddiasıyla bir doktor ve işadamı gözaltına alındı.
+
+Hatay&rsquo;ın İskenderun ilçesinde ilaç yolsuzluğu yaptığı iddia edilen 25 kişi gözaltına alındı.
+
+Sağlık Bakanlığı Müfettişlerinin İskenderun Doğum ve Devlet Hastaneleri&rsquo;nde yaptığı incelemelerde elde edilen bulgulardan yola çıkan polis, 25 kişiyi gözaltına aldı.
+
+Gözaltına alınanlar arasında 5 doktor, 2 hastane görevlisi ile 18 eczane sahibi ve çalışanı bulunuyor.
+
+Şüphelilerin ev ve iş yerlerinde yapılan aramalarda, 23 adet ilaç muafiyet ve kullanım raporu, çok sayıda ilaç küpürü, başka şahıslara ait kimlik fotokopisi, nüfus cüzdanı, sağlık karnesi ile iki adet tabanca ele geçirildi.
+
+Iğdır&rsquo;da Başhekim Yardımcısı ve İşadamı Gözaltında...
+Iğdır Devlet Hastanesi ve İl Sağlık Müdürlüğünde geçtiğimiz aylarda yapılan yolsuzluk operasyonu da devam ediyor.
+
+İki gün önce mahkemeye çıkarılan ve serbest bırakılan Iğdır Devlet Hastanesi Başhekim Yardımcısı ile bir iş adamı tekrar gözaltına alındı.
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1402916 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ca74c834-043a-4e64-87e7-2dd3bbfc100a </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 15:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+o rahibe giri�� izni yok
+</HEADLINE>
+<TEXT>
+İngiliz hükümeti, Kur'an yakmak isteyen Amerikalı rahip Terry Jones'un ülkeye girişine izin vermedi.
+
+İngiltere İçişleri Bakanlığı Sözcüsü, Jones&rsquo;un yaptığı sayısız açıklamanın, &quot;kabul edilemez karakterde bir kişi&quot; olduğunu kanıtladığını söyledi. 
+Sözcü ayrıca, hükümetin kamu yararına ters düşen birinin ülkeye girişine istekli olmayacağını aktardı.
+
+Terry Jones geçen yıl 11 Eylül saldırılarının yıldönümünde Kur&rsquo;an yakma eylemi planladığını açıklamış ve uluslararası tartışmalara neden olmuştu. 
+
+Tepkiler üzerine bu planından vazgeçen rahip Jones, aşırı sağ görüşteki grupların daveti üzerine İngiltere&rsquo;ye gideceğini açıklamıştı.
+
+Jones, şubat ayında İngiltere&rsquo;nin Luton kentinde İslam üzerine bir konuşma yapacağını bildirmişti.
+
+Terry Jones, İngiliz Savunma Birliği (EDL) adlı grubun &quot;İngiltere ve Avrupa&rsquo;nın İslamlaştırılmasını&quot; protesto için düzenleyeceği bir mitingde, kalabalığa hitap edecekti.
+
+2009 yılında kurulan EDL amacını, &quot;Şeriat yasalarının ve aşırılık yanlısı İslamcılığın İngiltere&rsquo;de yayılmasını önlemek&quot; olarak açıklıyor.
+
+Jones İngiliz İçişleri Bakanlığı&rsquo;nın kararının ardından BBC 4 radyosuna yaptığı açıklamada, &quot;kararın kendisini şaşırttığını&quot; ifade ederek, Müslümanlığa ve Müslümanlara karşı olmadığını savundu.
+
+İngiltere&rsquo;de hükümet, kamu güvenliğe tehdit oluşturduğu düşünülen kişilerin ülkeye girişine izin vermeyebiliyor.
+</TEXT>
+</DOC>

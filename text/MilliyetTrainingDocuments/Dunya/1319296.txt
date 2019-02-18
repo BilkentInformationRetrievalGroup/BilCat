@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319296 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f3af37c/l/0l0smilliyet0n0btr0ckiliseye0esaldiri0e520eolu0cdunya0csondakika0c0a10b110b20a10a0c130a86380cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 11:02:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kiliseye sald��r��: 52 ��l��
+</HEADLINE>
+<TEXT>Irak’ın başkenti Bağdat’taki bir kilisede meydana gelen rehin alma eyleminde, hayatını kaybeden rehine ve polis sayısının 52’ye yükseldiği bildirildi.Irak İçişleri Bakanlığından bir yetkili, Irak ve Mısır’daki El Kaide tutuklularının serbest bırakılması için silahlı kişilerce düzenlenen kanlı saldırıda 67 kişinin de yaralandığını belirtti.Silahlı kişiler, dün akşam saatlerinde Bağdat’taki bir kiliseye saldırı düzenleyerek yaklaşık 120 kişiyi rehin almıştı. Rehineler Irak güvenlik güçleri tarafından düzenlenen bir operasyonla kurtarılmıştı.</TEXT>
+</DOC>

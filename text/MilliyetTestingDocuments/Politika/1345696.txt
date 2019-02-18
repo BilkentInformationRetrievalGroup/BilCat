@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> 1345696 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/ff624e4/l/0L0Smilliyet0N0Btr0Cmikrofonu0Eunuttu0Eerbakan0Ea0Ecatti0Csiyaset0Chaberdetay0C250B110B20A10A0C131810A10Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:04:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mikrofonu unuttu Erbakan’a çattı
+</HEADLINE>
+<TEXT>HABER MERKEZİ
+’nin haberine göre gazete ve televizyonların temsilcileriyle dün kalvaltılı sohbet toplantısında mikrofonların açık, kameraların kayıtta olduğunu farketmeyen Kurtulmuş, ’nden kopuş sürecini “O acayip enterasan bir süreçti” sözleriyle değerlendirdi. Kurtulmuş “Ayrılış bizim için iyi oldu. Bir de her şey çok açık olunca sanki roller tersine döndü; biz büyük hoca küçük oldu. Biz çok daha olgun davrandık. Hoca açısından hakikaten hüzün verici bir durumdu” dedi. </TEXT>
+</DOC>

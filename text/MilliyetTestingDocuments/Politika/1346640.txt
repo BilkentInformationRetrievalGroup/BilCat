@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346640 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/ffd4a90/l/0l0smilliyet0n0btr0cyok0ete0eonemli0egelisme0csiyaset0csondakika0c250b110b20a10a0c13184780cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 19:13:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+y��k'te ��nemli geli��me
+</HEADLINE>
+<TEXT>YÖK Genel Kurulu, yükseköğretim sisteminin yeniden yapılandırılması için gerekli yasal düzenlemelere yönelik çalışma başlatılmasını kararlaştırdı.YÖK Genel Kurulu, YÖK Başkanı Prof. Dr. Yusuf Ziya Özcan başkanlığında YÖK’te toplandı. Toplantının ardından yapılan yazılı açıklamada, ele alınan konulara yer verildi.Açıklamada, "Yükseköğretim sistemimizin yeniden yapılandırılmasına ve bunun için gereken yasal düzenlemelere yönelik bir çalışma başlatılmasına karar verilmiştir" denildi.</TEXT>
+</DOC>

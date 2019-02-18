@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1426833 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=64de749c-1410-4990-aecb-fe9b0a2ef5c5 </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 22:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+p��nar saka tarihe ge��ti
+</HEADLINE>
+<TEXT>
+Pınar Saka, ABD'de katıldığı yarışta bayanlar 400 metrede Türkiye rekoru kırdı ve bu kategoride 53 saniyenin altına inen ilk Türk bayan atlet oldu. 
+
+ 
+New York&rsquo;ta, 400 metre bayanlar yarışına katılan Saka,  52,99 saniyelik derecesiyle birinci oldu.
+ 
+Milli atlet, bu kategoride hem Türkiye rekorunu kırdı hem de 53 saniyenin altına inen ilk Türk bayan atlet oldu. 
+ 
+Pınar Saka,  yarışmadan sonra yaptığı açıklamada, şimdiki hedefinin Mart ayında Paris&rsquo;te düzenlenecek Avrupa Salon Atletizm Şampiyonası&rsquo;nda final koşmak olduğunu söyledi
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330459 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f712d29/l/0l0smilliyet0n0btr0caltin0eyine0erekor0ekirdi0cekonomi0csondakika0c0a80b110b20a10a0c13116520cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+alt��n yine rekor k��rd��
+</HEADLINE>
+<TEXT>Uluslararası piyasalarda altının ons fiyatı, 1,398,65 dolara yükselerek yeni bir rekor daha kırdı.Cuma günü 1,393,65 dolardan ve rekorla kapanan altın, haftanın ilk işlem gününde, 1,398,65 dolara kadar yükseldi. Bu yeni rekorun ardından altının onsu alışta 1,389,53 dolardan, satışı da 1,390,08 dolardan işlem görüyor.</TEXT>
+</DOC>

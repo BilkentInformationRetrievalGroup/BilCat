@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1429111 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=511d6458-ee81-4bc4-b9aa-07b223373db3 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 10:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��sizlikte d�������� s��r��yor
+</HEADLINE>
+<TEXT>
+İşsizlik oranı 2010 Kasım döneminde bir önceki yılın aynı dönemine göre 2,1 puan düşerek, yüzde 11'e geriledi.
+
+İşsizlikteki azalış sürüyor. Kasım döneminde işsizlik yüzde 11&rsquo;e geriledi. İşsiz sayısı da bu dönemde 2 milyon 811 bin kişiye düştü. 
+
+Ekim, Kasım, Aralık aylarını kapsayan Kasım dönemde işsizlik yüzde 11 olarak gerçekleşti. Böylece işsizlik bir önceki döneme göre 0,2 puan azaldı. 
+
+Geçen yılın aynı dönemine göre ise azalış 2,1 puanı buldu. Türkiye genelindeki işsiz sayısı da geçen yılın aynı dönemine göre 459 bin kişi azalarak 2 milyon 811 bin kişiye indi.
+
+Türkiye genelinde işgücüne katılım oranı, bir önceki yılın aynı dönemine göre 0,5 puanlık artış ile yüzde 48,6&rsquo;ya yükseldi.
+
+</TEXT>
+</DOC>

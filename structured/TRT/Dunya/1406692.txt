@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1406692 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2deaa832-d4c4-4601-97e7-f4ee89c816ee </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 13:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran polisi sanal aleme de el att��
+</HEADLINE>
+<TEXT>
+İran sanal alemde güvenliği arttırmak için siber polis birimi kurdu.
+
+Ülkenin ilk siber polis birimi Tahran&rsquo;da göreve başladı.
+
+İran Devlet Televizyonu, sanal alemde de güvenliği artırmak için, ilk siber polis biriminin oluşturulduğunu duyurdu.
+
+Ayrıca İran, nükleer programlarında kullanılan bilgisayarlara sızan Stuxnet adlı virüse karşı da internet güvenliğini artırmaya çalışıyor.
+
+Bu birimler 2012 yılı itibariyle tüm polis merkezlerinde yer alacak
+
+
+İran Emniyet Müdürü İsmail Ahmedi Moghaddam, &quot; Maalesef internet bazı kimselere casusluğun yanı sıra, kamusal ve özel bilgileri de kötüye kullanma imkanı sunuyor.&quot; şeklinde konuştu.
+
+İran&rsquo;da 2009 seçimlerinden sonra çıkan olaylarda, muhalefet, görüntüleri internet üzerinden dünya medyasına iletmişti.
+
+
+</TEXT>
+</DOC>

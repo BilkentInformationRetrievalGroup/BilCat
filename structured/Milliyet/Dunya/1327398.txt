@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327398 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5f861d/l/0l0smilliyet0n0btr0c160eyasindaki0eintihar0ebombacisi0e10a0ekisiyi0eoldurdu0cdunya0csondakika0c0a50b110b20a10a0c1310a6340cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:01:36.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+16 ya����ndaki intihar bombac��s�� 10 ki��iyi ��ld��rd��
+</HEADLINE>
+<TEXT>Afganistan’ın kuzeybatısında düzenlenen intihar saldırısında ölenlerin sayısının 10’a yükseldiği bildirildi.Yerel bir yetkili, 16 yaşındaki bir eylemci tarafından Feryab vilayetindeki pazar yerinde düzenlenen saldırıda, 30 kişinin de yaralandığını söyledi.Afgan basını da saldırının hedefi olduğunu belirttiği Feryab yetkililerinden Rahmetullah Türkistani’nin olayda yaralandığını ve durumunun ağır olduğunu duyurdu.</TEXT>
+</DOC>

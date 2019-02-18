@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1415732 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=82afba2d-adfa-4138-8086-2ba6601dce56 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 10:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+lakers uzatmada rockets'�� devirdi
+</HEADLINE>
+<TEXT>
+Lakers'da 32 sayı atan Kobe Bryant maça damgasını vurdu.
+
+Amerikan Ulusal Basketbol Ligi&rsquo;ne (NBA) oynanan 4 maçla devam edildi.
+ Los Angeles Lakers, evinde oynadığı uzatmaya giden maçta Houston Rockets&rsquo;ı 114-106 mağlup etti.
+ Son şampiyon Lakers&rsquo;da Kobe Bryant 32 sayı, 11 asistle, Pau Gasol 26 sayı, 16 ribauntla, Lamar Odom da 20 sayı, 20 ribauntla &quot;double-double&quot; yaptı. 
+ Maçın normal süresi 98-98 sonuçlandı. Uzatmada Lakers özellikle Bryant ve Gasol&rsquo;un sayılarıyla maçı 114-106 kazandı.
+ Alınan sonuçlar şöyle:
+ New Orleans Hornets - Washington Wizards: 97-89         
+ Portland Trail Blazers -San Antonio Spurs 99-86         
+ Sacramento Kings - Boston Celtics: 95-90
+ Los Angeles Lakers - Houston Rockets: 114-106 (uzatmada)
+</TEXT>
+</DOC>

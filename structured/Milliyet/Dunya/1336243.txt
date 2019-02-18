@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336243 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa3209e/l/0l0smilliyet0n0btr0chaiti0ede0ekolera0esalginindan0eolenlerin0esayisi0e9170eye0eyukseldi0cdunya0csondakika0c140b110b20a10a0c13144180cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 21:01:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+haiti'de kolera salg��n��ndan ��lenlerin say��s�� 917'ye y��kseldi
+</HEADLINE>
+<TEXT>Haiti’de geçen ayın ortasında patlak veren kolera salgınında ölenlerin sayısı 917’ye yükseldi.Haiti Sağlık Bakanlığı’nın bugün yayınladığı rakamlara göre, koleradan ölenlerin sayısı 917’ye yükseldiği belirtildi.Yetkililerin cuma günü yayınladıkları bilançoda, 13’ü başkent Porto Prens’te olmak üzere 796 kişinin öldüğü ve salgın nedeniyle 12 bin 303 kişinin hastaneye kaldırıldığı kaydedilmişti.Amerika kıtasının en yoksul ülkesi olan Haiti’de 12 Ocak’ta meydana gelen şiddetli yer sarsıntısından sonra depremzedelerinin yaşadığı kamplardaki kötü temizlik koşullarının, kolera salgınının çok hızlı bir şekilde yayılmasına neden olduğu sanılıyor.</TEXT>
+</DOC>

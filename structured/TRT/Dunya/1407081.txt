@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1407081 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e0ce5aa9-d5f0-4753-850c-aeb68f2e9a80 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 19:00:30.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sri lanka'da dev ��atlaklar
+</HEADLINE>
+<TEXT>
+200 metre uzunluğunda, birkaç metre derinliğindeki çatlaklar, halkı endişelendiriyor.
+
+
+Sri Lanka&rsquo;da yer kabuğununda dev yarıklar oluştu. 200 metre uzunluğunda, birkaç metre derinliğindeki çatlaklar, halkı endişelendiriyor.
+
+     Sri Lanka&rsquo;nın Kuchchaveli bölgesinde ortaya çıkan çatlaklar endişe ile karşılandı.
+
+     Ağaç çubukla ölçülen çatlakların derinliği 1 ila 2 metre.
+
+     Askerler, halkı bölgeye yaklaşmaması konusunda uyardı.
+
+     Yakın zamanda yüksek basınç ya da sıcaklığa maruz kalmadığı bildirilen bölgede meydana gelen çatlağın sebebi, yapılacak testlerin ardından anlaşılacak.
+
+
+</TEXT>
+</DOC>

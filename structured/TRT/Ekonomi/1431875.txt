@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1431875 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=be176031-fc7f-4731-8f0f-663f280d9484 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 15:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+petrolun varili 104 dolar�� buldu
+</HEADLINE>
+<TEXT>
+Ortadoğu'da yaşanan belirsizlik, ekonomik toparlanma ve artan talep petrol varil fiyatlarının rekor kırmasına neden oluyor. 
+
+Varili 104,11 dolardan işlem gören Brent çıkışlı petrol fiyatları 2008&rsquo;den bu yana en yüksek rakama ulaştı.
+
+Petrol varil fiyatları ile ters yönlü işleyen dolar ise Rusya&rsquo;da zayıfladı. Dokuz ayın en düşük seviyesine gerileyen dolar, merkez bankasında 29,27 Kapeyk&rsquo;den işlem görüyor. Serbest piyasada ise dolar 29 ruble sınırının da altına inmiş durumda.
+
+Ural çıkışlı petrolün varili de 2008 ekonomik krizinden bu yana ilk kez 100 doların üzerinde işlem görmeye başladı.
+
+Doların 2011&rsquo;in ilk yarısında 28 rubleye kadar gerilemesi beklenirken, petrol varil fiyatlarındaki artış ise sürecek. 
+
+Ekonomik kriz öncesi 140 doları bulan petrol varil fiyatlarının krizi tetiklediği değerlendirmesi yapan uzmanlar, petrol varil fiyatlarındaki aşırı artışın üretici şirketler açısından da olumlu sonuçlar getirmediğine dikkat çekiyor.
+
+</TEXT>
+</DOC>

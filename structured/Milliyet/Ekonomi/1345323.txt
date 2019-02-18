@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1345323 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffa7b63/l/0L0Smilliyet0N0Btr0Ckonut0Esatislari0Eazaldi0Cekonomi0Csondakika0C250B110B20A10A0C13183520Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:00:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Konut satışları azaldı
+</HEADLINE>
+<TEXT>İstatistik Kurumu (TÜİK), 2010 yılı 3. Dönem Konut Satış İstatistiklerini açıkladı.
+
+Buna göre, Türkiye genelinde 2009 yılının Temmuz-Ağustos-Eylül döneminde 111 bin 913 konut satılırken, bu sayı 2010 yılının aynı döneminde 83 bin 697’ye geriledi.
+
+Üçüncü çeyrekteki konut satışları, bir önceki çeyreğe göre de yüzde 7,28 oranında azaldı. 2010 yılının ikinci çeyreğinde 90 bin 270 konut satılmıştı.
+
+Temmuz-Ağustos-Eylül döneminde konut satışlarında bir önceki döneme göre, en yüksek artış yüzde 30,22 ile , , , ,  bölgesinde gerçekleşti.
+
+Bu bölgeyi yüzde 26,11 ile Ağrı, , , , yüzde 18,07 ile , Karaman, yüzde 16,50 ile , , ,  ve yüzde 12,92 ile , , ,  bölgeleri izledi.
+
+Aynı dönemde konut satışlarında bölge düzeyinde bir önceki döneme göre en fazla azalış gösteren bölge ise yüzde 24,04 ile  oldu. İstanbul’u, yüzde 15,07 ile , , yüzde 12,31 ile , yüzde 11,10 ile , ,  ve yüzde 10,55 ile ,  bölgeleri takip etti.
+
+-3 BÖLGEDE ARTIŞ, 23 BÖLGEDE DÜŞÜŞ-
+2010 yılının üçüncü döneminde önceki yılın aynı dönemine göre konut satışlarında 3 bölgede artış olurken, diğer 23 bölgede düşüş gerçekleşti.
+
+Artış gösteren bölgeler yüzde 11,54 ile Mardin, Batman, Şırnak, Siirt, yüzde 6,01 ile , Muş, ,  ve yüzde 0,26 ile , ,  bölgeleri oldu.
+
+Geçen yılın aynı dönemine kıyasla konut satışlarının en fazla düşüş gösterdiği bölgeler ise yüzde 48,20 ile , , , yüzde 38,19 ile Ankara, yüzde 35,98 ile  ve yüzde 34,43 ile , ,  bölgeleri oldu.
+
+4 dönemlik ortalama ve değişimlere bakıldığında ise konut satış sayılarında sadece yüzde 5,24 ile Van, Muş, Bitlis, Hakkari bölgesinde artış meydana geldi. Düşüş gösteren bölgeler ise sırasıyla Erzurum, Erzincan, Bayburt (yüzde 39,99) İstanbul (yüzde 35,53), Ağrı, Kars, Iğdır, Ardahan (yüzde 32,32) ve İzmir (yüzde 29,36) olarak hesaplandı.</TEXT>
+</DOC>

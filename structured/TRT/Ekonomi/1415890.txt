@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1415890 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a9f88f2b-ca8e-4ff2-8553-7abb4f988d73 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 12:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2012'de ��retilecek pamuk sat��ld��
+</HEADLINE>
+<TEXT>
+ABD'de 2012'de beklenen pamuk hasadının yüzde 20'si daha ekimi yapılmadan satıldı.
+
+Pamuk fiyatlarının azalan stoklar ve üretim açığı nedeniyle kontrolsüz artışı tekstil sektöründe tedirginlik yaratmayı sürdürüyor. 
+
+Cotton USA’in yaptığı araştırmaya göre sektör şimdiden 2012 için siparişlerini vermeye başladı. 
+
+Sektör temsilcileri ve basın mensupları ile dün bir araya gelen Uluslararası Pamuk Konseyi’nden danışman Marsha Powell ABD’nin ihraç edeceği pamuğun 2012 hasadı henüz ekilmemişken bile yüzde 20’sinin şimdiden satıldığını belirtti. 
+
+2011 yılı boyunca yine bu ülkeden yapılacak ihracatın yüzde 93’ünün ocak ayında bitirildiğine dikkat çeken Marsha Powell bu durumun fiyatları pozitif baskılayacağının altını çizdi. 
+
+6 Ayda 1 Yıllık İthalat 
+Powell gelecek yıl da Çin’deki tüketim alışkanlıklarının değişmesinin talebi arttırmasını beklediklerini kaydetti. 
+
+Ülkede özellikle orta sınıfın gelişmesi ile merkez eyaletlerde hazırgiyim talebinin yükseldiği görülüyor. Bu durum da küresel fiyatları yukarı yönlü baskılıyor. 
+
+Stoklar Belirleyici 
+Küresel olarak dünya çapında 5.7 milyon tonluk açık olacağına dikkat çeken Powell; Ancak yüksek fiyatlar nedeniyle üreticiler pamuk ekimine yeniden yönlenebilirler, bu durum da fiyatlara kısmen aşağı yönlü baskı yapabilir. Gelecek için durumu stoklar belirleyecek” diye konuştu. Powell stokların son 15 yılın en düşüğünde olduğunun da altını çizdi.
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1393626 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2d214cb1-9211-48af-a494-cfbee2e7e35b </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 04:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bbc "ya�� ayr��mc��l������" yapm����
+</HEADLINE>
+<TEXT>
+İngiliz yayın kuruluşunun eski sunucusu, açtığı "yaş ayrımcılığı" davasını kazandı...
+
+İngiliz yayın kuruluşu BBC&rsquo;nin eski sunucularından 53 yaşındaki Miriam O&rsquo;Reilly, yaptığı &quot;Countryfile&quot; programından çok yaşlı olduğu düşünüldüğü için alındığı gerekçesiyle yayın kuruluşu aleyhine açtığı yaş ayrımcılığı davasını kazandı.
+         
+O&rsquo;Reilly iş mahkemesinde görülen davada, patronlarının programı en çok izlenen saat kuşağına almasıyla BBC&rsquo;nin, daha genç personeli göreve almak üzere kendisi ve diğer 40&rsquo;lı ve 50&rsquo;li yaşlarındaki sunucuları kovduğunu söyledi.
+         
+Mahkeme, O&rsquo;Reilly&rsquo;nin yaş ayrımcılığına uğradığını kabul ederken, BBC&rsquo;nin bu tutumunun aynı zamanda cinsiyet ayrımcılığı anlamına da geldiği iddiasını ise reddetti.
+         
+BBC&rsquo;de 25 yılı aşkın görev yapan O&rsquo;Reilly, BBC ile bu şekilde karşı karşıya gelmesinin zor olduğunu, çünkü orada severek çalıştığını ve kurumun dünyadaki en iyi yayın kuruluşlarından biri olduğunu düşündüğünü belirterek ancak yaşı dolayısıyla kötü muamele gördüğünü hissetmesi üzerine doğru olanı yapmak üzere BBC&rsquo;ye karşı dava açtığını kaydetti.
+         
+Mahkemenin kararının ardından BBC, özür dilediği kadın sunucuyla gelecekte yeniden çalışmak istediğini açıkladı.
+         
+Maddi Tazminat Ödeyecek
+BBC dava sonucu O&rsquo;Reilly&rsquo;ye maaş kaybı ve &quot;hislerini incitmesi&quot; nedeniyle maddi tazminat ödeyecek.
+         
+Yayımladığı açıklamada, sunucuların seçiminde yeni ilkeler belirleme konusunda taahhütte de bulunan BBC, mahkemenin bu kararının tüm sektör üzerinde etkisi olacağını belirtti.
+         
+O&rsquo;Reilly&rsquo;nin avukatı, ayrımcılık uzmanı Camilla Palmer da müvekkilinin sadece kendisi için değil, medyadaki bütün yaşlılar için büyük bir zafer kazandığını, mahkemenin kararının da sadece BBC&rsquo;ye değil, bütün yayın kuruluşlarına büyük etkisi olacağını söyledi.
+
+Avukat Palmer, bundan sunucuların yaşlarına göre değil, yeteneklerine göre seçilmesi gerektiği dersi çıktığını, ekrandaki kadınların ve erkeklerin yaşları temel alınarak işten atılmaması ya da göreve getirilmemesi gerektiğini vurguladı
+</TEXT>
+</DOC>

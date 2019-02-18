@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1410233 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=90b5ab4b-caba-45b1-9aa7-1dea535574ae </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 13:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+penguenler yas tutuyormu��
+</HEADLINE>
+<TEXT>
+Penguenlerin, yavrularının ölümü üzerine toplu yas tuttukları belirtildi.
+
+Daily Mail gazetesinin haberine göre, Fotoğrafçı Daniel J. Cox tarafından Antarktika&rsquo;nın buzlu tundrasında çekilen fotoğraflarda, &quot;İmparator Penguenlerin&quot; yere yüzüstü yatarak toplu halde yas tuttukları görülüyor.
+
+Kutuptan kutba giderek 25 senedir fotoğraf çeken Cox, yavrularının ölümü üzerine tıpkı insanlar gibi yas tutan imparator penguenlerin durumunun &quot;yürek parçalayıcı&quot; olduğunu söyledi. Cox, penguenlerin buz üzerinde yavrularının ölüsünü bulmak için dalgın ve başıboş vaziyette dolaştıklarını söyledi.
+
+Cox, penguen yavrularının neden öldüğünün bilinmediğini, bunun açlıktan veya hava koşullarından kaynaklanmış olabileceğini belirtti.
+</TEXT>
+</DOC>

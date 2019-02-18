@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321856 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f49c023/l/0l0smilliyet0n0btr0cssk0eve0ebag0ekur0eemeklisine0emujde0cekonomi0chaberdetay0c0a30b110b20a10a0c130a95110cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:00:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ssk ve ba��-kur emeklisine m��jde
+</HEADLINE>
+<TEXT> SSK emekli ve hak sahipleri?arasından, tahsis numarasının son rakamı 9, 7 ve 5 olanlara 9 Kasım, 3, 1 ve 8 olanlara 10 Kasım, 6 ve 4 olanlara 11 Kasım, 2 ve sıfır olanlara 12 Kasım’da ödeme yapılacak. Bağ-Kur emekli ve haksahipleri arasında, tahsis numarasının son rakamı 9, 7 ve 5 olanlar 9 Kasım, 1 ve 3 olanlar 10 Kasım, 4, 6 ve 8 olanlar 11 Kasım, sıfır ve 2 olanlar 12 Kasım’da maaş alacak. </TEXT>
+</DOC>

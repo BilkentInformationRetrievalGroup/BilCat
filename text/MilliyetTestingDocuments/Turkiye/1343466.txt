@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343466 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd33090/l/0l0smilliyet0n0btr0clunapark0eta0egondol0edan0edusen0ecift0eyaralandi0cturkiye0csondakika0c20a0b110b20a10a0c13163120cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:28:48.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+lunapark'ta gondol'dan d����en ��ift yaraland��
+</HEADLINE>
+<TEXT>Şanlıurfa’da lunaparktaki gondoldan düşen çift yaralandı.Alınan bilgiye göre, Esentepe Mahallesi yakınlarındaki lunaparka giden Emine ve Osman Bayat çifti, bindikleri gondoldan dengelerini kaybederek düştü.Yaralan Bayat çifti, parkın yakınlarındaki Şanlıurfa Eğitim ve Araştırma Hastanesine kaldırılarak tedavi altına alındı.Çiftin sağlık durumunun iyi olduğu öğrenildi.</TEXT>
+</DOC>

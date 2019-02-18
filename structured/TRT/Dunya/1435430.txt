@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1435430 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cde3acb2-d276-4b6d-a97f-d64878039c7f </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 10:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+afganistan yine kan g��l��
+</HEADLINE>
+<TEXT>
+Ülkenin kuzeyinde düzenlenen intihar saldırısında en az 28 kişi öldü, çok sayıda yaralı var...
+
+Ülkenin kuzeyindeki Kunduz eyaletinde düzenlenen intihar saldırısında en az 28 kişi öldü, çok sayıda kişi yaralandı.
+
+Patlamanın meydana geldiği Kunduz&rsquo;a bağlı Iman Sahib bölgesindeki polis yetkilileri, çok sayıda sivilin öldüğünü duyurdu.
+
+İntihar saldırısında ölenlerin çoğunun, kimlik kartı almak için kuyrukta bekleyenler olduğu, gelen haberler arasında... 
+
+</TEXT>
+</DOC>

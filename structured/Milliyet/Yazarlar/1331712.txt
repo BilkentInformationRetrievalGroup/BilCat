@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1331712 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/f6f195e/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c0a80cyazardetay0c13114360cask0ehayatiniza0eyeni0ebakis/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 15:24:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+a��k hayat��n��za yeni bak����
+</HEADLINE>
+<TEXT>PazartesiAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Hakan Kırkoğlu          hkirkoglu@ttmail.com                                            Müneccimbaşı                                AŞK HAYATINIZA YENi BAKIŞ      Bugün ne yapılabilir ? Venüs’ün Terazi burcuna geri dönmesi ile, ilişkilerimizi ve aşk hayatımızı yeniden düzene koyabiliriz. Son zamanlarda yaşadıklarımızdan önemli dersler çıkarabiliriz. Nelere değer veriyor, önemsiyoruz, kırılganlıklarımız neden sorularına yeni yanıtlar bulabileceğiz.  Bugün oldukça tutkulu ve hızlı hareket etmek   eğilimindeyiz. Nelerden kaçınmalı? Ortaklaşa konularda daha akılcı ve yapıcı bir tutum sergilemek durumundayız. Öfke ile kalkan zararla oturabilir. Beraberliklerimiz için daha olumlu duygular geliştirmemiz gerek, aksi halde bölünme ve kopma yaşayabiliriz. Grup çalışmalarında da sahip olduğumuz görüşleri aşırı abartmadan ifade etmek yerinde olacak.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      06 Kasım 2010Yeniayda neler var?05 Kasım 2010MÜCADELE VAR04 Kasım 2010DiKKAT! YANAN YOL</TEXT>
+</DOC>

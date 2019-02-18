@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1396322 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f2ca87ef-d0b5-4cb7-a86d-88bab6da455b </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 10:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+devlet ba��kan��n��n harc��rah�� ��al��nd��
+</HEADLINE>
+<TEXT>
+Arjantin'de hırsızlar, Devlet Başkanı Cristina Fernandez'in aralarında Türkiye'nin de bulunduğu Ortadoğu ziyaretinde kullanacağı harcırahı çaldı.
+
+Polisin verdiği bilgiye göre, bir görevli, harcırah parasını hazineden bavulla götürürken, evinin yakınında yolunu kesen silahlı 3 kişi tarafından soyuldu.
+ 
+Yetkililer çalınan paranın miktarını açıklamazken, basında çıkan haberlerde görevlinin 68 bin dolar ve 17 bin avro taşıdığı yazıldı.
+
+Yetkililer paranın devlet başkanlığı uçağındakilerin harcamaları için ayrıldığını söylediler.
+
+Polis, görevlinin parayı neden seyahat öncesinde çektiğini ve evine götürdüğünü araştırıyor.
+
+Devlet Başkanı Cristina Fernandez pazar günü başlayacağı gezide Türkiye, Katar ve Kuveyt&rsquo;i ziyaret edecek.
+
+</TEXT>
+</DOC>

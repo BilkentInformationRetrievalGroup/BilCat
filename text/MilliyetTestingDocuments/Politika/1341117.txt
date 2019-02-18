@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341117 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc70dce/l/0l0smilliyet0n0btr0c0eyanlis0evalizler0eucagi0egeri0edondurdu0csiyaset0chaberdetay0c190b110b20a10a0c13158210cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:09:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���yanl���� valizler��� u��a���� geri d��nd��rd��
+</HEADLINE>
+<TEXT> İçinde 145 yolcusuyla dün saat 19.35’te İstanbul Atatürk Havalimanı’ndan kalkış yapan Mısır Havayolları’nın MS-736 sefer sayılı Kahire uçağının kokpit ekibine, uçağa yanlış valiz yüklendiği uyarısında bulunuldu. Bunun üzerine kaptan pilot güvenlik nedeniyle geri dönme kararı aldı. Saat 21.00 sıralarında Atatürk Havalimanı’na inen uçak, yolcuların bagajları yeniden kontrolden geçirildikten sonra tekrar havalandı. </TEXT>
+</DOC>

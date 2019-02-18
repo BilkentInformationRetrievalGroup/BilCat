@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1421130 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f8798a48-8c12-4a39-b9cd-a5b4115e65b1 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 14:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+nuri'den sonra onur da yok
+</HEADLINE>
+<TEXT>
+Son tetkikler sonrasında, futbolcunun tedavisinin maçın oynanacağı Çarşamba gününe kadar tamamlanamayacağı göz önünde bulunduruldu.
+
+A Milli Takım&rsquo;ın, Güney Kore maçı aday kadrosunda bulunan Trabzonspor&rsquo;dan Onur Recep Kıvrak, sakatlığı nedeni ile kadrodan çıkartıldı. 
+Onur&rsquo;un dün oynanan Trabzonspor-Antalyaspor maçında aldığı darbe neticesinde sağ omzunda kemik ve yumuşak doku ödemi tespit edildi. 
+Son tetkikler sonrasında, futbolcunun tedavisinin maçın oynanacağı Çarşamba gününe kadar tamamlanamayacağı göz önünde bulundurularak, sağlık ekibinin önerisi doğrultusunda A Milli Takım aday kadrosundan çıkartılmasına karar verildi. 
+Teknik ekip, Onur&rsquo;un yerine kadroya Trabzonspor&rsquo;dan Tolga Zengin&rsquo;in alınmasını kararlaştırdı. Tolga, A Milli Takım kampına Trabzon&rsquo;da katılacak. 
+
+</TEXT>
+</DOC>

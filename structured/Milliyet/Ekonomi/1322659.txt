@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322659 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4e0756/l/0l0smilliyet0n0btr0cborsa0eilk0eseansta0eyukseldi0cekonomi0csondakika0c0a30b110b20a10a0c130a96710cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:00:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa ilk seansta y��kseldi
+</HEADLINE>
+<TEXT>İMKB Bileşik Endeksi birinci seansta, önceki kapanışa göre 249,05 puan artarak 68.771,26 puandan kapandı.Hisse senetleri ortalama yüzde 0,36 değer kazandı.</TEXT>
+</DOC>

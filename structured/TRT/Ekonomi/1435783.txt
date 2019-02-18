@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1435783 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a88d0f5f-bd92-4ece-8199-27691f3a0034 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 14:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+babacan: "se��im ekonomisi yok"
+</HEADLINE>
+<TEXT>
+Devlet Bakanı ve Başbakan Yardımcısı Ali Babacan, "seçimler yaklaşıyor, popülizm yapmayacağız" dedi.
+
+ Devlet Bakanı ve Başbakan Yardımcısı Ali Babacan son dönemdeki ekonomik gelişmeleri değerlendirdi.
+
+ Babacan, &quot;Uzun süredir elektrik ve doğalgaza zam yapmıyoruz,sabit duruyor,akaryakıt fiyatları ise serbest piyasada belirleniyor. Hükümetimizin en çok dikkat ettiği konu populizm yok seçik ekonomisi yok, hatta başbakanımızın isteğiyle seçim ekonomisi şeklinde algılanacak konulara bile girmeyeceğiz.&quot;dedi.
+   
+  
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1412996 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4ed61306-b8a4-4b83-bc66-1ca885ee4ddc </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 13:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+obama, ba��bakan erdo��an'�� arad��
+</HEADLINE>
+<TEXT>
+ABD Başkanı Obama, Mısır'daki olaylarla ilgili olarak Başbakan Erdoğan'la bir telefon görüşmesi gerçekleştirdi.
+
+Mısır&rsquo;da olaylar giderek büyürken Amerika Birleşik Devletleri Başkanı Obama Başbakan Recep Tayyip Erdoğan&rsquo;ı telefonla aradı. 
+
+Görüşmede, bölgedeki son gelişmeler değerlendirildi. 
+
+Obama dün gece (29.01.2011), Başbakan Erdoğan&rsquo;ı arayarak; bölgede demokratik gelenekleri güçlü Türkiye&rsquo;nin birçok kez başarılı seçim sonuçları elde ederek iş basına gelmiş lideri olarak Başbakan Erdoğan ile bölgedeki yeni gelişmeleri değerlendirmeye önem verdiğini belirtti.
+
+Görüşmede bölge halklarının meşru ve doğal demokratik haklarının karşılanması gerektiği hususunda görüş birliğine varıldı.
+
+Bu bağlamda halklara karşı şiddet kullanılmaması yönündeki hassasiyetin altı çizilerek, bölge ülkelerinde gelişen olayların derin ve köklü istikrarsızlıklara yol açmaması arzusu dile getirildi.
+
+İstikrarsızlıkların bölge ülkelerine zarar verici sonuçları olacağı hususundaki endişelerin de paylaşıldığı görüşme, tarafların bundan sonraki gelişmelerde daha sık temas halinde olmaya karar vermeleriyle sona erdi.
+
+</TEXT>
+</DOC>

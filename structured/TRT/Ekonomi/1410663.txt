@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 1410663 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9e6b014d-6392-4e42-8766-2481b82f21e6 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 19:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ara�� al��p satmak art��k daha kolay
+</HEADLINE>
+<TEXT>
+Yeni araçların tescil işlemleri ya da ikinci el araçların satış ve devir işlemleri ASBİS'le artık 15 dakikada yapılıyor...
+
+
+Yeni araçların tescil işlemleri ya da ikinci el araçların satış ve devir işlemleri...
+Hepsi maliyetli ve zaman isteyen işlemler.
+
+Teknoloji buna da derman oldu. Araç ve Sürücü Bilgi Sistemi ASBİS&rsquo;le artık tek bir noktadan araç tescil işlemleri 15 dakikada yapılıyor.
+
+Uygulama ile ikinci el araçların tescil işlemleri için notere gitmek yeterli.          
+
+Sıfır araçların tescil işlemleri ise elektronik imza sahibi otomobil bayilerinden yapılacak. Şimdilik Ankara&rsquo;da pilot olarak seçilen 4 bayide uygulanan sistemin yakın zamanda yaygınlaşması bekleniyor.
+
+Böylece alıcı geçici tescil belgesiyle trafiğe çıkabiliyor.
+     
+Elektronik Bilgi Güvenliği Uzmanı Can Orhun işin ne kadar kolaylaştığını şu cümlelerle özetliyor:
+&quot;Emniyet, noter, nufus müdürlüğü, şoförler cemiyeti gibi birçok kurumu gezmek gerekiyordu. Artık kurumları teker teker dolaşmak yerine notere gitmeniz, noter de bu bilgilere elektronik ortamda ulaşabildiği için bu bilgileri sağlayabildiği için yeterli oluyor.&rsquo;&rsquo;
+
+Maliyet 450 TL&rsquo;den 20 TL&rsquo;ye İndi...
+Sistemle bir tescil işlemi için harcanan vakit 3 günden 15 dakikaya kadar inerken, vatandaşın parası da cebinde kalıyor.
+
+İşlemlerin maliyeti yaklaşık 450 liradan 20 liraya düşmüş durumda. Bu sayede sağlanacak tasarrufsa 1 milyar Türk Lirası...
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1419057 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1a3859b2-1b8f-4d93-8134-2fa0fa927e8e </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 10:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ku��adas�� salland��
+</HEADLINE>
+<TEXT>
+Saat 04.37'de Kuşadası merkezli yaklaşık 5 kilometre derinlikte 4,1 büyüklüğünde deprem oldu.
+
+
+Aydın&rsquo;ın Kuşadası ilçesinde 4,1 büyüklüğünde deprem meydana geldi. 
+
+Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Ulusal Deprem İzleme Merkezinin verilerine göre, saat 04.37&rsquo;de Kuşadası merkezli yaklaşık 5 kilometre derinlikte deprem gerçekleşti. 
+
+Saat 01.12&rsquo;de de İzmir&rsquo;in Selçuk ilçesi merkezli 5 kilometre derinlikte 3,7 büyüklüğünde bir deprem meydana gelmişti.  
+</TEXT>
+</DOC>

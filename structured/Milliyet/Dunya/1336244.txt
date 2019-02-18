@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336244 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa3209f/l/0l0smilliyet0n0btr0cafganistan0eda0e30enato0easkeri0edaha0eolduruldu0cdunya0csondakika0c140b110b20a10a0c131440a90cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 21:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+afganistan'da 3 nato askeri daha ��ld��r��ld��
+</HEADLINE>
+<TEXT>Afganistan’ın doğusunda bugün çıkan çatışmalarda 3 NATO askerinin daha öldürüldüğü bildirildi.NATO tarafından yapılan açıklamada, ölen askerlerin ülkesi ve olayın ayrıntıları yer almadı.NATO, dün ülkenin güneyinde 3 NATO askerinin öldürüldüğünü açıklamıştı.Afganistan’da bugün daha önce düzenlenen başka bir saldırıda da, 2 sivil ile bir NATO askeri öldürülmüştü.</TEXT>
+</DOC>

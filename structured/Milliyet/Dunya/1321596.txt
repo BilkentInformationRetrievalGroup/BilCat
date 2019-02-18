@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321596 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f49aea8/l/0l0smilliyet0n0btr0csakine0eastiyani0ebugun0easilabilir0cdunya0chaberdetay0c0a30b110b20a10a0c130a94660cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:39.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sakine a��tiyani bug��n as��labilir
+</HEADLINE>
+<TEXT>Uluslararası İnfaz Karşıtı Komite (ICAE) uluslararası basına gönderdiği açıklamada Tahran yönetiminin cezayı onayladığını duyurdu. Sakine Aştiyani’ye zina gerekçesiyle verilen recm cezası affedilmiş ancak idam kararı değişmemişti.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340208 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fc13635/l/0l0smilliyet0n0btr0cperu0eda0e50e50esiddetinde0edeprem0cdunya0csondakika0c180b110b20a10a0c13156130cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 11:01:53.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+peru'da 5.5 ��iddetinde deprem
+</HEADLINE>
+<TEXT>Güney Amerika ülkelerinden Peru’nun güneyinde, dün akşam saatlerinde, Richter ölçeğinde 5,5 büyüklüğünde deprem meydana geldi.Peru Jeofizik Enstitüsünün (IGP) bildirdiğine göre, depremin merkez üssü, Pasifik Okyanusuna bakan Arequipa bölgesinde yer alan Lomas kentinin güneybatısına 46 kilometre uzaklıkta ve yerin 33 kilometre derinliğinde.Yetkililer, ilk belirlemelere göre, can kaybı veya yaralanan olmadığını, maddi hasar da meydana gelmediğini belirtti.</TEXT>
+</DOC>

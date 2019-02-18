@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1412356 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=80a18d91-f612-418f-b9ee-2a57e0149e49 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 15:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tunca'dan iyi haber
+</HEADLINE>
+<TEXT>
+Alp Disiplini'nde Süper G kategorisinde yarışan ve finişi geçtikten sonra düşerek yaralanan İstem Tunca'nın sağlık durumunun iyi olduğu öğrenildi.
+
+25. Dünya Üniversiteler Kış Oyunları Alp Disiplini&rsquo;nde Süper G kategorisinde yarışan ve finişi geçtikten sonra düşerek yaralanan Türk sporcu İstem Tunca&rsquo;nın sağlık durumunun iyi olduğu öğrenildi.
+ Erzurum Bölge Eğitim ve Araştırma Hastanesi&rsquo;nde (BEAH) 25. Dünya Üniversiteler Kış Oyunları için hazırlanan özel servisin klinik şefi Doç. Dr. Fikret Ergüngör, servislerine gelen Türk sporcu Tunca&rsquo;nın sağlık durumunun iyi olduğu söyledi.
+ Yarış sırasında takla attığı için yüzünde çiziklerin olduğunu bildiren Ergüngör, &quot;Takla attığı esnada, travma sırasında şuura kapanmamış. Genel vücut travması yok. Sağ baldırında ağrı varmış. Sanırım doku zedelenmesi var. Ortopedi servisi karar verecek. Boynunda hafif düzleşme olduğu için de MR&rsquo;ye yönlendirdim&quot; dedi.
+</TEXT>
+</DOC>

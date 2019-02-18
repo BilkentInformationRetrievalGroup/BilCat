@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1395275 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=05b3b746-ce37-4fa7-9fa2-0446e6754237 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 12:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+en iyi oyun kurucu da barcelona'da
+</HEADLINE>
+<TEXT>
+Futbolda 2010 yılının en iyi oyun kurucusu olarak Barcelona'nın İspanyol futbolcusu seçildi. Değerlendirmede Özil de dereceye girdi.
+
+
+Uluslararası Futbol Tarihi ve İstatistikleri Federasyonu&rsquo;nun (IFFHS) 
+değerlendirmesinde Xavi 223 puanla zirveye çıkarken, ikinci sırayı 148 puanla 
+takım arkadaşı ve vatandaşı Iniesta, üçüncü sırayı ise 128 puanla Inter&rsquo;in 
+Hollandalı futbolcusu Sneijder aldı.
+
+Real Madrid&rsquo;in Türk asıllı Alman yıldızı Mesut Özil ise değerlendirmede beşinci sırada gösterildi.
+
+IFFHS&rsquo;nin değerlendirmesine göre futbolda 2010 yılının en iyi oyun kurucuları sıralamasında ilk 10 şöyle oluştu:
+
+1-Xavier Hernandez Creus --Barcelona--223
+2-Andres Iniesta--Barcelona--148
+3-Wesley Sneijder--Inter--128
+4-Lionel Andres Messi--Barcelona--111
+5-Mesut Özil--Real Madrid--47
+6-Diego Forlan--Atletico Madrid--30
+7-Cristiano Ronaldo--Real Madrid--27
+8-Bastian Schweinsteiger--Bayern Münih--22
+9-Francesc Fabregas--Arsenal--13
+10-Arjen Robben--Bayern Münih--12
+</TEXT>
+</DOC>

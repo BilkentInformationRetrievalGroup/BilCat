@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1437245 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ab2c06e7-73f3-4500-a04a-039666b78596 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 17:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+enflasyon beklentisi y��kseldi
+</HEADLINE>
+<TEXT>
+Merkez Bankası Şubat ayı 2'nci beklenti anketi sonuçlarını açıkladı.
+
+
+Piyasaların, 2011 yılı sonu enflasyon beklentisi bir önceki döneme göre 0,08 puan artarak yüzde 6,64&rsquo;e yükselirken, yıl sonu cari açık beklentisi ise yaklaşık 49 milyar dolar oldu. 
+
+Yüzde 5 düzeyinde öngörülen yıl sonu büyüme beklentisi ise değişmedi.
+ 
+Merkez Bankası, Şubat ayı ikinci dönem beklenti anketi sonuçlarını açıkladı.
+
+Ankete göre, yıl sonu enflasyon beklentisi yüzde 6,64&rsquo;e yükseldi. 
+
+Cari açık beklentisi ise 821,2 milyon dolar arttı, 49 milyar 369 milyon doları buldu.
+
+Büyüme Beklentisi Aynı Kaldı
+Ankette, yıl sonu yıllık Gayri Safi Yurtiçi Hasıla büyüme beklentisi de yüzde 4,9 oldu. 
+
+Söz konusu oran geçen yılın aynı dönem anketinde yüzde 4,3 olmuştu.
+
+</TEXT>
+</DOC>

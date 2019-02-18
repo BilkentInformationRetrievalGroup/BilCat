@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1411764 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e3a25bce-a370-462f-bafe-a3b73717b93e </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 20:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+izmir-ankara karayolu kapand��
+</HEADLINE>
+<TEXT>
+Yoğun kar yağışı nedeniyle İzmir- Ankara Karayolu ulaşıma kapandı. 
+
+
+Aniden bastıran kar yağışı İzmir-Ankara Karayolu&rsquo;nda sürücüleri hazırlıksız yakaladı.  
+
+Manisa&rsquo;nın Kula ilçesi Kavacık rampasının tamamen karla kapanması ve buzlanma nedeniyle araçlar yolda kaldı. 
+
+E-96 İzmir-Ankara Karayolu&rsquo;nda uzun araç kuyrukları oluştu.
+                               
+Kula ilçesinde, çevre köylerde de kar kalınlığı yarım metrenin üzerine çıktı.      
+
+    Bölgede köy yollarında, çoğu zincirsiz  araç yolda kaldı. Karayolları ekipleri, yolda kalan araçları kurtarmaya çalıştı. 
+
+     Yolda kalan vatandaşlar Kula merkezinde bulunan konaklama tesislerine, lokanta ve kahvehanelere yönlendirildi.
+
+    Trafiğe tamamen kapanan İzmir-Ankara Karayolu&rsquo;nun açılması için ekipler çalışmalarını sürdürüyor.
+
+    Yetkililer yola çıkan araçlarda zincir bulundurulmasını istediler.
+</TEXT>
+</DOC>

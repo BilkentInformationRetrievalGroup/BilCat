@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1402139 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8be079a1-eeea-4db4-91b7-c229af2909b5 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 02:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+new york modern sanatlar m��zesi
+</HEADLINE>
+<TEXT>
+1929'da kurulan New York Modern Sanatlar Müzesi, 70 bin sanatçının 300 binden fazla eserini arşivlerinde bulunduruyor.
+     
+
+ 
+    Manhattan&rsquo;ın en işlek yerlerinden 5. Cadde&rsquo;de bulunan, kısa adıyla MOMA olarak da anılan müzeyi 2010&rsquo;da 2,5 milyondan fazla yerli ve yabancı sanatseverin ziyaret ettiği açıklandı.
+       
+   Çağdaş müzecilik konusunda pek çok müzeye esin kaynağı olan MOMA, aynı adla dünyanın belli başlı şehirlerinde açılan birçok müzeye isim öncülüğü de ediyor.
+     
+    Van Gogh&rsquo;dan Picasso&rsquo;ya, Andy Warhol&rsquo;dan Salvador Dali&rsquo;ye, 20. ve 21. yüzyılın pek çok çağdaş sanatçısının eserlerini bulunduran MOMA, giriş ücreti olarak, Amerika&rsquo;da çoğu 1 dolarlık bağış şeklinde uygulaması olan diğer müzelerin aksine ziyaretçilerinden 20 dolar talep ediyor.
+       
+   Cam ve granitten oluşan ilginç bina tasarımıyla da dikkat çeken Modern Sanatlar Müzesi, bugünün müzik, sinema ve güzel sanatlar dünyasından birçok tanıdık ismin sergilerine zaman zaman ev sahipliği ediyor.
+
+</TEXT>
+</DOC>

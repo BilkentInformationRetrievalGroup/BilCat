@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1406845 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=49c272e0-4b88-4179-bdd3-596a4bc614a9 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 15:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hat��rlaman��n en iyi yolu...
+</HEADLINE>
+<TEXT>
+"Nature Neuroscience" dergisinde yayımlanan araştırma, sadece 40 dakikalık uykudan sonra anıların büyük kısmının beyinde depolandığını ortaya koydu.
+
+&quot;Nature Neuroscience&quot; dergisinde yayımlanan bir araştırma, &quot;Ezberlenen bir şiiri ya da anıları hatırlamanın en iyi yolunun 
+ şekerleme yapmak&quot; olabileceğini ortaya koydu.
+         
+Daha önce yapılan araştırmalar, beynin hipokampus bölgesinde geçici olarak saklanan yakın zamana ilişkin anıların, hemen &quot;yerleşmediğini&quot;, anıların, öğrenmenin üzerinden biraz zaman geçtikten sonra yeniden etkinleştiğini ve bu durumun anıların kalıcı depolamanın olduğu neokortekse gönderilmesinde önemli rol oynadığını göstermişti.
+         
+Uykunun bu süreçlere etzlığı olan kişilerin anılarına &quot;yeniden biçim vermesi&quot; açısından da faydalı olabileceğine işaret edildi.
+
+
+
+
+</TEXT>
+</DOC>

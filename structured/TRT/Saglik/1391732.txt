@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 1391732 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=897e9e2e-4777-4935-a22f-0d4278471d92 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 12:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+y��r��me h��z��n��z sa��l������n��z��n g��stergesi
+</HEADLINE>
+<TEXT>
+ABD'deki bir araştırma, yaşlı insanların yürüme hızıyla sağlık durumlarının ilişkili olduğunu gösterdi.
+
+
+     Yüreme hızınız, ortalama yaşam süreniz hakkında ipucu verebilir...
+     Amerika Birleşik Devletleri&rsquo;nde yapılan araştırmaya göre, 65 yaş üstünde olup hızlı yürüyenler daha uzun yaşama eğilimi gösteriyor.
+
+     
+     Amerika Birleşik Devletleri&rsquo;nde bir grup bilim adamı, yaşlanma konusunda uzun soluklu bir araştırma kapsamında, 65 yaş ve üzerinde neredeyse 35 bin kişiden elde edilen verileri inceleme altına aldı.
+     Kimi durumlarda 20 yıl boyunca takip edilen katılımcıların her birinin yürüme hızının yanı sıra sağlık durumlarıyla ilgili göstergeler incelendi.
+     Belli bir yaşın üzerindekiler yaş aldıkça, yürümelerinin yavaşladığı günlük hayatta her ne kadar gözlense de, söz konusu araştırma yürüme hızıyla ortalama ömür arasındaki ilişkiyle ilgili... 
+     Uzmanlar, yaşlı insanlarda yürüme hızının genel sağlık durumları hakkında ciddi bir gösterge olduğunu vurguluyor.
+    Çünkü yürüme hızı, vücuttaki sistemlerin ne durumda olduğunu, nasıl çalıştığını yansıtıyor.  
+     Bu kapsamda yürüme hızı, ortalama yaşam süresiyle ilgili ipucu da verebiliyor.     
+     Araştırmaya göre, 65 yaş ve üzerinde olup hızlı yürüyenler, daha uzun yaşama eğilimi gösteriyor.
+     Bilim adamları, doktorların, yaşlı insanlarda yürüme hızını sağlık durumları konusunda bir veri olarak kullanabileceğini de dikkat çekiyor.                
+     Yürüme sırasında, solunum sistemi, iskelet ve kas sistemi çalışır durumda olduğu için, bu hareket aslında ciddi bir gösterge...   
+
+
+         
+ 
+
+</TEXT>
+</DOC>

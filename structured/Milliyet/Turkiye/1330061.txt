@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1330061 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f684353/l/0L0Smilliyet0N0Btr0Csabiha0Egokce0Ende0Eucuslar0Edurduma0Enoktasina0Egeldi0Cturkiye0Csondakika0C0A60B110B20A10A0C13111370Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:09:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sabiha Gökçe’nde uçuşlar durduma noktasına geldi
+</HEADLINE>
+<TEXT>'u etkisi altına alan yoğun sis nedeniyle hava trafiği olumsuz etkilendi.
+İstanbul’un Anadolu yakasını akşam saatlerinde etkisi altına alan yoğun sis, özellikle ’nda hava ulaşımın olumsuz etkiliyor. Akşam saatlerinde etkisini iyice arttıran yoğun sis nedeniyle görüş mesafesi 100 metrenin altına inince uçuş trafiği durma noktasına geldi.
+Dün 100 metre olan görüş mesafesi bugün 50 metreye kadar inince, Sabiha Gökçen Havalimanı’na iniş yapamayan 11 yolcu uçağı divert (yönlendirilerek) edilerek ’na iniş yapmak zorunda kaldı. </TEXT>
+</DOC>

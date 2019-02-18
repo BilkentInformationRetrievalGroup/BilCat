@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1391545 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7b060418-f12a-4f42-bd95-502e208ef5c0 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 10:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��anakkale bo��az��'nda yo��un sis
+</HEADLINE>
+<TEXT>
+Çanakkale Boğazı'nda sis nedeniyle deniz ulaşımında aksamalar yaşanıyor, bazı deniz seferleri yapılamıyor.
+
+
+Çanakkale Boğazı&rsquo;nda geceden başlayan sis sabah saatlerinde etkisini artırdı.
+
+     Yoğun sis nedeniyle Çanakkale Boğazı çift taraflı olarak deniz trafiğine kapatıldı.
+
+     Öte yandan sis nedeniyle Gelibolu-Lapseki arası yapılan araba vapuru seferleri de iptal edildi.
+
+
+
+</TEXT>
+</DOC>

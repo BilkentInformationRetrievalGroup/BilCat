@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342595 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea54/l/0l0smilliyet0n0btr0carda0ebaros0eisiniyor0cspor0chaberdetay0c20a0b110b20a10a0c13161450cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+arda-baros ��s��n��yor
+</HEADLINE>
+<TEXT> 30 dakikası basına açık gerçekleştirilen antrenmanda sakatlıkları devam eden Lorik Cana, Serkan Kurtuluş ve Serdar Özkan takımdan ayrı çalıştı. Bu arada Hagi’nin Kayserispor maçının kadrosuna A2’den Anıl Dilaver, Ahmet Kesim ve Cumhur Yılmaztürk’ü de dahil edeceği öğrenildi. Sarı-kırmızılılar bu akşam özel uçakla Kayseri’ye gidecek. Başkan Adnan Polat’ın bilet bulamadığı için dönemediği ve Kayseri deplasmanına gelemeyeceği bildirildi. </TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 1406720 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=63b822e4-5e2a-478a-9358-445835a88214 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 14:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��te be��ikta��-trabzonspor ma����n��n hakemi
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası'nda gruplarda 5. hafta maçlarını yönetecek hakemler açıklandı. İşte hafta hakemleri ve programı... 
+
+
+Futbol Federasyonu Merkez Hakem Kurulu&rsquo;ndan yapılan açıklamaya göre, (B) Grubu&rsquo;nda Beşiktaş ile Trabzonspor arasında 26 Ocak Çarşamba günü Fi-yapı İnönü Stadı&rsquo;nda yapılacak karşılaşmayı hakem Cüneyt Çakır yönetecek. 
+ 
+
+26 ve 27 Ocak&rsquo;ta oynanacak karşılaşmaları yönetecek hakemler şöyle:
+
+26 Ocak Çarşamba;
+A Grubu
+18:00 Gaziantepspor-Beypazarı Şekerspor: Mustafa Öğretmenoğlu
+18:00 Denizlispor-Medical ParkAntalyaspor: Murat Türker
+
+B Grubu
+20:00 Beşiktaş-Trabzonspor: Cüneyt Çakır
+20:00 Manisaspor-Gaziantep Büyükşehir Belediyespor: Serkan Çınar
+
+D Grubu
+13:30 Kırıkhanspor-Karşıyaka: Gökhan Güneşer
+13:30 Kasımpaşa-Bursaspor: Suat Arslanboğa
+
+27 Ocak Perşembe
+C Grubu
+20:00 Fenerbahçe-Gençlerbirliği
+20:00 Yeni Malatyaspor-MKE Ankaragücü: İlker Meral
+
+</TEXT>
+</DOC>

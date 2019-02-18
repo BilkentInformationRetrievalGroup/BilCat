@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325091 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f576769/l/0l0smilliyet0n0btr0cihlas0eyayin0eholding0ehisseleri0eyarin0eborsada0cekonomi0csondakika0c0a40b110b20a10a0c1310a1970cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:00:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ihlas yay��n holding hisseleri yar��n borsada
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsası (İMKB) Yönetim Kurulu, İhlas Yayın Holding A.Ş’nin halka arz edilen 57 milyon 500 bin lira nominal değerli A grubu hamiline yazılı hisse senetlerinin 1 lira nominal değerli beher hisse için 1,30 lira baz fiyatla yarından itibaren Ulusal Pazar’da işlem görmeye başlamasına karar verdi.İMKB’nin konuya ilişkin olarak Kamuyu Aydınlatma Platformu’nda (KAP) yayımlanan duyurusunda, İhlas Yayın Holding A.Ş.’nin sermayesini temsil eden 200 milyon lira nominal değerli hisse senetlerinin Borsa kotuna alınmasına ve halka arz edilen 57 milyon 500 bin lira nominal değerli A grubu hamiline yazılı hisse senetlerinin 1 lira nominal değerli beher hisse için 1,30 lira baz fiyat ve "IHYAY" koduyla, yarından itibaren Ulusal Pazar’da işlem görmeye başlamasına karar verildiği bildirildi.İhlas Yayın Holding için belirlenen maksimum lot miktarının 10.000 olduğu, şirket hisse senetlerinin Borsa dışında halka arzına ait izahnamenin, KAP’ın internet sitesinde (www.kap.gov.tr) ve Borsanın internet sitesinde (www.imkb.gov.tr) yayınlandığı hatırlatıldı.</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1402623 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f95d815c-1e8c-4146-9c16-1c0887fc96c3 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 12:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+balon maceras�� tats��z bitti
+</HEADLINE>
+<TEXT>
+Avustralya'daki balon gezisine katılanlar ölümün eşiğinden döndü. 
+
+
+
+     Melbourne kentinde balonla gezintiye çıkan 11 kişilik grup, rüzgar nedeniyle kendini park yerine denizde buldu.
+
+     Rüzgarla sürüklenen balon, devrilmekten son anda kurtuldu, kıyıdan 1 buçuk kilometre açığa zorunlu iniş yaptı.
+
+     Balondaki 11 kişi, sahil güvenlik tarafından kurtarıldı.
+
+</TEXT>
+</DOC>

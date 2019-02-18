@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1345678 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/ffaa389/l/0L0Smilliyet0N0Btr0Ctbmm0E10A0Eulualararasi0Eanlasmayi0Ekabul0Eetti0Csiyaset0Csondakika0C250B110B20A10A0C13183650Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:04:53.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TBMM 10 ulualararası anlaşmayı kabul etti
+</HEADLINE>
+<TEXT>Dışişleri Komisyonunda 10 uluslararası anlaşmaya ilişkin yasa tasarıları kabul edildi.
+
+Dışişleri Komisyonu,  başkanlığında toplandı.
+
+Toplantıda,  ile , , , ,  ve D-8 üyesi devletler arasında gümrük konularında,  ve  ile çifte vergilendirmeyi önleme,  ile ticarette ürünlerle ilgili tanımın değiştirilmesi, D-8 devletleri de tercihli ticaret anlaşmasına yönelik menşe kurallarının onaylanmasına ilişkin yasa tasarıları kabul edildi.</TEXT>
+</DOC>

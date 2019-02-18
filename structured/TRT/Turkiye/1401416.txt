@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1401416 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e8f5bd5c-46f8-4f6e-ac52-839fa3f629ad </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 11:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��rcistan'da deprem
+</HEADLINE>
+<TEXT>
+Deprem Gürcistan sınırındaki Ardahan ve ilçelerinde de hissedildi.
+
+Gürcistan&rsquo;da 5,3 şiddetinde bir deprem meydana geldi.
+
+     Deprem Gürcistan sınırındaki Ardahan ve ilçelerinde de hissedildi.
+
+     Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü verilerine göre, merkez üssü Gürcistan olan 5,3 şiddetinde bir sarsıntı meydana geldi. 
+
+     Saat 11.17&rsquo;deki deprem Ardahan ve ilçelerinde de hissedildi.
+
+     Sarsıntı, bölgede kısa süreli paniğe neden oldu.
+
+
+</TEXT>
+</DOC>

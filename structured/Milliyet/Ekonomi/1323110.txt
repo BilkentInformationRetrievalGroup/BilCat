@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323110 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4fde38/l/0l0smilliyet0n0btr0cnew0eyork0eborsasi0ekararsiz0eacildi0cekonomi0csondakika0c0a30b110b20a10a0c130a97530cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:00:46.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+new york borsas�� karars��z a����ld��
+</HEADLINE>
+<TEXT>New York Borsası güne kararsız başladı.Borsanın açılışında, düne göre, Dow Jones Sanayi Endeksi yüzde 0,1 (9,69 puan) artarak 11.196,97 puana yükseldi.Açılışta, Standard & Poor’s 500 Endeksi yüzde 0,1 (0,73 puan) değer kazanarak 1.194,30 puan, Nasdaq Teknoloji Endeksi ise yüzde 0,1 (1,18 puan) azalarak 2.532,34 puan oldu.</TEXT>
+</DOC>

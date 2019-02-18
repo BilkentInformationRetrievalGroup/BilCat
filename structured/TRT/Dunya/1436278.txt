@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1436278 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d611f9e0-eade-4f78-b69a-12e0f8bf151a </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 22:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+c��a i��in ��al������yormu��
+</HEADLINE>
+<TEXT>
+ABD ile Pakistan arasında diplomatik krize yol açan Amerikalı konsolosluk görevlisinin CIA için çalıştığı bildirildi.
+
+Pakistan&rsquo;ın Lahor kentinde bir kişinin öldüğü trafik kazasına karışan ve olay sonrasında iki kişiyi silahla vurarak öldüren Amerikan Konsolosluğu görevlisinin Amerikan Merkez Haberalma Teşkilatı CIA için çalıştığı Amerikalı yetkililerce doğrulandı.
+
+Olayda gözaltına alınan Raymond Davis isimli Amerikalı görevli ise ölen 3 kişiden ikisinin kendisine saldırmak üzere oldugunu ve kendisinin meşru müdafaada bulunduğunu iddia etmişti.
+
+Pakistan Başbakanı Yusuf Rıza Gilani sorunun Pakistan hukuk sistemi içinde en kısa zamanda çözüleceğini inandığını söyledi.
+</TEXT>
+</DOC>

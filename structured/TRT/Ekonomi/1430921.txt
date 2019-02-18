@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1430921 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7ec05bf9-3e43-4a72-973b-9e8f47267f73 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 18:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa ve alt��n y��kseldi
+</HEADLINE>
+<TEXT>
+Borsada hisse senetleri % 0,86 oranında değer kazandı. Kapalıçarşı'da Cumhuriyet altını 468 liradan alıcı buldu.
+
+
+     İstanbul Borsası Ulusal-100 Endeksi günü 559 puan artarak 65 bin 361 puandan tamamladı.
+     Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 13 kuruştan işlem görüyor.
+
+     Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,31 seviyesinde bulunuyor.
+     Uluslararası piyasalarda altının ons fiyatı bin 370 dolar. 
+
+     Kapalıçarşı&rsquo;da Cumhuriyet altını 468 liradan alıcı buldu.
+     
+     Asya Pasifik piyasaları ise karışık bir tablo çizdi.
+     Avrupa borsaları da kararsızve karışık bir görünüm sergiledi.
+     New York Borsası yükselişle açıldı.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1414330 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4e357f0e-4f5e-4861-a982-70c3ff253aa2 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 20:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mehmet batdal konyaspor'da
+</HEADLINE>
+<TEXT>
+Yeşil-beyazlı ekip, Galatasaray'dan Mehmet Batdal'ı kiraladı.
+
+Konyaspor, Galatasaray&rsquo;dan Mehmet Batdal&rsquo;ı kiraladı.
+ Kulüp Başkanı Bahattin Karapınar, transfer çalışmalarını sürdürdüklerini belirterek, devre arasında takıma önemli takviyeler yaptıklarını söyledi.
+ Son olarak Galatasaray&rsquo;dan genç oyuncu Mehmet Batdal&rsquo;ı kiralayarak takıma dahil ettiklerini ifade eden Karapınar, oyuncunun sezon sonuna kadar yeşil-beyazlı forma için ter dökeceğini bildirdi.
+ Batdal, bu sezon başında Bucaspor&rsquo;dan Galatasaray&rsquo;a transfer olmuştu.
+</TEXT>
+</DOC>

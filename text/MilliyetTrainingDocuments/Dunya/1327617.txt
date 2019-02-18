@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327617 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f602c20/l/0l0smilliyet0n0btr0cbombali0esaldiriyi0etaliban0eustlendi0cdunya0csondakika0c0a50b110b20a10a0c1310a690a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:01:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bombal�� sald��r��y�� taliban ��stlendi
+</HEADLINE>
+<TEXT>Pakistan’ın kuzeybatısında 50 kişinin ölümüne neden olan intihar saldırısını Taliban’ın üstlendiği bildirildi.Haber televizyonu GEO, Peşaver kenti yakınlarındaki Darra Adam Hel bölgesinde bir Sünni camisine Cuma namazı sırasında düzenlenen saldırıyı, Pakistan Talibanı’nın üstlendiğini duyurdu.Ancak AP’nin haberi doğrulatmak için aradığı örgüt sözcüleri, henüz konu hakkında bir açıklama yapmadı.Yerel bir hükümet yetkilisi de caminin hedef alınmasının nedeninin Taliban karşıtı aşiret üyelerinin zaman zaman burada toplanması olabileceğini kaydetti, ancak saldırı anında böyle bir toplantı yapılmadığını da sözlerine ekledi.</TEXT>
+</DOC>

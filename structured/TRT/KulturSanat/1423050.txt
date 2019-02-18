@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1423050 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a923b979-cae0-464e-b8cb-86d4711a6f01 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 09:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+picasso'nun tablosu rekor fiyata sat��ld��
+</HEADLINE>
+<TEXT>
+Ünlü ressam Pablo Picasso'nun bir tablosu, 40 milyon 700 bin dolar gibi rekor fiyata satıldı.
+
+Açık artırmaya telefonla katılarak tabloyu alan koleksiyoncunun adı ise açıklanmadı.
+
+Londra&rsquo;daki Sotheby&rsquo;s müzayede salonu, rekor bir açık artırmaya evsahipliği yaptı.
+
+Ünlü İspanyol ressam ve heykeltraş Picasso&rsquo;nun bir tablosu 40 milyon 700 bin dolara satıldı.
+
+Tabloyu, açık artırmaya telefonla katılan ve adı açıklanmayan bir koleksiyoncu satın aldı.
+
+Picasso, 1932 yılında yaptığı &quot;La Lecture&quot; isimli  bu tabloda, genç sevgilisi Marie-Therese Walter&rsquo;ı tasvir ediyor.
+
+20&rsquo;inci yüzyıl sanatının en bilinen isimlerinden olan,  kübizm akımının da babası sayılan Pablo Picasso, 1973 yılında öldü.
+</TEXT>
+</DOC>

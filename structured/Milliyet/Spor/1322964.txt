@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322964 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f4ea04f/l/0l0smilliyet0n0btr0cfutbolcu0etemsilcisi0ecincil0epfdk0eya0esevk0eedildi0cspor0csondakika0c0a30b110b20a10a0c130a96920cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:15:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+futbolcu temsilcisi cincil, pfdk'ya sevk edildi
+</HEADLINE>
+<TEXT>Futbol Federasyonu Lisanslı Futbolcu Temsilcisi Ömer Cincil, Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edildi.Futbol Federasyonundan yapılan açıklamada, Cincil’in talimatlara aykırı biçimde menajerlik faaliyeti içinde bulunması nedeniyle tedbirli olarak PFDK’ya sevk edildiği bildirildi.</TEXT>
+</DOC>

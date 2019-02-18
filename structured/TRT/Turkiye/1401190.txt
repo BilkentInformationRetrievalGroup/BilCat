@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1401190 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5ea239a0-6dde-4931-933f-8efbccf8836b </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 08:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otob��slere kur��un panik yaratt��
+</HEADLINE>
+<TEXT>
+Ankara-İstanbul karayolunda seyir halindeki 4 otobüse kurşun isabet etti. Olayın avcıiların işi oilabileceği bildirildi. 
+
+
+Ankara-İstanbul otoyolundan seyir halinde bulunan 4 şehirlerarası otobüse kurşun isabet etti.
+
+Camları patlayan otobüslerin içerisindeki yolcular büyük panik yaşarken, kurşunlanmaya gece ava çıkan kişilerin sebep olabileceği iddia edildi.
+
+Kurşunlar kim tarafından ne için atıldı bilinmiyor.
+
+Ancak daha önce de aynı bölgede benzer olayların yaşandığı söyleniyor.
+
+ Olaya jandarma ekipleri müdahale etti.
+
+Uzun süre dışarda bekleyen yolcular olayın abartıldığını söyledi.
+
+Yolcuların ifadesinin alınmasının ardından otobüsler tekrar yollarına devam etti.
+
+Olayın gece ava çıkan avcıların işi olabileceği iddia edildi.
+        
+
+
+
+</TEXT>
+</DOC>

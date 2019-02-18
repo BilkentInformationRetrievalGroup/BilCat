@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339696 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fbe4327/l/0l0smilliyet0n0btr0cisrail0easkerleri0enablus0etan0ecekildi0e0cdunya0chaberdetay0c180b110b20a10a0c13155140cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 01:01:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+israil askerleri nablus���tan �����ekildi���
+</HEADLINE>
+<TEXT>Filistinli bir yetkili yerel haber ajansına yaptığı açıklamada, İsrail ordusu askerlerinin, olağanüstü durumlar haricinde artık kente girmekten imtina edeceğini; herhangi bir girme durumunda da Filistin tarafını haberdar edeceğini söyledi. Bu arada, İsrail güvenlik kabinesi, Lübnan sınırında bulunan Gajar köyünün kuzeyinden tek taraflı çekilme planını da onayladı. Ancak Gajar köy meclisi, köyün bölüneceğini söyleyerek karara tepki gösterdi. </TEXT>
+</DOC>

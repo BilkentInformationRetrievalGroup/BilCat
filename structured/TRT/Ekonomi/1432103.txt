@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1432103 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d20a6fd5-1875-4d6c-9ae6-0e2c37908de6 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 16:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��kea bardaklar��n�� geri ��a����rd��
+</HEADLINE>
+<TEXT>
+IKEA, el yapımı Rund cam kupalarını tüketicilerini tehlikeye atmamak için geri çağırdı.
+
+IKEA Türkiye&rsquo;nin internet sitesinde yer alan duyuruda, “IKEA, Rund cam kupa satın almış olan müşterilerin ürünü kullanmayı bırakmalarını ve akabinde IKEA mağazalarına giderek ürünü iade edip paralarını geri almalarını rica ediyor” denildi.
+
+Rund cam kupaların kullanım sırasında kırıldığına dair dünya çapında 12 adet rapor alındığı kaydedilen duyuruda, bu raporlardan beşinde yaralanmaların olduğunun belirtildiği bildirildi.
+
+Duyuruda, “Kupaların kırılmalarıyla ilgili alınan raporlar doğrultusunda IKEA, cam kalınlığının değişkenliklerini gösteren bir soruşturma başlattı. 
+
+Tedbir olarak IKEA Rund cam kupaların tüm IKEA mağazalarından kaldırılmasına karar verdi. IKEA müşterilerinin güvenliğini tehlikeye atacak durumları göz ardı etmeyip Rund cam kupa satın almış müşterilerinin ürünü iade etmeleri konusunda duyarlı davranıyor. 
+
+IKEA olarak bu durumun yaratabileceği rahatsızlıktan dolayı özür diliyoruz” ifadelerine yer verildi.
+
+</TEXT>
+</DOC>

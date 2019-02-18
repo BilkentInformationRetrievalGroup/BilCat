@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1426825 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=052297ce-33c0-487b-92f7-b09803e8197d </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 21:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erdo��an, obama'yla g��r����t��
+</HEADLINE>
+<TEXT>
+Başbakan Erdoğan, ABD Başkanı Obama ile telefonda görüştü.
+
+
+Başbakan Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Obama ile telefonla görüştü.
+
+Başbakanlık Basın Merkezinden yapılan açıklamada &quot;Sayın Obama&rsquo;nın aramasıyla gerçekleşen görüşmede başta Mısır olmak üzere, bölgeyle ilgili sorunlar ele alınarak, görüş alışverişinde bulunulmuştur.&quot; denildi. 
+</TEXT>
+</DOC>

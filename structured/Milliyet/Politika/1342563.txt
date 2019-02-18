@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342563 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fced8e6/l/0l0smilliyet0n0btr0crusvet0esorusturmasi0csiyaset0chaberdetay0c20a0b110b20a10a0c13160a80a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:09:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+r����vet soru��turmas��
+</HEADLINE>
+<TEXT>DIŞ HABERLER SERVİSİFransa Cumhurbaşkanı Nicolas Sarkozy’nin, Maliye Bakanı ve dönemin Başbakanı Edouard Balladur’un sözcüsü olduğu 1995 senesinde, Pakistan’a denizaltı satışı gerçekleştirdiği ve satışları hızlandırması için Pakistanlı yetkililere rüşvet verdiği öne sürülüyor. Sarkozy’nin ayrıca, satış paralarının bir kısmının tekrar Pakistan tarafından Balladur’un seçim kampanyasına aktarılması durumunda, Pakistanlı yetkililere, seçimler sonrasında daha fazla rüşvet teklif ettiği iddia ediliyor. Hatta Sarkozy’nin silah satışından alınan paraları kurduğu bir paravan şirket aracılığıyla seçim kampanyasına yönlendirdiği de ileri sürülüyor. Aileler, Balladur’un seçimleri Chirac karşısında kaybetmesi sonucunda, Chirac’ın Sarkozy’nin söz verdiği ödemeleri Pakistan’a göndermemesi sonucunda, bir misilleme olarak bu saldırının düzenlediğini iddia ediyorlar.  </TEXT>
+</DOC>

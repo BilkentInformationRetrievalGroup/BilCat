@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1390568 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8f599e16-bbca-40d7-a2f9-07bda0e96b71 </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 17:00:19.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+���bele����i��� kad��n��n g��z�� d��nd��!
+</HEADLINE>
+<TEXT>
+Bilet parası vermemek için kızını tren rayına indirdi.
+
+Arjantin&rsquo;in başkenti Buenos Aires&rsquo;te meydana gelen akıl almaz olayda bir anne, kızı için bilet parası ödememek uğruna kızını gişelerin bulunduğu alanın paralelinde raylardan geçmesi için tren yoluna indirdi. 
+</TEXT>
+</DOC>

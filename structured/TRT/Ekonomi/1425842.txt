@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1425842 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9eb68e9f-53bc-4991-b164-35c8e6741780 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 18:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa g��n�� y��kseli��le kapad��
+</HEADLINE>
+<TEXT>
+İstanbul Menkul Kıymetler Borsası, haftanın son işlem gününü 308 puan artarak 64 bin 730 puandan tamamladı.
+
+İstanbul Menkul Kıymetler Borsası, haftanın son işlem gününü 308 puan artarak 64 bin 730 puandan tamamladı. Hisse senetleri de günlük ortalama yüzde 0.47 oranında değer kazandı. 
+
+Serbest piyasada Amerikan Doları 1 lira 59 kuruş, Avro ise 2 lira 15 kuruştan işlem gördü. 
+
+Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8.45 seviyesinde bulunuyor. 
+
+Uluslararası piyasalarda altının ons fiyatı bin 364 dolar olarak gerçekleşti. 
+
+Kapalıçarşı&rsquo;da Cumhuriyet altını 465 liradan alıcı buldu. 
+Dünya Borsaları
+Asya Pasifik piyasaları bugün karışık bir tablo çizdi. 
+
+Avrupa borsalarındaki kararsız seyirde gün içinde satış baskısı ön plana çıktı. 
+
+New YorkBorsası düşüşle açıldı.
+
+</TEXT>
+</DOC>

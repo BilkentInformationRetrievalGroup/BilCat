@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327854 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f6102bc/l/0l0smilliyet0n0btr0cfaiz0eyuzde0e70e630eseviyesinde0cekonomi0csondakika0c0a50b110b20a10a0c1310a7110cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 19:00:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+faiz y��zde 7,63 seviyesinde
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsası (İMKB) Tahvil ve Bono Piyasası Kesin Alım Satım Pazarında işlem gören 8 Ağustos 2012 vadeli, bugün valörlü tahvilin bileşik faizi, önceki kapanışa göre 0,02 puan artarak yüzde 7,63’ten kapandı.Bu tahvilin basit getirisi yüzde 7,85 oldu.Bu kağıdın önceki kapanıştaki basit getirisi yüzde 7,83, bileşik getirisi yüzde 7,61 olmuştu.-KOTASYONLAR- Bankalararası piyasada dolar kotasyonları, saat 16.30 itibariyle, alışta en düşük 1,3890 lira, en yüksek 1,3920 lira, satışta en düşük 1,3970 lira, en yüksek 1,4000 lira seviyesinde bulunuyor.-REPO- İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarında 3 günlük işlemler en düşük yüzde 5,75, en yüksek yüzde 7,00 ve ortalama yüzde 6,56’dan yapılıyor.-PARİTE- Uluslararası piyasalarda avro-dolar paritesi 1,4089, sterlin-dolar paritesi 1,6240, yen-dolar paritesi ise 81,09 düzeyinde seyrediyor.</TEXT>
+</DOC>

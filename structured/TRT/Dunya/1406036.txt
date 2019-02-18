@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1406036 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cba4f3d9-8df3-440b-94ce-90db7f017c67 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 21:00:25.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trt kameralar��ndan tunus...
+</HEADLINE>
+<TEXT>
+Ülkeye ilk giren Türk Televizyonu TRT, işsizliğe ve baskıcı rejime isyan eden Tunuslu gençlere mikrofon uzattı.
+
+Ülkedeki TRT ekibi bir yandan protesto gösterileri ve siyasi gelismeleri izliyor, diğer yandan halkın nabzını tutuyor. 
+
+Ülkedeki gençler ne düşünüyor, sorunları nedir?
+
+</TEXT>
+</DOC>

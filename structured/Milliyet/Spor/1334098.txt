@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1334098 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f879ee9/l/0l0smilliyet0n0btr0ctekke0eyi0edefterden0esildi0cspor0chaberdetay0c110b110b20a10a0c13129660cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/11 </DATE>
+<TIME> 01:29:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tekke���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������yi defterden sildi
+</HEADLINE>
+<TEXT>Sakatlar nedeniyle kadro kurmakta zorluk çeken ve Gaziantep Büyükşehir Belediyespor ile oynayacakları karşılaşma için 17 kişi götürecek olan siyah-beyazlıların teknik patronu, bir oyuncu eksiğine rağmen Fatih Tekke'yi tercih etmediği ifade edildi. Bu hareket, tecrübeli oyuncunun Alman teknik adam tarafından artık kadroda düşünülmediği bir işaret olarak algılandı. Gaziantep’e bugün gidecek olan siyah-beyazlıların antrenmanına, tedavileri devam eden Ferrari, Nobre ve Ekrem katılmazken, Zapotocny ile Rıdvan takımdan ayrı çalıştı.</TEXT>
+</DOC>

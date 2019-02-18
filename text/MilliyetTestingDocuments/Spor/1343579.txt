@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343579 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7e9/l/0l0smilliyet0n0btr0cmecburen0ewolfsburg0ea0e0cspor0chaberdetay0c210b110b20a10a0c13164910cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:46:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mecburen wolfsburg���a!
+</HEADLINE>
+<TEXT>Sarı-kırmızılı kulüpten 1 günlük izin alan Bosna Hersekli futbolcu, “Türkiye’ye dönecek misin?” sorusunu yanıtsız bıraktı. Alman basını, İstanbul’a bugün dönmesi beklenen Misimovic’in eski kulübü Wolfsburg’la yeniden anlaşabileceğini yazdı. Bild gazetesinde yer alan haberde, UEFA’nın transfer yönetmeliğine göre bir sezonda en fazla iki farklı takımda forma giyme hakkı bulunan tecrübeli futbolcunun, Galatasaray’la yollarını ayırması halinde zorunlu olarak Wolfsburg’a dönebileceği kaydedildi. </TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1415868 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ddc907e3-5d31-4406-8b50-052ce442f22e </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 10:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2011���de turizme yat��r��m patlayacak
+</HEADLINE>
+<TEXT>
+Türkiye'de turizm yatırımları bu yıl yaklaşık yüzde 59 artacak. 
+
+Türkiye&rsquo;de turizm yatırımları bu yıl yaklaşık yüzde 59 artacak. 2011 yılında turizm sektörüne toplam 352 milyon 765 bin liralık yatırım yapılacak.
+
+Turizm sektörüne ayrılan 352 milyon 765 bin liralık yatırım kaynağının 253 milyon 265 bin lirası merkezi yönetim bütçesinden, 2 milyon 500 bin lirası döner sermaye ve sosyal güvenlik kuruluşları ve 97 milyon lirası da mahalli idarelerden sağlanacak.
+
+Sektörde en fazla yatırımı, 9 proje için 122 milyon 882 bin liralık kaynak ile Kültür ve Turizm Bakanlığı yapacak.
+
+Çevre ve Orman Bakanlığı, 5 proje için 54 milyon, Çevre ve Orman Bakanlığı (DS) 1 proje için 2 milyon 500 bin, TCK Genel Müdürlüğü 15 proje için 30 milyon, Ulaştırma Bakanlığı 7 proje için 11 milyon 500 bin liralık yatırım gerçekleştirecek.
+
+BİB Teknik Araştırma ve Uygulama Genel Müdürlüğü ise 1 proje için 12 milyon, Vakıflar Genel Müdürlüğü 2 proje için 16 milyon, Meteoroloji İşleri Genel Müdürlüğü 7 proje için 1 milyon 500 bin, Özel çevre Koruma Kurumu Başkanlığı 2 proje için 5 milyon 100 bin, GAP Bölge Kalkınma İdaresi Başkanlığı 1 proje için 283 bin liralık yatırım yapacak.
+
+</TEXT>
+</DOC>

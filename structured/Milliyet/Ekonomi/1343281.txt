@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343281 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fd4695a/l/0l0smilliyet0n0btr0cgoogle0egroupon0eu0e30emilyar0edolara0ealiyor0cekonomi0chaberdetay0c210b110b20a10a0c13164280cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:00:50.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+google, groupon���u 3 milyar dolara al��yor
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİŞirkete yakın kaynaklar iki grup arasında görüşmelerin bir süreden bu yana devam ettiğini, Google'ın Groupon'u tamamen satın alma ihtimali olduğunu bunun yanı sıra 'yatırımcı' olarak da şirkete girebileceğini ifade ediyor. Groupon yönetiminin bu hafta toplanarak son kararını vereceğinin altı çiziliyor. Bu arada Yahoo'nun da Groupon'u almak üzere 2-3 milyar doları gözden çıkardığı kaydediliyor.Bu site ne iş yapıyor?Groupon.com ABD’de şehir hayatına ve online alışverişe yeni bir boyut kattı. Bundan 2 yıl önce önce kurulan şirket 350 kişiyi istihdam ediyor. " Grup” (Group) ve “Kupon” (Coupon) kelimelerinden yola çıkılarak oluşturulan bu girişimin temelinde yatan fikir  “internette grup olup, indirimli hizmet almak”. İndirimli olarak alınacak bu servis lüks bir restoranda akşam yemeği olabileceği gibi SPA, güzellik merkezleri, giyim, cafe ’ler, barlar ve konser aktivitelerine kadar uzanabiliyor.  Önce Groupon üzerinde teklif belirleniyor. Ardından kullanıcılar indirimli hizmeti satın almaya başlıyor. Uygulanan indirim sitenin yaptığı anlaşmaya göre yüzde 10, yüzde 50 hatta yüzde 90 ’lara kadar çıkabiliyor.Grup konseptinde tekliflerin geçerli olması için en az 100 kişinin teklifi satın almış olması gerekiyor. Bu hedefe ulaşılmaz ise teklifler geçerli olmuyor. Bu rakam bazen 50, bazı tekliflerde de 200-300 kişiyi bulabiliyor. Kullanıcılar indirimin geçerli olması için teklifleri arkadaşlarıyla paylaşıyor.</TEXT>
+</DOC>

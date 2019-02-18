@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338370 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fb0bf82/l/0l0smilliyet0n0btr0cosmaniye0eduzici0ende0e40e60ebuyuklugunde0edeprem0cturkiye0csondakika0c160b110b20a10a0c13150a570cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:32:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+osmaniye d��zi��i'nde 4,6 b��y��kl������nde deprem
+</HEADLINE>
+<TEXT>Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Ulusal Deprem İzleme Merkezi verilerine göre, saat 12.50’de Düziçi ilçesinin 5,3 kilometre derinliğinde meydana gelen, 4,6 büyüklüğündeki deprem, Osmaniye kent merkezinde de hissedildi.Aynı verilere göre, saat 12.56’da ise merkezi Düziçi olan 5 kilometre derinliğinde 3,3 şiddetinde ikinci bir deprem meydana geldi.Düziçi Belediye Başkanı Ökkeş Namlı, AA muhabirine yaptığı açıklamada, ilk belirlemelere göre depremde can ya da mal kaybı olmadığını kaydetti.</TEXT>
+</DOC>

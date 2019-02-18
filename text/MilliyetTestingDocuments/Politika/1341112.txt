@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341112 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc70dd5/l/0l0smilliyet0n0btr0c0eturk0eisi0ebasin0eozgurlugu0evar0csiyaset0chaberdetay0c190b110b20a10a0c13157890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:09:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���t��rk i��i��� bas��n ��zg��rl������ var
+</HEADLINE>
+<TEXT>DIŞ HABERLER SERVİSİAmerikan gazeteci Claire Berlinski, Jerusalem Post için yazdığı makalede, Mavi Marmara gemisine düzenlenen baskınla ilgili birçok gerçeğin Türk medyasında yer almadığını iddia etti. Berlinski, baskından sonra Türkiye’de röportajlar yaptığını belirterek, “Türk halkının yaşananlarla ilgili bir fikri yoktu. Bunun nedeni de, olayla ilgili en temel gerçeklerin Türkiye’de haber yapılmamasıydı” dedi.Berlinski, Türklerin basında okuduklarından etkilenerek İsrail’i kınamak için sokaklara döküldüğünü ancak çoğunun Gazze ablukasının nedenini bile bilmediğini öne sürdü. Makalede, “AKP, Türkiye’deki medyayı büyük ölçüde etkisi altına aldı. Satın almadıklarını ve etkisiz hale getirmediklerini de korkuttu” denildi ve bu yüzden “Türklerin bu konuda daha fazla şey bilmesinin mümkün olmadığı” öne sürüldü.</TEXT>
+</DOC>

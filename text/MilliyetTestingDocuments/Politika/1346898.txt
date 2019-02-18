@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346898 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fffa960/l/0l0smilliyet0n0btr0csahin0esivil0eirade0edarbe0eyapmaz0esecim0eyapar0csiyaset0chaberdetay0c260b110b20a10a0c13186410cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:09:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+������ahin: sivil irade darbe yapmaz se������im yapar
+</HEADLINE>
+<TEXT>Şahin, vefat eden eski milletvekili Muammer Baykan için TBMM ’de düzenlenen törenin ardından gazetecilerin sorularını yanıtladı. Şahin, “ İlgili yasaların sayın bakanlara vermiş olduğu yetki çerçevesinde bir uygulama yapıldığı anlaşılıyor. Yasalar sınırları içerisinde olduğu kanaatindeyim ama kamuoyunda dikkati çekmesinin nedeni bu yasal düzenlemenin, yani 65. maddenin, ilk kez uygulanıyor olmasıdır.” diye konuştu.</TEXT>
+</DOC>

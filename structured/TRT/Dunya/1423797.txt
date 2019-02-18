@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1423797 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=99efd9de-feb3-4adb-bc92-2ad3ef887b14 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 20:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kktc'de ikinci miting 2 mart'ta
+</HEADLINE>
+<TEXT>
+Kuzey Kıbrıs Türk Cumhuriyeti'ndeki sendikalar, 28 Ocak'ta yapılan mitingi yenileme ve genel grev kararı aldı.  
+
+
+     Hükümetin aldığı ekonomik tedbirleri protesto etmek amacıyla yapılan ancak Türkiye karşıtı pankartlarla gündeme gelen mitingi düzenleyen Sendikal Platform, siyasi parti, sivil toplum ve meslek örgütleriyle toplantı yaptı.
+
+     Yapılan açıklamada, 2 Mart Çarşamba günü, önceki mitingin yapıldığı yer olan Lefkoşa İnönü Meydanında yeni bir miting yapılması kararı alındığı belirtildi.
+      Sendikal Platform, sendikaların mitinge katılımını sağlamak amacıyla 2 Mart Çarşamba günü ülke genelinde genel grev ilan edeceğini açıkladı.
+
+      Bu arada Kıbrıs&rsquo;ta Bakanlar Kurulu, yaptığı toplantıda ağırlıklı olarak son gelişmeleri değerlendirerek yükselen tansiyonun düşürülmesine yönelik bazı kararlar aldı. 
+     Buna göre gerilen ortamın giderilmesi ve sosyal barışın sağlanabilmesi için toplumun her kesimiyle yakın diyalog içine girilecek, halkı rahatsız edici ekonomik kararlar alınmayacak. 
+
+</TEXT>
+</DOC>

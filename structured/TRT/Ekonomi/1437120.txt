@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1437120 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=46885a5f-e83d-40bc-b56a-305c574a5ff4 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 17:00:54.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+petrol i��in kritik bulu��ma
+</HEADLINE>
+<TEXT>
+Petrol üreticileri, Kuzey Afrika'daki durumu Riyad'da gayrıresmi toplantıda değerlendiriyor. 
+
+Toplantıda petrol üretiminin artırılması konusunun görüşüldüğü ifade ediliyor.
+
+                    				İlgili Haberler
+				
+					Kaddafi'nin İnadı İnat!
+					"Kaos" Ekonomiyi Nasıl Etkileyecek?
+					Dünyadan Kaddafi'ye Tepki Yağıyor
+					"Kaçmadım, Trablus'tayım
+</TEXT>
+</DOC>

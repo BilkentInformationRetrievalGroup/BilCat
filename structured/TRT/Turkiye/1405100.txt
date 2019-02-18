@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1405100 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0ef84890-368e-4ef0-b29c-7101eca9e84f </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 19:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dan����tay'��n karar��na protesto
+</HEADLINE>
+<TEXT>
+Danıştay'ın, Akademik Personel ve Lisans Üstü Eğitim Giriş Sınavına başörtüsü ile girilmesinin yoluna açan düzenlemeyi iptal etmesine tepkiler sürüyor
+
+
+     İstanbul Taksim Meydanı&rsquo;nda toplanan bir grup, Danıştay&rsquo;ın iptal kararını protesto etti.
+
+     Sloganlar atarak tepkilerini dile getiren grup basın açıklamasında başörtüsüne kayıtsız-şartsız özgürlük getirilmesini istediklerini söyledi.
+
+     Danıştay, ALES sınavının sonbahar dönemi kılavuzundaki kıyafet serbestliği getiren düzenlemeyi sınava başörtüsüyle giren adayların fiziksel olarak teşhislerinde güçlük oluşacağı ve sınav güvenliğinde olumsuz sonuçlar doğabileceği gerekçesi ile iptal etmişti. 
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1428767 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8103c815-e975-4134-b36e-ea67bcd2634a </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 19:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+onlar�� afiyetle yiyebilirsiniz...
+</HEADLINE>
+<TEXT>
+Sağlık Bakanlığı, Karadeniz ve Marmara Denizi balıkları ile midye ve karidesin kanser açısından bir risk oluşturmayacağını bildirdi.
+
+
+Sağlık Bakanlığı&rsquo;ndan denizlerdeki balıklara vize... 
+
+Bakanlık, Karadeniz ve Marmara Denizi balıkları ile midye ve karideste tüketime bağlı olarak kanser açısından bir risk oluşturmayacağını bildirdi. 
+
+Sağlık Bakanlığı, bir televizyon kanalında yayınlanan Karadeniz ve Marmara denizindeki balıklarla ilgili ağır metal iddialarına ilişkin olarak bir açıklama yaptı.
+
+Açıklamada, bu bölgelerde izleme çalışmalarının sürdüğünü kaydedildi.
+
+Yapılan analizlerde, Karadeniz ve Marmara Denizi&rsquo;ndeki balık ve diğer deniz ürünlerinin kanser açısından risk oluşturmadığı rapor edildi.
+</TEXT>
+</DOC>

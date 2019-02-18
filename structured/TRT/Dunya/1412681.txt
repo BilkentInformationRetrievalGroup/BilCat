@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1412681 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cba139ea-3fef-42e6-80a2-086de0ae4df3 </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 03:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iki tren ��arp����t��: 10 ��l�� 43 yaral��
+</HEADLINE>
+<TEXT>
+Almanya'da meydana gelen kazada, yolcu treniyle yük treninin çarpışması sonucunda 10 yolcu öldü, 18'i ağır 43 yolcu yaralandı.
+
+
+Almanya&rsquo;nın kuzeyindeki Saksonya-Anhalt eyaletinde yolcu treniyle yük treninin çarpışması sonucunda 10 yolcu öldü, 18&rsquo;i ağır 43 yolcu yaralandı.
+
+DAPD haber ajansına göre, kaza Oschersleben kenti yakınında oldu.
+
+Gece meydana gelen kazadan sonra kurtarma çalışmaları devam ederken polis, kaza nedeni ile ilgili henüz açıklama yapmadı.
+</TEXT>
+</DOC>

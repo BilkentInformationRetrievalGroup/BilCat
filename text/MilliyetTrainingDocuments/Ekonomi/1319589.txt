@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319589 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f3bce39/l/0l0smilliyet0n0btr0cistanbul0eenflasyonu0eaciklandi0cekonomi0csondakika0c0a10b110b20a10a0c130a86890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 13:00:53.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul enflasyonu a����kland��
+</HEADLINE>
+<TEXT>İstanbul’da, ekim ayında perakende fiyatlar yüzde 3,09, toptan fiyatlar yüzde 1,69 oranında artış gösterdi.İstanbul Ticaret Odasınca İstanbul ili için hazırlanan 1995 bazlı Ücretliler Geçinme İndeksine göre, perakende fiyatlar yüzde 3,09, Toptan Eşya Fiyatları İndeksine göre toptan fiyatlar ise yüzde 1,69 oranında yükseldi.İstanbul Ticaret Odası’nca hazırlanan Fiyat İndekslerinin 2010 yılı Ekim ayının bir önceki yılın aynı ayı ile mukayesesinde perakende fiyatlar yüzde 10,19, toptan fiyatlar ise yüzde 10,48 oranında artış kaydetti.Söz konusu indekslerde 24 aylık serilerden oluşan yıllık ortalama artış hesabına göre 2010 yılı Ekim ayında 1995 bazlı Ücretliler Geçinme İndeksi yıllık ortalama yüzde 10,25, Toptan Eşya Fiyatları İndeksi ise yıllık ortalama yüzde 8,07 oranında arttı.</TEXT>
+</DOC>

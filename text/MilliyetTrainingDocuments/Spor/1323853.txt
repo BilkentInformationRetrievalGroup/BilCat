@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323853 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f52cd3b/l/0l0smilliyet0n0btr0catom0ekarinca0emesaj0eatti0e0cspor0chaberdetay0c0a40b110b20a10a0c130a99730cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:13:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+atom kar��nca mesaj att��!
+</HEADLINE>
+<TEXT>Trabzonspor Başkanı Sadri Şener’in, “Atom Karınca” lakabını taktığı Serkan Balcı hafta sonu Galatasaray’ı yenerek, zirve yolunda bir engeli daha aşmak istediklerini söyledi. Ligdeki son 4 maçtan galibiyetle ayrıldıklarını hatırlatan Serkan, Gheorghe Hagi yönetiminde çıkışa geçen rakiplerinden çekinmediklerini vurguladı. Bordo-mavili oyuncu, “Güzel bir maç olacağına inanıyorum. Kazanmak için her şeyi yapacağız. 4 maçlık galibiyet serisini 5. haftaya taşımak istiyoruz. Rakibimizin Hagi ile yakaladığı çıkış bizi endişelendirmiyor. İyi mücadele ettiğimiz sürece hiçbir şey bizim için önemli değil. Biz kendi oyunumuzu oynadığımız sürece karşı takımın problem olacağını düşünmüyorum” diye konuştu.Serkan Balcı ligde daha önce ezeli rakipler Fenerbahçe ve Beşiktaş ile yaptıkları maçlardan galibiyetle ayrıldıklarını da vurguladı.‘Ben işime bakarım’Başarılı futbolcu, Milli Takım’a çağrılmaması konusunda yorum yapmak istemediğini belirterek, “Bu konu hakkında gerçekten konuşmak istemiyorum, çünkü yıprandığımı düşünüyorum. Ben işime bakarım, benim için en önemli şey Trabzonspor’da futbol oynamak, iyi mücadele etmek. Gerisi bana kalmaz zaten, diğerlerine kalır. İsterlerse seçerler, isterlerse seçmezler” ifadelerini kullandı. </TEXT>
+</DOC>

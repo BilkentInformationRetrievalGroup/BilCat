@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326353 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bc849/l/0l0smilliyet0n0btr0cersan0ebilmiyorum0cspor0chaberdetay0c0a50b110b20a10a0c1310a4690cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ersan: bilmiyorum
+</HEADLINE>
+<TEXT>Genç oyuncu, "Top içeride mi, dışarıda mı bilmiyorum. Ancak burada bir puan kazandırdıysam ne mutlu bana... Daha üç maçtır oynuyorum. İnşallah bu başarıların gerisi gelir. Hedefimiz öbür maçları da kazanıp, gruptan çıkmak" ifadesini kullandı</TEXT>
+</DOC>

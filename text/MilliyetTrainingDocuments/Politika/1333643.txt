@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1333643 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f84619e/l/0L0Smilliyet0N0Btr0Cchp0Eden0Ebakan0Ebagis0Ea0Evize0Esorusu0Csiyaset0Csondakika0C10A0B110B20A10A0C131270A10Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:46:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+CHP'den Bakan Bağış'a vize sorusu
+</HEADLINE>
+<TEXT>Milletvekili Şevket Köse, Devlet Bakanı ’a, " yerine,  ve Bosna’ya vize muafiyeti uygulanmasının nedenleri nelerdir" diye sordu.
+
+CHP Adıyaman Milletvekili Şevket Köse,  Başkanlığı’na, Devlet Bakanı Egemen Bağış’ın yanıtlaması istemiyle  verdi. Köse, Bakan Bağış’a şu soruları yöneltti: "Türkiye’ye, bahsi geçen koşullarda vize muafiyetinin uygulanmamasının tarafsızlıkla bağdaşmadığı doğru mudur? Ülkemizin alınması beklenen bu karara tepkileri ne olacaktır? Ülkemize de vize muafiyeti uygulanması konusunda, Arnavutluk ve Bosna ile ilgili alınan karardan sonra ne gibi çalışmalar yapılacaktır? Bu konuda izlenen politikalarda değişiklik yapılması ve daha etkin bir yol izlenmesi söz konusu mudur? AB İçişleri Bakanlarının alacağı bu kararın, ülkemizin AB politikasındaki başarısızlıklar ile ilgisi olduğu iddiaları gerçeği yansıtmakta mıdır?"</TEXT>
+</DOC>

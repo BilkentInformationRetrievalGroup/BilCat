@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326360 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bb65a/l/0l0smilliyet0n0btr0ctaraftar0ekart0e20a0a0ebine0ekosuyor0cspor0chaberdetay0c0a50b110b20a10a0c1310a4540cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+taraftar kart 200 bine ko��uyor
+</HEADLINE>
+<TEXT>Sarı-lacivertli kulüpten yapılan açıklamada, “2005 yılının son aylarında hayata geçen Fenerbahçe Kart uygulamamız, 192 bini geçen aktif kullanıcı sayısına ulaşmış ve Manchester United, Barcelona, R. Madrid, B.Münih gibi kulüpleri geride bırakmıştır. Şimdi sırada, 200 bin üye sayısına ulaşmak var” denildi.</TEXT>
+</DOC>

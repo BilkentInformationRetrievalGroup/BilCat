@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332519 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f76b6ad/l/0l0smilliyet0n0btr0c350e990etl0eden0e250a0ebin0ebilet0cekonomi0chaberdetay0c0a90b110b20a10a0c13119960cdefault0bhtm/story01.htm </URL>
+<DATE> 2011/03/31 </DATE>
+<TIME> 03:16:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+35.99 tl������������������������������������den 250 bin bilet
+</HEADLINE>
+<TEXT>Şirketten yapılan açıklamada, yurtiçinde 18 noktaya seferler düzenleyen ve ‘Low Cost’ sistemini Türkiye’ye kazandıran Pegasus’un tüm yurtiçi uçuş noktalarına 8, 9, 10 Kasım tarihlerinde www.flypgs.com internet sitesinden bilet alan 250 bin Pegasus misafirini 1 Aralık 2010-31 Mart 2011 tarihleri arası vergiler dahil 35.99 TL’ye uçacağı bildirildi.</TEXT>
+</DOC>

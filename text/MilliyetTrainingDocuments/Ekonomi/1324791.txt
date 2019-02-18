@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324791 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f560879/l/0l0smilliyet0n0btr0cmemura0ecifte0ezam0eyolda0cekonomi0csondakika0c0a40b110b20a10a0c1310a1250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:00:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+memura ��ifte zam yolda
+</HEADLINE>
+<TEXT>Bütçe Yasası uyarınca, altı aylık dönemler halinde enflasyon rakamları ile altı aylık zamlar karşılaştırılarak aradaki fark, zam olarak yansıtılıyor. Buna göre haziran-ekim döneminde enflasyon yüzde 2.98’le yüzde 2.5’lik zammın üstüne çıktı.Analistler kasım ve aralık ayında da aylık bazda enflasyonda artış bekliyor. Bu öngörü tutarsa memurlara yılbaşında normal zammın dışında yaklaşık yüzde 1’e yakın ek zam söz konusu olacak.Ancak kesin zam oranı kasım ve aralık ayı enflasyon rakamlarının açıklanmasıyla netleşecek.</TEXT>
+</DOC>

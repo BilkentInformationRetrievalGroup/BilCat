@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1393847 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5dde1e6a-f40a-4c8c-9fd4-328b8585dee1 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 08:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+k��rm��z�� hattan ilk g��r����me!
+</HEADLINE>
+<TEXT>
+Yakın zamana kadar savaş çanları çalan Kore Yarımadası'nda barış filizleniyor.
+
+
+
+Kuzey Koreli yetkililer, Güney Kore&rsquo;yi sınırdaki kırmızı hat üzerinden aradı. Bu, taraflar arasında aylardır yapılan ilk doğrudan görüşme oldu. 
+
+Kuzey&rsquo;in Kasım&rsquo;da Güney&rsquo;e ait bir adayı topçu ateşine tutması ve 4 kişiyi öldürmesi gerginliği doruğa çıkarmıştı. 
+
+Kuzey, sınır köyündeki Kızıl Haç yardım hattını ve ortak işletilen sanayi bölgesindeki irtibat bürosunu tekrar açacağını bildirdi. 
+
+Telefon görüşmesinin 10 dakika kadar sürdüğü ve kırmızı hattın şu an açık olduğu kaydediliyor. 
+
+Daha önce Güney, Kuzey&rsquo;in görüşme teklifini samimi bulmamış ve reddetmişti. 
+
+Seul, her türlü barış görüşmesinden önce Pyonyang&rsquo;ın geçen yıl düzenlediği iki saldırıdan dolayı özür dilemesini istiyor.
+</TEXT>
+</DOC>

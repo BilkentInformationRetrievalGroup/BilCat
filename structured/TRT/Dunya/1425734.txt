@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1425734 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=09a20f10-c1db-4e26-af44-45e8fc4784b1 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 17:01:55.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cip b��yle patlad��
+</HEADLINE>
+<TEXT>
+İtalya'nın Napoli şehrinde yanan cip, gürültüyle patladı, olayda ölen ya da yaralanan olmadı.
+
+     Elektrik aksamında sorun çıkan cip, Napoli kent merkezinde duruyor. 
+
+     Kısa sürede alev alan cipin sürücüsü, durumu itfaiye ile polise haber veriyor.
+
+     Polis, meydanı boşaltıyor, vatandaşları olay yerinden uzaklaştırıyor.
+
+     Bu arada amatör bir kameraman kayıtta...
+
+     İtfaiye ekibi gelirken cip büyük gürültü ile patladı.
+
+     Olayda ölen ya da yaralanan olmadı.
+</TEXT>
+</DOC>

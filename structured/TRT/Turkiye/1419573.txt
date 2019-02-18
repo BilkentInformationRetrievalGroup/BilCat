@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1419573 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6ef1550e-9587-4f7a-aa18-3f96a3ff2f19 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 20:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+buz tutan g��lde kayboldu
+</HEADLINE>
+<TEXT>
+Bitlis'te buz tutan gölde balık avlayan 3 kişi göle düştü. 2 kişi kurtulmayı başarırken, 1 kişi kayboldu.
+
+Ahlat ilçesindeki Nazik Gölü&rsquo;nde buzları kırarak balık avlayan 3 kişi göle düştü.
+
+ 2 kişi kendi çabaları ile kurtulmayı başardı.
+
+ Ahmet Yılmaz ise kayboldu.
+
+Sivil Savunma Ekipleri, kaybolan Yıldız&rsquo;ı arama çalışmalarını sürdürüyor.
+
+</TEXT>
+</DOC>

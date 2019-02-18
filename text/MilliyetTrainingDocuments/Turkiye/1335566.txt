@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> 1335566 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa032d3/l/0L0Smilliyet0N0Btr0Cizmir0Eyine0Esallandi0Cturkiye0Csondakika0C140B110B20A10A0C13142920Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 11:08:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İzmir yine sallandı
+</HEADLINE>
+<TEXT>Merkez üssü 'in Selçuk ilçesi olan 4.0 şiddetinde  meydana geldi. 
+ ve Deprem Araştırma Enstitüsü Ulusal Deprem İzleme Merkezi'nden alınan bilgiye göre, saat 07.21'de merkez üssü İzmir'in Selçuk ilçesi olan 4.0 büyüklüğünde bir deprem meydana geldi. 5 kilometre derinlikte oluşan orta şiddetteki sarsıntı, çevre il ve ilçelerde de hissedildi. Son üç gün içersinde meydana gelen depremlerin ardından güne depremle başlayan İzmirliler, özellikle depremin merkez üssü olan Selçuk'ta kendilerini sokağa attı. Geçtiğimiz gün de merkez üssü yine Selçuk olan 3.7, 3.4 ve 4.9 büyüklüklerinde 3 ayrı deprem daha kaydedilmişti</TEXT>
+</DOC>

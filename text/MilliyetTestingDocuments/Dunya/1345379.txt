@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> 1345379 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/ff6bec1/l/0L0Smilliyet0N0Btr0Ckoylu0Ekizlara0Ecep0Etelefonu0Eyasagi0Cdunya0Csondakika0C250B110B20A10A0C13182510Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:00:38.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Köylü kızlara cep telefonu yasağı
+</HEADLINE>
+<TEXT>Lank köyünün ileri gelenleri, genellikle ölümle cezalandırılan yasak evliliklerin gerçekleşmesinden korktukları için köydeki bekar kadınların cep telefonu kullanmalarını yasakladı.
+Köy meclisinin yasağı, ülkedeki  gruplarının tepkisini çekti ve 'haksız ve gerici' olarak nitelendirdi. Ülkenin kuzeyindeki bazı bölümlerde uygulanan Hindu geleneklerine göre aynı boydan olan kadın ve erkekler evlenemiyor.
+Evlilikler geleneksel olarak aileler tarafından kararlaştırılıyor. Muhafazakar kırsal bölgelerde izin verilmeyen evlilikler sonucunda töre cinayetleri yaygın olarak gerçekleşebiliyor. Bazı durumlarda cezaları köy meclisleri veriyor, polis genelde bunu engellemek için müdahale ediyor.
+Lank köyü meclisi genç erkek ve kadınların birbirlerini gizlice cep telefonlarından arayıp kaçma planları yapmasından korktuklarını belirtirken, geçen ay köyün de bulunduğu Uttar Pradeş eyaletindeki Muzaffernagar bölgesinde geçen ay 34 çift kaçarken, sekiz  gerçekleşti.</TEXT>
+</DOC>

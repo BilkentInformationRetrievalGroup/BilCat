@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1335560 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa05f0a/l/0L0Smilliyet0N0Btr0Cbayramda0Ehava0Enasil0Eolacak0E0Cturkiye0Csondakika0C140B110B20A10A0C131430A10Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 11:08:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bayramda hava nasıl olacak?
+</HEADLINE>
+<TEXT>Genel Müdürlüğü'nce yapılan son değerlendirmelere göre, yurdun güneybatı (İzmir, Aydın, , Denizli, , , ,  ile , Burhaniye, Edremit) kesimleri hafif sağanak ve gökgürültülü sağanak yağışlı, diğer yerler parçalı ve az bulutlu geçecek. Gece ve sabah saatlerinde Marmara'nın doğusu, Batı 'in iç kesimleri ile 'nun kuzey kesimlerinde yer yer sis, gece ve sabah saatlerinde Doğu Anadolu'nun kuzey kesimlerinde ise hafif don olayının görülmesi bekleniyor.
+Hava sıcaklığında önemli bir değişiklik beklenmiyor. Mevsim normalleri üzerinde seyretmeye devam edecek.
+Rüzgar genellikle kuzey ve doğu yönlerden hafif arasıra orta kuvvette esecek.
+SİS UYARISIGece ve sabah saatlerinde Marmara'nın doğusu, Batı Karadeniz'in iç kesimleri ile Doğu Anadolu'nun kuzey kesimlerinde görülecek sis olayının oluşturabileceği olumsuz şartlara karşı (hava kalitesinde azalma, ulaşımda aksama vb.) ilgililerin ve vatandaşların tedbirli olmaları gerekiyor.
+ </TEXT>
+</DOC>

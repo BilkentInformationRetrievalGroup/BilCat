@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1389403 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=55617f4e-ac3f-44a6-97cf-8f9299c76374 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 14:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+serbest g��re�� ��ampiyonas�� ba��lad��
+</HEADLINE>
+<TEXT>
+Türkiye Büyük Erkekler Serbest Güreş Şampiyonası, Kocaeli'de başladı.
+
+Hasan Gemici Spor Salonu&rsquo;nda düzenlenen şampiyonanın ilk gününde, 60 ve 74 kiloda, 22 kulüpten 123 sporcu mücadele ediyor.
+
+Şampiyonayı, Güreş Federasyonu Başkanı Osman Aşkın Bak, Asbaşkan Ercan Ayyıldız, Güreş Federasyonu Genel Sekreteri Rodica Maria Yakşi ve çok sayıda sporsever izliyor.
+
+Şampiyonda yarın 55, 84 ve 120 kiloda karşılaşmalar yapılacak. Şampiyona, 9 Ocak Pazar günü 66 ve 96 kilolarda yapılacak müsabakalarla sona erecek.
+</TEXT>
+</DOC>

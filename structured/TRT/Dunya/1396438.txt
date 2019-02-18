@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1396438 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a53188b3-51a9-4c32-8119-a5268da7263c </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 11:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ren nehri'nde ��evre alarm��...
+</HEADLINE>
+<TEXT>
+Nehrin Almanya'nın batısında akan bölümünde 2 bin 400 ton sülfürik asit taşıyan bir gemi battı. 
+
+
+
+Gemideki 4 kişiden 2&rsquo;si kurtarılırken, kaybolan iki kişi de aranıyor. 
+
+Kazadan hemen sonra sülfürik asit sızıntısı olup olmadığı araştırıldı. 
+
+İlk aşamada geminin çevresinde küçük çaplı sızıntı tespit edildiği ancak bunun tehlike arz etmediği açıklandı. 
+
+
+
+</TEXT>
+</DOC>

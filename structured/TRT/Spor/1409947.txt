@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1409947 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fe7b80f1-40af-4d13-8ae2-5e2d421f78be </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 10:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ziraat t��rkiye kupas��'nda kura heyecan��
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası'nda çeyrek ve yarı final eşleşmelerinin belli olacağı kura çekimi İstanbul'da yapılacak.
+
+ 
+Ziraat Türkiye Kupası&rsquo;nda çeyrek ve yarı final eşleşmelerinin belli olacağı kura çekimi yarın (28.01.2011) İstanbul&rsquo;da yapılacak.
+ 
+Olimpiyatevi&rsquo;nde saat 11.00&rsquo;de başlayacak kura çekimine, grup 5. maçlar sonucunda çeyrek finale kalan 8 kulübün temsilcileri ile Futbol Federasyonu ve Ziraat Bankası yöneticileri katılacak.
+ 
+Kupada oynanan 5. maçlar sonunda, A Grubu&rsquo;ndan Gaziantepspor ve Galatasaray, B Grubu&rsquo;ndan Beşiktaş ve Gaziantep Büyükşehir Belediyespor, D Grubu&rsquo;ndan ise Kasımpaşa ve İstanbul Büyükşehir Belediyespor gruplarını ilk iki sırada tamamlayarak çeyrek finalde mücadele etme hakkını kazandı. C Grubu ise Yeni Malatyaspor-Ankaragücü ve Fenerbahçe-Gençlerbirliği maçlarının ardından tamamlanacak.
+ 
+Ziraat Türkiye Kupası çeyrek final ilk maçları 2 Şubat, rövanşı ise 2 Mart 2011&rsquo;de oynanacak.
+</TEXT>
+</DOC>

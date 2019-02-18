@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 1408872 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9a72c6a4-9879-4d87-88da-bba81072f9d4 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 10:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+do��algaz'da tasarruf t��yolar��
+</HEADLINE>
+<TEXT>
+Bursagaz Genel Müdürü Tola, havaların  soğumasıyla tüketimi artan doğalgazda nasıl tasarruf sağlanacağını anlattı. 
+
+Bursagaz Genel Müdürü Ahmet Hakan Tola, özellikle yalıtım malzemesine dikkat çekti. 
+
+                  Binalardaki ısı kayıplarının değişik yollarla olduğunu 
+                  belirten Tola, şöyle konuştu:
+                  &rsquo;&rsquo;Çatıdan kaçan ısı miktarı yüzde 7, dış duvardan kaçan yüzde 
+                  30, pencerelerde oluşan kayıp yüzde 40, kapı ve 
+                  havalandırmalardan kaçan ısı yüzde 17, döşeme ve tabanda 
+                  oluşan ısı kayıpları ise 6&rsquo;ya kadar ulaşıyor. Isı yalıtım 
+                  önlemleri, binanın toplam inşaat maliyetinin en fazla yüzde 
+                  3&rsquo;ünü tutmasına karşılık, yıllık yakıt tüketimlerinde yüzde 
+                  50&rsquo;ye varan tasarruf sağlayarak bütçeye önemli ölçüde katkı 
+                  sağlar.&rsquo;&rsquo;
+                  Binalardaki tedbirlerin yanı sıra bireysel olarak evlerde 
+                  alınacak önlemlerle doğalgazda tasarruf sağlanabileceğini 
+                  vurgulayan Tola, kapı ve pencere kenarlarındaki boşlukların 
+                  izole edilmesinin tüketimi azaltacağını anlattı.
+                  Isıtıcı cihazların bakımlarının düzenli olarak yaptırılıp, 
+                  filtrelerini düzenli temizlemek gerektiğini ifade eden Tola, 
+                  şunları söyledi:
+                  &rsquo;&rsquo;Evlerde bulunan radyatörlerinin önüne ve üzerine eşya 
+                  koymamak, radyatörlerin arkasına ısı levhaları yerleştirmek, 
+                  kombiyi soğuk günlerde 20 derecede kullanmak doğalgaz 
+                  tüketimini azaltacaktır. Her bir derecelik iç sıcaklık 
+                  artışında yüzde 5 civarında fazladan enerji sarfiyatı 
+                  oluşmaktadır. Güney cephesindeki pencerelerden güneş ışığının 
+                  girişini sağlamak ve evin havalandırılması işini gündüzleri 
+                  yapmak da tasarruf tedbirleri arasında yer alıyor.&rsquo;&rsquo;
+                  Ayrıca, baca çekişi iyi olmayan eskimiş bacaların, standarda 
+                  uygun paslanmaz çelik bacalarla değiştirilmesi ve yıllık baca 
+                  temizliğinin yapılması da cihazın yanma verimini artıracağına 
+                  dikkati çeken Tola, bu durumun da daha ucuza ısınmaya önemli 
+                  ölçüde katkı sağlayacağını bildirdi. 
+
+</TEXT>
+</DOC>

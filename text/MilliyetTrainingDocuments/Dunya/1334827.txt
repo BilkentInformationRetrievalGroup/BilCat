@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1334827 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f984ac5/l/0L0Smilliyet0N0Btr0Ckomadaki0Esaron0E50Eyil0Esonra0Eevinde0Cdunya0Chaberdetay0C130B110B20A10A0C13138710Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:00:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Komadaki Şaron, 5 yıl sonra evinde
+</HEADLINE>
+<TEXT>Şaron’un 48 saat sonra, testler için tekrar bir süreliğine hastaneye götürüleceği öğrenildi. 82 yaşındaki Şaron, Ocak 2006’da başbakanlığı döneminde geçirdiği  ve felcin ardından komaya girmişti.  hükümeti, Şaron’un hastane bakım masrafları için her yıl 1.6 milyon İsrail şekeli (620 bin TL) tutarında ödeme yapıyor</TEXT>
+</DOC>

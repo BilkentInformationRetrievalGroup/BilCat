@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337571 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa9a7df/l/0l0smilliyet0n0btr0ca20eligi0ende0ederbinin0egalibi0ebesiktas0e0cspor0csondakika0c150b110b20a10a0c13147910cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:12:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+a2 ligi'nde derbinin galibi be��ikta��...
+</HEADLINE>
+<TEXT>A2 Futbol Ligi’nde yapılan derbi maçta Beşiktaş, ezeli rakibi Fenerbahçe’yi 2-1 mağlup etti.BJK Nevzat Demir Tesisleri’nde yapılan 1. Grup maçında Beşiktaş’ın gollerini Atınç ve Ali atarken, Fenerbahçe’nin tek golü Beykan’dan geldi.Bu sonuçla Beşiktaş, 14 maç sonunda grupta puanını 30’a çıkarıp, Turgutluspor ile 1-1 berabere kalan 29 puanlı Galatasaray’ı geçerek, liderliğe yükseldi. Fenerbahçe ise 17 puanla 14. sırada yer aldı.</TEXT>
+</DOC>

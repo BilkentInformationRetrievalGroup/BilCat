@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1391570 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0c9302d7-7f46-4c5e-8ed1-8c8db69f7b21 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 10:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kayserispor'dan amrabat yalanlamas��
+</HEADLINE>
+<TEXT>
+Kayserispor, yeni transferi Amrabat hakkında çıkan iddialara açıklık getirdi.
+
+Kayserispor yönetimi, yeni transfer Noureddine Amrabat&rsquo;ın eski kulübü PSV Eindhoven&rsquo;a banka teminatı verilmediği için geri çağrılacağı yönündeki haberleri yalanladı.
+ Kulübün resmi internet sitesinden yapılan açıklamada, şu bilgilere yer verildi: &quot;Kulübümüz sözleşme gereği 10 Ocak 2011&rsquo;de PSV Eindhoven Kulübü&rsquo;ne yapacağı ödemeyi gününden 3 gün önce İş Bankası Kayseri Şubesinden 7 Ocak tarihinde göndermiştir. Kulübümüz, oyuncunun ödemesini de aynı gün yine ödeme tarihinden önce yapmıştır. Ayrıca kulübümüz bu transferden dolayı PSV Eindhoven Kulübü&rsquo;ne banka garantisi vermeyecektir. Dolayısıyla Noureddine Amrabat transferinde hiçbir sorun yoktur. Oyuncu takımımızla birlikte antrenmanlara devam etmektedir.&quot;
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324956 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f560aa8/l/0l0smilliyet0n0btr0cgalatasaray0eda0esok0e0cspor0csondakika0c0a40b110b20a10a0c1310a1130cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:15:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+galatasaray'da ��ok!
+</HEADLINE>
+<TEXT>Galatasaray'da sakatlığı bulunan Milan Baros Trabzonspor maçında oynamayacak.Galatasaray'a Trabzonspor maçı öncesi kötü haber geldi. NTVSPOR'un son dakika geçtiği habere göre; sarı-kırmızılı ekipte sakatlığı bulunan Çek yıldız Milan Baros pazar günü oynanacak olan Trabzonspor karşılaşmasında forma giyemeyecek.Ankaragücü maçında adalesinden problem yaşayan Baros'un sakatlığının tam olarak geçmemesi nedeniyle Trabzon'a götürülmeyeceği belirtildi.</TEXT>
+</DOC>

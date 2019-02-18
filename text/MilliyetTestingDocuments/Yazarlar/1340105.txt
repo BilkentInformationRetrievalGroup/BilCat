@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1340105 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fbebe2d/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c180cyazardetay0c13155940cmevsimsel0edepresyon/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:11:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mevsimsel depresyon
+</HEADLINE>
+<TEXT>PerşembeAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                  Meltem Mazıcı          meltemmazici@gmail.com                                            meltemmazici@gmail.com                                MEVSiMSEL DEPRESYON      Sonbaharla birlikte değişen doğa, insanların ruhsal ve bedensel yapısını değişime uğratıyor. Mevsim sonbahar olunca yakınmalar artıyor.  Sebebi hormonlarMevsimsel depresyonun beyindeki 'epifiz' bezinin ürettiği melatonin hormonunun artmasından kaynaklandığı biliniyor. Bu hormon, karanlıkta artış gösteren ve fiziki hareketleri yavaşlatan, uykulu ve bitkin hissetmeye neden olan hormon. Sonbahar mevsimiyle beraber güneş ışığının azalması ve günlerin kısalması melatonin hormonunu artırıyor. Buna bağlı olarak da kendimizi daha yorgun, isteksiz hissetmeye başlıyoruz. Peki ne yapmalı?Yaşadığımız mevsimsel depresyona çözümler, nedenlerinde saklı. Bulunduğunuz ortamın ışıklandırılmasına, ısısına dikkat etmekle, mümkün olduğu kadar kış güneşinden yararlanmaya çalışarak, doğanında değişim içinde olduğunu ve bunun geçici bir süreç olduğunu unutmayın.  Güne başladığınızda ya da gün ortasında pencerenizi açıp derin bir soluk alın. Beyninize oksijen gitmesi sizi rahatlatacak, bulunduğunuz ortamdan 1-2 dakika bile olsa ayrılmak sizi yenileyecek, dışarıdaki koşturmayı görüyor olmak yalnız olmadığınızı hissettirecektir. Hareket etmek, en azından yürü- mek veya merdiven çıkmak hareket etme isteğini zamanla artıracaktır. Duygu durumumuza odaklanmamız ve depresyonun geçmesini beklemek ise süreci daha da uzatabilir. Yaşam alanınızı daraltan ve bizi geride bırakan ruh halinin uzun  sürmesi halinde destek almayı ihmal etmeyin.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      09 Ekim 2010KORKULARIMIZLA TANIŞMA VE VEDALAŞMA ZAMANI</TEXT>
+</DOC>

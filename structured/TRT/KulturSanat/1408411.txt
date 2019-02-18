@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1408411 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0111d60a-ee75-47dd-93b0-6d360648e799 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 23:09:47.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+medyada etik tart������l��yor
+</HEADLINE>
+<TEXT>
+Medya Derneği'nce düzenlenen ve TRT'nin ev sahipliğini yaptığı toplantılarda, 3 gün boyunca gazetecilerin etik sorumlulukları masaya yatırılacak.
+
+Medya hiç şüphesiz 21&rsquo;inci yüzyılın toplum üzerindeki en etkili araçlarından biri. 
+
+     Durum böyle olunca medyanın sınırlarını belirleyen medyada etik konusu, oldukça önem kazanıyor. 
+
+     Medya Derneği tarafından düzenlenen ve TRT&rsquo;nin ev sahipliğini yaptığı toplantılarda, 3 gün boyunca gazetecilerin etik sorumlulukları masaya yatırılacak.
+
+     Medya Derneği ve Uluslararası Gazeteciler Merkezi&rsquo;nin ortaklaşa düzenlediği medya etiği toplantıları İstanbul&rsquo;da başladı.
+
+     Ana gündem maddesi ise etik. 
+       
+     Toplantıya katılan gazetecilerin ortak görüşü, Türkiye&rsquo;nin medya etiği konusunda istenilen seviyede olmadığı.
+     
+     TRT&rsquo;nin ev sahipliğinde gerçekleşen toplantılar, 3 gün sürecek.
+
+
+</TEXT>
+</DOC>

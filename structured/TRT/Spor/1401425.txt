@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1401425 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=23ebb6b3-7aec-476a-bf17-738bbbf7fe80 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 11:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trabzonspor'a tottenham'dan transfer
+</HEADLINE>
+<TEXT>
+Bordo mavililer geleceğe yatırım yaptı.
+
+Trabzonspor, İngiltere Premier Lig takımlarından Tottenham Hotspur Kulübü&rsquo;nde yetişen 20 yaşındaki orta saha oyuncusu Coşkun Ekim ile anlaştı.
+Bordo-mavili kulübün internet sitesinden yapılan açıklamada, Coşkun Ekim 
+ile 3,5 yıllık sözleşme imzalandığı belirtildi.
+Genç oyuncunun sezon sonuna kadar 1461 Trabzon takımına kiralık 
+verileceği belirtildi.
+
+
+</TEXT>
+</DOC>

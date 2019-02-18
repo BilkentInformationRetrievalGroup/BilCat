@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1392910 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1a077797-0a6a-49a2-955b-a787da0eb587 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 12:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+un ihracat�� yasa���� kald��r��ld��
+</HEADLINE>
+<TEXT>
+Rusya'da geçen yıl yaşanan çok sayıdaki orman yangını ve kuraklıktan dolayı alınan un ihracatı yasağı kaldırıldı.
+
+      Rus haber ajansı RİA Novosti, 1 Ocak&rsquo;tan itibaren un ihracatı yasağının kaldırıldığını duyurdu.
+
+      Son yüzyıldaki en kurak yaz ayına tanıklık eden ve ekinlerin üçte birini kaybeden Rusya, geçen yıl 15 Ağustos&rsquo;tan itibaren buğday, un, çavdar, arpa ve buğday ihracatını Haziran 2011&rsquo;e kadar geçici olarak yasaklamıştı.
+
+</TEXT>
+</DOC>

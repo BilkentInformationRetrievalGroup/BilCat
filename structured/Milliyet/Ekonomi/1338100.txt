@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338100 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fb54477/l/0l0smilliyet0n0btr0cecb0ebankalara0edestegi0egelecek0eyil0eazaltacak0cekonomi0chaberdetay0c170b110b20a10a0c13152190cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:01:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ecb bankalara deste��i gelecek y��l azaltacak
+</HEADLINE>
+<TEXT>ECB şu anda Euro Bölgesi’ndeki bankalara üç aya kadar ihtiyaç duydukları likiditeyi sağlıyor.  ‘Koşullar iyileşti’Stark, Euro Finans Haftası etkinlikleri çerçevesinde yaptığı açıklamada, “İçinde bulunduğumuz çeyreğin sonlanmasın sonra likidite destek önlemlerimizi yavaş yavaş azaltacağız. Bence, son dönemde ülke borçlarına ilişkin endişeler bir yana bırakılırsa, para ve finans piyasalarında koşullar son aylarda oldukça iyileşti” dedi. ECB’nin 2 Aralık’ta hangi destek mekanizmalarını gelecek yıl ocak ayı ortasından itibaren devam ettireceği, hangilerini sona erdireceğini açıklaması bekleniyor. Ancak Stark’ın açıklamaları, bankalara yönelik likidite desteğinin devam etmeyeceği beklentilerini güçlendirdi. Euro Bölgesi’nde özellikle borç sıkıntısı olan ülkelerdeki bankalar piyasalardan kaynak bulamadığı için ağırlıklı olarak ECB’nin likidite imkânlarına güveniyor. Örneğin geçen ay İrlanda bankaları ECB’nin geçen ay sağladığı likiditenin dörtte birini kullandı.</TEXT>
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 1429756 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a0eff8df-dc08-4c1a-9d38-1b9ef31b813a </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 17:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa y��kseli��le kapand��
+</HEADLINE>
+<TEXT>
+Borsa günü 233 puan artarak 64 bin 802 puandan tamamladı. Dolar 1 lira 59 kuruştan, Avro ise 2 lira 15 kuruştan işlem gördü.
+
+İstanbul Borsası Ulusal-100 Endeksi günü 233 puan artarak 64 bin 802 puandan tamamladı.  
+
+Serbest piyasada Dolar 1 lira 59 kuruştan, Avro ise 2 lira 15 kuruştan işlem gördü.
+
+Yurt içinde işsizlik oranı gerilemeye devam ederken, Merkez Bankası yılın ikinci Para Politikası Kurulu Toplantısı&rsquo;nda faiz oranını değiştirmedi. 
+
+     İstanbul Borsası&rsquo;nda hisse senetleri günlük ortalama yüzde 0,36 oranında değer kazandı. 
+
+     Serbest piyasada Amerikan Doları 1 lira 59 kuruş, Avro ise 2 lira 15 kuruştan işlem gördü.
+
+     Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,39 seviyesinde bulunuyor.
+
+     Uluslararası piyasalarda altının ons fiyatı bin 372 dolar. 
+     Kapalıçarşı&rsquo;da Cumhuriyet altını 470 liradan alıcı buldu. 
+
+     Dünya Borsalarında Durum
+Asya Pasifik piyasaları bugün karışık bir tablo çizdi.
+
+     Avrupa borsaları da kararsız ve karışık bir seyir izledi.
+
+     New York Borsası düşüşle açıldı.
+
+</TEXT>
+</DOC>

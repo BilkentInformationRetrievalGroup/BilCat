@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344538 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd80afd/l/0l0smilliyet0n0btr0cjaponya0edan0ecin0edenizi0ene0easker0cdunya0csondakika0c210b110b20a10a0c13165840cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 17:01:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+japonya'dan ��in denizi'ne asker
+</HEADLINE>
+<TEXT>Japonya’nın, 2015’e kadar Çin Denizi’nde Pekin’in hak iddia bir grup adacığa yakın bir adaya 100 civarında asker konuşlandırmayı planladığı açıklandı.Nikkei gazetesinde yer alan haberde, Japonya’nın Senkaku, Çin’in ise Diaoyu olarak isimlendirdiği adacıklara 150 kilometre uzaklıktaki Yonaguni adasına konuşlandırılacak askerlerin gemi ve uçakları izlemekten sorumlu olacağı ifade edildi.Tokyo’nun ayrıca buraya komşu olan Miyako ve Ishigaki gibi başka adalara da birlik göndermeyi planladığı ifade edildi.Senkaku ya da Diaoyu adaları, bu sonbahar başında Çin ile Japonya arasında diplomatik krize yol açmış, bu gelişme iki ülke arasında son 4 yıldır meydana gelen en kötü kriz olarak değerlendirilmişti.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337127 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa6f041/l/0l0smilliyet0n0btr0ckolombiya0eda0esiddetli0eyagislar0ecan0ealdi0cdunya0csondakika0c150b110b20a10a0c13146890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:01:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kolombiya'da ��iddetli ya������lar can ald��
+</HEADLINE>
+<TEXT>Kolombiya’da şiddetli yağışlar nedeniyle ölenlerin sayısı 128’e çıktı.Kolombiya Kızılhaçı Başkanı Carlos Marquez, son bir haftada 20 kişinin hayatını kaybettiğini, mart ayından bu yana yağışlar nedeniyle ölenlerin sayısının 128’e yükseldiğini duyurdu.Marquez, 1,9 milyon kişinin evsiz kaldığını da belirtti.Öte yandan, Kolombiya Devlet Başkanı Juan Manuel Santos, felaketzedelere yardım için ellerinden geleni yaptıklarını, ancak yetersiz kaldıklarını ifade ederek, uluslararası yardım çağrısında bulundu.Savunma Bakanı Rodrigo Rivera da ordu ve polisin sel ve toprak kaymalarından etkilenenlere yardım için seferber edildiğini açıkladı.</TEXT>
+</DOC>

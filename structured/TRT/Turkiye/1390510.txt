@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1390510 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=87d97e2c-05e0-427c-ae98-dd34f3b5874d </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 15:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yolcu otob��s�� devrildi
+</HEADLINE>
+<TEXT>
+İstanbul'dan Sivas'a cenazeye gidenleri taşıyan yolcu otobüsü, kar yağışı nedeniyle kayganlaşan yolda devrildi. Kazada 3'ü ağır 33 kişi yaralandı.
+
+    Kaza, sabah saatlerinde Ankara-Sivas karayolu Haliminhanı mevkisinde meydana geldi.
+
+     Cengiz Öztürk yönetimindeki otobüs, kar yağışı nedeniyle kayganlaşan yolda, sürücünün direksiyon hakimiyetini kaybetmesi sonucu kayarak devrildi. 
+
+     Kaza sonrası araçta bulunan 45 yolcudan 33&rsquo;ü yaralandı.
+
+     Yaralılardan 3&rsquo;ünün durumunun ağır olduğu belirtildi.
+    
+</TEXT>
+</DOC>

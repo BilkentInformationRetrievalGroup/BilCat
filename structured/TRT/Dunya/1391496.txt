@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1391496 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=89afad1f-d031-4616-944b-be19c541a72d </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 09:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��sizlik protestosunda 14 ��l��
+</HEADLINE>
+<TEXT>
+Tunus'ta işsizlik ve sosyal adaletsizliği protesto eden göstericilerle güvenlik güçleri arasındaki çatışmalarda 14 kişi öldü. 
+
+Tunus İçişleri Bakanlığı, cumartesi ve pazar günleri Tala, Kasserin, Sidi Buzid kentlerindeki çatışmalarda 14 kişinin öldüğünü, çok sayıda göstericinin yaralandığını,  yaralılar arasında güvenlik güçlerinin de bulunduğunu, bazılarının durumunun ağır olduğunu kaydetti.
+
+Tunus muhalefet liderlerinden Ahmed Necib Çebbi ise, ülkenin orta batı kesimindeki Tala ve Kasserin kentlerinde cumartesi ve pazar günleri meydana gelen çatışmalarda en az 20 kişinin kurşunla öldürüldüğünü bildirdi.
+
+İleri Demokratik Parti&rsquo;nin lideri Çebbi, Devlet Başkanı Zeynel Abidin Bin Ali&rsquo;ye güvenlik güçlerine ateş açmamaları talimatı vermesi çağrısında bulundu.
+
+</TEXT>
+</DOC>

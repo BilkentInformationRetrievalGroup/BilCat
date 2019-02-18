@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1429740 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=61059f28-a357-43a9-bd6a-1e1da1decdde </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 17:14:58.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+b��yle dalg��nl��k g��r��lmedi!
+</HEADLINE>
+<TEXT>
+Dalgın bir müşteri, cüzdanını çıkarırken paralarını kaldırıma düşürdü. Ne müşteri, ne de vatandaşlar, üzerine bastıkları paraları fark etti.
+
+İstanbul Bağcılar’da dalgın bir müşteri, aldığı ürünlerin parasını ödemek için cebinden cüzdanını çıkardığı sırada paralarını kaldırıma düşürdü. Ne müşteri, ne de vatandaşlar, üzerine bastıkları paraları fark etti.
+
+</TEXT>
+</DOC>

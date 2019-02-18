@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1409273 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=20efa1b7-de5f-489c-9da8-a9499977f997 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 15:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+radyasyon art������ iddialar�� ger��ek mi?
+</HEADLINE>
+<TEXT>
+"Ermenistan'a ait bir nükleer santralden sızıntı olduğu ve doğu illerinde radyasyon oranının yükseldiği" iddialarına Taner Yıldız yanıt verdi.
+
+Enerji ve Tabii Kaynaklar Bakanı Türkiye&rsquo;nin bazı illerinde radyasyon oranının yükseldiği yönündeki haberleri yalanladı.
+
+Taner Yıldız, 110 noktada devamlı radyasyon ölçümü yapıldığını, değerlerde herhangi bir yükselme tespit edilmediğini belirtti.
+
+Bir süredir sınıra yakın Ermenistan&rsquo;a ait bir nükleer santralden sızıntı olduğu, bu nedenle doğu illerinde radyasyon oranının yükseldiği iddia ediliyordu.
+
+Taner Yıldız bu iddiaları yalanladı.
+
+Bakan Yıldız, Radyasyon Erken Uyarı Sistemi ile Türkiye&rsquo;nin genelinde radyasyon oranlarının devamlı ölçüldüğünü, bu oranlarda herhangi bir artış görülmediğini belirtti.
+
+Yıldız &quot;Bazı gazetelerde Ermenistan&rsquo;dan bu santrali kapatmasını istediğimiz, bunun karşılığında da elektrik sağlamayı taahhüt ettiğimiz yazılıyor, bunlar doğru değil&quot; diye konuştu.
+</TEXT>
+</DOC>

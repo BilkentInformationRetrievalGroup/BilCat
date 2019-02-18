@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336995 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa665cc/l/0l0smilliyet0n0btr0cmalatya0eorduevi0ecatisinda0ekorkutan0eyangin0cturkiye0csondakika0c150b110b20a10a0c13146310cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:07:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+malatya orduevi ��at��s��nda korkutan yang��n
+</HEADLINE>
+<TEXT>Malatya Orduevi'nin çatı kısmında bugün saat 05.00'te henüz belirlenmeyen nedenle yangın çıktı. Kısa sürede sevk edilen itfaiye ekipleri yangına müdahale etti. Yangının çıktığı orduevine çok sayıda polis ekibi de sevk edilirken, askeri yetkililer de incelemelerde bulundu. Yaklaşık 2 saat süren söndürme çalışmaları sonrasında Orduevi'nin çatı katında çıkan yangın söndürüldü. Yangının çıkış nedeni araştırılırken kapsamlı soruşturma başlatıldı.</TEXT>
+</DOC>

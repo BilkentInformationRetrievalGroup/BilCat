@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1329308 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f666758/l/0l0smilliyet0n0btr0catina0edan0eihlal0eiddiasi0cdunya0csondakika0c0a60b110b20a10a0c13110a440cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 15:01:12.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+atina'dan "ihlal" iddias��
+</HEADLINE>
+<TEXT>Türk savaş uçaklarının, Ege’de Yunan hava sahasını ihlal ettiği öne sürüldü.Yunanistan Genelkurmay Başkanlığı, Türk Hava Kuvvetleri’ne ait F-16 ve RF-4 tipi 6 savaş uçağının, öğlen saatlerinde Bulamaç ve Eşek adasının üzerinde uçtuğunu ve Atina FIR hattını ihlal ettiğini ileri sürdü.Genelkurmay Başkanlığından yapılan açıklamada, Türk savaş uçaklarının geri çevrildiği belirtildi.</TEXT>
+</DOC>

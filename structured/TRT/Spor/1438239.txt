@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1438239 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ef133103-9e42-47af-8df2-0995fc6638a4 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 17:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+basketbol'de ��eyrek final e��le��meleri
+</HEADLINE>
+<TEXT>
+Spor Toto Kadınlar  Basketbol Türkiye Kupası'nda çeyrek final eşleşmeleri için kur'a çekimi yapıldı.
+
+11-14 Mart 2011 tarihlerinde Gaziantep Karataş Şahinbey Spor Salonu&rsquo;nda oynanacak Sekizli Final karşılaşmaları öncesinde çeyrek final eşleşmeleri şöyle:
+
+Beşiktaş Cola Turka - Samsun Basketbol 
+
+Botaş - Galatasaray Medical Park
+
+Mersin Büyükşehir Belediyesi - Tarsus Belediyesi
+
+Fenerbahçe - Panküp Kayseri Şeker
+</TEXT>
+</DOC>

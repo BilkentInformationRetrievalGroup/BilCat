@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337852 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68ae/l/0l0smilliyet0n0btr0ctoki0ecifte0ebayram0eicin0ekapilari0eacik0etuttu0cekonomi0chaberdetay0c160b110b20a10a0c131490a0a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:01:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+toki, �����ifte bayram��� i��in kap��lar�� a����k tuttu
+</HEADLINE>
+<TEXT>RA Gölbaşı-Örencik, Altındağ-   Aktaş-Gültepe, Ayaş, Mamak, Polatlı, TurkuazİSTANBUL HalkalıANTALYA Çıplaklı, Sütçüler, ARDAHAN  Merkez-SugözeBOLU Merkez-KaraköyBURSA Hamitler, İnegöl, AkçağlayanÇORUM Merkez, Denizli-Kurudere GAZİANTEP Çıksorut, Şehitkamil,    Şahinbey Serinevler-PerilikayaİZMİR Torbalı, TireKAHRAMANMARAŞ Merkez-Fatih MahallesiKONYA Halkapınar, Meram,  SeydişehirMANİSA Merkez, TurgutluMARDİN Midyat MERSİN Anamur-Ören, Erdemli,  Silifke ORDU Ünye) YOZGAT Merkez Eskipazar</TEXT>
+</DOC>

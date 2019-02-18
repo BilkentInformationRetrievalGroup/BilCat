@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1399078 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=202ba285-ae1c-4680-a1ab-7cddaf044af6 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 10:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+lille zirvede uygun ad��m
+</HEADLINE>
+<TEXT>
+Nice'i deplasmanda 2-0 yenen Lille liderliğini korudu.
+
+Fransa Birinci Ligi&rsquo;nde Ligue 1&rsquo;de sezonun ikinci yarısı geçen haftasonunda oynanan maçlarla başladı. 
+ Sezonun ilk yarısını maç eksiğine rağmen 32 puanla lider kapatan Lille, Nice deplasmanında rakibini 2-0 yendi ve 19 maçta 9. galibiyetini alarak ligin zirvesindeki yerini korudu. 
+ Haftanın bir diğer maçı Auxerre ile Monaco arasında oynandı. Bir dönem Fransa liginin yanısıra Avrupa&rsquo;da başarılı sonuçlara imza atan Monaco, orta sıralardaki rakibiyle deplasmanda oynadığı maçta 1-1 berabere kaldı ve 20 takımlı ligde 18. sıraya gerileyerek düşme potasına girdi.
+ Marsilya: 2 - Bordeaux: 1 
+ Auxerre: 1 - Monaco: 1 
+ Stade Brest: 1 - Caen: 3 
+ Racing Lens: 2 - St Etienne: 1
+ Lyon: 3 - Lorient: 0
+ Montpellier: 2 - Valenciennes: 1 
+ Nice: 0 - Lille: 2 
+ Paris St Germain: 2 - Sochaux: 1 
+ Stade Rennes: 4 - Arles-Avignon: 0 
+ Toulouse: 1 - Nancy: 
+</TEXT>
+</DOC>

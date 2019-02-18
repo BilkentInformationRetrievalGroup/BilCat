@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336402 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa3d39f/l/0l0smilliyet0n0btr0cpapandreu0eborc0evadesini0euzatma0eicin0ebasvurdu0cekonomi0chaberdetay0c150b110b20a10a0c13145750cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:00:56.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+papandreu bor�� vadesini uzatma i��in ba��vurdu
+</HEADLINE>
+<TEXT> Papandreu, To Proto Thema gazetesindeki demecinde, ekonomik soruna daha adil çözümler bulma amacıyla, Destek Mekanizması’ndaki bazı maddeleri yeniden müzakere ettiğini ifade etti.</TEXT>
+</DOC>

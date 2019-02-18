@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1394234 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3d75ef8-50e3-4afb-aca2-e08b23f514bf </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 14:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+belek'te tekke pazarl������
+</HEADLINE>
+<TEXT>
+Konyaspor ile Beşiktaş, Fatih Tekke'nin transferi için Belek'te bir araya geldi.
+
+Konyaspor Kulüp Başkanı Bahattin Karapınar ile Beşiktaş Transfer Komitesi üyesi Cengiz Zülfikaroğlu&rsquo;nun, Antalya&rsquo;nın Belek tatil beldesinde Fatih Tekke&rsquo;nin transferi konusunda pazarlık yaptığı iddia edildi.
+ Karapınar ile Zülfikaroğlu, yeşil-beyazlı takımın transfer gündeminde olan ve İstanbul takımları dışında Konyaspor&rsquo;da oynayabileceği sözü verdiği iddia edilen Fatih Tekke&rsquo;nin transferi için pazarlık yaptığı bildirildi.
+ Gazetecilerin fotoğraflarını çektiğini gören Zülfikaroğlu, maçın bitmesini beklemeden Karapınar&rsquo;ın yanından ayrıldı. Karapınar da görüşme hakkında bilgi vermedi.
+</TEXT>
+</DOC>

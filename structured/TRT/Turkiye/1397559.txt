@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1397559 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=93cad23b-24ad-4db0-a98d-c7136ef75bf5 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 13:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erdo��an'dan 3 ��nemli telefon g��r����mesi
+</HEADLINE>
+<TEXT>
+Başbakan Recep Tayyip Erdoğan, Lübnan'da yaşanan hükümet krizinin çözümü için üç önemli telefon görüşmesi gerçekleştirdi.
+
+Lübnan&rsquo;da yaşanan hükümet krizinin çözümü için Başbakan Recep Tayyip Erdoğan çalışmalarına devam ediyor.
+
+Dün, Lübnan Başbakanı Saad Hariri ile görüşen Başbakan Erdoğan akşam saatlerinde de bir dizi telefon görüşmesi gerçekleştirdi.
+
+ Erdoğan&rsquo;ın krizin çözümü için İran Cumhurbaşkanı Mahmud Ahmedinejad, Suudi Arabistan Kralı Abdullah Bin Abdülaziz ve Katar Emiri Şeyh Hamad Bin Halife El Tani ile telefon görüşmeleri gerçekleştirdi.
+
+</TEXT>
+</DOC>

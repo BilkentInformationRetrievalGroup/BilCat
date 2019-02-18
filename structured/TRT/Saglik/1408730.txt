@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1408730 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d9496b5d-1f82-40f4-bbb0-e55d7ce22efc </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 10:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+daha fazla uyku obeziteyi ��nleyebilir!
+</HEADLINE>
+<TEXT>
+Haftasonları daha çok uyumanın, çocuklarda obeziteyi önleyebileceği bildirildi.
+
+ABD&rsquo;de yapılan ve sonuçları &quot;Pediatrics&quot; dergisinde yayımlanan bir 
+ araştırma çerçevesinde, yaşları 4 ila 10 olan 300 çocuğun uyku alışkanlıkları, 
+ bir hafta boyunca izlendi.
+         Araştırmada, obez çocukların, daha zayıf olan yaşıtlarına göre daha az 
+ uyudukları ve uyku düzenlerinin bozuk olduğu, çocukların hangi kiloda olurlarsa 
+ olsunlar, bir gece boyunca ortalama olarak 8 saat uyudukları, ancak obez 
+ çocukların, haftasonları diğerlerinden yaklaşık 20 dakika daha az uyudukları 
+ görüldü.
+         ABD Ulusal Kalp, Akciğer ve Kan Enstitüsü&rsquo;ne göre, okul çağındaki 
+ çocukların ve ergenlerin günde en az 9 saat uyumalarını öneriyor.
+
+</TEXT>
+</DOC>

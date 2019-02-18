@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344162 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd6abcb/l/0l0smilliyet0n0btr0cistanbul0esisle0euyandi0cturkiye0csondakika0c210b110b20a10a0c13165430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 11:08:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul sisle uyand��
+</HEADLINE>
+<TEXT>İstanbul pazar sabahına sis'le uyandı. Boğaziçi Köprüsü sisin içinde kayboldu. İstanbul Boğazı, günün erken saatlerden itibaren oluşan yoğun sis nedeniyle transit gemi geçişlerine trafiğine kapatıldı.Gemi Trafik Hizmetleri Müdürlüğünden yapılan açıklamaya göre, saat 04.30'dan itibaren oluşan yoğun sis nedeniyle boğazda görüş mesafesi düştü. Boğaz her iki yönden transit gemi geçişlerine kapatıldı.Hava şartlarının normale dönmesinin ardından boğazın yeniden gemi trafiğine açılacağı öğrenildi. Bu arada yoğun sis nedeniyle TEM ve E-5 gibi ana arterlerde görüş açışı oldukça düşmüş durumda. Boğaz içi Köprüsü sisin içinde kayboldu.Güvenli sürüşün sırlarını öğrenmek için tıklaYorum yaz</TEXT>
+</DOC>

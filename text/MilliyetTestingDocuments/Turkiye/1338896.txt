@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338896 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fb85089/l/0l0smilliyet0n0btr0cistanbul0eve0ecanakkale0ebogazlari0etrafige0ekapatildi0cturkiye0csondakika0c170b110b20a10a0c13153260cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 11:08:49.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul ve ��anakkale bo��azlar�� trafi��e kapat��ld��
+</HEADLINE>
+<TEXT>İstanbul Boğazı sis nedeniyle gemi trafiğine kapatıldı.İstanbul Gemi Trafik Hizmetleri Müdürlüğünce konuyla ilgili, "İstanbul Boğazı kısıtlı görüş nedeniyle saat 09.20’de gemi trafiğine kapatılmıştır" açıklaması yapıldı.ÇANAKKALEYoğun sis nedeniyle çift yönlü olarak transit gemi geçişlerine kapatılan Çanakkale Boğazı  saat 10.30 itibariyle  yeniden gemi trafiğine açıldı. Güvenli sürüşün sırlarını öğrenmek için tıklaYorum yaz</TEXT>
+</DOC>

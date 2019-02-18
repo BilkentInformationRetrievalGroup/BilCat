@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1408682 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3b06e7ca-dbf1-4613-a52c-02522cbfe320 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 09:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+toyota ara��lar��n�� geri ��a����r��yor
+</HEADLINE>
+<TEXT>
+Japon otomobil üreticisi Toyota, teknik hata nedeniyle dünya genelindeki 1,7 milyon aracın toplatılacağını duyurdu.
+
+
+Japon otomobil üreticisi Toyota, 12 modelde teknik hata nedeniyle dünya genelindeki 1,7 milyon aracın toplatılacağını duyurdu. 
+
+Kalite kontrol testlerinde tespit edilen üretim hataları benzin sızıntısı ve başka sorunlara yol açabiliyor. 
+
+Özellikle Kuzey Amerika ve Avrupa&rsquo;da satılan bazıları lüks yaklaşık 12 modelde bu hatalar tespit edildi. 
+
+Ancak konuya ilişkin açıklama yapan şirket yetkilileri, mevcut üretim hataları nedeniyle hiçbir kaza yaşanmadığının da altını çizdi.
+
+</TEXT>
+</DOC>

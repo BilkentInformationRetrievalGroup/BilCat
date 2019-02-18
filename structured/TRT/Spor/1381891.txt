@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1381891 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0c48f726-694a-4dea-8dce-f9700b6d2739 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 12:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+efsane taburcu oldu
+</HEADLINE>
+<TEXT>
+13 gündür İstanbul'da özel bir hastanede tedavi gören Lefter Küçükandonyadis taburcu oldu.
+
+
+Fenerbahçe Futbol Takımı&rsquo;nın efsane futbolcusu Lefter Küçükandonyadis, bir süredir rahatsızlığı nedeniyle tedavi gördüğü Atina&rsquo;dan 21 Aralık&rsquo;ta getirilmiş İstanbul&rsquo;a , özel bir hastanede tedavi altına alınmıştı.
+
+
+</TEXT>
+</DOC>

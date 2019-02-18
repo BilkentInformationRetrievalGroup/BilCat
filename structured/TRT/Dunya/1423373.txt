@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1423373 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f15f66f8-bf43-41ae-8648-a70a6a92782f </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 13:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yunan tankeri ka����r��ld��
+</HEADLINE>
+<TEXT>
+Somalili deniz haydutları Yunan bandıralı bir petrol tankerini Umman açıklarında kaçırdı.
+
+     İren SL adlı tankerin yaklaşık 2 milyon varil ham petrol taşıdığı bildirildi.
+
+     Tankerin, Kuveyt&rsquo;ten Amerika Birleşik Devletleri&rsquo;ne doğru yol aldığı sırada kaçırıldığı belirtildi.
+
+     Tankerde, 7 Yunanlı, 17 Filipinli ve bir Gürcü mürettebat bulunuyor.
+
+</TEXT>
+</DOC>

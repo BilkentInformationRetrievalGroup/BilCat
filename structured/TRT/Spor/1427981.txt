@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1427981 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=829b1c2e-40e7-4d00-83ee-2bb824bccf03 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 10:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye serbest'te birinci
+</HEADLINE>
+<TEXT>
+İstanbul'da yapılan Yaşar Doğu Güreş Turnuvası'nda Türkiye serbestte takım halinde birinci oldu.
+
+39. Uluslararası Yaşar Doğu Serbest ve 2. Golden Grand Prix Bayanlar Güreş Turnuvası dünkü karşılaşmalarla sona erdi.
+
+Türkiye turnuvada 2 altın, 5 gümüş, 9 bronz madalya kazandı.
+
+Türkiye serbestte takım halinde birinci, bayanlarda ise ikinci oldu.
+
+Ahmet Cömert Spor Salonu’ndaki  turnuvanın son gününde güreşçiler serbestte 66 ve 96, bayanlarda 55 ve 67 kilolarda mindere çıktı. 
+
+Turnuvada Türkiye takım sıralamasında serbestte 56 puanla birinciliği elde etti.
+
+Aynı kategoride Rusya 45 puanla ikinci, Azerbaycan 40 puanla üçüncü oldu.
+
+Turnuvada Bayanlarda Azerbaycan 50 puanla birinci oldu. Türkiye bayanlarda 49 puanle ikinci, Romanya 36 puanla üçüncü sırada tamamladı.
+</TEXT>
+</DOC>

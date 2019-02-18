@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1425563 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=63cdf021-8cd9-4c8b-8ccc-01ae82bd1363 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 11:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ocak'ta en ��ok avro kazand��rd��
+</HEADLINE>
+<TEXT>
+Finansal araçlar içinde yatırımcısına en çok kazandıran listesinde avro zirveye çıktı. 
+
+2010 yılı boyunca en çok kazandıran borsa olurken, Ocak 2011&rsquo;de en yüksek reel getiri, Üretici Fiyatları Endeksi (ÜFE) ile indirgendiğinde yüzde 1,42, Tüketici Fiyatları Endeksi (TÜFE) ile indirgendiğinde ise yüzde 3,39 oranlarıyla avroda gerçekleşti. 
+
+Altın, faiz ve İstanbul Menkul Kıymetler Borsası (İMKB) kaybettirdi. 
+
+Türkiye İstatistik Kurumu &quot;Finansal Yatırım Araçlarının Reel Getiri Oranları&quot;nı açıkladı. ÜFE ile indirgendiğinde; yatırım araçlarından dolar yüzde 0,40 oranında yatırımcısına reel getiri sağladı. 
+
+Buna karşılık, mevduat faizi yüzde 1,76, külçe altın yüzde 1,49 ve İMKB 100 Endeksi yüzde 1,32 oranında yatırımcısına kaybettirdi. TÜFE ile indirgendiğinde ise dolar yüzde 2,35, Ulusal 100 Endeks yüzde 0,60, külçe altın yüzde 0,42 ve mevduat faizi yüzde 0,15 oranında yatırımcısına kazandırdı.
+
+Finansal yatırım araçları ÜFE ve TÜFE ile indirgendiğinde; külçe altın üç aylık, altı aylık ve yıllık değerlendirmelerde en yüksek reel getirisi olan yatırım aracı oldu.
+
+ Külçe altın, üç aylık değerlendirmede ÜFE ile indirgendiğinde yüzde 8,05, TÜFE ile indirgendiğinde yüzde 11,54 oranında yatırımcısına reel getiri sağladı. 
+
+Finansal yatırım araçları, yıllık olarak değerlendirildiğinde; en fazla reel getiri oranlarına göre, külçe altın, İMKB 100 Endeksi, mevduat faizi, dolar ve avro olarak sıralandı.
+
+ ÜFE ile indirgendiğinde, külçe altın yüzde 17,11 ve İMKB 100 Endeksi yüzde 10,82 oranında yatırımcısına kazandırdı. Diğer taraftan, mevduat faizi yüzde 2,80, dolar yüzde 4,17 ve Euro yüzde 10,33 oranında yatırımcısına para kaybettirdi. 
+
+</TEXT>
+</DOC>

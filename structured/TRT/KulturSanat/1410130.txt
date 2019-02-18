@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1410130 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=81b2a784-9931-48f7-b6c7-efea309df647 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 12:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+rotterdam'da 4 t��rk filmi
+</HEADLINE>
+<TEXT>
+Hollanda "Uluslararası Rotterdam Film Festivali" başladı. Festivalde 4 Türk filmi gösterilecek. 
+
+Hollanda&rsquo;da geleneksel olarak her yıl düzenlenen &quot;Uluslararası Rotterdam Film Festivali&quot; başladı. 
+
+Bu yıl 40. kez kapılarını açan ve 6 Şubat tarihine kadar devam edecek olan festivalin açılışında, Yunanistan&rsquo;daki ekonomik krizi konu alan &rsquo;&rsquo;Wasted Youth&rsquo;&rsquo; isimli film gösterildi.
+         Uluslararası alanda önemli bir yere sahip festivalde, katıldığı birçok 
+ yarışmadan ödülle dönen Seren Yüce&rsquo;nin &rsquo;&rsquo;Çoğunluk&quot;, Belma Baş&rsquo;ın &rsquo;&rsquo;Zefir&rsquo;&rsquo;, 
+ Hüseyin Çağlayan&rsquo;ın kısa metrajlı filmi &rsquo;&rsquo;Anestezi&rsquo;&rsquo; ve Sander Breuere ile Witte 
+ van Hulzen&rsquo;in çektiği Türk-Hollanda ortak yapımı &rsquo;&rsquo;Ebedi Dönüş&rsquo;&rsquo; filmleri de 
+ seyircinin beğenisine sunulacak.
+40 farklı sinema salonunda gösterilecek 275 uzun, 450 kısa metrajlı filmi yüz binlerce kişinin izlemesi bekleniyor.
+         Festival kapsamında düzenlenen &rsquo;&rsquo;Tiger Awards&rsquo;&rsquo; yarışmasına seçilen 14 
+ filmden hangisinin ödül kazandığı ise 4 Şubat&rsquo;ta belli olacak
+</TEXT>
+</DOC>

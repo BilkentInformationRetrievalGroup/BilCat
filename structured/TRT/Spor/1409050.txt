@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1409050 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f9bb1f72-e42b-4b96-b80c-a6772cde3349 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 13:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'tan fink a����klamas��
+</HEADLINE>
+<TEXT>
+Beşiktaş, Fink'in transferi için Borussia Mönchengladbach takımıyla görüşmelere başladı.
+
+Beşiktaş Kulübü, sözleşmesini dondurduğu Alman futbolcusu Michael Fink&rsquo;in transferi için Almanya&rsquo;nın Borussia Mönchengladbach takımıyla görüşmelere başlandığını İstanbul Menkul Kıymetler Borsası&rsquo;na bildirdi.
+ Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş&rsquo;den borsaya yapılan açıklamada, &quot;17.01.2011 tarihinde TFF Profesyonel Futbolcu Sözleşmesi yabancı kontenjanı sorunu nedeni ile askıya alınan profesyonel futbolcularımızdan Michael Fink&rsquo;in geçici transferi konusunda Almanya futbol takımlarından Borussia Mönchengladbach Kulübü ile görüşmelere başlanmıştır&quot; denildi.
+</TEXT>
+</DOC>

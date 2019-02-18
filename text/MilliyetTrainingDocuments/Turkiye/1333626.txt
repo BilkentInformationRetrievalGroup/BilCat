@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333626 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f8437f0/l/0l0smilliyet0n0btr0ctunceli0ede0epkk0eya0eoperasyon0cturkiye0csondakika0c10a0b110b20a10a0c13126930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:43:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tunceli���de pkk���ya operasyon
+</HEADLINE>
+<TEXT>TUNCELİ’de tespit edilen PKK’lı teröristleri etkisiz hale getirmek için hava destekli operasyon başlatıldı.Tunceli’de güvenlik güçleri insansaz hava aracı Heron ve yaptıkları teknik takip sonucu Pülümür İlçesi’nin kırsal kesiminde 10’ar kişilik gruplar halinde PKK’lı teröristlerin hareket halinde olduğunu belirledi. Kent merkezinde bu sabah Atatürk’ü ölüm yıldönümünde anma programları sırasında Tunceli Jandarma Bölge Komutanlığı ve 4’üncü Komando Tugay Komutanlığı’ndan Sikorsky helikopterler art arda havalandı. Yoğun helikopter trafiğinin yaşandığı törenler sırasında, helikopterlerin çok sayıda jandarma özel hareket timlerini teröristlerin görüldüğü Pülümür’ün Kırmızıköprü ile Kocatepe köyleri kırsalı, Bingöl sınırına indirdiği belirtildi.Operasyonlar, PKK’lıların görüldüğü Pülümür kırsalı ile merkez Geyiksuyu ve Karaoğlan kesimlerinde sürdürülüyor. Helikopterlerle indirilen timlerin hareket halinde olan teröristlerin izlerini sürdüğü kaydedildi.</TEXT>
+</DOC>

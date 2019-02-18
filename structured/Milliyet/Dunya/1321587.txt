@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321587 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f497ffd/l/0l0smilliyet0n0btr0cmars0eta0euzayli0efosilleri0e0cdunya0csondakika0c0a30b110b20a10a0c130a93330cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mars'ta "uzayl�� fosilleri"
+</HEADLINE>
+<TEXT>Mars yüzeyini inceleyen bilim insanları, gezegenin yüzeyindeki bir bölgede bulunan mineral katmanının büyük gizemler sakladığını düşünüyor.Kızıl gezegenin iklimi, 3.5 milyar yıl önce yaşama elverişli ılık ve nemli bir haldeyken, şu anki soğuk ve kurak durumuna dönüşmüştü.Şimdi bir grup bilim insanı, keşfettikleri ve geçmişi 3.5 milyar yıldan biraz daha yeniye dayanan mineral tepeciğinin, iklim değişiminden önce varolan canlılara dair izler barındırabileceğini düşünüyorlar.NASA'nın Mars Keşif Uydusu'yla ulaşılan veriler, araştırmacıların bu minerali tanımalarına olanak sağladı.Mars'taki minerali "sulu silisyum" olarak açıklayan bilim insanları, bu maddenin, gezegende bir zamanlar su bulunduğuna dair en güçlü kanıt olduğunu söylüyorlar.Keşfedilen mineral bölgesinin, iklimi yavaş yavaş değişerek ölümcül hale gelen gezegende, en sonuna kadar dayanabilen yaşanabilir noktalardan birisi olduğunu açıklayan bilim insanları, mineral yatağının altında gezegenin bir zamanlar varolmuş canlılarına dair fosiller olabileceğini düşünüyorlar.Benzer silisyum yataklarına, İzlanda gibi Dünya'nın soğuk bölgelerinde rastlamak mümkün. </TEXT>
+</DOC>

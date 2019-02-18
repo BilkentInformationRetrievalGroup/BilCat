@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1407025 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3c5d102-188c-49af-81af-cfff72e89e90 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 17:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+asya ��ap ve ku�� gribinin pen��esinde
+</HEADLINE>
+<TEXT>
+Güney Kore'de büyükbaş hayvanların 5'te 1'itlaf edildi. Japonya'da ise 140 bini aşkın tavuğun itlaf edilmesi bekleniyor.
+
+Asya, şap ve kuş gribinin etkisi altında..
+
+Güney Kore&rsquo;de şap hastalığı yüzünden domuz ve büyük baş hayvanların beşte biri itlaf edilirken Japonya&rsquo;da da kuş gribi yüzünden 410 bini aşkın kümes hayvanı imha edilecek.
+
+Güney Kore&rsquo;de şap hastalığı yüzünden 2 buçuk milyon domuz ve sığır itlaf ediliyor.
+
+Yayın organları, şap hastalığının Kuzey Kore&rsquo;ye geçtiğini haber veriyor.
+
+Güney Kore&rsquo;de ilk kez bu çapta şap salgını başgösterdiği ifade ediliyor.
+
+Japonya&rsquo;nın güneyindeki Miyazaki bölgesi de kuş gribinin etkisi altında...
+
+Miyazaki bölgesinde, kuş gribinin çiftliklere yayıldığının anlaşılması üzerine 410 bini aşkın kümes hayvanının itlaf edilmesi bekleniyor.
+
+Hayvanların itlafı için bölgeye asker sevkedildi.
+</TEXT>
+</DOC>

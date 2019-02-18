@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340025 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fbe73cd/l/0l0smilliyet0n0btr0csiramiz0edegismedi0cspor0chaberdetay0c180b110b20a10a0c13155670cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:02:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+s��ram��z de��i��medi
+</HEADLINE>
+<TEXT>Listenin zirvesinde 1920 puanla Dünya Şampiyonu İspanya yer alırken, ilk 10 sıradaki 9 takımın yeri değişmedi. Mısır 1047 puanla 10. basamağa yükseldi, geçen ay 10. sırada olan Rusya ise 13.’lüğe geriledi. Dünya İkincisi Hollanda 1718 puanla 2. sırada yer aldı. </TEXT>
+</DOC>

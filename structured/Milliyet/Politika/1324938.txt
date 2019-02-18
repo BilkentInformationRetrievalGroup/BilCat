@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324938 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f561639/l/0l0smilliyet0n0btr0cchp0emyk0etoplantisi0ebasladi0csiyaset0csondakika0c0a40b110b20a10a0c1310a130a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 13:12:04.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp myk toplant��s�� ba��lad��
+</HEADLINE>
+<TEXT>Genel Başkan Kılıçdaroğlu başkanlığındaki MYK toplantısının ardından Parti Genel Sekreteri ve Sözcüsü Süheyl Batum’un açıklama yapacağı bildirildi.Bu arada eski MYK üyelerinden bazılarının parti Genel Merkezindeki odalarını boşalttıkları öğrenilirken, Önder Sav’ın da otoparktan parti Genel Merkezine geldiği gözlendi.Öte yandan parti güvenlik görevlilerinin, partide yönetici ve görevli olmayan kişilerin Genel Merkeze girişine izin vermediği görüldü. Bu sırada bazı partililerle güvenlik görevlileri arasında kısa süreli gerginlik yaşandı.</TEXT>
+</DOC>

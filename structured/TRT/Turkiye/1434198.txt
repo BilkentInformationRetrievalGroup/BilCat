@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1434198 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cc071be9-d6bf-4e5b-941f-366860b47404 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 18:47:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+halk tv yay��nda
+</HEADLINE>
+<TEXT>
+Borçları nedeniyle yayınlarını durduran Halk TV yeniden yayına başladı.
+
+Bir süre önce maddi sıkıntılar nedeniyle yayınına ara veren Halk TV yeniden açıldı.
+
+Şimdilik müzik yayını yapan Halk TV&rsquo;nin önümüzdeki günlerde normal yayına geçeceği belirtiliyor. 
+
+Halk TV, CHP politikalarına yakın yayınlarıyla biliniyor
+</TEXT>
+</DOC>

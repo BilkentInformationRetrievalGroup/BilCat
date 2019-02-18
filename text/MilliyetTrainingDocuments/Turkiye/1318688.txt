@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318688 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f384d1e/l/0l0smilliyet0n0btr0cispanyol0ebasini0eel0ekaide0eve0epkk0edan0esoz0eediliyor0cturkiye0csondakika0c0a10b110b20a10a0c130a8360a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 13:33:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ispanyol bas��n��: el kaide ve pkk'dan s��z ediliyor
+</HEADLINE>
+<TEXT>İstanbul’un merkezindeki Taksim Meydanı’nda gerçekleşen intihar saldırısı İspanyol basınında da yankı buldu.El Pais gazetesi, şimdiye kadar hiçbir grubun sorumluğunu üstlenmemesine karşın El Kaide ve PKK’dan söz edildiğine dikkat çekti.El Pais, saldırının çevik kuvvet ekibinin yanında gerçekleştirdiğine de işaret ettiği haberinde patlamanın kentinin merkezinin büyük bir bölümünde duyulduğunu belirtti. Bu arada, haberde patlama olduğu yerin birkaç metre ötesinde bulunan İspanyol gazetecisi Lucas Farioli’nin izlenimlerine de yer verildi.Lucas Farioli, olay hemen öncesi üst katında bazı polislerin kahvaltı ettiği bir kafede bulunduğunu, patlama olur olmaz polislerin hemem meydana indiklerini belirterek, "Patlama ile tüm bar sallandı ve dışarıya çıkmamıza izin verilmedi. Silah sesi de duyduk" dedi</TEXT>
+</DOC>

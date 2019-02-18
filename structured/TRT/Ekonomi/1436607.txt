@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1436607 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fd1ad0be-59f6-496c-9231-02a7573134c3 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 10:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye'nin borcu ne kadar?
+</HEADLINE>
+<TEXT>
+Merkezi yönetim brüt borç stoku Ocak ayı itibarıyla 478.1 milyar TL...
+
+
+Hazine Müsteşarlığı, merkezi yönetim brüt borç stoku rakamlarını açıkladı. 
+
+Buna göre merkezi yönetim brüt borç stoku Ocak itibarıyla 478.1 milyar TL olarak gerçekleşti.
+
+Hazine Müsteşarlığından yapılan açıklamaya göre, borç stokunun 347,7 milyar lira tutarındaki kısmı Türk Lirası cinsinden, 130.4 milyar lira tutarındaki kısmı döviz cinsi borçlardan oluştu. 
+
+Habertürk&rsquo;ün haberine göre; borç stokunun 353.3 milyar lirasını iç borç stoku, 124.8 milyar lirası ise dış borç stoku oluşturdu. 
+
+İç borç stokunun 301.4 milyar lirası piyasaya, 51.9 milyar lirası ise kamu kesimine yapılan borçlanmadan kaynaklanıyor. 
+
+Borç stoku, Aralık sonu itibarıyla 473,3 milyar lira olarak gerçekleşmişti.
+
+
+</TEXT>
+</DOC>

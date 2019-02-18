@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1381666 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8b0b973e-fd93-4be7-9b57-7f50c381246d </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 09:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kad��nlar g��zellik i��in a�� kal��yor
+</HEADLINE>
+<TEXT>
+Avustralya’da yapılan bir araştırma kadınların güzellik için yetersiz beslendiklerini ortaya koydu. 
+
+Sydney ve Central Coast bölgesinde, 14 ila 17 yaş grubundaki kızlar arasında yapılan araştırmaya göre, sık diyet yapanlar kronik şekilde yetersiz besleniyorlar. 
+
+Aynı araştırmada kızlar arasında  kiloları gayet normal olmasına rağmen diyet yaptıkları ortaya çıkmış. Diyet yapan bu kızlardaki en büyük zarar kalsiyum eksikliğinden kaynaklanıyor.   
+</TEXT>
+</DOC>

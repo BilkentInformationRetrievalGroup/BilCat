@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1400069 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=02affd7e-ed47-4d3c-b3f8-b38966459ee6 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 09:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+nadal ilk turu rahat ge��ti
+</HEADLINE>
+<TEXT>
+Avustralya Açık Tenis Turnuvası'nda favorilerden Rafael Nadal, ilk turda zorlanmadı.
+
+Teniste dünya sıralamasının bir numaralı ismi 
+ Rafael Nadal, Avustralya Açık Tenis Turnuvası&rsquo;nda ilk turu, rakibinin sakatlanarak maçtan çekilmesiyle fazla efor sarfetmeden geçti.
+         Rafal Nadal, Brezilyalı Marcos Daniel ile Rod Laver Arena&rsquo;da oynadığı 
+ karşılaşmanın ilk setini 6-0 aldı. İkinci sette 5-0 gerideyken sol dizinden 
+ sakatlanan Daniel maçı terketti ve Nadal böylece sadece 47 dakika süren 
+ mücadelenin ardından, rakibine hiç oyun vermeden ikinci tura çıkmış oldu.
+         Turnuvanın 5 numaralı seribaşı İskoç Andy Murray de, rakibinin 3. sette 
+ çekilmesiyle ikinci tura yükseldi. Slovak Karol Beck ile karşılaşan Murray, maçın 
+ ilk setini 6-3, ikinci setini 6-1 kazandı. Beck, 3 sette 4-2 gerideyken maçı 
+ bıraktı ve geçen yılın finalisti Murray de fazla çaba sarfetmeden adını ikinci 
+ tura yazdırmış oldu.
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1437906 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=24a3bb42-5111-462d-a1f1-0547928f9234 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 12:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+o heykel bulundu
+</HEADLINE>
+<TEXT>
+Mısır'daki ayaklanma sırasında dünyaca ünlü Kahire Müzesi'nden çalınan eserlerden Kral Akhenaten heykeli bulundu. Bulunma yeri ise oldukça ilginç...
+
+     Mısır&rsquo;daki ayaklanmadan Kahire Müzesi de nasibini aldı.
+     Olaylar sırasında başkent Kahire&rsquo;deki dünyaca ünlü Mısır Müzesi yağmalandı, bir çok tarihi eser çalındı.
+     Firavun Tutankhamon&rsquo;un babası Akhenaten&rsquo;e ait olan 37 santimetrelik kireçtaşından heykel de kaybolanlar listesindeydi. 
+     Heykel protestoların merkezi Tahrir Meydanı&rsquo;nda moloz yığınları arasında protestocu bir genç tarafından bulundu.
+     Genç, paha biçilemeyen, tablet bölümü kırık heykeli müzeye teslim etti. Kırık parçanın da müzenin içinde bulunduğu bildirildi.
+     Böylece kayıp eserlerden müzeye geri dönenlerin sayısı 4&rsquo;e çıktı.
+     Yağmacıların hışmına uğrayan Kahire Müzesi&rsquo;nin bazı bölümleri hafta başında yeniden ziyaretçilere açıldı.
+     Yönetim karşıtı gösteriler sırasında yağmalamaya karşı Mısırlılar Eski Mısır uygarlığının en görkemli koleksiyonlarını barındıran Müze&rsquo;yi kendilerince koruma altına almışlardı.
+</TEXT>
+</DOC>

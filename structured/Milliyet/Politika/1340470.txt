@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340470 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc1abb8/l/0l0smilliyet0n0btr0ccumhurbaskani0egul0etalabani0eile0egorustu0csiyaset0csondakika0c180b110b20a10a0c13156320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 13:09:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+cumhurba��kan�� g��l talabani ile g��r����t��
+</HEADLINE>
+<TEXT>Cumhurbaşkanı Abdullah Gül, Kurban Bayramı dolayısıyla Irak Cumhurbaşkanı Celal Talabani ve Katar Emiri Şeyh Hamad bin Khalifa Al-Thani ile birer telefon görüşmesi yaptı.Cumhurbaşkanlığı Basın Merkezi’nden yapılan yazılı açıklamada, Cumhurbaşkanı Gül’ün, Kurban Bayramı dolayısıyla Talabani ve Al-Thani ile birer telefon görüşmesi gerçekleştirdiği bildirildi.</TEXT>
+</DOC>

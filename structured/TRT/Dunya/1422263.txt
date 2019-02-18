@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1422263 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9308334b-a2e5-4265-a669-dfbc56b93707 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 14:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+berlusconi hakk��nda su�� duyurusu
+</HEADLINE>
+<TEXT>
+İtalya Başbakanı Silvio Berlusconi'nin hemen yargılanması için suç duyurusunda bulunulacağı bildirildi.
+
+Milano Savcılığı, Başbakan Berlusconi&rsquo;nin hemen yargılanması için suç duyurusunda bulunacaklarını açıkladı.
+</TEXT>
+</DOC>

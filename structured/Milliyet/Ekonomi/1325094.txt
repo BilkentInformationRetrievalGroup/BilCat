@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325094 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f56ad9e/l/0l0smilliyet0n0btr0ctoyota0e1350ebin0earacini0egeri0ecagiracak0cekonomi0csondakika0c0a40b110b20a10a0c1310a1670cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:00:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+toyota 135 bin arac��n�� geri ��a����racak
+</HEADLINE>
+<TEXT>Japon otomobil üreticisi Toyota, Japonya ve Avrupa’daki 135 bin aracını geri çağıracak.Şirket yetkililerince yapılan açıklamada, Japonya’da ve Avrupa’da satılan iQ ve Japonya’da satılan Passo model araçlarda hidrolik direksiyonunun işlevini yerine getirmesini engelleyecek bir yazılım sorunu bulunabileceği gerekçesiyle geri çağrılacağı belirtildi.Açıklamada, şu ana kadar soruna ilişkin herhangi bir ölümlü ya da yaralanmalı bir kaza raporu bildirilmediğine dikkati çekilerek, söz konusu geri çağırmalardan 2008 yılı Eylül ayı ile geçen aya kadar Japonya’da üretilen araçların etkileneceği belirtildi.</TEXT>
+</DOC>

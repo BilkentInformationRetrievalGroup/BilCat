@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1381671 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bf52f7f1-6378-47d4-b2ac-38fc0a721e2d </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 10:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+memura ek zam
+</HEADLINE>
+<TEXT>
+Yıllık enflasyon rakamları açıklandı. Açıklanan rakamlara göre memura %0.21 oranında zam yapılacak.
+
+Türkiye İstatistik Kurumu (TÜİK), 2010 yılında tüketici fiyatları endeksinin (TÜFE) yüzde 6,40, üretici fiyatları endeksinin (ÜFE) yüzde 8,87 arttığını açıkladı.
+        
+Aralık ayında ise TÜFE yüzde 0,30 düşerken, ÜFE yüzde 1,31 artış gösterdi.
+
+Memura Ek Zam
+Türkiye İstatistik Kurumu&rsquo;nun açıkladığı Aralık ayı tüketici fiyat artışı 
+ sonrasında Temmuz-Aralık dönemi enflasyonu da yüzde 2,72 olarak gerçekleşti.
+         Bu şekilde geçen yılın ikinci yarısında Bütçe Kanunu kapsamında yüzde 2,5 
+ oranında zam alan devlet memurları, sözleşmeliler ve memur emeklileri, yüzde 0,21 
+ oranında ek zamma hak kazandı.
+
+ 
+</TEXT>
+</DOC>

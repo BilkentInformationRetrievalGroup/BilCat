@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326067 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f5b2f05/l/0l0smilliyet0n0btr0cerdogan0ein0ebahceli0eye0eactigi0edava0ereddedildi0csiyaset0chaberdetay0c0a50b110b20a10a0c1310a40a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 01:10:04.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+erdo��an�����n bah��eli���ye a��t������ dava reddedildi
+</HEADLINE>
+<TEXT>RA Milliyet Ankara 23. Asliye Hukuk Mahkemesi’nde görülen davanın karar duruşmasına, Erdoğan’ın avukatı Ece Akyürek ile Bahçeli’nin avukatı Hamit Kocabey katıldı. Akyürek, müvekkilinin kişilik haklarına saldırıda bulunulduğunu ileri sürerek, davanın kabul edilmesini talep etti. Kocabey ise kişilik haklarına saldırının söz konusu olmadığını savunarak, davanın reddine karar verilmesini istedi. Yargıç Zerrin Berke, davanın reddine karar verdi.  </TEXT>
+</DOC>

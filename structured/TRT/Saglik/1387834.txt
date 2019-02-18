@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1387834 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f39e48dd-62e0-47f3-a0e4-7d1e8a48152d </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 12:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"dans" umut olabilir!
+</HEADLINE>
+<TEXT>
+Dans etmenin Parkinson hastalarında hareket kabiliyetini destekleyici etkiye sahip olduğu açıklandı.
+
+Dans etmek, Parkinson hastaları için umut olabilir mi?
+     
+Bu konuda uzun soluklu çok sayıda çalışma bulunmasa da, yapılan bir araştırma, bir dans türü olan tangonun parkinson hastalarında denge sağlama ve hareket kabiliyetini destekleyici etkiye sahip olduğunu ortaya koydu.
+
+Dengede duramama, sallanma ve hareket zorluğu... Tüm bunlar, Parkinson hastalığından muzdarip olanların yaşadığı sorunlardan.
+
+Hareket etme ve egzersizin Parkinson hastaları için ciddi önem taşıdığı uzun zamandır biliniyor.
+
+Yakın zamanda yapılan bir araştırma ise dans etmenin hastalar üzerinde olumlu etkiye sahip olduğunu ortaya koydu.
+         
+Bir dans türü olan tangonun, parkinson hastalarında denge sağlama ve hareket kabiliyetini destekleyici etkiye sahip olduğu belirtiliyor.
+
+Bu konuda uzun soluklu çok sayıda çalışma bulunmasa da, hastaların görüşleri de araştırmanın sonucunu destekliyor.
+
+</TEXT>
+</DOC>

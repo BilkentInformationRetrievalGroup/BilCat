@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326979 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f5e3415/l/0l0smilliyet0n0btr0cyogun0esis0eulasimi0eaksatti0cturkiye0csondakika0c0a50b110b20a10a0c1310a5210cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 11:09:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+yo��un sis ula����m�� aksatt��
+</HEADLINE>
+<TEXT> Gece, sis nedeniyle Atatürk Havalimanı'nda görüş mesafesi zaman zaman 200 metreye kadar düştü. Çok sayıda uçak seferi yapılamadı. Atatürk Havalimanı'na inmesi gereken 30 uçak, İstanbul Sabiha Gökçen, Ankara Esenboğa ve İzmir Adnan Menderes Havalimanlarına yönlendirildi. Bazı uçaklar da pisti pas geçti. İstanbul Boğazı da gece transit gemi geçişlerine kapatıldı. Görüş mesafesi 10 metreye kadar düştü. Sürücüler güçlükle ilerleyebildi. Meteoroloji sisin Marmara başta olmak üzere kuzey, iç ve doğu kesimlerde  etkili olacağını açıkladı. </TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1433141 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7cc4a7f3-7b28-4535-8e5c-5a2adbddc84e </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 16:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hsyk'ya dilek��e ya����yor
+</HEADLINE>
+<TEXT>
+Şemdinli davası savcısı Ferhat Sarıkaya, mesleğe geri dönmek için HSYK'a dilekçe verdi.
+
+     Yenilenen Hakimler ve Savcılar Yüksek Kurulu&rsquo;na göreve geri dönmek isteyen hakim ve savcılardan dilekçe yağıyor.
+
+     Çeşitli sebepler ile  görevden alınan hakim ve savcı sayısı 94.
+
+     Bunlardan 53&rsquo;ü göreve dönmek için HSYK&rsquo;ya dilekçe verdi. 
+
+     Ferhat Sarıkaya&rsquo;nın yanı sıra başvuruda bulunan başka önemli isimler var.
+
+     12 Eylül Darbesini soruşturmak isteyen savcı Sacit Kayasu bu isimlerden biri.
+
+</TEXT>
+</DOC>

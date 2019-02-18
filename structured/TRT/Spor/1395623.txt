@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1395623 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=40a6da97-2c37-49e0-b196-fc8f0ad70acc </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 16:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bar��a rekor pe��inde
+</HEADLINE>
+<TEXT>
+Barcelona, Malaga karşısına 27 maçlık yenilmezlik rekorunu kırmak için çıkacak.
+
+ İspanya Birinci Futbol Ligi&rsquo;nde (La Liga) lider Barcelona, hafta sonundaki Malaga maçında  yenilmezlik rekorunu kırmaya çalışacak.
+
+Lig ve kupalarda son 27 maçında mağlubiyet almayan Barça, pazar günkü maçı da kaybetmezse, 1973-1974 sezonundaki 27 maçlık yenilmezlik rekorunu kıracak.
+
+İspanya Kral Kupası&rsquo;nda dün Real Betis&rsquo;i 5-0 yenen Barcelona, yenilmezlik rekorunu egale etmişti.
+
+Son olarak La Liga&rsquo;nın 2. haftasında 11 Eylül 2010&rsquo;da evinde Hercules&rsquo;e karşı 2-0 yenilen Barcelona, Malaga maçını kazanması halinde, ligde evinde üst üste 13. galibiyetini de alacak. 
+
+
+
+
+</TEXT>
+</DOC>

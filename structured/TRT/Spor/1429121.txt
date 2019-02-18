@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1429121 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bfc2998f-acef-4e68-8b51-cddbf42c76ff </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 10:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+basketbolda avrupa s��nav��
+</HEADLINE>
+<TEXT>
+Galatasaray Cafe Crown ve Pınar Karşıyaka, gruplarındaki 4. maçlarını oynuyorlar.
+
+Galatasaray Cafe Crown, Eurocup K grubundaki 4 maçı için bu akşam Çek Cumhuriyeti&rsquo;nin CEZ Nymburk takımıyla karşılaşacak.
+Nymburk kentindeki karşılaşma Türkiye saatiyle 19.00&rsquo;da başlayacak. 
+Sarı-Kırmızılılar, Çek takımını İstanbul&rsquo;da 76-75 yenerek gruptaki ilk galibiyetini elde etmişti. CEZ Nymburk takımının, grupta halen galibiyeti bulunmuyor.
+Pınar Karşıyaka da Eurochallenge Cup J Grubunda, Belçika&rsquo;nın Antwerp takımını konuk edecek. karşılaşma saat 20.30&rsquo;da başlayacak.
+Pınar Karşıyaka, bundan önceki üç maçını da kazandı.
+</TEXT>
+</DOC>

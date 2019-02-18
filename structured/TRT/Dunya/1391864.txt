@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1391864 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=401048fa-e9ed-4968-8c35-cba511aaea49 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 13:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+eta'dan kal��c�� ate��kes
+</HEADLINE>
+<TEXT>
+İspanya'nın Bask bölgesinin bağımsızlığı için mücadele eden ETA, kalıcı ateşkes ilan etti.
+
+ İspanya&rsquo;nın kuzeyindeki Bask bölgesinin bağımsızlığı için mücadele eden ETA, kalıcı ateşkes ilan ettiğini duyurdu.
+
+Bask dilinde yayın yapan Gara gazetesinin internet sitesinde yayımlanan  haberde, AB terör örgütleri listesinde bulunan ETA&rsquo;nın, kalıcı, genel ve  uluslararası denetime açık ateşkes ilan ettiği belirtildi.
+
+ETA, üç ay önce, silahlı saldırıları durdurduğunu açıklamıştı.
+
+
+</TEXT>
+</DOC>

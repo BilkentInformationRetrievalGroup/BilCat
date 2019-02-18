@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1435426 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b6098934-e003-4fa1-8dc1-aab773d5217c </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 10:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta intihar sald��r��s��
+</HEADLINE>
+<TEXT>
+Samarra'daki saldırıda 9 polis öldü.
+
+
+Irak&rsquo;ın kuzeyindeki Samarra kentinde, bir intihar bombacısı bomba yüklü aracıyla polis binalarını hedef aldı. 
+
+Hastane kaynakları saldırıda 9 polisin öldüğünü, 19&rsquo;unun da yaralandığını açıkladı.
+
+Ambulansların hala yaralı taşıdığı ve ölü sayısının artabileceği bildirildi. 
+
+Samarra kenti Bağdat&rsquo;ın 100 Km. kuzeyinde bulunuyor.
+</TEXT>
+</DOC>

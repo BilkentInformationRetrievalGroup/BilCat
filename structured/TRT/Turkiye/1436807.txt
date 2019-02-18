@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1436807 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=475a4dca-264a-48a9-941e-62f5042ed4ec </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 12:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bitlis'te kay��p cenaze kaz��s��
+</HEADLINE>
+<TEXT>
+Bitlis'in Mutki ilçesinde, 2 kişinin öldürülerek gömüldüğü iddiasıyla, Jandarma Komutanlığı bahçesinde kazı başlatıldı. 
+
+     Yakınları kayıp olan ailelerinin başvurusu üzerine Jandarma Komutanlığı bahçesinde kazı yapılıyor. 
+
+     Kayıp olan 2 kişinin öldürülerek bahçeye gömüldüğü iddia ediliyor. 
+         
+     Daha önce Mutki Kavakbaşı yolu mevkiinde yapılan kazılarda 16 kişiye ait oldukları bildirilen kemikler bulunarak DNA testi için Adli Tıp Kurumu&rsquo;na gönderilmişti. 
+</TEXT>
+</DOC>

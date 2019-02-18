@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1406513 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=699a6227-693c-4f44-8cf6-446490c11c87 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 11:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsada yabanc�� pay�� d������yor
+</HEADLINE>
+<TEXT>
+Yabancı yatırımcıların payı, önceki haftaya göre azalarak yüzde 65,15'e geriledi.
+
+Yabancı yatırımcıların İstanbul Menkul Kıymetler Borsasındaki (İMKB) payı, önceki haftaya göre azalarak yüzde 65,15&rsquo;e geriledi.
+         
+Merkezi Kayıt Kuruluşu verilerine göre, 21 Ocak 2011 tarihinde yabancıların hisse adedi bakımından borsadaki payı yüzde 51,61 olurken, piyasa değeri açısından payı ise yüzde 65,15 olarak gerçekleşti.
+         
+Yabancılar, bu tarih itibariyle 16 milyar 481 milyon 783 bin 89 adet hisse ile toplam 107 milyar 346 milyon 600 bin 757 liralık hisseyi ellerinde bulundurdu.
+         
+Yabancıların 14 Ocak 2011 tarihinde İMKB&rsquo;deki payı yüzde 65,90 seviyesindeydi.
+
+</TEXT>
+</DOC>

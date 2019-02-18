@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1411683 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7522051b-70a4-44b3-8185-a52ec837ceb0 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 18:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sahte ����r��k raporu operasyonu
+</HEADLINE>
+<TEXT>
+Askerlik yapmak istemeyenlere, sahte "elverişsiz" raporu sağladıkları iddiasıyla gözaltına alınan 50 kişi adliyeye sevk edildi.
+
+İzmir&rsquo;de sahte çürük raporu operasyonu.
+
+Askerlik yapmak istemeyenlere, sahte &quot;elverişsiz&quot; raporu sağladıkları iddiasıyla gözaltına alınan 50 kişi adliyeye sevk edildi.
+
+İzmir İl Jandarma Alay Komutanlığı ekipleri 3 yıl boyunca iz sürdü.
+
+İzmir&rsquo;in yanı sıra İstanbul, Adana, Bursa, Elazığ ve Antalya&rsquo;daki 34 ayrı adrese eş zamanlı olarak düzenlenen operasyonlarda 6&rsquo;sı doktor 55 kişi gözaltına alındı.
+ 
+Emniyet&rsquo;teki işlemlerinin ardından adliyeye sevk edilen 50 zanlının askerlik yapmak istemeyen en az 250 kişiye para karşılığı sahte &quot;elverişsiz&quot; raporu hazırladığı iddia ediliyor. 
+</TEXT>
+</DOC>

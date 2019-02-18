@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1402946 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=79c35c68-a749-4774-9909-f45d219222b6 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 16:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+y��l sonu enflasyon beklentisi % 6,61
+</HEADLINE>
+<TEXT>
+2011 enflasyon beklentisi yüzde 6,61 oldu, büyüme beklentisi ise yüzde 5'te kaldı.
+
+Merkez Bankası yeni yılın ikinci beklenti anketini açıkladı.
+
+          Ocak ayında yapılan ilk beklenti anketinde yılsonu için yüzde 6,56 olan enflasyon beklentisi ikinci ankette yüzde 6,61&rsquo;e yükseldi.
+
+          Büyüme beklentisi ise değişmedi, 2011 büyüme beklentisi yüzde 5&rsquo;te kaldı.
+
+          Ankette cari açık tahmini ise yaklaşık 48 buçuk milyar dolar.
+</TEXT>
+</DOC>

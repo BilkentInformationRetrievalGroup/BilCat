@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320345 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f469acf/l/0l0smilliyet0n0btr0ckacak0eelektrik0ekullanana0eaf0egeliyor0cekonomi0csondakika0c0a20b110b20a10a0c130a92890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:00:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ka��ak elektrik kullanana af geliyor
+</HEADLINE>
+<TEXT>Ahmet ERGEN / ntvmsnbcDevlete olan borçların yeniden yapılandırılmasında kapsam her gün biraz daha genişliyor. Kaçak elektrik kullananlara ve öğrenim kredilerini ödemeyenlere de borçları ödeme kolaylığı getiriliyor.Vergi ve sigorta primi borçlarının yeniden yapılandırılmasıyla ilgili çalışma, AK Parti Merkez Yürütme Kurulu'nda değerlendirildi.Başbakan Tayyip Erdoğan'ın büyük oranda onay verdiği düzenleme, 300'e yakın kalemde vatandaşın devlete olan borcunu yeniden yapılandırıyor.Son yapılan eklemelerle kapsam biraz daha genişletildi. Kaçak elektrik kullananlar ve yüksek öğretim kredisi ve harcını geri ödemeyenler de kapsama dahil gidildi. Buna göre, yaklaşık 1 milyon kişinin öğrenim kredisi borcu yeniden yapılandırılacak.Yeniden yapılandırma çalışmaları önce vergi ve sigorta prim borçları için başlatıldı. Ancak daha sonra emlak vergisi, elektrik ve su boçları, trafik cezaları da kapsama dahil edildi.Ayrıca varlık barışı kapsamında beyanda bulunup kaynağını Türkiye'ye getirmeyenler için ek süre verilmesi de gündemde bulunuyor.</TEXT>
+</DOC>

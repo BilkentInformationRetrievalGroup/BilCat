@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1403215 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=144440c1-dd86-40d9-866b-6f3365c7f529 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 21:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'de mafyaya dev operasyon
+</HEADLINE>
+<TEXT>
+Amerika Birleşik Devletleri'nde mafyaya yönelik operasyonda 110 kişi gözaltına alındı.
+
+Yaklaşık 800 güvenlik görevlisinin, New York, New Jersey ve Rhode Island&rsquo;da düzenlediği operasyonda yakalanan kişilerin adam öldürme, uyuşturucu kaçakçılığı, gasp ve kundakçılık gibi suçlardan arandığı bildirildi.
+
+     Amerikan Adalet Bakanı Eric Holder, FBI tarafından mafyaya karşı en büyük operasyonlardan birinin düzenlendiğini hatırlatarak, gözaltına alınanlar için, &quot;Ülkemizin en tehlikeli suçluları arasındalar&quot; ded
+</TEXT>
+</DOC>

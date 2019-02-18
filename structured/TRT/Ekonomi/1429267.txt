@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1429267 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3ea0cd45-d1f3-4849-bc32-34dbe562b329 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 11:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+1 milyon ton s��t i��tik
+</HEADLINE>
+<TEXT>
+Türkiye İstatistik Kurumu (TÜİK), 2010 yılının süt ürünleri üretim istatistiklerini açıkladı. 
+
+TÜİK verilerine göre, geçen yıl entegre süt işletmeleri tarafından 6 milyon 745 bin 11 ton süt toplanırken, 1 milyon 90 bin 605 ton içme sütü, 473 bin 57 ton peynir, 908 bin 269 ton yoğurt, 397 bin 935 ton ayran üretildi.
+
+TÜİK verilerine göre, geçen Aralık ayında, 544 bin 4 ton inek sütü toplandı. Aralık ayında toplanan inek sütü miktarı bir önceki aya göre yüzde 8.1 arttı. 
+
+Aralık ayında toplanan sütlerin 98 bin 118 tonu içme sütü olarak işlenirken, geçen aralık ayında gerçekleşen toplam içme sütü üretimi bir önceki aya göre yüzde 6.8 arttı. 
+
+Peynir üretimi ise geçen aralık ayında, bir önceki aya göre yüzde 9.4 artarak, 37 bin 958 ton olarak gerçekleşti. Yoğurt üretimi aralık ayında bir önceki aya göre yüzde 7.7 artarak 75 bin 437 ton oldu. 
+
+2010 yılı aralık ayında gerçekleşen ayran üretimi 32 bin 982 ton oldu. 
+
+</TEXT>
+</DOC>

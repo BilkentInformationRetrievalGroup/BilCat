@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328892 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f657b00/l/0l0smilliyet0n0btr0cpasaportlar0eyine0edegisiyor0e0cekonomi0csondakika0c0a60b110b20a10a0c1310a9720cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:00:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+pasaportlar yine de��i��iyor!
+</HEADLINE>
+<TEXT>Türkiye, AB standardında çipli pasaport için 2004'te düğmeye bastı. Yeni pasaportların basımını üstlenen Darphane ve Damga Matbaası Genel Müdürlüğü, 2005'te 'çipli pasaport kapağı' ihalesi açtı. İhaleyi, Malezyalı IRIS Technology Berhad Firması kazandı. Darphane, 5 milyon çipli kapak için IRIS'e 15 milyon 475 bin avro ödedi. Uzun çalışmanın ardından dağıtım tarihi üç kez ertelenen yeni pasaportlar, nihayet 1 Haziran'da verilmeye başlandı. Ancak IRIS'ten alınan çipli kapakların istenilen nitelikleri tam taşımadığı ortaya çıktı. Çipli karton kapakları 'dayanıksız' bulan Emniyet, pasaportların kapaklarını yenilemek için çalışma başlattı. Yeni kapakların, kartondan çok daha dayanıklı olan 'polikarbon'dan yapılması benimsendi.BAŞKA DEĞİŞİKLİK YOK Emniyet'in bu çalışması, biyometrik pasaportların koordinasyonunu üstlenen Dışişleri, İçişleri ve Ulaştırma bakanlıklarınca da uygun görülürse değişiklik yapılacak. Polikarbon kapaklı yeni pasaportlar, gelecek haziran ayından itibaren dağıtılılacak. Darphane'nin IRIS'ten aldığı çipli karton kapaklarla bastığı 5 milyon adet pasaport defterinin, gelecek haziran ayına kadar bitmesi; Darphane'nin, yeni pasaport basımına başlamadan önce 'çipli polikarbon kapak' ihalesi açması</TEXT>
+</DOC>

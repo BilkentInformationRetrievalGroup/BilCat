@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1392318 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=46c70a40-c80c-4e03-8c8c-a47de4d07584 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 20:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yunanistan'dan karasu ihlali
+</HEADLINE>
+<TEXT>
+Yunanistan'a ait sahil güvenlik botları ve balıkçı tekneleri Kardak Kayalıkları bölgesinde Türk karasularını ihlal etti.
+
+Genelkurmay Başkanlığı&rsquo;ndan yapılan açıklamaya göre, iki Yunan sahil güvenlik botu eşliğindeki 10 balıkçı teknesi saat 6:45 ile 17:30 arasında, Kardak Kayalıkları bölgesinde Türk karasularında kaldı.
+
+Genelkurmay Başkanlığı, ihlali Dışişleri Bakanlığı&rsquo;na bildirdi.
+</TEXT>
+</DOC>

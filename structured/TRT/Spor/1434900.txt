@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1434900 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=36796da1-eff7-49e3-a13e-e287c5337c92 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 15:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+grekoromenciler d��nya 5.'si
+</HEADLINE>
+<TEXT>
+Grekoromenciler Dünya Kupası'nı 5. sırada tamamladı
+
+Belarus&rsquo;un başkenti Minsk&rsquo;te organize edilen Grekoromen Dünya Kupası&rsquo;nda Türkiye beşinci oldu. 
+ Grup müsabakalarında yaptığı müsabakalar sonrasında Kazakistan ile klasmanda karşılaşan milli takımımız rakibini 4-3 yenerek turnuvayı beşinci sırada tamamladı. 
+ Türkiye aldığı bu galibiyet sonrasında 10 ülkenin katıldığı Dünya Kupasını beşinci sırada tamamladı.
+</TEXT>
+</DOC>

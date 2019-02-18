@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1410597 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=97c3c25a-d790-424f-939d-dd6d30425ce1 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 18:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+libya mesaj�� adl��
+</HEADLINE>
+<TEXT>
+Tunus'daki Yasemin Devrimi'nin bölgede tetiklediği durumu gören Libya hükümeti harekete geçti. 
+
+Tunus&rsquo;daki Yasemin Devrimi&rsquo;nin ardından huzursuzluk diğer ülkelere de yayılmaya başladı. Bu süreci gören Libya yönetimi, halkın durumunu iyileştirecek bir dizi önlem açıkladı.
+
+Libya basınının haberine göre, ilk aşamada, yerel kalkınma ve halkın konut gereksinimi için 24 milyar dolarlık bir fon oluşturuluyor.
+
+Libya Sanayi ve Ticaret Bakanı Muhammed Hweji, gıda ürünleri için gümrük ve diğer alanlardaki vergilerde de indirim yapıldığını belirtti.
+
+Ülkede çok nadir yapılan protesto gösterilerinden biri, bu ay gerçekleştirilmiş ve halk inşaat halindeki yüzlerce konutu işgal etmişti.
+
+                    				İlgili Haberler
+				
+					Mısır'da Baradey Koltuğa Talip... 
+					Yemen'de de Halk Sokakta
+					İstediklerini Aldılar Ama..
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1345685 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/ff8f9e4/l/0L0Smilliyet0N0Btr0Ccumhurbaskani0Egul0Ekomutanlarin0Eaciga0Ealinmasina0Ene0Ededi0E0Csiyaset0Csondakika0C250B110B20A10A0C13182880Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:04:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cumhurbaşkanı Gül komutanların açığa alınmasına ne dedi?
+</HEADLINE>
+<TEXT>Cumhurbaşkanı , 'ye hareketinden önce 'nda açıklamalarda bulundu ve basın mensuplarının gündeme ilişkin sorularını yanıtladı. Gül, üç generalin açığa alınmasıyla ilgili bir soruyu cevaplarken, "Yasaların sayın bakanlara verdiği yetki, bakanlar değerlendirmişler ve kullanmışlardır. Aslında bu hususu çok fazla abartmaya da gerek yok," dedi.
+
+Cumhurbaşkanı Gül, üç generalin haklarındaki davayla ilgili açığa alınmasıyla ilgili değerlendirmesinin sorulması üzerine, şunları söyledi:
+“EMNİYET GENEL MÜDÜRLERİ BİLE AYNI ŞEKİLDE AÇIĞA ALINMIŞTIR”
+"Yasaların sayın bakanlara verdiği yetki, bakanlar değerlendirmişler ve kullanmışlardır. Aslında bu hususu çok fazla abartmaya da gerek yok. Biliyorsunuz bu ülkede emniyet genel müdürleri bile aynı şekilde açığa alınmıştır</TEXT>
+</DOC>

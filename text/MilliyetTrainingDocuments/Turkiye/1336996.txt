@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336996 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa665c9/l/0l0smilliyet0n0btr0ciskenderun0ekorfezi0ende0edeprem0cturkiye0csondakika0c150b110b20a10a0c13146330cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:08:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+iskenderun k��rfezi'nde deprem
+</HEADLINE>
+<TEXT>Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nün merkez üssünü İskenderun Körfezi olarak saptadığı 4.9 büyüklüğündeki deprem, bugün saat 01.08'de meydana geldi. Deprem, İskenderun'un yanı sıra Antakya ve Adana kent merkezi ile ilçelerinde de hissedildi. İskenderun'da sarsıntıyla birlikte panik içerisinde yataklarından fırlayan bazı vatandaşlar, sokaklara çıktı. Depremde can ve mal kaybı yaşanmazken, bir süre dışarda bekleyen vatandaşlar, daha sonra yeniden evlerine döndü.</TEXT>
+</DOC>

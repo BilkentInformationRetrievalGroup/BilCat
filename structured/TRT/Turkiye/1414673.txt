@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1414673 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6ef526ac-2dfc-4017-999a-fcb08e99c3b1 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 09:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+askeri ara�� devrildi: 10 yaral��
+</HEADLINE>
+<TEXT>
+Van'ın Özalp ilçesinde, askeri aracın şarampole yuvarlanması sonucu 10 asker yaralandı. 
+
+Alınan bilgiye göre, Mollatopuz köyünden İlçe Jandarma 
+                  Komutanlığı&rsquo;na dönen askeri kamyon, sürücünün buzlanma 
+                  nedeniyle direksiyon hakimiyetini kaybetmesi sonucu Tepedam 
+                  köyü yakınlarında şarampole yuvarlandı.
+                  Kazada, araçta bulunan 10 asker yaralandı. Çevredekilerin 
+                  yardımıyla araçtan çıkarılan yaralılar, ambulanslarla Van 
+                  Asker Hastanesi&rsquo;ne kaldırıldı.
+                  Yaralıların sağlık durumunun iyi olduğu, kazayla ilgili İlçe 
+                  Jandarma Komutanlığı ekiplerince inceleme başlatıldığı 
+                  bildirildi. 
+</TEXT>
+</DOC>

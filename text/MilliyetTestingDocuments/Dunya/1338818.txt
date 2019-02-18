@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338818 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fb7ed47/l/0l0smilliyet0n0btr0cahmedinejad0ebaku0ede0cdunya0csondakika0c170b110b20a10a0c13153160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 11:01:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ahmedinejad bak��'de
+</HEADLINE>
+<TEXT>İran Cumhurbaşkanı Mahmud Ahmedinejad, iki günlük resmi ziyaret için Azerbaycan’ın başkenti Bakü’ye geldi.Ahmedinejad’i, Uluslararası Haydar Aliyev Havaalanında, Azerbaycan Başbakan Yardımcısı Yakup Eyübov, Azerbaycanlı yetkiler ve İran Büyükelçiliği temsilcileri karşıladı.İran Cumhurbaşkanı Ahmedinejad’ın bugün Azerbaycan Cumhurbaşkanı İlham Aliyev ile biraraya gelmesi bekleniyor.Görüşmelerde, iki ülke arasındaki işbirliği alanları ile bölgesel ve uluslararası konular ele alınacak.İran heyetinde, İran Dışişleri Bakanı Menuçehr Mutteki ve Enerji Bakanı Mecid Namcu da yer alıyor.Cumhurbaşkanı Ahmedinejad, yarın Bakü’de yapılacak "Hazar Denizi’ne Kıyı Ülkeler Zirvesi"ne katılacak.</TEXT>
+</DOC>

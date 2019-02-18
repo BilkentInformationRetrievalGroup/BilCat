@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333617 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f84f587/l/0l0smilliyet0n0btr0cigdas0etan0elodos0euyarisi0cturkiye0csondakika0c10a0b110b20a10a0c13127370cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:41:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+igda��'tan lodos uyar��s��
+</HEADLINE>
+<TEXT>İGDAŞ’tan yapılan açıklamada, meteorolojiden İstanbul genelinde kuvvetli lodosun etkili olacağı bilgisinin alındığı, bu nedenle doğalgaz kullanıcılarının lodoslu havalarda bacalı cihazlarını kullanırken dikkatli olmaları gerektiği belirtildi.Açıklamada, kullanıcılar bacaların sızdırmazlığı ve çekişini mutlaka kontrol ettirmeleri gerektiği konusunda uyarılarak, "Bacalı cihaz kullanan vatandaşlarımızın cihazın bulunduğu mekanda yatmamaları da önem arz etmektedir. Cihazların bulunduğu mekanda yer alan menfezlerin de kesinlikle kapatılmaması gerekmektedir" denildi.</TEXT>
+</DOC>

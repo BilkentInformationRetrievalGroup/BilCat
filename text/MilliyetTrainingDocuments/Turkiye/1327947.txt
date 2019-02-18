@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327947 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f615c30/l/0l0smilliyet0n0btr0cthk0erandevu0eile0ekurban0ekesecek0cturkiye0csondakika0c0a50b110b20a10a0c1310a720a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 19:11:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+thk randevu ile kurban kesecek
+</HEADLINE>
+<TEXT>Türk Hava Kurumu (THK), randevu alan vatandaşlar için kurban kesimi hizmeti verecek.THK’dan yapılan yazılı açıklamada, canlı kurban kesimi yaptırmak ve kurban etinin tamamını almak isteyen vatandaşların taleplerinin göz önünde bulundurulduğu ve Genel Başkanlıkta kesim merkezi kurulduğu bildirildi.Bu kapsamda, Kurban Bayramı öncesi THK Genel Başkanlığına gelen vatandaşlar, 550 lira yatırarak kesim makbuzu alacak ve Kurban Bayramı’nın birinci, ikinci ve üçüncü günü içerisinde kendilerine tebliğ edilen saatte kesim merkezine gelerek kurbanlarını kestirebilecek.Uygulama ile vatandaşlar, kestirecekleri kurbanı kendileri seçebilecek, vekaletini kesim işlemini gerçekleştirecek kasaba verecek ve kesilen kurbanın parçalanmış ve poşetlenmiş etini kısa sürede alabilecek.</TEXT>
+</DOC>

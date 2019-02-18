@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1428614 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ca0bd81b-8420-4a14-8bfe-3ed3ca2b9a54 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 18:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+karab��kspor'da emenike ��oku
+</HEADLINE>
+<TEXT>
+Nijerya Milli Takımı'ndan sakat dönen Kardermir Karabüksporlu Emmanuel Emenike'den kötü haber geldi.
+
+İlk kez çağrıldığı Nijerya Milli Takımı&rsquo;ndan sakat dönen Emenike&rsquo;nin İstanbul&rsquo;da yapılan kontrollerinde sağ diz yan bağlarında kopma olduğu açıklandı.
+ Kardermir Karabükspor&rsquo;ın yıldız oyuncusu Emenike&rsquo;nin 4 veya 6 hafta sahalardan uzak kalacağı bildirildi.
+</TEXT>
+</DOC>

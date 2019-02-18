@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1424320 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b158314f-3f83-4eaf-bc73-ab13d9da03b7 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 11:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fazla peynir kanser yap��yor
+</HEADLINE>
+<TEXT>
+Hollandalı ve Belçikalı bilim insanlarının yaptığı araştırmada, fazla peynir tüketmenin mesane kanseri riskini artırdığı ortaya çıktı.
+
+200 kanser hastası ve 386 sağlıklı kişinin verileri incelenerek yapılan araştırmaya göre, günde 53 gramdan fazla peynir tüketen kişilerde mesane kanseri riski, %50’den fazla yükseliyor. 
+
+Uzmanlar zeytinyağı ağırlıklı Akdeniz beslenme şeklinin riski azalttığının altını çiziyor.
+
+</TEXT>
+</DOC>

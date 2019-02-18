@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1404318 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cafcf89b-6516-4a22-bc00-4629c9fafdf4 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 22:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ve giffords taburcu oldu
+</HEADLINE>
+<TEXT>
+2 hafta önce silahlı saldırıya uğrayan ABD Temsilciler Meclisi üyesi Gabirelle Giffords'un hastanedeki tedavisi tamamlandı.
+
+2 hafta önce silahlı saldırıya uğrayan Amerika Birleşik Devletleri Temsilciler Meclisi üyesi Gabirelle Giffords, Tucson şehrinde tedavi gördüğü hasataneden önce ambülans ile askeri bir havaalanına, oradan da uçakla Houston şehrindeki bir rehabilitasyon merkezine gönderildi.
+
+Temsilciler Meclisinin Demokrat Partili üyesinin 2 ay süreyle rahabilitasyon merkezinde kalacağı bildirildi.
+
+Polis, Giffords&rsquo;un götürüldüğü merkezde yoğun güvenlik önlemleri aldı.
+
+Gabrille Giffords&rsquo;a 8 Ocak&rsquo;ta düzenlenen silahlı saldırıda 6 kişi ölmüş, 18 kişi de yaralanmıştı
+</TEXT>
+</DOC>

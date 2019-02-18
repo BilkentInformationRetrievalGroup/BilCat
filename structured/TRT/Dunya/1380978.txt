@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1380978 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a055abd0-0086-4f91-a99c-1b8ef3f52892 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 16:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"iki casus u��a���� d������rd��k"
+</HEADLINE>
+<TEXT>
+Bu açıklama, İran Devrim Muhafızları komutanına ait...
+
+İran, Basra Körfezi&rsquo;nde iki casus uçağını düşürdüğünü bildirdi.
+
+İran Devrim Muhafızları komutanlarından Emir Ali Hacızade, Fars haber ajansına yaptığı açıklamada, İran&rsquo;ın Basra Körfezi&rsquo;nde iki casus uçağını vurarak düşürdüğünü söyledi.
+
+Emir Ali Hacizade, Basra Körfezinde uçakları ne zaman düşürdükleri hakkında bilgi vermedi.
+
+
+
+</TEXT>
+</DOC>

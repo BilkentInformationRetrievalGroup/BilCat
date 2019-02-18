@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1436626 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7239aa85-1cc6-42c1-b255-eb790c986c8e </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 10:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��rekli ��al����mak unutkan yap��yor
+</HEADLINE>
+<TEXT>
+Sık sık isimleri ve eşyalarını koydukları yerleri unutan genç insanların ne derdi olduğu ortaya çıkarıldı. 
+
+
+İskoç bilimadamları, genç yaşlarda baş gösteren bu tür unutkanlıkta mücadele için bir çalışma başlattı.
+
+BBC&rsquo;nin haberine göre &quot;öznel bilişsel bozukluk&quot; olarak adlandırılan bu durum, çoğunlukla iş ve ev hayatının sorunları ve yoğunluğundan kaynaklanıyor. 
+
+Ancak uzmanlar, unutkanlığın bu türünün, genellikle yaşlılarda ortaya çıkan Alzheimer gibi hastalıklarla karıştırılmaması gerektiğini dile getiriyor. 
+
+Glasgow merkezli araştırmacılar, unutkanlığa yol açan bu durumu, &quot;Meşgul Yaşam Tarzı Sendromu&quot; olarak adlandırıyor.
+
+Genç yaşlardaki unutkanlık, kişinin bilgisayarların yanı sıra akıllı telefonlarla da tüm gün internetten bilgi bombardımanına tutulmasından ve televizyon izleme alışkanlıklarından kaynaklanıyor.
+
+Uzmanlar, bu tip unutkanlığı, Alzheimer için kullanılan memantine adlı ilacın geniş kullanıma uygun düşük dozlu bir türü ile tedavi etmeyi umduklarını dile getiriyor. 
+</TEXT>
+</DOC>

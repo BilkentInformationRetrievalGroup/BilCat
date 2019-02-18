@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1417668 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8ca70bfe-18cb-44a3-b5ec-ccc2eb4ea0ae </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 22:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tren minib��se ��arpt��
+</HEADLINE>
+<TEXT>
+İzmir'in Tire ilçesinde tren minibüse çarptı. Kazada 2 kişi öldü, biri ağır 8 kişi yaralandı.
+
+
+
+Torbalı&rsquo;dan Tire&rsquo;ye giden işçi minübüsüne hemzemin geçitte tren çarptı. 
+   
+Kazada minübüste bulunan işçilerden Ahmet Acar ve  Mert Çelik hayatını kaybetti. 
+       
+   Ağır yaralı bir işçi Ege Üniversitesi Tıp Fakütesi Hastanesine kaldırıldı.
+ 
+      7 işçinin tedavisi ise Tire Devlet Hastanesinde sürüyor. 
+                             
+</TEXT>
+</DOC>

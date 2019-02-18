@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331260 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f724d9c/l/0l0smilliyet0n0btr0cnijerya0eda0epetrol0ekulesine0esaldiri0cdunya0csondakika0c0a80b110b20a10a0c13117230cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 13:09:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+nijerya'da petrol kulesine sald��r��
+</HEADLINE>
+<TEXT>Nijerya’da, bir petrol kulesine saldırı düzenlendiği ve bazı kişilerin kaçırıldığı bildirildi.Merkezi Londra’da bulunan Afren PLC petrol şirketi, ülkenin güney açıklarında yer alan petrol kulesine düzenlenen saldırıda 2 çalışanının yaralandığını, 5’inin kaçırıldığını açıkladı.Açıklamada, yaralı 2 çalışanın helikopterle bir kliniğe kaldırıldığı belirtilirken, çalışanların yerli mi yoksa yabancı mı oldukları konusunda bilgi verilmedi.Saldırının sorumluluğunu henüz üstlenen olmadı.Nijerya’da petrol zengini Nijer Deltasında militanlar, 50 yıldır süren petrol üretimine rağmen bölgenin yoksul olmasını kullanarak, 2006 yılından bu yana adam kaçırma ve petrol boru hatlarına bombalı saldırılar düzenleme eylemlerine imza atıyor.</TEXT>
+</DOC>

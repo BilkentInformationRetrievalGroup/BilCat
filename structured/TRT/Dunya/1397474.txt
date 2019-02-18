@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1397474 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ecac0126-64c7-442b-9b34-466bac80ea14 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 12:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tunus'ta bundan sonra ne olacak?
+</HEADLINE>
+<TEXT>
+Ülkede 60 gün içinde devlet başkanlığı seçimi gerçekleştirilecek. Meclis Başkanı geçici devlet başkanı olarak görev yapacak. 
+
+    Kuruluşundan beri Tunus&rsquo;un ikinci devlet başkanı olan Zeynelabidin Bin Ali&rsquo;ye iktidar yolu tamamen kapandı.
+
+      Anayasa Konseyi, Bin Ali&rsquo;nin iktidardan nihai olarak uzaklaştırılmasına karar verdi ve devlet başkanlığı makamının boş olduğu belirtildi.
+
+      Anayasa gereği devlet başkanlığı seçimlerinin 60 gün içinde yapılması gerekiyor.
+
+     Meclis Başkanı Fuad Mebazza geçici devlet başkanı ilan edildi.
+
+      Tunus&rsquo;un kurucusu ve ilk cumhurbaşkanı Habib Burgiba&rsquo;nın radikal dincileri sindirdiği için içişleri bakanıyken başbakan olarak atadığı Zeynel Abidin Bin Ali, halk baskısıyla ülkesinden kaçan ilk ve tek Arap devlet adamı olarak tarihe geçti.
+
+       Zeynel Abidin Bin Ali&rsquo;yi ülkeyi terk etmek zorunda bırakan protesto gösterilerine sahne olan Tunus&rsquo;ta, sokağa çıkma yasağının kalkmasının ardından yaşanan gözler önüne serildi.
+
+     Başkent Tunus&rsquo;ta garın tamamen yandığı, başkent dışında büyük bir mağaza zincirinin binasının hasara uğradığı ve yağmalandığı görülürken,  ordunun yağmayı durdurmaya çalıştığı bildirildi.
+
+     Tunus resmi TAP haber ajansı ise dün olağanüstü hal ilan edilmesinin ardından kapatılan Tunus hava sahasının açıldığını ve tüm havaalanlarının 
+ uçuşlara açık olduğunu duyurdu.
+
+</TEXT>
+</DOC>

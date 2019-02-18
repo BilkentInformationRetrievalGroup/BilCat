@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1319872 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f3c5148/l/0L0Smilliyet0N0Btr0Cfotograftakinin0Ene0Eolduguna0Einanamayacaksiniz0E0Cdunya0Csondakika0C0A10B110B20A10A0C130A87340Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 15:02:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fotoğraftakinin ne olduğuna inanamayacaksınız!
+</HEADLINE>
+<TEXT>Amatör astronom Alan Friedman, 20 Ekim günü, evindeki teleskobu kullanarak, Güneş'in inanılmaz fotoğraflarını çekti.
+Hidrojenin ışığı olarak tanımlanan H-alfa ışık dalga boyunu yakalayan bir filtre kullanan Friedman'ın fotoğrafları çoktan 'nın sitesini süslemeye başladı.
+Fotoğraflar bir ateş denizine benzese de, aslında sadece Güneş'in en üst tabakası olan korona ile fotosfer tabakalarının arasındaki kromosfer tabakasındaki ışığı yansıtıyor.
+Friedman, kromosferdeki ışığı yakalamak için, bir H-alfa filtresiyle diğer tüm dalgaboylarındaki ışığı engelleyerek, makineye sadece H-alfa ışığının düşmesini sağladı.
+Fotoğraflardaki karanlık alanların güneş lekeleri ve güneşin etrafına yayılmış görülen kütlenin de, güneşi çevreleyen gazların görünür kısmı olduğu belirtiliyor.
+ </TEXT>
+</DOC>

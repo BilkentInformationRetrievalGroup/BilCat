@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337564 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa99f67/l/0l0smilliyet0n0btr0carazide0ebuldugu0efunye0epatladi0e30eyarali0cturkiye0csondakika0c150b110b20a10a0c13147890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:08:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+arazide buldu��u f��nye patlad��: 3 yaral��
+</HEADLINE>
+<TEXT>Merkez Yıldırım İlçesi’nde doğu kökenli ailelerin yoğunlukta olduğu Ulus Mahallesi’nde boş bir arazide bulduğu fünyeyle oynayan Fırat Çelik'in yanına, akrabası olmayan ve soyadı benzerliği bulunan Emre Çelik ile Mehmet Şirin Söylemez geldi. Bu sırada fünyenin patlaması sonucu Fırat Çelik, Emre Çelik ve Mehmet Şirin Söylemez yaralandı. Görgü tanıklarından Enis Bahadır adlı çocuk, patlamanın hemen ardından ikinci bir patlamanın daha olduğunu söylediler. Yaralılardan durumu ağır olan Fırat Çelik Uludağ Üniversitesi Tıp Fakültesi Hastanesi’nde diğer yaralılar ise Şevket Yılmaz Devlet Hastanesi’ne kaldırıldı.Olayla ilgili soruşturmaya başlandı. Askerden gelen bir kişinin fünyeyi araziye atmış olabileceğini belirten yetkililer, patlama sonucu duyulan yankı sesinin, ikinci patlama gibi algılanmış olabileceğini söyledi.</TEXT>
+</DOC>

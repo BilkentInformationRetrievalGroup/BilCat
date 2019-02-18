@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1397584 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f37d0279-d340-456f-8945-86f02588d437 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 14:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+thy u��a���� tunus'a gidiyor
+</HEADLINE>
+<TEXT>
+Tunus'ta yaşayan Türkler'i getirmek üzere Türk Hava Yolları'na ait bir uçak bu ülkeye yollandı. 
+
+Tunus&rsquo;taki siyasi karışıklık devam ederken Dışişleri Bakanlığı, bu ülkede bulunan Türk vatandaşlarını getirmek üzere bölgeye Türk Hava Yolları&rsquo;na ait bir uçağı gönderdi.
+
+İstanbul Atatürk Havalimanı&rsquo;ndan saat 13.15&rsquo;de kalkan uçak İstanbul&rsquo;dan da 47 yolcuyu ülkelerine götürüyor. Uçakta TRT ve Anadolu Ajansı muhabirleri de bulunuyor. 
+
+ Türk Hava Yolları uçağı ülkede bulunan 270 Türk vatandaşını Türkiye&rsquo;ye getirecek. 
+</TEXT>
+</DOC>

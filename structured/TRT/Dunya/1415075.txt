@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1415075 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=22b8f01e-483f-475c-a07b-1fead8e96a50 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 16:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"t��rkiye ortado��u i��in model"
+</HEADLINE>
+<TEXT>
+Wall Street Journal gazetesi, Türkiye'nin yönetim karşıtı ayaklanmaların yaşandığı Ortadoğu ülkeleri için model oluşturabileceğini yazdı. 
+
+
+&quot;Türkiye için Mısır, Risk ve Fırsat&quot; başlıklı yazıda &quot;Türk yetkililer Mısırdaki krizi hem kaygı hem de hoşnutlukla izliyor&quot; yorumu yapıldı. 
+
+Yazıda, yakın bir gelecekte demokratik bir yönetimle, İslamcı bir yönetim arasında seçim yapmak zorunda kalabilecek ülkeler için Türkiye&rsquo;nin alternatif bir model olabileceği belirtildi.
+
+Bu durumun  Türkiye&rsquo;nin Ortadoğu&rsquo;daki etkinliğini daha da güçlendireceği belirtilen analizde, bu sürecin AK Parti&rsquo;nin 2002 yılında seçimden galip çıkması ile başladığı kaydedildi.
+
+Analizde diğer yandan bölgedeki protestoların uzun süre devam etmesinin, petrol fiyatlarını arttıracağı ve bunun büyük bir enerji ithalatçısı olan Türkiye&rsquo;nin ekonomisine zarar verebileceği de belirtildi.
+</TEXT>
+</DOC>

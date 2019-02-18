@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1390401 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=23a8c12e-f2f8-455a-8123-06e3b0c2b3aa </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 14:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'de twitter bask��n��
+</HEADLINE>
+<TEXT>
+Amerikalı ajanlar, Wikileaks kurucusu Assange ve binlerce belgeyi sızdıran askeri istihbarat uzmanının Twitter hesaplarının peşine düştü. 
+
+Federal yetkililer, Assange ve destekçilerinin Twitter hesaplarındaki özel yazışmalara erişebilmek için mahkeme emri çıkarttı. 
+
+San Francisco merkezli Twitter&rsquo;den henüz konuya ilişkin bir açıklama yapılmazken, Julian Assange duruma sert tepki gösterdi. 
+
+Assange yazılı açıklamasında, &quot;İran yönetimi zorla bilgiye ulaşmaya çalıştığında ortalık ayağa kalkıyor. Şu anda bize de farklı bir şey yapılmıyor&quot; dedi. 
+
+Özel bilgileri talep edilenler arasında Wikileaks&rsquo;le yakın ilişkilere sahip İzlandalı bir avukat, Hollandalı bir hacker ile Amerikalı internet programcısı da var. 
+
+Assange ve yandaşları fikir ve düşünce özgürlüğüne dolayısıyla Amerikan anayasasına aykırı olarak nitelendirdikleri bu oldu bittiye karşı mücadele edeceklerini dile getiriyorlar. 
+</TEXT>
+</DOC>

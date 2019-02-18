@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322468 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f4ca1e4/l/0l0smilliyet0n0btr0cistanbul0eda0eelektrik0ekesintisi0cturkiye0csondakika0c0a30b110b20a10a0c130a95940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 11:08:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul'da elektrik kesintisi
+</HEADLINE>
+<TEXT>İstanbul Anadolu Yakası Elektrik Dağıtım A.Ş’den (AYEDAŞ) yapılan açıklamada, Şile ve Erenköy işletme müdürlüklerinin hizmet bölgesinde bulunan bazı trafo merkezlerinde bakım ve onarım çalışması yapılacağı bildirildi.Açıklamada, yarın 11.00-14.00 saatleri arasında Şile’de Çeliktaş, Kumsan, Siltaş, Ergören, Ergen, Kale Maden, Hundaş Hafriyat, NR Toplutepe Madencilik Fabrikaları, Gürbüz, Akçapınar, İpekpınar Su İşletmesi, Sahilköy Jandarma, Necla Moralıgil İlköğretim Okulu, Sahilköy Orman İşletme Şefliği ve Sofular, Alacalı, Doğancılı, Sahilköy, Kurna ile Karakiraz köyleri, 7 Kasım Pazar günü de 08.00-15.00 saatleri arasında Kadıköy Erenköy Bağdat ve Ethem Efendi caddeleri, Ethem Camisi ile Şerafettin ve Yener sokaklara elektrik verilemeyeceği belirtildi.</TEXT>
+</DOC>

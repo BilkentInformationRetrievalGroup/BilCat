@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1415002 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8d1dbdc6-283f-438a-865b-15c3f2b3035e </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 13:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abdi ipek��i an��ld��
+</HEADLINE>
+<TEXT>
+Gazeteci-Yazar Abdi İpekçi, silahlı saldırı ile öldürülmesinin 32'nci yıldönümünde törenlerle anılıyor.
+
+Gazeteci-Yazar Abdi İpekçi ilk olarak Zincirlikuyu&rsquo;daki kabri başında düzenlenen törenle anıldı. 
+
+     Törene kızı Nükhet İpekçi ve Türkiye Gazeteciler Cemiyeti Başkanı Orhan Erinç&rsquo;in yanı sıra bazı çalışma arkadaşları, meslekdaşları ile vatandaşlar katıldı.
+
+     Orhan Erinç, yaptığı konuşmada Abdi İpekçi&rsquo;nin öldürülüşünün ardındaki sırrın araştırılması için çağrı yaptı.
+
+     Ayrıca Toplumsal Bellek Platformu anmada bir basın açıklaması yaptı.
+
+     Anma töreni yapılan duanın ardından son buldu.
+
+     Abdi İpekçi, Maçka&rsquo;daki evinden işe giderken otomobilde uğradığı silahlı saldırıda hayatını kaybetmişti. 
+</TEXT>
+</DOC>

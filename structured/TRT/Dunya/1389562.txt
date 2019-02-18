@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1389562 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6b2ed6bd-671c-4399-9808-5c016a0a58a9 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 16:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pakistan'da h��k��met krizi a����ld��
+</HEADLINE>
+<TEXT>
+Başbakan Gilani'nin akaryakıt zammını geri çekmesi üzerine Müttehide Kavmi Partisi koalisyona dönem kararı aldı. 
+
+     Parti yetkilisi Rıza Harun, demokrasi ve ülkenin yararı için, Devlet Başkanı Asıf Ali Zerdari&rsquo;nin Pakistan Halk Partisiyle yeniden ortaklık yapma kararı aldıklarını söyledi.
+
+     Parlamentonun ikinci büyük partisi Müttehide Kavmi Partisi, hükümetin özellikle akaryakıt politikasını gerekçe göstererek pazar günü koalisyondan ayrılmış, Pakistan Halk Partisi azınlıkta kalmıştı.
+
+    Pakistan hükümeti, taviz olarak akaryakıt zammını dün geri almıştı.
+
+    Bu arada, Pakistan Başbakanı Yusuf Rıza Gilani, Uluslararası Para Fonu IMF ve Amerika Birleşik Devletleri&rsquo;nin yapılmasını istediği önemli vergi reformunu ertelediklerini bildirdi
+</TEXT>
+</DOC>

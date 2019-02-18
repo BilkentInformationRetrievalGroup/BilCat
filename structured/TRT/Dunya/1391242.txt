@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1391242 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5cbb4af8-0953-465b-8966-37145ef830eb </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 00:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+clinton iran'a yapt��r��mda destek istedi
+</HEADLINE>
+<TEXT>
+ Amerika Birleşik Devletleri Dışişleri Bakanı Hillary Clinton, Körfez ülkelerinden İran'a yaptırımların uygulanabilmesine destek olmalarını istedi.
+
+Bölgedeki 3 ülkeyi kapsayan ziyaretinin ilk durağı olan Birleşik Arap Emirlikleri&rsquo;nde bulunan Clinton, yaptığı açıklamada, İran&rsquo;ın nükleer programının &quot;ciddi bir kaygı&quot; unsuru olduğunu söyledi.
+
+Clinton, Amerika Birleşik Devletleri&rsquo;nin, Körfez&rsquo;deki ve diğer yerlerdeki müttefiklerinden,  yaptırımların uygulanmasının sağlanmasına destek için &quot;gereken her şeyi  yapmalarını&quot; beklediğini belirtti.
+
+Amerika Birleşik Devletleri Dışişleri Bakanı, Birleşik Arap Emirlikleri&rsquo;nin ardından Umman ve Katar&rsquo;ı ziyaret edecek.
+
+</TEXT>
+</DOC>

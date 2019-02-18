@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1415733 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e7397930-ce3b-43d6-aeb6-5e036c8d7cad </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 10:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sporun ya���� yok
+</HEADLINE>
+<TEXT>
+60 yaşındaki İsmail Ebrişim, 21 önce bıraktığı voleybola geri döndü.
+
+Voleybol aşığı 60 yaşındaki İsmail Ebrişim, bu sporu bıraktıktan 21 yıl sonra Aroma Erkekler Üçüncü Voleybol Ligi A Grubu&rsquo;nda mücadele eden Seydişehir Belediyespor formasıyla salonlara döndü. 
+ Ebrişim, neredeyse torunu yaşındaki takım arkadaşları ile takımının başarısı için mücadele veriyor.
+ Seydişehir Belediyespor&rsquo;un &quot;60&rsquo;lık delikanlısı&quot; İsmail Ebrişim, ilerleyen yaşına rağmen en büyük tutkusu olan voleybol sporundan vazgeçemediğini söyledi.
+</TEXT>
+</DOC>

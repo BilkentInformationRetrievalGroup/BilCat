@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 1408460 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fbfc1a2e-41de-40a6-a117-4f223d2dd5c5 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 02:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+marmara ve trakya'da kar etkili oluyor
+</HEADLINE>
+<TEXT>
+Marmara ve Trakya soğuk ve yağışlı havanın etkisi altında.
+
+  
+      Edirne&rsquo;de dün gece saatlerinde başlayan kar yağışı aralıklarla sürüyor.
+  
+     Yağışın zaman zaman tipi şeklinde olması sürücülere zor anlar yaşattı.
+  
+     Kırklareli&rsquo;nde de, karayolları ekipleri çalışmalarını aralıksız olarak sürdürüyor.
+  
+    Yağışın en yoğun olduğu Tekirdağ&rsquo;da ise bazı araçlar yolda kaldı.
+  
+     Tekirdağ - Malkara karayolunda kayan 3 TIR yolun kapanmasına yolaçtı.
+  
+      Tekirdağ-Malkara-Hayrabolu ile Tekirdağ-İstanbul karayollarında zincirsiz araçların geçişlerine izin verilmiyor.
+  
+      Malkara ve Şarköy İlçelerine bağlı bazı köy yolları ulaşıma kapandı, kent merkezinde bazı yaralamalı ve hasarlı trafik kazaları meydana geldi.
+           
+      Kar yağışı ve kuvvetli rüzgar nedeniyle  41 şilep ve tanker de Şarköy   açıklarında demirledi.
+
+     İstanbul&rsquo;da da akşam saatlerinde kar yağışı görüldü.
+  
+     Yağış, Avrupa yakasında bazı yüksek kesimlerde yer yer etkili oldu.
+  
+     Yağışın bugün de aralıklarla devam etmesi bekleniyor.
+
+       
+
+
+</TEXT>
+</DOC>

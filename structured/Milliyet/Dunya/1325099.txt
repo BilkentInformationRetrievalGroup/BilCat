@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325099 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f573833/l/0l0smilliyet0n0btr0c310ekisi0edang0ehummasindan0eoldu0cdunya0csondakika0c0a40b110b20a10a0c1310a1790cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+31 ki��i dang hummas��ndan ��ld��
+</HEADLINE>
+<TEXT>Pakistan’da, yüksek ateş ve çok şiddetli kas ağrılarıyla kendisini gösteren dang hummasından 3 günde 31 kişi hayatını kaybetti.Pakistan Ulusal Sağlık Kurumu (NHD) tarafından yapılan açıklamada, ülke genelinde 5 binin üzerinde kişiye de virüsün bulaştığı bildirildi.NHD, hastalığın en fazla güneydeki Sind ve orta kesimindeki Pencap eyaletlerinde görüldüğünü, sivrisineklerle bulaşan dang hummasının yayılmasını engellemek amacıyla sağlık ekiplerinin önlemlerinin üst seviyeye çıkartıldığı belirtildi.</TEXT>
+</DOC>

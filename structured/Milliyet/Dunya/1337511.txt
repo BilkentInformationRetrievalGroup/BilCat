@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337511 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa99fcb/l/0l0smilliyet0n0btr0csarkisyan0edan0eazerilere0esavas0esuclamasi0cdunya0csondakika0c150b110b20a10a0c13147820cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:01:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sarkisyan'dan azerilere "sava��" su��lamas��
+</HEADLINE>
+<TEXT>Ermenistan Cumhurbaşkanı Serj Sarkisyan, Karabağ sorununun çözümü için hazır olduklarını ancak kendilerinin halkı barış için hazırlarken, Azeri liderlerin halkı savaşa hazırladığını ileri sürdü.Rus haber ajansı RİA Novosti, Ermenistan’ın Karabağ’da 1 Kasım’da başlattığı askeri tatbikatın bugünkü ve son bölümüne katılan Sarkisyan’ın burada yaptığı açıklamada, Ermenistan’ın kesinlikle saldıran ilk ülke olmayacağını ancak olası bir çatışmayı "bir defada ve kesin" şekilde çözmeye de hazır olduklarını söylediğini duyurdu.Ermeni askerlerinin daha hazırlıklı, güçlü ve daha disiplinli olduğunu ileri süren Sarkisyan, "Biz bununla yetinmeyeceğiz. Ordumuzu geliştirmeye devam edeceğiz" ifadesini kullandı.Sarkisyan, "Olası bir tehdit halinde bu sorunu bir defada ve kesin olarak çözmeye hazırız. Biz halkımızı barış için hazırlarken, Azerbaycanlı liderler savaş için hazırlıyor. Ermenistan silah stoklamaya ve silahlı kuvvetlerini geliştirmeye devam edecek" dedi.</TEXT>
+</DOC>

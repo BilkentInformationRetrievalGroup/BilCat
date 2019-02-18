@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1406430 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c0dad663-8e78-4cb0-b18f-0bc799333e92 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 10:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bankalarda korkutan kay��p
+</HEADLINE>
+<TEXT>
+Habertürk, bankaların değerinin 37 milyar dolar eridiğini ve reyting korkusu başladığını yazdı.
+
+Merkez Bankası’nın sıcak paraya karşı aldığı faiz indirimleri ve munzam karşılıkların artırılması önlemlerinin bankaların karını eriteceği beklentisi borsadaki bankaların değerini 2 aylık zaman diliminde 37 milyar dolar eritti. 
+
+Piyasa değeri düşen bankalar, bu durumun reytinglerine yansıyabileceğini bunun da yurtdışından alınan kredi faizlerine ve yeni bir enstrüman olarak kullanmaya başladıkları yurtdışı tahvil ihraçlarına yansıyacağı endişesi yaşıyor... 
+
+Merkez Bankası’nın özellikle Avrupa’da patlayacak krize karşı aldığı sıcak para önlemleri, bankaların piyasa değerlerini adeta vurdu. Ekim ayında mevduat munzam karşılıklarına verilen faizlerin kesilmesi ve ardından faiz indirimleri ve zorunlu karşılıkların artırılması yoluyla dışarıdan gelecek kısa vadeli portföy yatırımlarının önünün kesilmesi diğer yandan içeride kredi maliyetlerini yükselterek ekonominin ısınmasını önlemek amaçlı önlemler bankaların karına olumsuz yansıyacağı için yatırımcılar bankacılık hisselerinden kaçtı. 
+
+Bankacılık Hisseleri Yüzde 20 Civarında Eridi
+Bunun sonucunda yaklaşık 2 aylık zaman diliminde bankacılık hisseleri yüzde 20 civarında eridi. 2 aylık zaman diliminde dolar kurunun da 1.41’den 1.57’ye kadar tırmanması, dolar bazında bankaların piyasa değerlerini tam 37 milyar dolar eritti. İstanbul Menkul Kıymetler Borsası’nda işlem gören 15 bankanın piyasa değeri 9 Kasım 2010’da 142 milyar dolarken bu rakam 104 milyar dolara kadar geriledi. 
+
+Reyting ve Faiz Endişesi
+Banka hisselerinin ve piyasa değerlerinin 37 milyar dolarlık kaybı banka yöneticilerini farklı bir endişeye sürükledi. Şimdiye kadar güçlenen ve piyasa değeri sürekli artan banka değerleri eriyince uluslararası kredi derecelendirme kuruluşlarının bu kaybı dikkate alıp bankaların notunun düşürülmesi banka yöneticilerinin yeni korkusu haline geldi. Çünkü bankalar yurtdışından kullandıkları sendikasyonlar başta olmak üzere tüm kredilerde faiz oranları belirlenirken kredi notlarına bakılarak karar veriyor. Böylece son yıllarda Türkiye’nin de artan kredibilitesi ile yurtdışından aldıkları kredi maliyetleri birçok ülke bankasının altına gerileyen bankalar, piyasa değerindeki bu erimenin kredi maliyetlerine yansıyabileceğini ifade ediyor. 
+
+Yurtdışına tahvil ihraç eden bankacılık çevreleri, tahvil ihracında yapılacak olan borçlanmalarda da ihraçlara ilginin az faizin yüksek olabileceğinden çekiniyor. Bankacılar piyasa değerleri 5’te bir oranında azalan bankalarda bu gerilemenin özkaynaklarını erittiğine dikkat çekiyor. Uzmanlar güçlü bankacılık sektörü nedeniyle Türkiye’ye gelip yatırım yapan ister doğrudan yatırımcı ister uzun vadeli portföy yatırımcılarının da zayıflayan bankacılık sistemi nedeniyle kararlarını yeniden gözden geçirebileceğini kaydediyor. 
+
+Bankaların Kar Kaybı 2.5 Milyar Dolar
+Bankaların şubelerinden harç alınması ile başlayan süreçte bankacılık sisteminin yaklaşık 2.5 milyar dolarlık bir kar kaybı olacağı hesaplanıyor. Yaklaşık 500 milyon dolar şube harcı ödeyecek olan bankaların mevduat munzam karşılıklarına verilen faizin kaldırılması ile 1 milyar dolarlık kaybı olduğu ifade ediliyor. Son olarak yine zorunlu karşılık oranlarının ikinci kez artırılacağını da dikkate alan uzmanlar, banka karlarının bu nedenle de 1 milyar dolar civarında bir kayıp yaşayabileceğini ifade ediyor. 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1405402 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5c04c53b-f2b9-40d5-a425-0f5abec6c512 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 01:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+istanbul kapal�� yollar
+</HEADLINE>
+<TEXT>
+İstanbul Kadıköy'de yapılacak açıkhava toplantısı nedeniyle bugün bazı yollar trafiğe kapatılacak.
+
+
+     Kadıköy&rsquo;de saat 11.00&rsquo;den itibaren trafiğe kapatılacak cadde ve sokaklar şöyle:
+            
+                   Rıhtım caddesi, Boğa Meydanından Rıhtım caddesine inen yol, Söğütlüçeşme caddesinden Rıhtıma inen ara sokaklar ve Orgeneral Şahap Gürler Caddesi.
+
+
+
+</TEXT>
+</DOC>

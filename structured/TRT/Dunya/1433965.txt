@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1433965 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f42a0cb4-4cd5-41fa-a48f-174a23e374ba </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 14:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+almanya'da sahte doktora krizi
+</HEADLINE>
+<TEXT>
+Doktora tezinin bazı bölümleri sahte olduğu ortaya çıkan Almanya Savunma Bakanı Guttenberg'den özür bekleniyor. 
+
+
+2006 yılında tamamladığı doktora tezinde intihalle suçlanan Guttenberg, üniversitenin yapacağı inceleme sonuçlanıncaya kadar akademik unvanını kullanmama kararı aldı.
+
+     Savunma Bakanı Guttenberg, görevinden istifa etmeyi ise düşünmediğini söyledi.
+
+Bu gelişme Merkel hükümetini sıkıntıya soktu. 
+
+     Alman basınında yer alan haberlere göre Almanya Başbakanı Angela Merkel, genç politikacıya destek verdi ancak hatasını kabul edip özür dilemesini istedi.
+
+     Merkel&rsquo;in gözde çalışma arkadaşlarından olan 39 yaşındaki Guttenberg, Hristiyan Sosyal Birlik&rsquo;in gelecekteki en güçlü lider adaylarından biri olarak görülüyor.
+</TEXT>
+</DOC>

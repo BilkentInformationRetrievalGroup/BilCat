@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1407650 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2f79402f-b100-4ec6-926b-e9ad71228c74 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 11:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ara�� sahipleri dikkat
+</HEADLINE>
+<TEXT>
+Araç muayesinde yepyeni bir dönem başladı. Aracınızın trafikten men edilmemesi için dikkat etmeniz gereken noktalar şunlar...
+
+Araç muayenesinde yeni dönem başladı.
+
+Ulaştırma Bakanlığı, araç muayene ölçütlerini değiştirdi.
+
+Yeni düzenlemede hedef araçlardan kaynaklanan kazaların önüne geçmek.
+
+Peki yeni düzenleme ile neler değişti?
+
+Artık yeni sistemde amortisörlerin olmaması ağır kusur sayılıyor.
+
+Araçların kilometrelerinin düşürülmesi hafif kusurlardan sayılıyor.
+
+Yeni düzenlemeyle araçlarda ABS&rsquo;nin iptal edilmesi ağır kusurlu sayılacak.
+
+Aracınızın Trafikten Men Edilmemesi İçin Dikkat Etmeniz Gerekenler 
+Farklı ebatta lastik kullanılması, ön cam buğu giderme sisteminin çalışmaması da artık &quot;ağır kusur&rsquo; sebebi sayılacak.
+
+
+</TEXT>
+</DOC>

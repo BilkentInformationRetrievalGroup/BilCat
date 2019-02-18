@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1437249 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=212d83ed-4921-4ad5-9098-23a42312c979 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 17:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2008 krizi tekrarlan��r m��?
+</HEADLINE>
+<TEXT>
+Uluslararası Enerji Ajansı Başkanından, petrol fiyatlarının bu şekilde seyretmesi halinde krizin yeniden yaşanabileceği uyarısı geldi.
+
+
+Uluslararası Enerji Ajansı (IEA) Başkanı Nobuo Tanaka, petrol fiyatlarının şu andaki seviyelerde seyretmesi halinde dünyanın 2008 yılındaki ekonomik krizi yeniden yaşayabileceği uyarısında bulundu.
+
+Suudi Arabistan&rsquo;ın başkenti Riyad&rsquo;da düzenlenen Uluslararası Enerji Forumu&rsquo;na katılan Tanaka, &quot;Petrol fiyatı 2011 yılında 100 dolar seviyesinde hareket ederse bu 2008 yılındaki krizin tekrarına yol açar&quot; dedi.
+
+&quot;Paniğe Gerek Yok&quot;
+Petrol fiyatlarının 100 dolar seviyesinde seyretmesinin küresel ekonomi için çok kötü olduğunu, özellikle Hindistan ve Çin gibi gelişmekte olan ülkeler için ciddi sorun teşkil edeceğini belirten Tanaka, petrol arzında sıkıntı ortaya çıkarsa Petrol İhraç Eden Ülkeler Örgütünün (OPEC) hareket geçmesi gerektiğini ancak çok fazla petrol arzı bulunduğu için panik olmaya gerek olmadığını ifade etti.
+
+Bu arada Suudi Arabistan Petrol Bakanı Ali Naimi, &quot;Petrol arzındaki azalmayı giderecek atıl kapasiteye sahibiz&quot; dedi.
+
+Suudi Arabistan Haber Ajansının (SPA) haberine göre Ali Naimi, ülkesinin günlük 12,5 milyon varil petrol üretim kapasitesinin &quot;uluslararası petrol arzında herhangi bir açığı telafi etmeye&quot; yardımcı olabileceğini söyledi.
+
+Dünyanın en büyük petrol ihracatçısı Suudi Arabistan, şu anda günlük 8 milyon varil petrol üretiyor.
+</TEXT>
+</DOC>

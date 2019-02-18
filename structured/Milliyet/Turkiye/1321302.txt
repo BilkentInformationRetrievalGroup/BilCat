@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321302 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f4775fc/l/0l0smilliyet0n0btr0cmahkeme0eden0eyoutube0ea0eerisim0eyasagi0ekarari0cturkiye0csondakika0c0a20b110b20a10a0c130a930a20cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 19:11:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mahkeme'den youtube'a eri��im yasa���� karar��
+</HEADLINE>
+<TEXT>Ankara 11. Sulh Ceza Mahkemesi, Deniz Baykal’a ait olduğu iddia edilen görüntülerin yer aldığı video paylaşım sitesi "Youtube"a erişimin engellenmesi kararı aldı.Telekomünikasyon İletişim Başkanlığı’nın (TİB) "Youtube"dan söz konusu görüntülerin kaldırılmasını isteyeceği, aksi halde siteye erişimi engelleyeceği kaydedildi.AA muhabirinin aldığı bilgiye göre, Baykal’ın avukatları, müvekkillerine ait olduğu iddia edilen görüntülerin "Youtube"da yayınlanması üzerine, bu görüntülere erişimin engellenmesi istemiyle Ankara Cumhuriyet Başsavcılığına başvurdu.Bu şikayet üzerine harekete geçen Bilişim Suçları Soruşturma Bürosu’nda görevli Cumhuriyet Savcısı Bülent Yücetürk, Ankara 11. Sulh Ceza Mahkemesi’ne başvurarak, söz konusu görüntülere erişimin engellenmesini talep etti.Mahkeme, Savcı Yücetürk’ün talebi doğrultusunda, "Youtube"a erişimin engellenmesi kararı aldı.Karar, gereğinin yapılması için dün Telekomünikasyon İletişim Başkanlığı’na (TİB) gönderildi. TİB’in, "Youtube"a yazı yazarak, söz konusu görüntülerin kaldırılmasını talep edeceği, aksi halde bu internet sitesine erişimi engelleyeceği kaydedildi.</TEXT>
+</DOC>

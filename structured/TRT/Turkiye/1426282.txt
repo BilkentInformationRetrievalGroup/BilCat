@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1426282 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=40ae8375-f65f-4bca-bae2-955588c2c6dc </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 09:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trafik canavar�� can ald��
+</HEADLINE>
+<TEXT>
+Sakarya ve Edirne'de meydana gelen trafik kazalarında 1 kişi öldü, 3'ü ağır 5 kişi yaralandı.
+
+Haydarpaşa&rsquo;dan Eskişehir yönüne giden bir yolcu treni, Sakarya&rsquo;nın Pamukova İlçesi&rsquo;nde hemzemin geçitte, bariyerlerin kapalı olmasına rağmen karşıya geçmeye çalışan otomobile çarptı.
+
+Kazada, otomobil sürücüsü İsmail Sarı, olay yerinde hayatını kaybetti.
+
+Edirne
+Edirne&rsquo;de ise kontrolden çıkan bir otomobil karşı yola geçerek bir kamyonete çarptı.
+
+Kazada yaralanan 5 kişi hastanede tedavi altına alındı.
+
+</TEXT>
+</DOC>

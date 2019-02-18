@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343472 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd2918a/l/0l0smilliyet0n0btr0ctopcular0eda0ebayram0eyogunlugu0cturkiye0csondakika0c20a0b110b20a10a0c13162870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:29:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+top��ular'da bayram yo��unlu��u
+</HEADLINE>
+<TEXT>Kurban Bayramı tatilinin sona ermesi dolayısıyla Eskihisar-Topçular arasında yapılan feribot seferlerinde yoğunluk yaşanıyor.Kurban Bayramı tatilinden dönen tatilciler, Yalova’da bulunan Topçular İskelesi’nde yoğunluk yaşanmasına yol açtı.Yoğunluk nedeniyle Topçular İskelesi’nin araç istif alanı tamamıyla dolarken gişeler önünde de uzun kuyruklar oluştu.Bu arada, İstanbul Deniz Otobüsleri İşletmesi (İDO), yoğunluk nedeniyle Eskihisar-Topçular arasında çalışan feribot sayısını 11’den 15’e çıkardı.</TEXT>
+</DOC>

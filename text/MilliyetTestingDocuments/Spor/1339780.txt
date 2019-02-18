@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339780 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fbe0145/l/0l0smilliyet0n0btr0c0ereisin0earkasinda0eolmalilar0e0cspor0chaberdetay0c180b110b20a10a0c1315540a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 01:12:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���reisin arkas��nda olmal��lar���
+</HEADLINE>
+<TEXT>NTV Spor Radyo’ya konuşan eski yönetici Gürcan, “Yönetim üçe bölünmüş, samimiyetsizlik var. Başkan ortada değil, alışık olmadığımız söylemler duyuyoruz. Herkesin mezesi olduk! Utanıyoruz!” dedi.Celal Gürcan şöyle devam etti: “Yönetimde herkes aynı fikirde olmayabilir ama karar tektir. Tüzüğümüzde başkan ‘reis’ diye geçer, Reisin sonuna kadar arkasında olmalısınız, anlaşamıyorsanız, onurlu bir şekilde istifa edersiniz. Bu seçilmiş arkadaşlar genel kuruldan yetki alıyor. Bu olan bitenlerden dolayı, yönetim içerisindeki huzursuzluktan, çalkalanmadan dolayı herkes desteğini çekti.” </TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1389735 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7b9b4486-71e2-47da-b858-b0f6ec6e8d0f </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 19:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+zapotocny'nin s��zle��mesi feshedildi
+</HEADLINE>
+<TEXT>
+Beşiktaş Kulübü, oyuncusu Tomas Zapotocny'nin sözleşmesinin feshedildiğini duyurdu.
+
+
+Siyah-beyazlı kulüpten yapılan açıklamada, &rsquo;&rsquo;Profesyonel futbolcularımızdan Tomas Zapotocny ile aramızdaki mevcut sözleşme, alacaklarına karşılık, karşılıklı anlaşılarak fesih edilmiştir&rsquo;&rsquo; denildi
+</TEXT>
+</DOC>

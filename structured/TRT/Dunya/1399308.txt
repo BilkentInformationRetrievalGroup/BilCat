@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1399308 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e2d9df4f-e6e4-4d47-9341-1975d6f467d4 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 12:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sarkisyan rum kesimi'nde
+</HEADLINE>
+<TEXT>
+Ermenistan Cumhurbaşkanı Serj Sarkisyan bugün Güney Kıbrıs Rum Kesimi'ne günü birlik bir ziyaret gerçekleştiriyor. 
+
+Ermenistan Cumhurbaşkanı Serj Sarkisyan&rsquo;ın, Rum Yönetimi Lideri Dimitris Hristofyas ile kısa bir görüşme yapacağı ve ardından heyetler arası görüşmelere geçileceği haber verildi.
+
+Hristofyas ile ortak basın toplantısı da düzenleyecek olan Ermenistan Cumhurbaşkanı, Rum Ticaret ve Sanayi Odası&rsquo;nda düzenlenecek Rum-Ermeni İşadamları Forumu&rsquo;nun açılışına katılacak. 
+
+Sarkisyan, Rum Meclis Başkanı Marios Karoyan ile görüşecek, Rum Meclisinde düzenlenecek özel oturumda konuşma yapacak.
+
+Ermenistan Cumhurbaşkanının, Güney Kıbrıs&rsquo;tan sonra Yunanistan&rsquo;a geçmesi bekleniyor.
+</TEXT>
+</DOC>

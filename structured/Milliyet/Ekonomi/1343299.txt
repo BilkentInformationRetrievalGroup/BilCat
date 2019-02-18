@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343299 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fd1574d/l/0l0smilliyet0n0btr0cemlak0ekonut0egyo0enun0ehalka0earzinda0esona0eyaklasiliyor0cekonomi0csondakika0c20a0b110b20a10a0c13162650cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:02:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+emlak konut gyo���nun halka arz��nda sona yakla����l��yor
+</HEADLINE>
+<TEXT>tarihlerinde toplanacak.Şirketten yapılan açıklamaya göre, halka arz sonrası sermayesinin yüzde 25’ini halka arz etmeye hazırlanan Emlak Konut GYO için kesin talepler, 23-24 Kasım günlerinde toplanırken, sunulan indirimlerden faydalanmak için kesin talep tutarları büyük önem taşıyacak.Yatırımcılar, ön talep toplama dönemindeki talep ettikleri pay tutarına göre, kesin talep sürecinde bazı avantajlar elde ederken, hisselerin yüzde 20’si yurt içi bireysel, yüzde 10’u yurt içi kurumsal, yüzde 70’i de yurt dışı kurumsal yatırımcılara satışa sunulacak.Halka arz fiyat aralığının 1,60-2,15 olarak belirlendiği hatırlatılan açıklamada, Emlak Konut GYO’nun halka arzında, 8-9 Kasım 2010 tarihlerinde ön taleplerin toplanmasının ardından, kesin talep toplamanın 23 Kasım 2010 tarihinde mesai saatiyle başlayacağı, 24 Kasım 2010’da mesai saatinin tamamlanmasıyla sona ereceği kaydedildi.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336921 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa6c3dd/l/0l0smilliyet0n0btr0cborcluya0etarihi0eaf0eaciklaniyor0cekonomi0csondakika0c150b110b20a10a0c13146720cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:01:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bor��luya tarihi af a����klan��yor
+</HEADLINE>
+<TEXT>Hükümet son yılların en kapsamlı borç yapılandırmasını devreye sokuyor. Düzenlemeyle 100 milyar liraya yaklaşan vergi ve sigorta prim borçlarının faizlerinde önemli oranda indirim sağlanacak. Hükümet 5 bin liranın altındaki borçlar için kredi kartıyla taksitli ödeme seçeneği üzerinde duruyor. Borçlu esnafın yaklaşık yüzde 10'luk bölümünün bu imkandan faydalanabileceği belirtiliyor. Hükümetin son değerlendirmelerinde onay çıkarsa elektrik, su, emlak vergisi borçlarıyla trafik cezası ve otomatik geçiş sistemi borçları da yeniden yapılandırılacak. Elektrik borçları yapılandırılırsa elektrik dağıtım şirketlerini devralan firmalardan borçlu vatandaşlara kolaylık sağlaması istenecek. Vergiye tabi gelirlerini son beş yıl için arttıran mükellefler için geriye dönük vergi incelemesi yapılmayacak. Varlık barışı kapsamında beyan edilip henüz Türkiye'ye getirilmeyen paralar için süre uzatımı seçeneği üzerinde duruluyor. Borcun ana parasından indirim yapılmayacak. Gecikme faizi ve cezaların yüzde altmışından fazlası affedilecek. Düşük miktardaki borç için 12 ay vade planlanıyor. Yüksek borçlar içinse vade 24-36 ay arasında olacak. </TEXT>
+</DOC>

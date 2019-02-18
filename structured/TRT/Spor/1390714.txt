@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1390714 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7f896dc7-5380-4d83-a9d2-64c2f640ea42 </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 20:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursaspor'dan k��t�� prova
+</HEADLINE>
+<TEXT>
+Bursaspor, hazırlık maçında Alman ekibi Nurnberg'e 1-0 yenildi.
+
+Devre arası kampını Antalya&rsquo;da devam eden Bursaspor, Almanya Birinci Ligi (Bundesliga) takımlarından Nurnberg ile yaptığı hazırlık maçını 1-0 kaybetti.
+ İlk yarısı golsüz tamamlanan karşılaşmada, her 2 takımın da çok oyuncu değiştirdiği 2. yarıda Alman ekibinin golünü 82. dakikada Domic attı.
+ Bursaspor, Antalya kampındaki son hazırlık maçını 10 Ocak Pazartesi günü Hollanda&rsquo;nın NAC Breda takımıyla yapacak.
+ WOW Football Center&rsquo;da yapılan ve Mustafa Öğretmenoğlu, Deybet Gök ve Osman Doğan hakem üçlüsünün yönettiği karşılaşmaya Bursaspor, Harun, Ömer, Stepanov, Haktan, Ali Tandoğan, Vederson, Svensson, Ergiç, Batalla, Nunez ve Ozan ilk 11&rsquo;i ile çıktı.
+</TEXT>
+</DOC>

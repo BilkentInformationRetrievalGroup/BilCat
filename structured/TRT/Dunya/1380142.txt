@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1380142 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=25310308-c4de-4fe4-9689-41c1e7367f2e </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 15:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ingiltere'de cezaevi isyan��
+</HEADLINE>
+<TEXT>
+West Sussex bölgesinde açık hava hapishanesinde mahkumlar arasında başlayan kavga isyana dönüştü. Hapishanede yangın çıktı.
+
+
+
+     Gardiyanların  cezaevini terkettiği, bölgeye çevik kuvvetin çağrıldığı bildirildi. Ancak çevik kuvvetin de güvenlik kaygısı ve alevler nedeniyle cezaevine giremediği bildirildi.
+     Yangında ölen ya da yaralanan olup olmadığı henüz bilinmiyor.
+
+     Olayların, mahkumların alkol kontrolüne direnmeleri üzerine çıktığı sanılıyor.
+
+</TEXT>
+</DOC>

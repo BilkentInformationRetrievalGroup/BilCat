@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327501 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f601436/l/0l0smilliyet0n0btr0cporto0eberaberligi0eborsa0eda0eise0eyaradi0cspor0csondakika0c0a50b110b20a10a0c1310a660a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:18:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+porto beraberli��i borsa'da i��e yarad��
+</HEADLINE>
+<TEXT>UEFA Avrupa Ligi L Grubu’nda Portekiz’in Porto takımıyla deplasmanda yaptığı maçtan 1-1 beraberlikle ayrılan Beşiktaş’ın İstanbul Menkul Kıymetler Borsası’nda (İMKB) işlem gören hisseleri günün ilk yarısında yükseldi.İMKB’de dünkü kapanışta 9,58 liradan işlem gören Beşiktaş Futbol Yatırımları hisseleri, bugün ilk seansı 10,24 liradan tamamladı. Hisseler düne göre yüzde 6,89 oranında değer kazandı.</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1405694 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7f5eeb6e-b3c2-4deb-9bc8-c1f13cc57b5c </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 14:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta kanl�� pazar
+</HEADLINE>
+<TEXT>
+Irak'ta düzenlenen bombalı saldırılarda 10 kişi öldü, 32 kişi yaralandı.
+
+Irak&rsquo;ta düzenlenen bombalı saldırılarda 10 kişi öldü, 32 kişi yaralandı.
+
+Bombalı saldırılar sabah 07.00 sularında başladı, 3 saat içinde 2 bomba yüklü araç ve yola yerleştirilen 2 mayın infilak etti.
+
+     Saldırılarda polisler, El Kaide&rsquo;ye karşı savaşan bir grup mensuplarının yaşadığı ev ve hükümet binaları hedef alındı.
+
+     Devriye gezen polislerin yakınında bomba yüklü aracın havaya uçurulması sonucu 2&rsquo;si polis 3 kişi öldü.
+
+     Düzenlenen diğer bir saldırıda ise, okula gitmekte olan 2 çocuk hayatını kaybetti.
+
+     Şii hacı adaylarını taşıyan bir otobüsün mayına çarpması sonucu da 1 kişi can verdi.
+
+     Diğer saldırılarda da toplam 4 kişinin öldüğü haber verildi.
+
+     Irak&rsquo;ta Başbakan Nuri El Maliki, aylar sonra hükümeti kurmasına rağmen, hala İçişleri Bakanlığı ile ulusal güvenlikle ilgili birimlere atama yapmadı.
+
+     Gözlemciler, Arap Birliği zirvesinin 20 yıl aradan sonra ilk defa gelecek Mart ayında Bağdat&rsquo;ta toplanacağına dikkat çekiyor. Çeşitli grupların bu zirve öncesinde saldırılarını daha da yoğunlaştırabileceği belirtiliyor.
+ 
+</TEXT>
+</DOC>

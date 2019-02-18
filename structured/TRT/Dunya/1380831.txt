@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1380831 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=247c7b1f-c70b-450b-ae50-758c32571ab7 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 13:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sigara yasa���� geni��letildi
+</HEADLINE>
+<TEXT>
+İspanya'da tüm  kapalı mekanlar ile çocukların oyun alanları, hastane yakınları gibi yerlerde sigara içilemeyecek, TV programlarında yasak uygulanacak
+
+Sigara içme sınırlamalarının en az olduğu Avrupa ülkelerinden İspanya&rsquo;da yasağı genişleten yasa yürürlüğe girdi.
+
+Yılbaşı eğlenceleri nedeniyle bir gün geç uygulamaya sokulan yasa kapsamında, kamuya açık tüm kapalı mekanlar ile çocukların oyun alanları ve hastane yakınları gibi bazı açık alanlarda sigara yasağı getiriliyor.
+
+Bu çerçevede barlar, restoranlar, hastane yakınları ve okul bahçesi gibi yerlerde sigara içilemeyecek. 
+
+Televizyon programlarında da sigara yasağı uygulanacak.
+
+ Yasakları ihlal edenlere 30 avrodan 600 bin avroya kadar ceza verilebilecek.
+  
+</TEXT>
+</DOC>

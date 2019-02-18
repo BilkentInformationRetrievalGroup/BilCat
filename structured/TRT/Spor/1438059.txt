@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1438059 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=59070543-581a-47ae-8d77-e74323b3ad47 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 13:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e avrupa'da ilk 10'da
+</HEADLINE>
+<TEXT>
+Lisanslı ürün satışında Fenerbahçe, Avrupa'da 10 takım arasına girdi.
+
+Fenerbahçe Kulübü, lisanslı ürün satışlarında Avrupa&rsquo;lı dev kulüpler ile yarışıyor.
+ Sarı-Lacivertli kulüp satış pazarlamada, Avrupa&rsquo;nın ilk 10 takımı arasına girdi.
+ Ürün satışında La Liga ekiplerinden Real Madrid ve Barcelona listede ilk sırayı paylaşıyor. Üçüncü sırada ise İngiliz futbolunun güçlü temsilcisi Liverpool var.
+  Bundesliga&rsquo;nın en köklü ekiplerinden Bayern Münih ise dördüncü sırada bulunuyor. Fransa temsilcisi Marsilya da kendisine 5&rsquo;nci sırada yer buldu.
+ Sıralamada Marsilya&rsquo;yı, Manchester United, Milan, İnter ve Lyon izliyor.
+ Listenin Türkiye açısından dikkat çeken yönü Fenerbahçe&rsquo;nin, beş büyük ligdeki birçok köklü kulübü geride bırakarak 10&rsquo;uncu sırada yer alması.
+ Avrupa kulüpleri, lisanslı ürün satışından toplam 2 nokta 1 milyar avro gelir elde ederken, bu gelirin 1 nokta 2 milyar avroluk bölümü ilk 10 sıradaki kulübe  ait.
+
+</TEXT>
+</DOC>

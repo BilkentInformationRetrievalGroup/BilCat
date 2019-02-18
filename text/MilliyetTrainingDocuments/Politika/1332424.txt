@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332424 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f76e1a6/l/0l0smilliyet0n0btr0cusak0ebelediye0ebaskani0emhp0eden0eistifa0eetti0csiyaset0chaberdetay0c0a90b110b20a10a0c13120a320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/09 </DATE>
+<TIME> 01:10:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+u������������������������ak belediye ba������������������������kan������������������������ mhp������������������������������������den istifa etti
+</HEADLINE>
+<TEXT>MHP’den istifa ettiğini belirten Erdoğan, görevine bağımsız devam edeceğini açıkladı. Erdoğan şunları söyledi: “Uzun yıllar ideali peşinden koştuğum, şahsım olarak aday olma talebinde bulunmadığım gibi, Ülkücü tabanının arzusunu kıramadığım için üç dönem Başkan adayı olarak şerefle temsil ettiğim, tabanın ve Uşak halkının sevgi dolu desteğini kazandırdığım partimden, İl Başkanlığı’nın isteği üzerine istifa etmiş bulunmaktayım.”</TEXT>
+</DOC>

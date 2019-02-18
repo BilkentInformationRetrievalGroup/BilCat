@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321597 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f49aeaa/l/0l0smilliyet0n0btr0cmavi0emarmara0ekorkusu0eyuzunden0egezisini0eiptal0eetti0cdunya0chaberdetay0c0a30b110b20a10a0c130a94630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 01:01:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mavi marmara korkusu y��z��nden gezisini iptal etti
+</HEADLINE>
+<TEXT>Haaretz gazetesinin haberine göre, İsrail Dışişleri ve Adalet Bakanlıkları, Meridor’a, İngiltere’ye gitmesi halinde hakkında dava açılabileceği ya da tutuklama emri çıkarılabileceği uyarısında bulundu. Bunun üzerine Başbakan Yardımcısı, önceki günkü geziye gitmedi.</TEXT>
+</DOC>

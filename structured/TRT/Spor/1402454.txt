@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1402454 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4b26c35c-12d0-470a-b888-8f0d532807ba </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 10:44:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mehmet okur golf turnuvas��
+</HEADLINE>
+<TEXT>
+Turnuvaya ABD'den oyuncular ve tanınmış isimler de gelecek
+
+Mehmet Okur, sekiz ay kadar basketboldan uzak kaldığını, bu sürede 3 yıl önce oynamaya başladığı golf sporunda belirli bir ilerleme kaydettiğini ifade etti.
+NBA basketbolcularının çoğunun özel ilgisinin olduğu, ligin gelmiş geçmiş en büyük ismi kabul edilen Michael Jordan&rsquo;ın da profesyonel olarak yaptığı golf sporuna 3 sene önce başladığını belirten Okur, 
+&quot;Bu sporu Türkiye&rsquo;de de geniş kitlelere sevdirmek istiyorum. Bunun için Türkiye Golf Federasyonu ile de görüşerek yazın Antalya&rsquo;da kendi adıma bir golf turnuvası düzenlemek istiyorum. Turnuvaya mümkün olursa ABD&rsquo;den oyuncular ve tanınmış isimler de getirmek istiyorum&quot; diye konuştu.
+
+
+</TEXT>
+</DOC>

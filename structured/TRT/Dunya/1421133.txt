@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1421133 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6c4bd4ae-586d-4e42-8a16-7d78fe8a4490 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 15:00:32.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iki otob��s i��te b��yle ��arp����t��
+</HEADLINE>
+<TEXT>
+Brezilya'da iki otobüs çarpıştı. 3 kişinin öldüğü kaza sırasında güvenlik kameraları kayıtta idi.
+
+Rio de Janeiro&rsquo;da meydan gelen kazada otobüs şoförünün bir anlık dikkatsizliği faciaya sebep oldu. Şerit ihlali yapan otobüs şoförünün sebep olduğu kazada iki otobüs çarpıştı.
+
+Kaza sonrasında bazı yolcular panik halinde otobüsten böyle kaçıştı. Kazada 3 kişi öldü 16 kişi yaralandı.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1404878 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c9b0dd91-2018-46b7-912a-2d83716a04ec </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 14:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kom��uda domuz gribi alarm��
+</HEADLINE>
+<TEXT>
+Bulgaristan'da domuz gribi salgını nedeniyle okullar bir hafta tatil edildi. Hastaneye başvuranların yüzde 30'unun domuz gribi olduğu açıklandı.
+
+Bulgaristan&rsquo;ın başkenti Sofya&rsquo;da, domuz gribi nedeniyle okullar bir hafta tatil edildi.
+
+Sağlık Bakanlığı&rsquo;na bağlı Başkent Bölgesi Sağlık Kontrol ve Koruma Müfettişliği tarafından yapılan açıklamada, salgının yayılmasının engellenmesi amacıyla, Sofya&rsquo;daki okulların 24 Ocak pazartesi gününden itibaren bir hafta tatil edildiği bildirildi.
+
+Bakanlık yetkilileri de hastalanarak sağlık birimlerine başvuranların yüzde 30&rsquo;unda domuz gribi teşhisinin doğrulandığını belirtti.
+
+Nüfusu 1,5 milyon civarında olan başkent Sofya&rsquo;daki tüm hastanelerde, yapılması planlanan ameliyatlar askıya alındı ve hasta ziyaretleri yasaklandı.
+</TEXT>
+</DOC>

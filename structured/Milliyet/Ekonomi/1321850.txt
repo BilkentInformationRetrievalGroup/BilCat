@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321850 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f49c025/l/0l0smilliyet0n0btr0caviva0eturkiye0ede0ebuyumek0eistiyor0cekonomi0chaberdetay0c0a30b110b20a10a0c130a950a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+aviva, t��rkiye���de b��y��mek istiyor
+</HEADLINE>
+<TEXT>LONDRA ReutersMoss telekonferans yoluyla gazetecilere yaptığı açıklamada, Tayvan’daki faaliyetlerini satacaklarını ve ABD’ye yönelik  herhangi bir alım planlarının bulunmadığını belirtti. Planlanan 200 milyon sterlin’lik maliyet kısma girişiminin yarısının İngiltere’de gerçekleştirileceğini ifade eden Moss, Kanada’da 200 kişinin işine son verileceğini de ekledi.</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1418273 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b61c7c1d-9a78-47a7-b754-23f1e60bdf42 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 14:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kemal ��zt��rk istifa etti
+</HEADLINE>
+<TEXT>
+Başbakan'ın basın müşaviri Kemal Öztürk istifa etti.
+
+ Öztürk, istifasıyla ilgili olarak, &quot;Kendime ve aileme daha fazla vakit ayırabilmek için Sayın Başbakandan izin istedim. 
+
+Kendileri de o izni verdiler&quot; değerlendirmesini yaptı.
+
+ 
+Öztürk&rsquo;ün yerine kimin görevlendirileceği ise henüz belli değil.
+
+
+
+</TEXT>
+</DOC>

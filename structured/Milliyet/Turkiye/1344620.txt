@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344620 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd8855d/l/0l0smilliyet0n0btr0ckilosu0e10a0a0eeurodan0eihrac0eediliyor0cturkiye0csondakika0c210b110b20a10a0c13165990cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 17:09:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kilosu 100 eurodan ihra�� ediliyor
+</HEADLINE>
+<TEXT>KAYSERİ'nin Develi ile Yahyalı İlçesi'nde Toroslar üzerindeki orman köylerinde yetişen sedir mantarı, Japonya'ya ihraç ediliyor.Bilimsel adı ‘Tricholoma caligatum' olan sedir mantarı, bazı kanser hastalıklarının tedavisi için ilaç yapımında ve kimya sanayiinde de ilaç yapımında kullanılıyor. Dünyada çok kısıtlı alanda yetişen sedir mantarı Develi İlçesi'nin orman köyleri ile Yahyalı İlçesi Burhaniye Köyü'nde oturanlar için geçim kapısı oldu. Dünya üzerinde az bulunması nedeniyle ekonomik getirisi oldukça iyi olan sedir mantarı, kilosu 100 euro'dan Japonya’ya ve bazı uzakdoğu ülkelerine yaş ve kurutulmuş olarak gönderiliyor.</TEXT>
+</DOC>

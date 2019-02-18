@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1399117 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e081b2db-977b-4c89-8dc3-d3c7dd8a0ff0 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 11:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bar��a malaga'y�� par��alad��
+</HEADLINE>
+<TEXT>
+Barcelona, evinde Malaga'yı 4-1 yenerek liderliğini devam ettirerek, yenilmezlik rekorunu 28 maça çıkardı.
+
+İspanya Birinci Futbol Ligi&rsquo;nin (La Liga) 19. haftasında, Barcelona kendi sahasında Malaga&rsquo;yı 4-1 yenerek liderliğini sürdürdü.
+ Barcelona bu sonuçla lig ve kupa maçlarındaki 27 maçlık yenilmezlik rekorunu 28 maça çıkardı. Barça, geçen hafta Kral Kupası&rsquo;nda Real Betis&rsquo;i 5-0 yenerek 27 maçlık rekorunu egale etmişti. Katalan ekibi 1973-1974 sezonunda 27 maç yenilmemişti.
+ Puanını 52&rsquo;ye çıkaran Barcelona&rsquo;nın en yakın takipçisi Real Madrid ise Almeria deplasmanında 1-1 berabere kaldı ve iki takım arasındaki puan farkı 4&rsquo;e çıktı.
+ Bu sonuçla 2 puan kaybeden Real Madrid, puanını 48&rsquo;e yükseltti.
+ La Liga&rsquo;da gol krallığı yarışında ilk sırada 22 gollü Cristiano Ronaldo (Real Madrid) bulunuyor. Barcelonalı Lionel Messi 18 golle 2. sırada.
+ Sporting Gijon - Hercules:    2 - 0
+ Villarreal - Osasuna:         4 - 2
+ Getafe - Real Sociedad:       0 - 4
+ Real Zaragoza - Levante:      1 - 0
+ Athletic Bilbao - Santander:  2 - 1
+ Sevilla - Espanyol:           1 - 2
+ Valencia - Deportivo:         2 - 0
+ Almeria - Real Madrid:        1 - 1
+ Barcelona - Malaga:           4 - 1
+</TEXT>
+</DOC>

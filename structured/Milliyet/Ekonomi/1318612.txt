@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318612 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f385f8f/l/0l0smilliyet0n0btr0ctanklar0eguzergah0edegistirdi0cguncel0chaberdetay0c0a10b110b20a10a0c130a85330cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 01:00:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tanklar g��zerg��h de��i��tirdi
+</HEADLINE>
+<TEXT>’nın TSK’nın internet sitesinde yer alan Anıtkabir ziyaretçi sayısından derlediği verilere göre, Anıtkabir’i ziyaret eden kişi sayısında geçen yıla oranla büyük düşüşler yaşandığı gözlendi. 2010 yılında aylara göre Anıtkabir’i ziyaret eden kişi sayısı baz alındığında, geçen yılki karşılığı olan aylara göre ziyaretçi sayısının ortalama 300 bin seviyelerinde gerilediği tespit edildi.Otomobil dünyasına ait herşey burada!</TEXT>
+</DOC>

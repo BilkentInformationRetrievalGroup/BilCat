@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336414 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa3d3bf/l/0l0smilliyet0n0btr0cisrail0esuriye0ebarisina0ebir0ekelime0ekalmis0cdunya0chaberdetay0c150b110b20a10a0c13145160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:01:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+israil-suriye bar������na ���bir kelime��� kalm����
+</HEADLINE>
+<TEXT>Birleşik Arap Emirlikleri’nde yayımlanan “The National” gazetesinin haberine göre Aralık 2008’de görüşmeler hız kazandı ve üç ülkenin temsilcileri 29 Aralık’ta ortak toplantı düzenlemeye karar verdi. Üzerinde anlaşılması gereken yalnızca “bir kelime” kalmıştı. 29 Aralık’taki toplantından iki gün önce Başbakan Recep Tayyip Erdoğan ile Olmert’in 11.00’de telefonda görüşerek son detayları konuşması planlanıyordu. Ancak İsrail 10.30’da Gazze’ye saldırınca görüşme de iptal oldu.</TEXT>
+</DOC>

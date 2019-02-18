@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1416876 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a5a42abe-7ce2-4da6-9629-fb31c057a629 </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 11:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+silopi'de 2 ter��rist teslim oldu
+</HEADLINE>
+<TEXT>
+Terör örgütü PKK'dan kaçan 1'i kadın, 2 terörist Şırnak'ın Silopi ilçesi yakınlarındaki Habur Sınır Kapısı'nda güvenlik güçlerine teslim oldu.
+
+Terör örgütü PKK&rsquo;nın Irak&rsquo;ın kuzeyindeki kamplarından kaçan 1&rsquo;i kadın 2 terörist, Habur Sınır Kapısı&rsquo;na geldi. 
+
+Güvenlik güçlerine sığınan teröristlerin Silopi İlçe Jandarma Komutanlığı&rsquo;nda ifadeleri alındıktan sora Silopi Adliyesine sevk edileceği öğrenildi
+</TEXT>
+</DOC>

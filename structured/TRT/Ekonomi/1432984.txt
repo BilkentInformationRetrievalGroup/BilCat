@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1432984 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3e42c012-2040-49e8-b05e-f45fd8d08a7e </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 13:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+n��kleerde ok yaydan ����kt��
+</HEADLINE>
+<TEXT>
+Mersin'de yapılacak Akkuyu Nükleer Enerji Santrali için Mart ayında etüt çalışmalarına başlanacak.
+
+     Türkiye ile rusya arasında yapılan anlaşmalar çerçevesinde kurulan bir şirket, Mersin&rsquo;de yapılacak ilk nükleer santrali için ön çalışmalara başladı.
+
+     Mart ayında sahada etüt çalışmaları yapılacak
+
+    Enerji ve Tabii Kaynaklar Bakanı Taner Yıldız, süreçte geri dönüşün söz konusu olmadığını söyledi.
+
+      Yıldız, &quot;Artık bunun geri dönüşü yoktur. Bu proje tamamlanmak üzere ok yaydan artık fırlamıştır.&quot; dedi.
+
+     Toplantıya çeşitli kamu kurum ve kuruluşlarından temsilcilerle TRT Genel Müdürü İbrahim Şahin de katıldı.
+
+     Nükleer santrallerde kullanılan 1 kilogram uranyumdan elde edilen enerji, 4 bin rüzgar tribününden elde edilen enerjiye denk.
+
+</TEXT>
+</DOC>

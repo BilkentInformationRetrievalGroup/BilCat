@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331874 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f74174c/l/0l0smilliyet0n0btr0cbasbakan0eerdogan0edan0ebaydemir0ee0etazminat0edavasi0csiyaset0csondakika0c0a80b110b20a10a0c13118190cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 17:12:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ba��bakan erdo��an���dan, baydemir���e tazminat davas��
+</HEADLINE>
+<TEXT>BAŞBAKAN Recep Tayyip Erdoğan, KCK operasyonları sonrasında 24 Aralık 2009’da BDP Diyarbakır il binası önünde yaptığı küfürlü konuşma nedeniyle Diyarbakır Büyükşehir Belediye Başkanı BDP'li Osman Baydemir hakkında Ankara 10’uncu Asliye Hukuk Mahkemesi’nde 50 bin TL’lik manevi tazminat davası açtı.</TEXT>
+</DOC>

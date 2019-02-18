@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1436794 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3c528988-2975-4974-b314-f0cebd31c2b0 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 12:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+almanya'da makinist grevi
+</HEADLINE>
+<TEXT>
+26 bin makinist 2 saatlik uyarı grevi yaptı...
+
+
+Almanya&rsquo;da 26 bin makinist maaşlarında iyileştirilme yapılması ve tek ücret tarifesi uygulanması amacıyla 2 saatlik uyarı grevine gitti.
+
+Taraflar arasında süren toplu görüşmelerde sendika, 26 bin makinist için tek bir ücret tarifesi uygulanmasını talep etmişti.
+
+Ancak toplu sözleşme görüşmelerinden bir sonuç çıkmayınca, Almanya Makinistler Sendikası grev kararı aldı. 
+
+Sabah saat 6 ile 8 arasında yapılan 2 saatlik grev yüzünden çok sayıda yolcunun uyarılara rağmen mağdur olduğu ve grevin diğer tren seferleri de etkilediği bildirildi.   
+
+Almanya makinistler sendikası yetkilileri, taleplerinin dikkate alınmadığı takdirde ilerleyen günlerde ülke genelinde geniş çaplı grev kararı alacaklarını duyurdu
+</TEXT>
+</DOC>

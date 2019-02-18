@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327961 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f61dc1d/l/0l0smilliyet0n0btr0cserdar0etasci0ewerder0ebremen0ee0ekarsi0eyok0cspor0csondakika0c0a50b110b20a10a0c1310a7370cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 19:15:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+serdar ta������, werder bremen'e kar���� yok
+</HEADLINE>
+<TEXT>Almanya 1. Futbol Ligi (Bundesliga) takımlarından Stuttgart’ın savunma oyuncusu Serdar Taşçı’nın, sakatlığı nedeni ile Pazar günü takımının Werder Bremen’e karşı oynayacağı karşılaşmada yer alamayacağı bildirildi.Stuttgart kulübünün sözcüsü, FC Getafe’ye karşı oynanan Şampiyonlar Ligi maçında sakatlanan Serdar’ın hafta sonunda oynamasının mümkün olmadığını belirtti.Serdar’ın bir tıbbi kontrolden geçeceği ve bundan sonra ne zaman yeniden oynayabileceğine karar verileceği kaydedildi.Serdar, Stuttgart’ın FC Getafe’ye karşı oynadığı karşılaşma sırasında bacağındaki kas yırtılması nedeni ile oyundan çıkartılmıştı.</TEXT>
+</DOC>

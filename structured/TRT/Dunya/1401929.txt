@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1401929 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=21f4fb67-7dd5-4ac0-8d19-a6d0d6031687 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 18:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+afganistan'da may��n 20 can ald��
+</HEADLINE>
+<TEXT>
+Afganistan'da yol kenarına yerleştirilen mayının patlaması sonucu 13'ü çocuk 20 kişi hayatını kaybetti. 
+
+Afganistan&rsquo;ın güneyindeki Paktia vilayetinde meydana gelen olayda, hastaneye giden bir aracın geçtiği sırada, yol kenarına yerleştirilen mayın infilak etti. Ölenlerin 13&rsquo;ünün çocuk, 6&rsquo;sının kadın olduğu bildirildi.
+
+     Saldırının sorumluluğunu üstlenen olmadı, ancak Taliban&rsquo;dan şüpheleniliyor.
+
+     Olayın, Afganistan&rsquo;da son 6 aydır sivilleri hedef alan en büyük saldırı olduğu haber veriliyor.
+
+     Bu arada Devlet Başkanı Karzai, seçimlerde yolsuzluk yapıldığı iddialarını soruşturan özel mahkemenin süre istemesi nedeniyle parlamentonun açılışının bir ay ertelenmesi talimatını verdi.
+
+         Karzai&rsquo;nin makamından yapılan açıklamada, parlamento oturumunun açılışını 22 Şubatta yapacağı bildirildi.
+
+         Afganistan&rsquo;da kurulan özel seçim mahkemesi, eylül ayındaki genel seçimlerde yolsuzluk yapıldığı iddialarını daha fazla araştırması gerektiğini belirtmiş, bunun için meclisin açılışının bir ay ertelenmesi çağrısında bulunmuştu.
+</TEXT>
+</DOC>

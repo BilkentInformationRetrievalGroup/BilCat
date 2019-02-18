@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1439718 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3a006c22-5843-40a0-9ed2-d1df2f9adc41 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 23:48:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+semih erden cleveland cavaliers'ta
+</HEADLINE>
+<TEXT>
+NBA'de Boston Celtics forması giyen milli basketbolcu Semih Erden, takas yoluyla Cleveland Cavaliers'a gitti.
+
+Cleveland Cavaliers, Boston Celtics&rsquo;ten Semih Erden ile Luke Harangody&rsquo;i takas yoluyla aldı. 
+ İki oyuncusunu gönderen Boston Celtics, böylece ikinci tur draft hakkını elde etmiş oldu. 
+ Semih Erden, bu sezon maç başına 4.1 sayı ve 2.9 ribaund ortalamalarıyla forma giyerken, Luke Harangody de maç başına 2.3 sayı ve 8.6 dakika ortalamalarıyla oynamıştı.
+
+</TEXT>
+</DOC>

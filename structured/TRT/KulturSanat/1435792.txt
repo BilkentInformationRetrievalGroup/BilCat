@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1435792 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e3b6053c-d678-4c6c-8092-9c4ce1225513 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 14:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"mavi tutku" y��l��n program�� se��ildi
+</HEADLINE>
+<TEXT>
+2010 Antalya Basın Ödülleri Yarışması'nda TRT'nin "Mavi Tutku" isimli programı, yılın televizyon programı oldu.
+
+Antalya Gazeteciler Cemiyeti,&quot; 2010 Antalya Basın Ödülleri  Yarışması&rsquo;nda TRT&rsquo;nin &quot;Mavi Tutku&quot; isimli programını, yılın televizyon programı seçti.
+
+          TRT Haber ve Spor Yayınları Dairesi Başkanlığı&rsquo;nca hazırlanan Mavi Tutku&rsquo;nun yapımcılığını Hakan Aslan ve Ümit Kargılı üstleniyor.
+
+          Türkiye ve dünyadaki sualtı güzelliklerini ekrana taşıyan program TRT HD, TRT Belgesel ve Spor kanalı olan TRT-3&rsquo;de yayınlanıyor.
+
+          30 dakika boyunca sualtının eşsiz güzelliklerinin ekrana yansıtıldığı Mavi Tutku programı, izleyicileri, sualtı sporları konusunda da bilinçlendirmeyi hedefliyor.
+
+
+</TEXT>
+</DOC>

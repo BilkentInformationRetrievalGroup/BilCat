@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1397543 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=650d324f-174f-48c0-9ae4-ededceec640f </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 13:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hastanelerde merkezi randevu devrede
+</HEADLINE>
+<TEXT>
+Evinizden sadece bir telefonla istediğiniz hastaneden istediğiniz hekime randevu alabileceğiniz sistemi Sağlık Bakanlığı hayata geçirdi.
+
+Alo 182
+Devlet hastanesine gitmek isteyenler artık bu numarayı akıllarında daha çok tutacak. Zira bu numara ile istenilen hastaneden istenilen hekime randevu alınabilecek.
+
+Sistemin adı Merkezi Hastane Randevu Sistemi. Şu anda 9 ilde 93 hastanede telefonla randevu sistemi uygulanıyor.
+Günde 8 bin hasta bu yöntemle muayene oluyor.
+
+Haziran ayında ise Türkiye genelindeki bütün devlet hastanelerinde randevular telefonla alınacak. Bu sistemle hastalar kayıt işlemi için de beklemeyecek.
+
+Evde Sağlık Hizmeti
+Sağlık Bakanlığı&rsquo;nın bir diğer uygulaması da evde sağlık hizmeti olacak. Bu hizmet artık Türkiye genelinde verilebiliyor.
+
+Yatağa bağımlı olan, hastaneye gidemeyen vatandaşların 444 38 33 hattını araması yeterli olacak. Sağlık ekipleri bu tür hastaların hizmetini evine kadar götürecek.
+Süresiz ve Ücretsiz
+Hastanın kan testinden sağlık ya da ilaç raporlarına kadar her işlem hastanın evinde yapılacak. Sağlık Bakanlığı bu hizmetleri süresiz ve ücretsiz verecek. 
+
+</TEXT>
+</DOC>

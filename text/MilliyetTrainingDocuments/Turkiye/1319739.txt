@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319739 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f3b673c/l/0l0smilliyet0n0btr0cistanbul0eda0ebir0ehelikopter0ekimligini0ebildirmedi0ejetler0ehavalandi0cturkiye0csondakika0c0a10b110b20a10a0c130a86620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 13:17:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul'da bir helikopter kimli��ini bildirmedi, jetler havaland��
+</HEADLINE>
+<TEXT>'nın 'flaş' uyarısı ile geçtiği habere göre, kimliğini açıklamadığı belirtilen bir helikopterin dolaştığı ihbarı üzerine jetler Taksim üzerinde uçuyor.</TEXT>
+</DOC>

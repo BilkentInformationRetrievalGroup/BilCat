@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344252 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd71baf/l/0l0smilliyet0n0btr0cpolis0ebombayi0ebasibos0ebirakinca0e0cdunya0csondakika0c210b110b20a10a0c13165630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 13:01:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+polis bombay�� ba����bo�� b��rak��nca...
+</HEADLINE>
+<TEXT>Hindistan’da bir köprünün altına yerleştirilen ancak polis tarafından bulunmasına rağmen etkisiz hale getirilmeyen bomba, bir gün sonra patladı ve 5’i çocuk 8 kişinin ölümüne yol açtı.Polis, Bihar eyaletindeki bir köyde dün bulduğu bombayı hemen etkisiz hale getiremeyince, kum torbalarının altına yerleştirdi ve çevresini de kordon altına aldı.Polis yetkililerinin verdiği bilgiye göre bugün yetişkinler ve çocuklardan oluşan bir grup bombayı bulunduğu yerden çıkararak, karıştırmaya başladı. Bombanın patlaması sonucunda 5 çocuk ve 3 yetişkin öldü, iki kişi de yaralandı.Aynı eyalette bir başka bölgede de, yerleştirilmiş bombayı etkisiz hale getirmeye çalışan bir uzmanla bir asker, bombanın patlaması sonucu öldü.</TEXT>
+</DOC>

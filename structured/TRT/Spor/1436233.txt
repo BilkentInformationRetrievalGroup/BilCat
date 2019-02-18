@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1436233 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4d0f14e9-630d-4ad1-97d5-89a99c8af91f </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 19:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursaspor'da fatura kesildi
+</HEADLINE>
+<TEXT>
+Bursaspor'da Mesut Mestan'ın görevine son verildi.
+
+Bursaspor Kulübü, bugün yaptığı yönetim kurulu toplantısında futbol şube sorumlusu Mesut Mestan&rsquo;ın görevine son verme kararı aldı.
+ Yeşil-Beyazlı kulübün resmi internet sitesinden yapılan açıklama şöyle: 
+&quot;Kulübümüzün 19 Şubat 2011 tarihli yönetim kurulu kararı ile futbol şube sorumlumuz Sayın Mesut Mestan&rsquo;ın futbol şube sorumluluğu görevine son verilmiştir.&quot;
+
+</TEXT>
+</DOC>

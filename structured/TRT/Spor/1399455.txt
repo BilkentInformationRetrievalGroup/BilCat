@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1399455 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eb24c82c-939c-4ac7-9182-1b1a84cc77ba </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 11:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+marsel korta ����k��yor
+</HEADLINE>
+<TEXT>
+Avustralya Açık Tenis Turnuvası'nda Marsel İlhan'ın ilk turdaki rakibi Rus Mikhail Youzhny.
+
+Milli Tenisçi Marsel İlhan, Avustralya Açık Tenis Turnuvasında ilk tur maçını bu gece Rus Mikhail Youzhny ile yapacak.
+İki tenisçi geçtiğimiz yıl Rotterdam Turnuvası&rsquo;nda ikinci turda karşılaşmışlar ve Youzhny, iki sette kazanmıştı.
+Avustralya Açık&rsquo;ta 2. kez ana tabloda yer alan Marsel İlhan 23 yaşında ve  dünya sıralamasında 87. sırada yer aldı. Bu İlhan&rsquo;ın kariyerindeki en iyi dünya sıralaması pozisyonu oldu.
+Marsel İlhan&rsquo;ın ilk turdaki rakibi Youzhny ise 28 yaşında ve bu turnuvaya 11. kez katılıyor. 2008 yılında Avustralya&rsquo;da çeyrek final oynayan Rus tenisçi, geçen yıl Roland Garros&rsquo;ta ve Amerika Açık Tenis Turnuvası&rsquo;nda yarı final oynadı, halen dünya sıralamasında 10. sırada yer alıyor.
+Marsel İlhan&rsquo;ın, Mikhail Youzhny ile yapacağı ilk tur karşılaşması, günün ilk maçlarından biri olarak, Türkiye saati ile Salı günü 02.00&rsquo;de başlayacak.
+</TEXT>
+</DOC>

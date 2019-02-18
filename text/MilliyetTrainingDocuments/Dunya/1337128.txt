@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337128 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa6f040/l/0l0smilliyet0n0btr0cirak0eta0esaldirilar0e10eolu0e70eyarali0cdunya0csondakika0c150b110b20a10a0c1314690a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:01:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��rak'ta sald��r��lar: 1 ��l��, 7 yaral��
+</HEADLINE>
+<TEXT>Irak’ta direnişçilerin Bağdat’ın çeşitli yerlerinde düzenlediği polis devriyelerini hedef alan saldırılarda 1 kişi öldü, 7 kişi yaralandı.Polis ve hastane kaynaklarının verdiği bilgiye göre, Bağdat’ın merkezinde yol kenarına yerleştirilen bir bomba, bir polisin ölümüne 2 polisle bir vatandaşın yaralanmasına yol açtı.Başkentin doğusunda da yol kenarına yerleştirilen bombanın patlatılmasıyla 4 polis yaralandı.Irak’ta şiddet olayları önemli ölçüde azalsa da, Sünni direnişçiler hala polis ve askerleri hedef almayı sürdürüyor.</TEXT>
+</DOC>

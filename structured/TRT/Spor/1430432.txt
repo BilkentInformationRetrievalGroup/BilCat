@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1430432 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6161f9f3-8b83-4783-a0e7-8f663bd7bb41 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 11:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev derbiyi ��ak��r y��netecek
+</HEADLINE>
+<TEXT>
+Beşiktaş-Fenerbahçe derbisini hakem Cüneyt Çakır yönetecek.
+
+Spor Toto Süper Lig&rsquo;in 22. haftasında 20 Şubat Pazar günü oynanacak Beşiktaş-Fenerbahçe derbisinde Cüneyt Çakır düdük çalacak.
+ 18 Şubat Cuma
+ 20.00 Eskişehir-Sivasspor : İlker Meral
+ 19 Şubat Cumartesi
+ 14.00 Kasımpaşa-Ankaragücü: Tolga Özkalfa
+ 16.00 Bursaspor-Gaziantepspor: Hüseyin Göçek
+ 17.00 Gençlerbirliği-Karabükspor: Yunus Yıldırım
+ 19.00 Galatasaray-Bucaspor: Kuddusi Müftüoğlu
+ 20 Şubat Pazar
+ 14.00 Kayserispor-M.P.Antalyaspor: Bünyamin Gezer
+ 17.00 Konyaspor-İstanbul B.B: Halis Özkahya
+ 19.00 Beşiktaş-Fenerbahçe: Cüneyt Çakır
+ 21 Şubat Pazartesi
+ 20.00 Manisaspor-Trabzonspor: Fırat Aydınus
+
+
+
+</TEXT>
+</DOC>

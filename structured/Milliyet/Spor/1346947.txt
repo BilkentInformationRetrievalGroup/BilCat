@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346947 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fff932f/l/0l0smilliyet0n0btr0cmadrid0ee0esorusturma0cspor0chaberdetay0c260b110b20a10a0c131870a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:13:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+madrid���������e soru������turma
+</HEADLINE>
+<TEXT>Yapılan açıklamada, adı geçen kişilerin futbolun öngördüğü kriterlere uymadığının tespit edildiği belirtildi. UEFA, 30 Kasım tarihinde yapılacak toplantıda konunun karara bağlanacağını kaydetti. Ajax-R.Madrid maçında Mourinho’nun oyuncularından bilerek kart görmelerini istediği belirtilmişti.</TEXT>
+</DOC>

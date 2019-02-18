@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346552 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffcd83a/l/0l0smilliyet0n0btr0cenflasyon0ebeklentisi0edegismedi0cekonomi0csondakika0c250b110b20a10a0c13184620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 19:00:45.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+enflasyon beklentisi de��i��medi
+</HEADLINE>
+<TEXT>Merkez Bankasının anketine göre, 2010 yılı sonu enflasyon beklentisi Kasım ayının ikinci anketinde de değişmedi ve yüzde 8,10’da kaldı.Merkez Bankası, Kasım ayı ikinci dönem beklenti anketi sonuçlarını açıkladı.Buna göre, 2010 Kasım ayının birinci anketinde yüzde 8,10 olan yıl sonu enflasyon beklentisi Kasım ayının ikinci anketinde de değişmedi ve yüzde 8,10’da kaldı.</TEXT>
+</DOC>

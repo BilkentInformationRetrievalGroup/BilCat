@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1423215 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6b1316af-f811-4a13-8c37-547cae5f8d09 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 11:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kerk��k'te intihar sald��r��s��
+</HEADLINE>
+<TEXT>
+Irak'ın kuzeyinde düzenlenen bombalı saldırıda 6 kişi öldü, 75 kişi de yaralandı. 
+
+
+Kerkük&rsquo;teki saldırıda bomba yüklü 3 araç kullanıldı ve polis güçleri hedef alındı. 
+
+
+</TEXT>
+</DOC>

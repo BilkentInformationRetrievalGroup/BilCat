@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1413997 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=749880dc-4830-460b-a067-ddf19719164f </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 14:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+petrolde k��tl��k riski!
+</HEADLINE>
+<TEXT>
+OPEC Genel Sekreteri Abdullah Salem El-Badri, küresel petrol piyasası için kıtlık riski oluşabileceğini söyledi.
+
+
+Petrol İhraç Eden Ülkeler Örgütü (OPEC) Genel Sekreteri Abdullah Salem El-Badri, Mısır&rsquo;daki krizin artması halinde petrol  piyasasında kıtlık riski oluşabileceğini, OPEC&rsquo;in, gerekmesi halinde üretimini artırarak duruma müdahale edeceğini bildirdi.
+         
+Salem El-Badri, Dow Jones Newswires&rsquo;a yaptığı açıklamada, Mısır&rsquo;daki krizin Süveyş Kanalı gibi petrol güzergahlarını bloke etmesi durumunda, küresel piyasalar için kıtlık riski bulunduğuna işaret ederek, &quot;Gerçek bir kıtlık gözlemlersek, buna bir çözüm bulmak için harekete geçmemiz gerekecek&quot; dedi.
+         
+OPEC&rsquo;in acil toplantı planı olmadığını vurgulayan Badri, halihazırda piyasada arz durumunun yeterli olduğunun altını çizdi.
+         
+Kontrolü Mısır tarafından sağlanan Süveyş Kanalı&rsquo;ndan Orta Doğu ve Avrupa arasında günlük ortalama 1 milyon varil petrol transferi yapıldığı belirtiyor.
+</TEXT>
+</DOC>

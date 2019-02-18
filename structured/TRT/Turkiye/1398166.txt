@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1398166 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bd78ff64-2d0d-4ef6-94b4-15e1f523d6f7 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 09:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otob��s��n ��arpt������ ki��i ��ld��
+</HEADLINE>
+<TEXT>
+Bir anlık dikkatsizlik hayatına maloldu...
+
+İstanbul Avcılar&rsquo;da karşıya geçmek için üst geçiti kullanmak yerine metrobüs yolunu tercih eden şahsa otobüs çarptı. 
+
+Çarpmanın etkisiyle savrulan ve adının Ali Şimşek olduğu belirlenen şahıs olay yerinde hayatını kaybetti.
+
+  Olay Avcılar metrobüs yolu Topkapı istikametinde meydana geldi.
+
+          İddiaya göre E-5 karayolunu kullanarak yolun karşısına geçmeye çalışan Ali Şimşek isimli vatandaşa, metrobüs yolundan geçtiği sırada hızla gelen otobüs çarptı.
+
+          Çarpmanın etkisiyle savrulan ve asfalt zemine düşen Şişmek olay yerinde hayatını kaybetti.
+ 
+          Kaza sonrası kısa süreli şok yaşayan otobüs şoförü ifadesi alınmak üzere karakola götürüldü. 
+
+
+</TEXT>
+</DOC>

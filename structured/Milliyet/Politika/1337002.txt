@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337002 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa6c3e0/l/0l0smilliyet0n0btr0cchp0eden0ebakan0egonul0ee0ekadrolasma0esorusu0csiyaset0csondakika0c150b110b20a10a0c13146650cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:08:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp'den bakan g��n��l'e 'kadrola��ma' sorusu
+</HEADLINE>
+<TEXT>CHP Denizli Milletvekili Ali Rıza Ertemür, Milli Savunma Bakanı Vecdi Gönül’e, "2003 ile 2010 yılları arasında KPSS puanıyla Milli Savunma Bakanlığı merkez teşkilatı, bağlı kuruluş ve müdürlükleri ile hizmet birimlerine kaç kişi alınmıştır?" diye sordu.CHP Denizli Milletvekili Ali Rıza Ertemür, TBMM Başkanlığı’na, Milli Savunma Bakanı Vecdi Gönül’ün yanıtlaması istemiyle soru önergesi verdi. AKP iktidarındaki kadrolaşma iddialarını gündeme getiren CHP’li Ertemür, Milli Savunma Bakanı Gönül’e şu soruları yöneltti:"Milli Savunma Bakanlığı merkez teşkilatı, bağlı kuruluşları ile hizmet yürüttüğü bütün birimlerde çalışan kadrolu, geçici ya da sözleşmeli personel sayısı 2002 yılında ne kadardır?2003’ten 2010’un sonuna kadar vefat, başka kuruma geçme, kendi isteği ile ya da emeklilik gibi nedenlerden dolayı ayrılan kadrolu, geçici ya da sözleşmeli personel sayısı ne kadardır?2003 ile 2010 tarihleri arasında Milli Savunma Bakanlığı merkez teşkilatı, bağlı kuruluş ve müdürlükleri ile hizmet birimlerinde işe başlayan kadrolu, geçici ya da sözleşmeli personel sayısı ne kadardır? Bunların işe alınma yöntem ve esasları nedir?2003?2010 tarihleri arasında istisnayı kadrolara ataması yapılan ve daha sonra başka kurumlara nakil yoluyla atananların sayısı kaçtır? İsimleri nelerdir?"</TEXT>
+</DOC>

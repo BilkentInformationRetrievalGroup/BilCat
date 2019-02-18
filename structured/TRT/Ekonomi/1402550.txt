@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1402550 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0d0fcf1b-90bb-4bcf-b016-b47fe1cf2ebf </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 11:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+benzinde promosyon indirimi
+</HEADLINE>
+<TEXT>
+Bir petrol şirketi, 1 Şubat 2011 tarihinden itibaren geçerli olacak şekilde kar marjını 40 kuruştan 35 kuruş seviyesine indireceğini açıkladı.
+
+Bir petrol şirketi tarafından yapılan açıklamada, Enerji Piyasası Düzenleme Kurulu&rsquo;nun 15 Aralık 2010 tarihli kararı gereğince akaryakıt satışlarındaki promosyon uygulamalarının 31 Ocak 2011 tarihi itibariyle sona erdiği belirtilerek, promosyon kampanyaları ile müşterilerine sağladığı faydayı fiyata yansıtarak devam ettirme kararı aldığı bildirildi.
+
+Açıklamada, şunlar kaydedildi:
+
+&rsquo;&rsquo;Bu karar doğrultusunda bayilerinin toplam kar marjının yüzde 10&rsquo;una karşılık gelen promosyon maliyetleri ile ilgili tutar, 1 Şubat 2011 itibariyle bayilere bildirilen pompa fiyatına indirim olarak yansıtılacaktır.
+
+Ülkemizdeki mevcut akaryakıt fiyat oluşumuna göre, pompa fiyatında yalnızca yüzde 10&rsquo;luk bir pay tutan şirket bayi dağıtım marjı, halihazırda litrede 40 kuruş civarında seyretmektedir. Şirket, 1 Şubat tarihinden itibaren geçerli olacak indirimle kar marjını ülke çapında 35 kuruş seviyesine çekeceğini açıkladı.&rsquo;&rsquo;
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1436105 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=427334c5-1c42-4277-b3bd-3d8f0f9ac3f4 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 16:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ogs de, kgs de kalk��yor
+</HEADLINE>
+<TEXT>
+Ulaştırma Bakanı Binali Yıldırım, otoyol gişelerinde tek sisteme geçileceğini açıkladı. 
+
+Yıldırım konu ile ilgili olarak şunları anlattı:
+&quot;Otoyol gişelerinde en büyük sorunumuz iki sistemin bir arada uygulanması yani bir OGS var bir de KGS var.
+
+ OGS’de malum araç durmadan gişelerden geçebiliyorken KGS’de ise durup geçiyorsunuz bu da ciddi bir zaman kaybına neden oluyor. 
+
+Şu anda yaptığımız çalışma ile kısa süre sonra bunu tek sisteme dönüştüreceğiz. Bu da mevcut OGS ile ortak çalışılarak kolay temin edilen bir sistem olacak. 
+
+Çok daha ekonomik ucuz temin edilen bir sistem. Yeni sistemi OGS’ye entegre edeceğiz böylece o bahsettiğimiz olumsuzluk tamamen kalkmış olacak gişelerin kalkmasına da ihtiyaç kalmayacak.
+
+İlk uygulama İzmir Çeşme Otoyolu’ndan başlayacak. Bir kaç ay içerisinde bitecek bir proje adı Hızlı Geçiş Sistemi (HGS) olacak ama OGS diye söyleyebiliriz. Onunla birlikte çalışacak ikisi birbiriyle konuşan sistemler olacak.&quot;
+
+
+</TEXT>
+</DOC>

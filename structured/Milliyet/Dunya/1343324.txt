@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343324 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd46bdb/l/0l0smilliyet0n0btr0cdunya0ebasini0ezirveyi0ekonusuyor0cdunya0chaberdetay0c210b110b20a10a0c131640a20cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:03:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+d��nya bas��n�� zirveyi konu��uyor
+</HEADLINE>
+<TEXT>Gazete ve ajanslardaki haber ve yorumlarda, projenin onaylanması için kilit ülke konuma gelen Türkiye’nin taleplerinin yerine getirilmesine vurgu yapıldı. ‘Türkiye füzesavar parası istedi’New York Times (ABD): “Potansiyel bir düğüm olarak görülen Türkiye, hiçbir ülkenin başlıca tehdit olarak gösterilmemesi üzerine tatmin olarak, ortak füze savunma sistemine itirazlarından vazgeçti. Türkiye, füzesavar parçaları satın almak için para da istemişti.”Taleplerde ısrarcı olmadılarWall Street Journal (ABD): “Anlaşma, İttifak üyeleriyle, kalkan sisteminde kilit bir oyuncu olan Türkiye arasında son anlarda varılan uzlaşma sayesinde mümkün oldu. Türkiye’nin son haftalarda yaptığı taleplerin çoğundan ya vazgeçildi ya da kontrol merkezinin Türkiye’de olması talebinde olduğu gibi sonraya bırakıldı. Zirveye katılanlar, Türk Cumhurbaşkanı Abdullah Gül’ün bu konularda bastırmadığını söyledi.” ‘Ankara bağlılığını kanıtladı’Le Figaro (Fransa): “ABD, Ankara’nın son aylardaki bağımsız diplomasisine rağmen bu projeyi kabul etmesinin NATO’ya olan bağlılığının bir kanıtı olduğunu söyledi. Fakat Türkiye, bu katılımın komşularıyla ‘sıfır sorun’ politikasına zarar vereceğinden korktu. Hükümetteki muhafazakâr-İslamcılar, kalkan sistemini kabul etmeden önce kendi önceliklerini sıraladılar. Ankara, tüm ülkenin korunmasını ve NATO’nun belli ülkeleri tehdit olarak adlandırmamasını istedi.”AFP (Fransa): “NATO üyeleri, bir yandan Ruslara kur yaparken bir yandan da Türkiye’nin endişelerini dindirmeye çalıştı.”</TEXT>
+</DOC>

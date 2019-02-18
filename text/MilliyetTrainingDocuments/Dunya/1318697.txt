@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318697 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f385dff/l/0l0smilliyet0n0btr0cmerapi0eyanardagi0eyeniden0efaaliyette0cdunya0csondakika0c0a10b110b20a10a0c130a83690cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 14:35:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+merapi yanarda���� yeniden faaliyette
+</HEADLINE>
+<TEXT>Endonezya’da salı günü infilakının ardından 38 kişinin ölümüne yol açan Merapi yanardağının bugün yeniden faaliyete geçtiği bildirildi.Yanardağın faaliyetlerini izleyen yetkili Subandrio, nispeten sakinleşen yanardağın bugün yeniden yamaçlarına kızgın kül bulutları püskürtmeye başladığını söyledi.Subandrio, yanardağın bugünkü faaliyetinin büyük patlama sırasında bölgeye terk eden binlerce kişinin evlerine dönmesinin ardından başladığını belirtirken, bu kişilerin akıbetinin ne olacağı belirsizliğini koruyor.Merapi’nin salı günü infilak etmesiyle 38 kişi hayatını kaybetmiş, 50 binden fazla kişi de bölgeyi boşaltmıştı.</TEXT>
+</DOC>

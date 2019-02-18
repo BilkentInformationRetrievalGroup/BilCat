@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325375 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f57d631/l/0l0smilliyet0n0btr0cirak0eta0epolis0earacinda0epatlama0cdunya0csondakika0c0a40b110b20a10a0c1310a2160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:01:48.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��rak'ta polis arac��nda patlama
+</HEADLINE>
+<TEXT>Irak’ta yetkililer tarafından ele geçirilen bir roketin, imha edilmek üzere taşındığı sırada patlaması sonucunda 2’si polis 4 kişi öldü.Yetkililer, başkent Bağdat’ın 250 kilometre kuzeybatısındaki Şurkat’ta bulunan bir roketin, bulunduğu yerden götürülmek üzere bir kamyona yüklendiğini açıkladı.Yerel yetkililer, aracın hareket etmesiyle birlikte roketin infilak ettiğini, olayda 2 sivil vatandaş ile 2 polisin hayatını kaybettiğini söyledi.</TEXT>
+</DOC>

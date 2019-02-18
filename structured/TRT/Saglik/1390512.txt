@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1390512 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d663b71d-597b-4083-93b3-bbc715467559 </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 16:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+80 ki��i yemekten zehirlendi
+</HEADLINE>
+<TEXT>
+Şanlıurfa'da yemekten zehirlenen 80 kişi çeşitli hastanelere kaldırılarak tedavi altına alındı.
+
+   İşyerlerine servis yapan bir yemek firmasından gelen yemekleri yiyen 80 kişide bir süre sonra mide bulantısı ve kusma şikayetleri görüldü.  
+
+    Acil servis ekipleri kent merkezinde zehirlenen hastaları ambulanslarla hastanelere taşıdı.
+
+    Hastanede gıda zehirlenmesi teşhisi konulan 35 kişi gözetim altında tutuluyor.
+
+    45 hasta da ayakta tedavi edilerek taburcu edildi. 
+
+    Olayla ilgili soruşturma sürdürülüyor.
+</TEXT>
+</DOC>

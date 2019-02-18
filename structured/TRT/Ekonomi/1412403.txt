@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1412403 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b458a9d0-e4a0-4b2d-a92a-071578626da9 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 17:00:39.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��ki ve sigaraya elektronik takip
+</HEADLINE>
+<TEXT>
+Gelir İdaresi Başkanlığı; alkol ve sigarada kayıt dışılığın önüne geçmek için yeni bir sistem oluşturdu.
+
+Kaçak sigara ve içkiye denetim artıyor. Amaç vergi kaybının önüne geçmek.
+Bu kapsamda Gelir İdaresi Başkanlığı çalışmalarına hız verdi.
+
+Elektronik takip sistemiyle içki ile sigarada üretim ve ithalat aşaması yakın izlemeye alınacak.
+
+İthalatçılar ve üreticiler, Gelir İdaresi&rsquo;ne her ay internet ortamında ayrıntılı bildirimde bulunacak.
+
+Bildirimlerde, ne kadar üretim ve ithalat yapıldığı, satılan ve stoktaki ürün miktarı ile alınan ve stoktaki bandrol sayısına ilişkin ayrıntılı bilgiler yer alacak.
+
+Daha önce bildirimler toplu yapılırken, bundan böyle her şişe alkollü içki ve her paket sigara kayıt altına alınacak.
+ 
+Vergi kaybının önlenmesini amaçlayan yeni düzenleme, Resmi Gazate&rsquo;de yayımlanarak yürürlüğe girdi.
+
+Sigara ve alkol üretici ve ithalatçıları, 1-20 Şubat tarihleri arasında, ilk ayrıntılı bildirimlerini Gelir İdaresine iletecek.
+Gelir İdaresi, dağıtım ve bayi noktasında takip sistemi üzerinde de çalışıyor.
+
+Dağıtım ve bayi ağının da takip sistemine dahil edilmesiyle birlikte, alkollü içki ve tütün mamulleri, üretim ve ithalattan vatandaşa ulaştığı noktaya kadar ki süreçte yakından izlenebilecek.
+
+</TEXT>
+</DOC>

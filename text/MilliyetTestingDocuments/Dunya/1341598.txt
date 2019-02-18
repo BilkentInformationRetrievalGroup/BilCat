@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341598 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fc9beff/l/0l0smilliyet0n0btr0cyeni0ezelanda0eda0e30a0emadenci0ekayip0cdunya0csondakika0c190b110b20a10a0c131590a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 11:00:53.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+yeni zelanda'da 30 madenci kay��p
+</HEADLINE>
+<TEXT>Yeni Zelanda’da, bir madende meydana gelen patlama sonucu, 30’a yakın madencinin kayıp olduğu bildirildi.Polis bugün yaptığı açıklamada, adanın güneyindeki batı sahil bölgesinde bulunan küçük Grey District kentinde meydan gelen maden kazasında, 25 ya da 30 madencinin kayıp olduğunu belirtti.</TEXT>
+</DOC>

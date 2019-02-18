@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1428345 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9fffc848-8fd8-4d86-bf52-5b7e6de2c559 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 14:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bakanlar kurulu yo��un g��ndemle topland��
+</HEADLINE>
+<TEXT>
+Toplantının gündeminde ağırlıklı olarak dış politika var. Balyoz Darbe Planı iddialarına dayanılarak yapılan tutuklamalar da gündemde.
+
+
+Bakanlar Kurulu, Başbakan Recep Tayyip Erdoğan başkanlığında toplandı.
+
+Toplantıda iç ve dış gelişmeler değerlendiriliyor. 
+     
+Saat 14.30&rsquo;da başlayan toplantının gündemi yoğun... 
+
+Gündemde ağırlıklı olarak dış politika var.
+
+Ortadoğu ve Mısır&rsquo;da yaşanan gelişmeler Bakanlar Kurulunun gündeminde...
+
+Dış politika başlığında, Kıbrıs ve Avrupa Birliği konularının da görüşülmesi bekleniyor. 
+
+Bakanlar Kurulu&rsquo;nda Balyoz Darbe Planı iddialarına dayanılarak yapılan tutuklamalar da ele alınacak. 
+
+Ekonomide yaşanan gelişmeler ve yaklaşan seçimlerse toplantının diğer önemli konuları olacak. 
+</TEXT>
+</DOC>

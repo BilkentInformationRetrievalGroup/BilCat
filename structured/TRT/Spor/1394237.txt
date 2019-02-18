@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1394237 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=823533ac-1851-4774-96a6-005f0c306990 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 14:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+arjantin'de y��ld��r��m deh��eti
+</HEADLINE>
+<TEXT>
+İdman sahasına yıldırım düştü, bir kişi hayatını kaybetti.
+
+Arjantin&rsquo;in Racing futbol takımının idmanı sırasında sahaya yıldırım düşmesi sonucu takımın masörlerinden biri hayatını kaybetti.
+ Başkent Buenos Aires&rsquo;in takımlarından Racing&rsquo;in idmanında metal sulama aletlerinin yanında duran 61 yaşındaki Cesar Nardi&rsquo;nin yıldırım çarpması sonucu öldüğü belirtildi.
+ Nardi, yaklaşık 10 yıldır takımın masörlüğünü yapıyordu. Yıldırım düştüğü sırada Nardi&rsquo;nin yakınında bulunan Braian Lluy&rsquo;un da hafif yaralandığı kaydedildi.
+</TEXT>
+</DOC>

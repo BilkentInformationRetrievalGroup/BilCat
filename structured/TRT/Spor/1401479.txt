@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1401479 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=da9d7625-6c03-4759-8019-b078ea8ee799 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 12:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+salon futbolunda milli heyecan izmir'de
+</HEADLINE>
+<TEXT>
+Türk Milli Takımı, Avrupa Salon Futbol Şampiyonası Ön Eleme Turu maçlarını İzmir'de yapacak.
+
+UEFA Futsal Şampiyonası ön eleme turu (A) Grubu&rsquo;nda maçlarını İzmir&rsquo;de yapacak Futsal Milli Takımı, ilk olarak cuma günü Karadağ ile karşılaşacak.
+Türkiye, futsalda ilk kez bir uluslararası organizasyona ev sahipliği yapıyor.   
+Türk Milli Takımı, Kültürpark Celal Atik Spor Salonu&rsquo;ndaki maçlarda, 22 Ocak Cumartesi günü İsviçre, 24 Ocak Pazartesi günü de Moldova ile karşılaşacak.
+
+</TEXT>
+</DOC>

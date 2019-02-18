@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337896 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fac68af/l/0l0smilliyet0n0btr0cturkiye0eteror0eriskinde0e220enci0csiyaset0chaberdetay0c160b110b20a10a0c13149360cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:09:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye ter��r riskinde 22���nci
+</HEADLINE>
+<TEXT>DIŞ HABERLER SERVİSİDoğal ve insani riskleri inceleme alanında uzmanlaşan Maplecroft adlı analiz şirketi, altı ayda bir yayınladığı “Terör Riski Endeksi”ni açıkladı. Bir ülkede terör saldırısına maruz kalma riskinin hesaplandığı endekste, Türkiye, terör riski bulunan 196 ülke içerisinde 14’üncü sıradan 22’nci sıraya geriledi.  Milliyet’in ele geçirdiği raporda, Türkiye’deki terörist saldırıların sayısının altı ay önceki endeksten bugüne 57’den 28’e düştüğü belirtildi. PKK’nın, Türkiye’deki en bilinen terör örgütü olduğunu vurgulayan Maplecroft, örgütün halen bir tehdit olmaya devam ettiğine ve genellikle güvenlik güçlerini hedef aldığına değindi. Raporda TAK’A da yer verilirken, Kasım ayında Taksim’de gerçekleşen ve 32 kişinin yaralanmasıyla sonuçlanan terör saldırısını üstelenen örgütün, Türk istihbarat servisi tarafından PKK’nın bir kolu olarak tanımlandığı ifade edildi. Raporun Türkiye ile iglili bölümünün devamında, “PKK’nın enerji altyapılarını, özellikle de petrol boru hatlarını hedef aldığı biliniyor. Örgütün enerji altyapılarına saldırı düzenleme riski devam ediyor” denilerek, 10 Ağustos’ta Kerkük-Ceyhan petrol boru hattına düzenlenen saldırı hatırlatıldı.Somali en riskliTerör riskinin en yüksek olduğu ilk 10 ülke, Somali, Pakistan, Irak, Afganistan, Filistin, Kolombiya, Tayland, Filipinler, Yemen ve Rusya olarak sıralandı. Yunanistan ise 57’nci sıradan 24’e yükseldi. Yunanistan’ın yükselişinde, ülkedeki sol grupların artan saldırılarının etkili olduğuna dikkat çekildi. Geçen yılın Haziran ayından bu yılın haziran ayına kadar Somali ’de 556 terör eylemi düzenlendiği ve bu saldırılarda 1.437 kişinin öldüğü belirtildi. Ülkelerdeki terör saldırılarının sıklığı ve saldırılar sonucu ölen insan sayısı gibi kriterlere göre her altı ayda bir yenilenen endekste İngiltere; Fransa ve ABD ’ye göre “daha az terör riskli” ülkeler arasında yer aldı. Endekse göre bazı ülkelerin sıralamaları şöyle: İngiltere (46), ABD (33), Fransa (44), Kanada (67), Almanya (70), İspanya (27), Cezayir (36), Hindistan (15).</TEXT>
+</DOC>

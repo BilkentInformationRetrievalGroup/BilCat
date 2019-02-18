@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1409085 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7a0507a4-a5cb-4795-bd53-f0be0af46590 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 13:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+p��nar kar����yaka'n��n zirve keyfi
+</HEADLINE>
+<TEXT>
+FIBA Erkekler Eurochallenge Kupası'nda liderliğe yükselen Pınar Karşıyaka, 10. maçta 8. galibiyetini aldı.
+
+Basketbolda, FIBA Erkekler Eurochallenge Kupası (J) Grubu&rsquo;nda Slovenya&rsquo;dan KK Krka Novo Mesto&rsquo;yu 94-74 yenerek, grupta liderliğe yükselen Pınar Karşıyaka, bu sezon kupada oynadığı 10. maçta 8. galibiyete ulaştı.
+ Kupaya eleme turundan başlayan Pınar Karşıyaka, bu turda oynadığı her iki maçı kazandıktan sonra grubunda oynadığı 8 maçta 6 galibiyet ve 2 yenilgi aldı. 
+ Bu grubu lider tamamlayan ve son 16 takım arasına kalan Pınar Karşıyaka (J) Grubu&rsquo;nda oynadığı ilk iki maçı da kazanarak, liderliğe yükseldi.
+ Yeşil kırmızılı ekip, kendi evinde oynadığı 5 karşılaşmada yenilmedi.
+ Grupta 1 Şubat Salı günü Pınar Karşıyaka-Dexia Mons-Hainaut (Belçika) ve KK Krka Novo Mesto (Slovenya)- Antwerp Giants (Belçika) maçları oynanacak.
+</TEXT>
+</DOC>

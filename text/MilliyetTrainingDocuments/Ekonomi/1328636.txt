@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328636 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f641ecd/l/0l0smilliyet0n0btr0cgoogle0ein0ekatili0eolabilir0emi0e0cekonomi0csondakika0c0a60b110b20a10a0c1310a9550cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 05:00:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+google'��n katili olabilir mi?
+</HEADLINE>
+<TEXT>Yeni internet arama motoru Blekko'nun yaratıcıları, kullanıcıların internette bir şeyleri arama biçimine yepyeni bir boyut kazandıracaklarını ve Google'ın hakimiyetine son vereceğini savunuyor.Kullanıcıların tavsiyeleriyle şekillenen Blekko, arama sırasında düşük kalitedeki ve konu dışı siteleri filtreliyor.Blekko'nun yaratıcıları, bu tür sitelerin halihazırda hakim arama motorlarını istila etmiş durumda olduğuna dikkat çekiyor.Blekko, insanların temel konularda en yararlı sitelere dair yaptığı ön seçimleri kullanıyor ve daha sonra aramayı bu faydalı ve konu ile alakalı sitelerle sınırlıyor.Blekko'nun yaratıcıları, mevcut arama motorlarının çok fazla sonuç gösterdiğini, ama bunlar arasında çok az gerçek bilgi olduğuna dikkat çekiyor ve çoğunluğunun pornografik ve spam içeriklerden oluştuğunu vurguluyor.Blekko'da kullanıcılar "slashtags"i kullanarak, aramalarını daha detaylı hale getirebiyorlar. Söz gelimi 'Küresel ısınma / yeşil' diye yazıldığında yeşil partiler, çevre grupları da sonuçlar arasına katılıyor. Kullanıcıların sözgelimi Paris Hilton'u ararken pornografik sonuçlardan kaçınmak için 'Paris Hilton/noporn' yazmaları yeterli oluyor. Ayrıca Wikipedia'daki gibi interaktif bir paylaşım da düşünülmüş. Kullanıcılar yorumlarını paylaşabiliyor, editörlük başvrusu yapabiliyorlar. Arama sonuçları ekleyip, ilgisiz seçenekleri ayıklayabiliyorlar.  Blekko'nun kurucusu Rich Strenta'ya göre hedef, 'internet araştırması süreceni temizlemek ve bütün spamları ayıklamak'.Ancak sitenin daha fazla geliştirilmesi ve kullanımının daha kolay hale getirilmesi ihtiyacı göze çarpıyor.</TEXT>
+</DOC>

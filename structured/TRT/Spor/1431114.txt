@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1431114 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8ac3c1f6-04aa-4bdf-b1ab-9c593f6eef46 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 23:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+roma evinde vuruldu
+</HEADLINE>
+<TEXT>
+Şampiyonlar Ligi 2. Tur ilk maçında Roma, Shakhtar Donetsk'e 3-2 mağlup oldu.
+
+Roma&rsquo;daki Olimpico stadında oynanan maçta ev sahibi ekip Dinca&rsquo;nın kendi kalesine attığı golle 1-0 öne geçti. 
+
+Ancak Ukrayna ekibi Shakhtar Donetsk bu golden 1 dakika sonra Silva&rsquo;nın golüyle eşitliği yakaladı. Konuk ekip 36&rsquo;da Costa ve 42&rsquo;de Adriano&rsquo;nun golleriyle skoru 3-1 taşıdı. 
+
+Karşılaşmanın sonucunu ise 61&rsquo;inci dakikada Menez belirledi ve karşılaşma 3-2 sona erdi.
+
+Çeyrek finale yükselecek takımın belirleneceği 2. maç 8 Mart&rsquo;ta Ukrayna&rsquo;da oynanacak.
+</TEXT>
+</DOC>

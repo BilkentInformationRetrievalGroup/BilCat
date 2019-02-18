@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1345348 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffa7b5b/l/0L0Smilliyet0N0Btr0Cborsa0Edususle0Ekapandi0Cekonomi0Csondakika0C250B110B20A10A0C13183640Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa düşüşle kapandı
+</HEADLINE>
+<TEXT>100 Endeksi birinci seansta, dünkü kapanışa göre 542,77 puan düşerek 66.687,95 puandan kapandı.
+
+Hisse senetleri ortalama yüzde 0,81 değer yitirdi.
+
+--DÖVİZ-- 
+ Menkul Kıymetler Borsası (İMKB) Tahvil ve  Piyasası Kesin Alım Satım Pazarında, 8 Ağustos 2012 vadeli, bugün valörlü tahvilin saat 12.30 itibariyle basit getirisi yüzde 7,81, bileşik getirisi yüzde 7,61 seviyelerinde bulunuyor.
+
+- KOTASYONLARI- 
+Bankalararası piyasada dolar kotasyonlarında fiyat, alışta en düşük 1,4740 lira, en yüksek 1,4770 lira, satışta en düşük 1,4810 lira, en yüksek 1,4830 lira olarak belirlendi.
+
+-REPO- 
+İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarında gecelik repo işlemleri en düşük yüzde 6,25, en yüksek yüzde 6,40 ve ortalama yüzde 6,28’den gerçekleşiyor.
+
+-PARİTE- 
+Uluslararası piyasalarda -dolar paritesi 1,3290, -dolar paritesi 1,5746, yen-dolar paritesi ise 83,69 düzeyinde seyrediyor.</TEXT>
+</DOC>

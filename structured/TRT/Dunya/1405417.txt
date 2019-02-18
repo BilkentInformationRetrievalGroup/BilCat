@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1405417 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=420797fe-7ebd-4bf5-aa41-be0a0787900b </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 08:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+almanya su alt��nda
+</HEADLINE>
+<TEXT>
+Almanya'da nehirlerdeki su seviyesinin yükselmeye devam etmesi endişeye yol açıyor.
+
+
+ 
+     Almanya&rsquo;da günlerce devam eden yoğun kar yağışının ardından hava sıcaklığının  birden artması nehirlerdeki su seviyesinin hızla yükselmesine neden oldu.
+ 
+     Elbe nehrinde su seviyesinin 9 metre 15 santimetreye kadar yükselmesi üzerine, Lauenburg&rsquo;da cadde ve sokaklar sular altında kaldı. Çok sayıda evin bodrum katını da su bastı.
+ 
+     Brandenburg ve Mecklenburg&rsquo;da ise olası sel baskınlarına karşı binaların çevresine kum torbaları yerleştirildi.
+
+     
+
+
+
+
+</TEXT>
+</DOC>

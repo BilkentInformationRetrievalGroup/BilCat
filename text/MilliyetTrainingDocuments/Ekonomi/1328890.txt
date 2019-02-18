@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328890 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f65925e/l/0l0smilliyet0n0btr0cnew0eyork0eborsasi0eyukselisle0ekapandi0cekonomi0csondakika0c0a60b110b20a10a0c1310a9840cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:00:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+new york borsas�� y��kseli��le kapand��
+</HEADLINE>
+<TEXT>New York Menkul Kıymetler Borsası günü yükselişle kapadı.Dow Jones sanayi endeksi 9.24 puanlık artışla 11.444,08 puandan, Nasdaq bileşik endeksi 1.64 puan artışla 2.578,98 puandan kapandı.</TEXT>
+</DOC>

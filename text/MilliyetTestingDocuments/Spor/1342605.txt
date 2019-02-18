@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342605 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea4a/l/0l0smilliyet0n0btr0ckocaman0erisk0cspor0chaberdetay0c20a0b110b20a10a0c1316160a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kocaman risk
+</HEADLINE>
+<TEXT>YUSUF KOBALSon olarak Bucaspor maçına üç gün kala Kocaman'ın tempoyu artırması tartışmalara yol açtı. Oyuncuların bir hayli yorgun düştüğü ve çalışma temposunun maçlara yansıyacağı ileri sürülürken, camiada teknik heyetin riskli bir çalışma metodu uyguladığı yorumları yapılmaya başlandı.Teknik Direktör Aykut Kocaman, üniversiteden transfer ettiği akademik kariyerli kondisyoneri Alper Aşçı'ya çok güvenirken, Aşçı'nın yöntemlerinin, ligin başında olduğu gibi ilerleyen dönemlerde de sorun çıkarabileceği, Fenerbahçe'nin özellikle ağır fizik çalışmalardan kaçınması gerektiği belirtiliyor. Fenerbahçe'nin çalışma temposunu mercek altına alan uzmanlar, bu andan itibaren takımın top çalışması dışında yapacağı her çalışmanın geri tepeceğini, lige verilecek arada yeniden bir yüklemenin daha anlamlı olacağının altını çiziyorlar. </TEXT>
+</DOC>

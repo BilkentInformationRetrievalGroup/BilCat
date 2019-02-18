@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1382354 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8428d343-3284-435c-bc0e-af6a2dc4735b </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 18:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mp trabzonspor'a s��rp oyun kurucu
+</HEADLINE>
+<TEXT>
+Medical Park Trabzonspor, Sırp oyuncu Igor Milosevic ile anlaşmaya vardı.
+
+Beko Basketbol Ligi ekiplerinden Medical Park Trabzonspor, Sırp oyuncu Igor Milosevic&rsquo;i renklerine bağladı. 
+ 14 Nisan 1986 yılında Belgrad&rsquo;da doğan Milosevic, 1.93 santimetre boyunda ve oyun kurucu olarak görev yapıyor. 
+ Aynı zamanda Yunan pasaportuna da sahip olan Sırp oyuncu, Litvanya Ligi&rsquo;nde 2009-2010 sezonunda 14 maçta 9.9 sayı, 4.5 asist ve Baltic Ligi&rsquo;nde ise 6 maçta 15.3 sayı ve 3.2 asist ortalaması ile oynadı. Milosevic, bu sene bordo-mavili takımda Rasic, Draogojlovıc ve Cakic&rsquo;ten sonra 4. Sırp oyuncu olarak görev yapacak.
+</TEXT>
+</DOC>

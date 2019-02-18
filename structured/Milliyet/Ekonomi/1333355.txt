@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333355 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f857b2d/l/0l0smilliyet0n0btr0cborsa0eyuzde0e10e370edususle0ekapandi0cekonomi0csondakika0c10a0b110b20a10a0c13127670cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa y��zde 1,37 d��������le kapand��
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsasında (İMKB) işlem gören hisse senetleri günlük bazda ortalama yüzde 1,37 oranında değer yitirdi.İMKB 100 Endeksi, ikinci seansta 836,51 puan düşerek 70.561,03 puandan kapandı. Hisse senetleri ikinci seansta ortalama yüzde 1,17 oranında geriledi.İlk seanstaki 145,72 puanlık düşüş dikkate alındığında, borsa endeksi günün tamamında 982,23 puan düştü.Hisse senetleri günlük bazda ortalama yüzde 1,37 değer yitirdi.</TEXT>
+</DOC>

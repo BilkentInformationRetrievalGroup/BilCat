@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341596 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fc9bb07/l/0l0smilliyet0n0btr0cinternet0eerisimini0epaylasan0eabonelere0e10a0ebin0etl0eceza0cekonomi0csondakika0c190b110b20a10a0c131590a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 11:00:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+internet eri��imini payla��an abonelere 10 bin tl ceza
+</HEADLINE>
+<TEXT>İnternet şifresini komşusuyla paylaşanları 10 bin TL'ye varan ceza bekliyor.Bilgi Güvenliği Derneği Başkanı Prof. Dr. Şeref Sağıroğlu, internete ulaşım şifrelerinin ortak kullanılmasının güvenlik zaafiyetine yol açtığına işaret etti.Bilişim Uzmanı Çığır İlbaş ise modem şifrelerini veya internet kablolarının başkalarıyla paylaşılmasına yaklaşık bin ile 10 bin TL ceza verildiğini kaydetti. Sağıroğlu, yaptığı açıklamada, internetin yaygınlaşmasıyla kullanıcıların farkına varmadan kullandıkları bilişim sistemlerinde açıklar oluşturabileceklerini hem de suç işleyebileceklerini söyledi. (Sabah)</TEXT>
+</DOC>

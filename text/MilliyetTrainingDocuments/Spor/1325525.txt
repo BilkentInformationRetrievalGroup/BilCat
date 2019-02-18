@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325525 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f57d680/l/0l0smilliyet0n0btr0cbesiktas0ekasimpasa0emaci0ebiletleri0esatisa0esunuldu0cspor0csondakika0c0a40b110b20a10a0c1310a2210cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:16:06.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+be��ikta��-kas��mpa��a ma���� biletleri sat����a sunuldu
+</HEADLINE>
+<TEXT>Beşiktaş’ın, Spor Toto Süper Lig’de 8 Kasım Pazartesi günü sahasında Kasımpaşa ile yapacağı maçın biletleri satışa sunuldu.FİYAPI İnönü Stadı’nda saat 20.00’de başlayacak karşılaşmanın Biletix’ten satışa çıkartılan biletlerinin fiyatları şöyle:         VIP Üst B-E: 275 TL         VIP Üst A-F: 250 TL         VIP Alt A-F: 175 TL         VIP Alt B-E: 200 TL         VIP ALT C-D: 250 TL         Numaralı Orta: 160 TL         Numaralı Kenar: 130 TL         Kapalı Üstü: 110 TL         Kapalı Alt: 90 TL         Yeni Açık: 30 TL         Eski Açık: 25 TL</TEXT>
+</DOC>

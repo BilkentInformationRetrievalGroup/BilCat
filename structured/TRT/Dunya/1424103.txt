@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1424103 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4637a5f6-4d71-49cb-a918-0058b30e32ac </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 07:58:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'de patlama
+</HEADLINE>
+<TEXT>
+Pennsylvania eyaletinde bir evde meydana gelen şiddetli patlama paniğe yol açtı.
+
+ 
+      Yaralıların olduğu belirtilen patlamanın ardından doğalgaz borularında yangın çıktı.
+ 
+            Philedelphia Allentown&rsquo;da yerel saatle gece yarısına doğru kilometrelerce uzaktan duyulan şiddetli bir patlama meydana geldi.
+ 
+       En az dört evin yandığı belirtilen bölgede üçüncü seviye acil durum ilan eden yetkililer, çevre binaları boşalttılar.
+ 
+       İtfaiye ekipleri, binalarda ve doğalgaz borularında çıkan yangını söndürmek için yoğun çaba sarfettiler.
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343320 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd46bdc/l/0l0smilliyet0n0btr0c420egosterici0egozaltinda0cdunya0chaberdetay0c210b110b20a10a0c131640a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:03:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+42 g��sterici g��zalt��nda
+</HEADLINE>
+<TEXT> Polis, dün 4 gösteriye izin verirken, zirvenin yapıldığı alana giden bir yolu kapatmak isteyen bir gruptan 42 kişi güvenlik güçlerine karşı geldikleri ve kamu düzenini bozdukları gerekçesiyle gözaltına alındı. Gösterilerde kayda değer bir şiddet olayı yaşanmadığı açıklandı. Dünyanın dört bir yanından Portekiz’e giderek NATO’yu protesto eden gruplar ise amaçlarının “emre itaatsizlik yoluyla, NATO’nun Afganistan’da işlediği suçlara dikkat çekmek istediklerini” söylediler. </TEXT>
+</DOC>

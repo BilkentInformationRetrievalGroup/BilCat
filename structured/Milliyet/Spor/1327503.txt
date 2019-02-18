@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327503 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f601434/l/0l0smilliyet0n0btr0chiddink0e20emaci0eizleyecek0e0cspor0csondakika0c0a50b110b20a10a0c1310a6610cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:18:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hiddink, 2 ma���� izleyecek...
+</HEADLINE>
+<TEXT>(A) Milli Takım Teknik Direktörü Guus Hiddink, hafta sonu Spor Toto Süper Lig’de yapılacak Fenerbahçe-Eskişehirspor ve Trabzonspor-Galatasaray maçlarını izleyecek.Futbol Federasyonu’ndan yapılan açıklamaya göre, yarın Türkiye’ye gelecek olan (A) Milli Takım Teknik Direktörü Guus Hiddink, Fenerbahçe ile Eskişehirspor arasında saat 19.00’da başlayacak karşılaşmayı izleyecek. Hiddink, ertesi gün de Trabzon’a uçarak, Hüseyin Avni Aker Stadı’nda 19.00’da yapılacak Trabzonspor-Galatasaray maçında, Oğuz Çetin ile birlikte tribünde olacak.</TEXT>
+</DOC>

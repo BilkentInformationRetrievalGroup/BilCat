@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1421250 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e46141cf-9d05-4c23-9ec1-a7a9cbac915e </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 15:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+p��nar saka abd'de birinci oldu
+</HEADLINE>
+<TEXT>
+Milli atlet Pınar Saka, ABD’de düzenlenen salon yarışmasında bayanlar 400 metrede birinci oldu.
+
+Pınar Saka, ABD’nin Nebraska eyaletinin başkenti Lincoln’de düzenlenen Frank Sevigne Huskers Invitational Salon Yarışması’nda bayanlar 400 metrede piste çıktı.
+
+Saka, 53,08’lik derecesiyle yarışı ilk sırada bitirdi.
+
+Saka’yı, 53,75’lik derecesiyle Afiya Wyoming izledi.
+
+3&rsquo;ncülüğü de 55,12’lik derecesiyle Brittney Wisconsin aldı.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1405531 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f30dfe61-c51a-4e07-8c20-79eef52f5361 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 10:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ambulanslara refakat��i yasa����
+</HEADLINE>
+<TEXT>
+Emzikli bebeklerin ve kuvözdeki yenidoğanların dışında, ambulanslara refakatçi alınmayacak.
+
+Sağlık Bakanlığı Temel Sağlık Hizmetleri Genel Müdürlüğü&rsquo;nün il sağlık müdürlüklerine gönderdiği genelgede, acil hastaların sağlık kurumlarına nakli sırasında, hasta yakınlarının da hastaneye aynı ambulansla ulaşma talepleriyle karşılaşıldığı belirtildi.
+
+Ancak ambulanslara refakatçi alınmasının, hastalara tıbbi müdahalede bulunan ekiplerin görev yapmasını zorlaştırdığı gibi, personel ve ambulans sürüş güvenliği açısından olumsuz sonuçlar doğurduğu; diğer taraftan, meydana gelebilecek bir kazadan etkilenme olasılığı bulunan hasta yakınlarına tazminat ödenmesi gibi telafisi güç ve imkansız durumlar ortaya çıkabileceği belirtilen genelgede, şunlara dikkat çekildi:
+
+&rsquo;&rsquo;Hizmetin yürütülmesinde herhangi bir olumsuzluğa meydan vermemek ve ambulans güvenliğinin sağlanması açısından emzikli bebek veya kuvöz içerisinde yenidoğan nakli gibi vakaların dışında, ambulansa gerek hasta kabininde gerekse sürücü bölmesinde hiçbir surette refakatçi alınmaması, aksi halde doğacak zararlardan öncelikle ambulans personeli olmak üzere müteselsilen ambulans servisi başhekimi ile sağlık il yöneticilerinin sorumlu olacağı hususunda bilgilerinizi ve gereğini rica ederim.&rsquo;&rsquo;
+
+
+
+</TEXT>
+</DOC>

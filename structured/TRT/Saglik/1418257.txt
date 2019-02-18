@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1418257 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bf453e90-729a-4e2c-aae2-c9ec694e5ab4 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 11:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+����plak g��zle kara bakmay��n
+</HEADLINE>
+<TEXT>
+Karlı günlerin en yoğun hissedildiği şu günlerde uzmanlar, karlı havalarda güneş gözlüğü takmadan dışarıya çıkılmamalı diyor.
+
+Uzmanlar, karlı havalarda güneş gözlüğü takmadan dışarıya çıkmanın ve koruyucu gözlük olmadan kar sporları yapmanın &rsquo;kar körlüğüne&rsquo; davetiye çıkardığını söylüyor.
+
+Dünyagöz Ataköy Hastanesi&rsquo;nden Opr. Dr. Haluk Talu, güneşten gelen ultraviyole ışınlarının kar ya da buzla kaplı alanlarda yansıması sonucu göze zarar verdiğini ve kar körlüğünün oluştuğunu ifade etti.  
+
+Opr. Dr. Haluk Talu, hastalığın en büyük belirtisinin gözde kuruma olduğuna dikkat çeken Talu, &quot;Gözde ışığa karşı hassaslaşma 8 ile 12 saat sonra başlıyor. 
+
+İlk belirtisi gözde kurumadır. Zaman ilerledikçe kişide gözünün içinde kum tanesi varmış hissi oluşuyor. Gözler ışığa karşı aşırı derecede hassaslaşıyor.&quot; dedi. 
+</TEXT>
+</DOC>

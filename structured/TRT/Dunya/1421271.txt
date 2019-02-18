@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1421271 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=06f8c474-4117-41ac-a59c-04d76cc82c5d </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 17:00:36.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+londra'da g��rkemli ge��it
+</HEADLINE>
+<TEXT>
+Londra'da eski ve yeni otomobillerin geçidi...
+
+Lüks bir otomobil markası, ambleminin 100&rsquo;üncü yılını 100 otomobilin katıldığı görkemli bir geçitle kutladı.
+
+</TEXT>
+</DOC>

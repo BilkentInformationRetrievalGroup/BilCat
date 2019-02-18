@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> 1332709 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f81c4c3/l/0L0Smilliyet0N0Btr0Cdolar0Egune0Enasil0Ebasladi0E0Cekonomi0Csondakika0C10A0B110B20A10A0C13125530Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:04:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dolar güne nasıl başladı?
+</HEADLINE>
+<TEXT>LARARASI PİYASADA DOLAR KOTASYONLARI
+Bankalararası piyasada satışta dolar kotasyonları en düşük 1,4160 lira, en yüksek 1,4170 lira seviyesinde bulunuyor.
+
+Dolar kotasyonları saat 09.20 itibariyle alışta en düşük 1,4100 lira, en yüksek 1,4110 lira, satışta en düşük 1,4160 lira, en yüksek 1,4170 lira seviyesinde işlem görüyor.</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1411579 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e49d3384-3f21-40f9-9df7-24800e2b4373 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 16:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+horozlar grip
+</HEADLINE>
+<TEXT>
+Yarın oynanacak olan Gaziantep Büyükşehir Belediyespor maçına kadar futbolcuların tedavisine devam edileceği belirtiliyor.
+
+Bank Asya 1. Lig ekiplerinden Denizlispor&rsquo;da, oyuncuların bazılarının gribal enfeksiyona yakalandığı bildirildi.
+Gribe yakalan oyunculardan Levent Kartop, Musa Nizam ve Murat Akyüz yarın Bank Asya 1. Lig&rsquo;de karşılaşacağı Gaziantep Büyükşehir Belediyespor maçına yetiştirilmeye çalışılıyor.
+Havaların soğumasından dolayı gribal enfeksiyona yakalanan bazı futbolcuların hastalığı kısa sürede atlattığı ifade edilirken, Levent Kartop, Musa Nizam ve Murat Akyüz, çarşamba günü oynanan Ziraat Türkiye Kupası grup maçında Medical Park Antalyaspor karşısında hastalıkları nedeniyle forma giyememişti.
+Kulüpten alınan bilgilere göre, yarın oynanacak olan Gaziantep Büyükşehir Belediyespor maçına kadar futbolcuların tedavisine devam edileceği belirtilirken, Levent, Musa ve Murat&rsquo;ın oynayıp oynayamayacaklarının maç saatinden önce belli olacağı bildirildi.
+
+
+</TEXT>
+</DOC>

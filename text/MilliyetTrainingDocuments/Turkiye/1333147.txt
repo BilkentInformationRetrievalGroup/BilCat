@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333147 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f82adaa/l/0L0Smilliyet0N0Btr0Cankara0Eda0E140Esaat0Esu0Ekesintisi0Cturkiye0Csondakika0C10A0B110B20A10A0C13126240Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:43:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ankara'da 14 saat su kesintisi
+</HEADLINE>
+<TEXT>Basın Merkezinden yapılan açıklamaya göre, Aktepe Mahallesi 724. ve 969. caddelerde yapılacak  şebeke bağlantı çalışması nedeniyle yarın 08.00-22.00 saatleri arasında , Yeşiltepe, Çaldıran ve Bağlarbaşı mahallelerinin üst kotları ile Aktepe ve Güzelyurt mahallelerinde su kesintisi uygulanacak.</TEXT>
+</DOC>

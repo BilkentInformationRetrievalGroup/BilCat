@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1438984 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6e1505da-6865-422e-bfc7-bfcbf7a00100 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 11:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trafikteki ta����t say��s�� artt��
+</HEADLINE>
+<TEXT>
+2010  yılında trafikteki taşıt sayısı 778 bin 903 adet arttı.
+
+     
+     Türkiye İstatistik Kurumu&rsquo;nun açıkladığı rakamlara göre 2010  yılının tamamında trafikteki  toplam taşıt sayısında 778 bin 903 adet artış oldu.
+
+     2010 Aralık ayında da 91 bin 744 adet taşıt trafiğe kaydoldu.
+
+     Böylece trafiğe kaydı yapılan motorlu taşıt sayısı Aralık ayında bir önceki aya göre yüzde  3,1 arttı.
+
+     Trafiğe kaydı yapılan motorlu taşıt sayısındaki artış geçen yılın aynı ayına göre ise  yüzde  91 olarak gerçekleşti.
+
+
+
+</TEXT>
+</DOC>

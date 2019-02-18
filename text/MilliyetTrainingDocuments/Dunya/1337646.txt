@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337646 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/faa5206/l/0l0smilliyet0n0btr0cmerkel0eyeniden0ecdu0egenel0ebaskanligina0esecildi0cdunya0csondakika0c150b110b20a10a0c131480a50cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 19:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+merkel, yeniden cdu genel ba��kanl������na se��ildi
+</HEADLINE>
+<TEXT>Almanya Başbakanı Angela Merkel, yeniden Hristiyan Demokrat Birlik partisinin (CDU) genel başkanlığına seçildi.Başbakan Merkel, CDU’nun Karlsruhe kentinde düzenlemekte olduğu parti kurultayında yapılan genel başkanlık seçiminde, delegelerin yüzde 90,4’ünün oyunu alarak, bir kez daha CDU Genel Başkanı oldu.CDU’nun 2000 yılından bu yana genel başkanlığını yürüten Merkel, partisinin 2 yıl önce düzenlediği parti kurultayında oyların yüzde 94,83’ünü almıştı.</TEXT>
+</DOC>

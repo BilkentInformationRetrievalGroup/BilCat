@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1389575 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=95dc10e3-341d-4838-b9f4-7380cf2acebe </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 16:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+federasyondan kaz��m kaz��m a����klamas��
+</HEADLINE>
+<TEXT>
+Son dönemde milli takım teknik ekibinden hiç kimse Galatasaray Teknik Direktörü ile konuşmamıştır.  
+
+Türkiye Futbol Federasyonu (TFF), milli futbolcu Kazım Kazım&rsquo;ın Galatasaray&rsquo;a transferinde, (A) Milli Takım Teknik Direktörü Guus Hiddink ve sorumlu yardımcı Oğuz Çetin&rsquo;in görüş bildirdiği şeklindeki haberlerin doğru olmadığını açıkladı.
+TFF&rsquo;nin resmi internet sitesinde yapılan açıklamada, Kazım&rsquo;ın transferiyle ilgili Galatasaray Teknik Direktörü Gheorghe Hagi&rsquo;nin, Hiddink ve Oğuz Çetin ile görüştüğü ve transfere, bu görüşmelerden edindiği olumlu görüşler sonucunda karar verdiği ifadelerinin doğru olmadığı belirtilerek, &rsquo;&rsquo;Son dönemde milli takım teknik ekibinden hiç kimse Galatasaray Teknik Direktörü ile konuşmamış ve herhangi bir transfer üzerine görüş bildirmemiştir&rsquo;&rsquo; denildi.
+
+
+</TEXT>
+</DOC>

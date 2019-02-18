@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1428775 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=021ba908-483f-484f-b4f1-d9aed4c908c9 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 22:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+avrupa mali krizi a��mak yolunda anla��t��
+</HEADLINE>
+<TEXT>
+Avro Bölgesi Maliye Bakanları "Avrupa İstikrar Mekanizması" adı verilen kalıcı bir oluşum konusunda anlaştı.
+
+
+Avrupa, mali sıkıntılarını aşmak için adımlar atmaya devam ediyor.
+
+Avro bölgesi Maliye Bakanları, &quot;Avrupa İstikrar Mekanizması&quot; adı verilen kalıcı bir oluşum üzerinde anlaşma sağladı.
+
+Bakanların vardığı anlaşmaya göre, söz konusu mekanizma 2013&rsquo;te yürürlüğe girecek .
+
+Mekanizmaya 500 milyar Avroluk bütçe ayrılacak.
+
+Bu miktar her yıl gözden geçirilerek azaltma veya artırma yapılıp yapılmayacağına karar verilecek.
+
+Mekanizma, şu an uygulamada olan Avrupa Mali İstikrar Fonu&rsquo;nun yerini alacak
+</TEXT>
+</DOC>

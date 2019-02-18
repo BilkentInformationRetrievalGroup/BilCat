@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 1389851 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fe00b664-25f8-438c-8da8-5dc8ed4c82a3 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 20:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+avro de��er kaybetti
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi haftanın son işlem gününü 540 puan azalarak 68 bin 770 puandan tamamladı.
+
+
+Amerika&rsquo;da geçen yıl Aralık ayında tarım dışı istihdam beklentilerin altında artarken, işsizlik oranı yüzde 9,4&rsquo;e gerileyerek son 19 ayın en düşük seviyesini gördü.
+
+Avrupa&rsquo;da borç sorununa ilişkin kaygılar sürerken Avro değer kaybetti. 
+
+Yurt içinde enflasyon verilerinin beklentilerin altında gelmesiyle oluşan faiz indirim beklentisi borsada yılın ilk dört gününde yükselişi destekledi.
+
+Bileşik endeks haftanın son işlem günündeyse kar satışlarıyla yönünü aşağıya çevirdi.
+ 
+Hisse senetleri günlük ortalama yüzde 0,78 oranında değer yitirdi. 
+
+Serbest piyasada Amerikan Doları 1 lira 57 kuruş, Avro ise 2 lira 3 kuruştan işlem gördü.
+
+Uluslararası piyasalarda altının ons fiyatı bin 374 dolar. 
+Kapalıçarşı&rsquo;da Cumhuriyet altını 457 liradan alıcı buldu. 
+
+Asya ve Uzakdoğu piyasalarında ise karışık bir tablo vardı. 
+Avrupa borsalarında sınırlı değer kayıpları ön plana çıktı.
+
+ New York Borsası yükselişle açıldı.
+
+
+
+
+</TEXT>
+</DOC>

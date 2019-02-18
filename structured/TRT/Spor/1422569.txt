@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1422569 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dd095675-6bbc-48e0-b8da-11b60014155b </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 19:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kayserispor'da puan hesaplar��
+</HEADLINE>
+<TEXT>
+Kayserispor, Fenerbahçe deplasmanından puanla dönmeyi hesaplıyor.
+
+Kayserispor, Spor Toto Süper Lig&rsquo;de Fenerbahçe ile oynayacağı karşılaşmadan puanla dönmenin hesaplarını yapıyor.
+ Fenerbahçe maçı hazırlıklarına milli takım kampına giden oyunculardan yoksun başlayan sarı-kırmızılı ekip, deplasmanda oynayacağı maçtan puanla dönmeyi amaçlıyor.
+ Şota, Fenerbahçe maçı için umutlu olduğunu ve futbolcuların kiminle mücadele edeceğini iyi bildiğini anımsatarak, açıklamasını şöyle sürdürdü: &quot;Bu maça oyuncularım daha iyi motive oluyor. Biz takım olarak inanıyoruz ki; çok iyi bir karşılaşma olacak ve galibiyet alacağız. Kazanacağız. Sakatlıklara gelince kesin bir şey diyemem. 5-6 güne belli olacak her şey.&quot
+</TEXT>
+</DOC>

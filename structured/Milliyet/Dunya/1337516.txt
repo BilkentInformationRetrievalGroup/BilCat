@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337516 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa99fcc/l/0l0smilliyet0n0btr0c280ekatli0ekulede0eyangin0e80eolu0e90a0edan0efazla0eyarali0cdunya0csondakika0c150b110b20a10a0c13147250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:01:39.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+28 katl�� kulede yang��n: 8 ��l��, 90'dan fazla yaral��
+</HEADLINE>
+<TEXT>Kulede 156 ailenin yaşadığını söyleyen yetkililer 90’dan fazla yaralının olduğunu ve sayının giderek arttığını, 100’den fazla ailenin de binadan tahliye edildiğini anlattı.Şehrin en hareketli bölgelerinden olan Cing-an’da öğleden sonra çıkan yangının kontrol altına alındığını belirten yetkililer, ancak ilk etapta ulaşılmayan yüksek kesimlerinde büyük çapta hasar olduğunu kaydetti.Binanın 90’lı yıllarda inşa edildiğini aktaran bina sakinleri, komşularının birçoğunun bölgede bulunan okullarda görevli ve emekli öğretmenler olduğunu belirtti.Yangına neyin sebep olduğunun henüz tespit edilemediği bildirilirken, bazı görgü tanıkları binanın dışında tadilat için kurulan iskelenin tutuştuğunu, bu nedenle yangının iskele boyunca hızla yayıldığını belirtti.Yangın söndürme çalışmaları halen devam eden kulede civarında yollar araç trafiğine kapatılırken, yangını söndürmede kullanılan köpük nedeniyle caddeler köpük nehirlerine dönüştü. </TEXT>
+</DOC>

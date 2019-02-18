@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1345324 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffa7b62/l/0L0Smilliyet0N0Btr0Cato0Ebaskani0Eaygun0Ehastanede0Etedavi0Egoruyor0Cekonomi0Csondakika0C250B110B20A10A0C13183530Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:00:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATO Başkanı Aygün hastanede tedavi görüyor
+</HEADLINE>
+<TEXT>Ticaret Odası (ATO) Başkanı , vücudundaki  nedeniyle Ankara Söğütözü’ndeki ’nde tedavi görüyor.
+
+Rahatsızlığıyla ilgili A.A muhabirinin görüştüğü Aygün, bir süredir rahatsız olduğunu, şikayetlerinin devam etmesi üzerine Pazartesi günü Medicana Hastanesi’nde muayene olduğunu ve doktorların da yatarak tedaviyi uygun görmeleri üzerine hastaneye yattığını anlattı.
+
+Vücudundaki enfeksiyonun kana karıştığının belirlenmesi üzerine tedavisinin uzadığını belirten Aygün, durumunun iyi olduğunu ama tedavisine bir kaç gün daha hastanede devam edileceğini bildirdi.</TEXT>
+</DOC>

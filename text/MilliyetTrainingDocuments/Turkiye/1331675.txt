@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331675 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f723276/l/0l0smilliyet0n0btr0csis0emarmara0edenizi0ende0eetkisini0eyitirdi0cturkiye0csondakika0c0a80b110b20a10a0c131170a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 15:10:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sis, marmara denizi'nde etkisini yitirdi
+</HEADLINE>
+<TEXT>Marmara Denizi’nde seyreden ancak yoğun sis nedeniyle Çanakkale ve İstanbul Boğazları’nın gemi trafiğine kapanması nedeniyle üç gündür Şarköy sahillerine demirleyen yerli ve yabancı bandıralı 13 şilep ile tanker, sisin sabah 07.45’de etkisini kaybetmesinin ardından boğazlardan geçmek üzere Şarköy’den demir alarak rotalarına göre hareket etti.</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1414086 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=969686f6-5188-4448-af75-0d6c2ee0eb91 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 15:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"geli��meleri takip ediyoruz"
+</HEADLINE>
+<TEXT>
+Cumhurbaşkanı Abdullah Gül, Mısır'daki gelişmelerle ilgili olarak, "Yakından takip ediyoruz" dedi.
+
+Makedonya Büyükelçisi Goran Taskovski, Çankaya Köşkü&rsquo;nde Cumhurbaşkanı Abdullah Gül&rsquo;e güven mektubunu sundu. 
+
+Köşk&rsquo;te yapılan tören öncesi gazeteciler Mısır&rsquo;da yaşanan olayları Cumhurbaşkanı&rsquo;na sordu. Sorulara kısa bir cevap veren Cumhurbaşkanı Gül, gelişmeleri yakından takip ettiklerini söyledi. 
+
+</TEXT>
+</DOC>

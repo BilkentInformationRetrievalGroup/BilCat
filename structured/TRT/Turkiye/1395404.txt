@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1395404 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d75816c7-be38-4116-aadc-5e37979c780b </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 13:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dan����tay'dan "tam g��n" karar��
+</HEADLINE>
+<TEXT>
+Danıştay, yürütmenin durdurulmasına yapılan itirazı kabul etti. Karar ile Sağlık Bakanlığına bağlı doktorlar muayenehane açamayacak...
+
+Tam gün yasası ile ilgili Danıştay&rsquo;a yapılan itiraza onay...
+
+Buna göre üniversite öğretim üyeleri dışında kamuda çalışan tüm doktorlar muayenehane açamayacak ve özel sağlık kuruluşlarında çalışamayacak.
+        
+Danıştay İdari Dava Daireleri Kurulu, Sağlık Bakanlığının internet sitesindeki &quot;Tam Gün Yasası&quot; ile ilgili basın açıklaması ve kamuda çalışan tüm doktorların muayenehane açmaları ve özel sağlık kuruluşlarında çalışmalarının mümkün olmadığına ilişkin işleminin yürütmesinin durdurulmasına yapılan itirazı kabul etti.
+
+Danıştay&rsquo;ın bu kararı üniversitedeki öğretim üyelerini kapsamıyor. Bu öğretim üyeleri dışındaki Sağlık Bakanlığı&rsquo;na bağlı hastanelerde çalışan doktorlar özel muayenehanede ve özel sağlık kuruluşlarında çalışamayacak. 
+
+
+
+</TEXT>
+</DOC>

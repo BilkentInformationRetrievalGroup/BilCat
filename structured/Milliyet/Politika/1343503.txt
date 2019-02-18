@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343503 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fd45f0c/l/0l0smilliyet0n0btr0cbeldenin0ebeyendik0emi0ebegendik0emi0ecilesi0e0csiyaset0chaberdetay0c210b110b20a10a0c13164140cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:33:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+beldenin ���beyendik��� mi ���be��endik��� mi ��ilesi!
+</HEADLINE>
+<TEXT>A.A.Beldenin Belediye Başkanı Nuran Uslu, AA muhabirine yaptığı açıklamada, beldelerinin isminin “Beğendik” ve “Beyendik” olarak resmi kayıtlarda bile iki türde geçtiğini söyledi. Uslu, tabelalardan, nüfus kayıtlarına varıncaya kadar beldenin adının değişik olarak yazılmasının vatandaşta da soru işareti oluşturduğunu ifade ederek, şunları kaydetti:“Belediyenin mühründe ’Beğendik Belediyesi’, nüfus idaresi nüfus cüzdanlarının bir kısmına ’Beyendik’ yazıyor. Tabelalarda da durum aynı, bir tarafta farklı, diğer girişte farklı.Hal böyle olunca vatandaş bize soruyor, ama bu öylesine zor bir soru ki. Tek bir yanıtı yok. Yanlışın kaynağı belli değil, resmi kurumlarda bile iki ayrı ismi kullanılıyor. Bu nasıl çözülür bilmiyoruz.”</TEXT>
+</DOC>

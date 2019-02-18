@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1392041 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2b2455a0-3d18-4bb5-93e7-ad8c7bde46b1 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 15:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ajax, galatasaray'a haz��rlan��yor
+</HEADLINE>
+<TEXT>
+Türk Telekom Arena'nın açılış maçında Galatasaray ile karşılaşacak olan Ajax, hazırlıklarını Belek'te sürüdürüyor.
+
+Hollanda&rsquo;nın ünlü futbol takımı Ajax, 5 günlük ikinci yarı hazırlıkları için Antalya&rsquo;nın Serik ilçesine bağlı Belek beldesinde kampa girdi.
+Teknik direktörlüğünü Galatasaray&rsquo;da bir dönem oynayan Hollanda milli takımında da başarılı futbolu ile tanınan Frank De Boer&rsquo;in yaptığı Ajax, 5 günlük Belek kampının ardından 15 Ocakta Galatasaray&rsquo;ın yeni stadı Türk Telekom Arena&rsquo;nın açılışında  Galatasaray ile hazırlık maçı yapacak.
+ 
+
+
+</TEXT>
+</DOC>

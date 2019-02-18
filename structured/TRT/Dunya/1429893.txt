@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1429893 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9315d7dd-9a0d-45c1-927b-8f9556a8e67a </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 19:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��ney afrika'da protesto
+</HEADLINE>
+<TEXT>
+Güney Afrika Cumhuriyeti'nde, yaşam koşullarının iyileştirilmesini isteyen göstericiler polisle çatıştı, bir kişi öldü.
+
+Ülkenin doğusundaki Ermelo kentinde yürüyüşe geçen göstericiler polisle karşı karşıya geldi.
+
+Kalabalığı dağıtmak isteyen güvenlik güçleri, plastik ve gerçek mermiler kullandı, bir sivil hayatını kaybetti.
+
+Polis sözcüsü, önce göstericilerin ateş açtığını ileri sürerken, sivilin nasıl öldüğünün de belirlenmeye çalışıldığını kaydetti.
+
+Olayların ardından Devlet Başkanı Jacob Zuma&rsquo;nın Afrika Ulusal Kongre Partisi, halka itidal çağrısı yaptı.
+
+Güney Afrika Cumhuriyeti&rsquo;nde son dönemlerde, içme suyu, okul ve yol sıkıntısı gibi temel hizmetlere ilişkin sorunlar nedeniyle sık sık protesto gösterileri düzenleniyor.
+
+Nüfusun yaklaşık dörtte birinin işsiz olduğu ülke, zengin beyazlarla yoksul siyahlar arasındaki uçurumun büyüklüğü bakımından dünyada birinci sırada yer alıyor.         
+</TEXT>
+</DOC>

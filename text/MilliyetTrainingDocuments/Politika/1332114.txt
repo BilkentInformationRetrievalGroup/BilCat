@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332114 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f7546d0/l/0l0smilliyet0n0btr0chukumet0ekarar0everdi0ebayram0etatili0e90egun0eoldu0e0csiyaset0csondakika0c0a80b110b20a10a0c13118870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:12:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+h��k��met karar verdi... bayram tatili 9 g��n oldu...
+</HEADLINE>
+<TEXT> Bakanlar Kurulu toplantısı sona erdi.Başbakanlık Merkez Bina’da Başbakan Recep Tayyip Erdoğan başkanlığında gerçekleşen toplantı yaklaşık 6,5 saat sürdü.Hükümet sözcüsü Cemil Çiçek toplantıdan sonra şu açıklamayı yaptı:"Kkamu personeli arife günü idari izinli sayılacak, Kurban Bayramı  tatili 9 gün.."</TEXT>
+</DOC>

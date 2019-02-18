@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341282 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fc75de6/l/0l0smilliyet0n0btr0cfifa0erusvetin0ecezasini0ekesti0e0cspor0chaberdetay0c190b110b20a10a0c13158580cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 03:12:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+f��fa, r����vetin cezas��n�� kesti!
+</HEADLINE>
+<TEXT>İsviçre’nin Zürih kentindeki FIFA Etik Kurulu toplantısında, skandala karışan Nijeryalı Amos Adamu’nun futbolla ilgili faaliyetlerden 3 yıl men edilmesi ve 10 bin İsviçre Frangı para cezası ödemesi kararlaştırıldı. Diğer yönetim kurulu üyesi Tahitili Reynald Temarii de 1 yıl süreyle futbolla ilgili faaliyetlerden men edildi.Rüşvet skandalının ardından açılan soruşturmada, karşılıklı oy vermek için anlaştıkları iddia edilen 2022 adayı Katar ile 2018’in ortak adayları İspanya-Portekiz’in “aklandığı” belirtildi. FIFA’nın açıklamasında, bu iddialarla ilgili yeterli kanıt bulunamadığı kaydedildi.</TEXT>
+</DOC>

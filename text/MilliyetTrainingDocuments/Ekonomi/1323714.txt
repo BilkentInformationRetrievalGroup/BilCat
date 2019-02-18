@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323714 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298eb/l/0l0smilliyet0n0btr0cfinansbank0ein0egt0e30a0eu0eislem0egormeye0ebasladi0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99610cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:01:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+finansbank�����n gt-30���u i��lem g��rmeye ba��lad��
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİ GT-30 Türkiye’de Finansbank’ın iştiraki Finansportföy tarafından yönetilecek ve TL bazında İMKB’de olacak. Yunanistan’da işlem görecek GT-30 da aynı şekilde NBG Portföy Yönetimi tarafından yönetilecek ve euro bazında, Atina Borsası’nda (ATHEX) işlem görecek.GT-30 yatırımcıya sunulan likit bir enstrüman olduğu için  kolaylıkla alıp-satma, getiriye ortak olma ve riski dağıtma imkânı sağlıyor. GT-30 Endeksi, 30 hisse senedinden oluşuyor. İMKB ve ATHEX gibi bağlı oldukları borsalarda işlem gören hisse senetlerinin, piyasa değerleri üzerinden hesaplanıyor. Her iki borsadan endeks kapsamında maksimum 4’ü banka olmak üzere 15’er şirkete ait hisse senedi bulunuyor. En yeni konut projelerinin adresi burası.</TEXT>
+</DOC>

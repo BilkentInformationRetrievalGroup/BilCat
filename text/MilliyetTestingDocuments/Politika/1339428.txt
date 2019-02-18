@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339428 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fbb0e36/l/0l0smilliyet0n0btr0cgunes0eagca0ekonusunda0etrt0eyanlis0eyapmistir0csiyaset0csondakika0c170b110b20a10a0c13153870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 17:11:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g��ne��: a��ca konusunda trt yanl���� yapm����t��r
+</HEADLINE>
+<TEXT>Eski Bakan Güneş, Adapazarı'nda partisinin bayramlaşmasına katıldı. Burada basın mensuplarının, Ağca'nın TRT'ye çıkartılması ve gazeteci Abdi İpekçi suikastı döneminde İçişleri Bakanlığı yaptığının hatırlatılması üzerine şunları söyledi:“TRT yanlış yapmıştır. TRT bir devlet televizyonu ağırlığı tarafsızlığı gösterememistir. TRT, taraf olmuştur. Neden taraf olduğunu siz tespit edin. Yani TRT’nin tutumu bugün Türkiyeyi yöneltme noktasında olanların Türk toplumunun duyarlıklarına karşı nasıl ters bir noktada olduklarını göstermesi açısından önemlidir. Yoksa oraya Mehmet Ali Ağca gibi bir katili çıkartmış olmalarından ibaret degildir. Mesele bugün devleti yönetenlerin kimden yana tavır aldığının gösterme açısından değerlendirmelidir.”</TEXT>
+</DOC>

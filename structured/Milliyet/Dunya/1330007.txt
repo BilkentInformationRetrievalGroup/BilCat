@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330007 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f68e1f1/l/0l0smilliyet0n0btr0csuudi0earabistan0eda0ekadin0ekasiyer0ekrizi0cdunya0chaberdetay0c0a70b110b20a10a0c13111440cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+suudi arabistan���da kad��n kasiyer krizi
+</HEADLINE>
+<TEXT>Fetvada kadınların kasiyerlik yapmasının, akrabaları olmayan erkeklerle aynı ortamda bulunmaları anlamına geldiği ve bunun şeriata aykırı olduğu belirtiliyor. Ancak, ülkenin en büyük market zincirlerinden biri olan “Merhaba”, hükümetten aksi yönde bir talimat gelene kadar kadın kasiyer çalıştırmaya devam edeceklerini belirtiyor.</TEXT>
+</DOC>

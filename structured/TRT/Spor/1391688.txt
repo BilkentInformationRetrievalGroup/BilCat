@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1391688 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7e1477da-4365-44d8-b79a-5e222d0165bc </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 11:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+maradona'ya ada yolu
+</HEADLINE>
+<TEXT>
+Efsane futbolcu Diego Maradona, bir İngiliz kulübünden teklif aldığını açıkladı.
+
+Arjantin Milli Futbol Takımının eski teknik diröktörü, efsane futbolcu Diego Maradona, Premier League&rsquo;den bir ekibin kendisine teklifte bulunduğunu söyledi.
+ Maradona, uluslararası basında yer alan açıklamasında, söz konusu kulübün ismini söylemedi, gelecek ay bu teklifi şekillendirmek üzere İngiltere&rsquo;ye gideceğini belirtti.
+ Maradona, &quot;Şubat ayında İngiltere&rsquo;ye gideceğim ve bana resmi teklifte bulunan kulübün yöneticileriyle görüşeceğim. Eğer beni ikna edebilirlerse tekliflerini kabul edebilirim&quot; diye konuştu.
+</TEXT>
+</DOC>

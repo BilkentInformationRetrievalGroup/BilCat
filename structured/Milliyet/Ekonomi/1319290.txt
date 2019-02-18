@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319290 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f3aa1f3/l/0l0smilliyet0n0btr0cborsada0eyabanci0epayi0eyukseldi0cekonomi0csondakika0c0a10b110b20a10a0c130a860a60cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 11:01:36.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsada yabanc�� pay�� y��kseldi
+</HEADLINE>
+<TEXT>Yabancı yatırımcıların İstanbul Menkul Kıymetler Borsasındaki (İMKB) payı, önceki haftaya göre artarak yüzde 68,08’e yükseldi.Merkezi Kayıt Kuruluşu verilerine göre, 29 Ekim 2010 tarihinde yabancıların hisse adedi bakımından borsadaki payı yüzde 53,38 olurken, piyasa değeri açısından payı ise yüzde 68,08 olarak gerçekleşti.Yabancılar, bu tarih itibariyle 16 milyar 352 milyon 575 bin 146 adet hisse ile toplam 111 milyar 747 milyon 589 bin 29 liralık hisseyi ellerinde bulundurdu.Yabancıların 22 Ekim 2010 tarihinde İMKB’deki payı yüzde 68,04 seviyesindeydi.</TEXT>
+</DOC>

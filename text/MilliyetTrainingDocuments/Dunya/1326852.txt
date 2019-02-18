@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326852 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5e44d7/l/0l0smilliyet0n0btr0csudan0eda0e30erus0epilot0ekacirildi0cdunya0csondakika0c0a50b110b20a10a0c1310a5430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 11:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sudan'da 3 rus pilot ka����r��ld��
+</HEADLINE>
+<TEXT>Sudan’ın Güney Darfur bölgesinde 3 Rus pilotun kaçırıldığı bildirildi.Güney Darfur Valisi Abdülhamid Kaşa, 3 Rus helikopter pilotunun, dün Nyala’da kimliği belirlenemeyen kişilerce kaçırıldığını söyledi.Kaşa, güvenlik güçlerinin, pilotları kaçıranları aradıklarını kaydetti.</TEXT>
+</DOC>

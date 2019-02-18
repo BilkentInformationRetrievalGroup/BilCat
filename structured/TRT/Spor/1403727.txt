@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1403727 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3ef9a012-e256-4cea-8754-3fbdb586f41c </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'a filede italyan rakip
+</HEADLINE>
+<TEXT>
+Beşiktaş, İtalya'nın Chateau d'Ax Urbino takımıyla CEV Kupası 4'lü finallerinde karşı karşıya gelecek.
+
+ 
+Beşiktaş Bayan Voleybol Takımı&rsquo;nın, Avrupa Voleybol Konfederasyonu (CEV) Kupası 4&rsquo;lü finallerindeki rakibi İtalya&rsquo;nın Chateau d&rsquo;Ax Urbino ekibi oldu.
+ 
+Siyah-beyazlı ekip, rakibi ile ilk maçını 1, 2 veya 3 Şubat&rsquo;ta İtalya&rsquo;da, rövanşı da 8, 9 veya 10 Şubat&rsquo;ta BJK Cola Turka Arena&rsquo;da yapacak.
+ 
+Toplam 8 takımın yer aldığı 4&rsquo;lü finallerde, altın set uygulaması bulunuyor. İki karşılaşma sonucunda da bir takımın galip gelememesi durumunda altın set oynanacak. Bu setin sonucunda galip gelen ekip, bir sonraki tura yükselecek.
+ 
+Tur atlayan takım, Avrupa Bayanlar Şampiyonlar Ligi&rsquo;nden gelen takım ile challenge turda mücadele edecek. 
+ 
+Siyah-beyazlı takım, tur atladığı takdirde challenge turda Polonya&rsquo;nın Organika Budowlani Lodz takımıyla eşleşecek.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337399 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa87558/l/0l0smilliyet0n0btr0ccocuklarin0emezarlikta0eharclik0emesaisi0cturkiye0csondakika0c150b110b20a10a0c13147450cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 15:06:51.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��ocuklar��n mezarl��kta har��l��k mesaisi
+</HEADLINE>
+<TEXT>Kent merkezindeki Asri Mezarlık, Kurban Bayramı öncesi ziyaretçi akınına uğradı. Bayram öncesi harçlıklarını çıkarmaya çalışan çocuklar da, mezarları ziyarete gelenlerin yanında gidip, ellerinde taşıdıkları pet şişenin içindeki suyu mezarların üzerine dökerek para almaya çalıştı. Sabahın ilk ışıklarıyla birlikte yakındaki evlerinden mezarlıklara giden çocuklar, bazen kendilerini dışarı çıkarmaya çalışan özel güvenlik görevlilerle köşe kapmaca oynadı. Güvenlik görevlileri, ziyaretçileri rahatsız etmemeleri için uyardığı çocukların ellerindeki pet şişeleri alıp, bıçakla delerek attı. Ancak vazgeçmeyen çocuklar, “Birkaç lira harçlık kazanıyoruz. Bayram harçlığımız çıkıyor. Kazandığımız paralarla bayramlık alacağız. Bu yüzden ziyarete gelenlere yardımcı oluyoruz. Ziyaret ettikleri mezarın üzerine su döküyoruz. Ancak güvenlik görevlileri buna izin vermiyor” diye konuştu.</TEXT>
+</DOC>

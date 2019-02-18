@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1392341 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e414306c-53b1-4674-8f1b-b6c33b15ed86 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 21:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trt'den yeni belgesel
+</HEADLINE>
+<TEXT>
+TRT izleyicilerini Türkiye'nin saklı cennetlerine götürecek.
+
+TRT GAP&rsquo;ta yayınlanacak olan belgeselde, ülkemizin milli parklarından cenneti andıran görüntüler ekrana yansıyacak.
+
+Çevre ve Orman Bakanlığı ile TRT&rsquo;nin ortak çalışması olan dizi belgeselin tanıtımı sinevizyon gösterisi ile yapıldı.
+
+TRT Genel Müdür Yardımcısı Mehmet Canpolat&rsquo;ın katıldığı tanıtımda ülkemizin 6 Milli Parkından yansıyan fotoğraflar da sergilendi.
+
+Yapımcılığını ve yönetmenliğini Habip Yanç&rsquo;ın üstlendiği &quot;Saklı Cennetler&quot; belgeseli izleyicisi ile 23 Şubat&rsquo;ta TRT Gap ekranlarında buluşacak.
+
+Çarşamba günleri ekranlara gelecek olan belgeselde, Küre Dağları, Kaçkar Dağları Milli Parkı, Altındere Vadisi ve Hatila Vadisi güzellikleri yansıtılacak.
+</TEXT>
+</DOC>

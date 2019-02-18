@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343317 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd46be1/l/0l0smilliyet0n0btr0ciran0edan0eislami0egoklerin0ekoruyucusu0etatbikati0cdunya0chaberdetay0c210b110b20a10a0c13163940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:03:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+iran���dan ���islami g��klerin koruyucusu��� tatbikat��
+</HEADLINE>
+<TEXT>Geçen salı günü başlayan ve dün sona eren “İslami Göklerin Koruyucusu” isimli tatbikatta, Rusya’nın İran’a satmaktan vazgeçtiği           S-300 füzelerinin “yerli üretimleri” denendi. Devrim Muhafızları Komutanı Tuğgeneral Muhammed Hasan Mansuryan, Rusya’dan daha önce satın aldıkları          S-200 füzelerini geliştirerek S-300’lerin kapasitesine ulaştırdıklarını söyledi. Tatbikatta, orta menzilli hava savunma sistemleri olan Tor-M1’in yanı sıra yine orta menzilli yerli yapım olan “Mirsad” ve “Şahin” savunma sistemleri de test edildi. Avcı ve pilotsuz savaş uçakları da tatbikatta görev aldı.</TEXT>
+</DOC>

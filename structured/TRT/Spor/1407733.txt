@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1407733 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e7902814-60cc-486b-b4fd-b8cdb40bf716 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 12:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trabzonspor'da haz��rl��klar tamamland��
+</HEADLINE>
+<TEXT>
+Trabzonspor, Beşiktaş ile yapacağı maçın hazırlıklarını tamamladı.
+
+Ziraat Türkiye Kupası (B) Grubu son maçında deplasmanda Beşiktaş ile karşılaşacak Trabzonspor, hazırlıklarını tamamladı.
+ Mehmet Ali Yılmaz Tesisleri&rsquo;nde zorlu maçın son hazırlığını gerçekleştiren bordo-mavili takımda, sakat veya cezalı oyuncu bulunmuyor.
+ Grupta Beşiktaş&rsquo;ın 1 puan önünde 7 puan ile lider durumda bulunan Karadeniz ekibi, rakibi karşısından turu geçecek sonuçla ayrılmayı hedefliyor.
+ Trabzonspor, Beşiktaş&rsquo;a kaybetmesi halinde bu sezon ilk kez bir deplasman maçından yenilgi ile ayrılmış olacak.
+</TEXT>
+</DOC>

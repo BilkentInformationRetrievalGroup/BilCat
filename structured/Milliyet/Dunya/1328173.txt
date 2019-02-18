@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328173 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f634a28/l/0l0smilliyet0n0btr0cgurcistan0eda0erus0ecasuslar0eyakalandi0cdunya0chaberdetay0c0a60b110b20a10a0c1310a80a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g��rcistan���da ���rus casuslar��� yakaland��
+</HEADLINE>
+<TEXT>Gürcistan İçişleri Bakanlığı’ndan yapılan açıklamada, Rusya adına casusluk yaptıkları gerekçesiyle 4’ü Rusya vatandaşı, 9’u Gürcistan vatandaşı olan toplam 13 kişinin gözaltına alındığı bildirildi. İki kişinin suçlarını itiraf ettikleri belirtildi.</TEXT>
+</DOC>

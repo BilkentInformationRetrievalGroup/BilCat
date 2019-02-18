@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1400317 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4d03895c-2098-4060-8121-b206bc52deee </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 12:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev derbi
+</HEADLINE>
+<TEXT>
+İki namağlup ezeli rakip kozlarını Ahmet Cömert Spor Salonunda paylaşacak.
+
+Tekerlekli Sandalye Basketbol Süper Ligi&rsquo;nin namağlup takımları Galatasaray ile Beşiktaş, erteleme maçında yarın (19.01.2011) karşılaşacak. 
+
+Maç Saat 19&rsquo;da başlayacak. 
+
+Puan cetvelinde Galatasaray, 7 maçta topladığı 14 puanla ilk sırada yer alıyor. Beşiktaş ise aynı puanla ikinci sırada bulunuyor.
+</TEXT>
+</DOC>

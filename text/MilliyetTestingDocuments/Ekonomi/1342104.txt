@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342104 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fcbef4f/l/0l0smilliyet0n0btr0ccin0ebankalarin0ezorunlu0ekarsilik0eoranini0eartirdi0cekonomi0csondakika0c190b110b20a10a0c13159760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 17:00:49.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��in, bankalar��n zorunlu kar����l��k oran��n�� art��rd��
+</HEADLINE>
+<TEXT>Çin Merkez Bankası, enflasyonu kontrol altında tutabilmek için bankaların zorunlu karşılık oranlarını yüzde 0,5 artırdı. Karar, 29 Kasım’dan itibaren uygulamaya konulacak.Bankaların zorunlu karşılık oranını bu yıl içinde 5 kez artıran Çin merkez bankası, en son geçen hafta, oranı yüzde 0,5 yükseltilmişti.Çin’deki bankaların zorunlu karşılık oranları, büyüklüklerine ve hangi sektöre kredi verdiklerine göre değişiyor.Geçen hafta açıklanan veriler, Çin’de enflasyonun yüzde 4,4 ile son iki yılın en yüksek seviyesine çıktığını ortaya koydu.Çin, özellikle yüksek gıda fiyatları konusundaki endişesini dile getiriyor. Çin hükümeti, enflasyonu dizginleyebilmek için bir dizi önlem alıyor.Çin Merkez Bankası geçen ay, gösterge faiz oranlarını da 2007 yılından bu yana ilk kez artırmıştı.</TEXT>
+</DOC>

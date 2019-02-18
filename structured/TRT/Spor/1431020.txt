@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1431020 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5b2f7d18-0460-43fd-be6f-7c9702b3bc94 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 20:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+galatasaray, filede de kay��p
+</HEADLINE>
+<TEXT>
+Teledünya Erkekler Voleybol Türkiye Kupası'nda İstanbul Büyükşehir Belediyespor, Galatasaray'ı eleyerek dörtlü finale yükseldi.
+
+Teledünya Erkekler Voleybol Türkiye Kupası çeyrek final rövanş maçında Galatasaray&rsquo;ı 3 - 0 yenen İstanbul Büyükşehir Belediyespor, dörtlü finale yükseldi. 
+
+İstanbul Büyükşehir Belediyespor, ilk maçı da 3-1 kazanmıştı.
+
+Salon: Burhan Felek
+Hakemler: Serdar Nişancıoğlu, Gökhan Dağ
+Galatasaray: Yasin, Kemal, Nemer, Ahmet, Zhekov, Barca (Caner Dengin, Volkan, Murathan, Caner Pekşen, Sinan)
+İstanbul Büyükşehir Belediyespor: Todor, Erhan, Ulaş, Olli, Hakan, Mikko (Barış, Mustafa, Muhammet)
+Setler: 17-25, 31-33, 18-25
+Süre: 82 dakika (24, 35, 23)
+</TEXT>
+</DOC>

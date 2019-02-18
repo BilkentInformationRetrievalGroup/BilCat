@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1391528 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6ce25288-9c47-4880-9b09-d53226e04648 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 10:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sanayi ��retim endeksi % 9,1 artt��
+</HEADLINE>
+<TEXT>
+Sanayi üretim endeksi Kasım ayında, bir önceki yılın aynı ayına göre yüzde 9,1 oranında artarken, bir önceki aya göre ise yüzde 9,7 oranında azaldı. 
+
+
+     Türkiye İstatistik Kurumu, Kasım 2010 sanayi üretim rakamlarını açıkladı.
+
+     12 aydır kesintisiz olarak süren üretim artışı Kasım&rsquo;da beklentilerin de üzerinde gerçekleşti. 
+
+      Buna göre Kasım ayında sanayi üretimi bir önceki yılın aynı ayına göre yüzde 9,1 oranında arttı.
+
+      Sanayinin alt sektörleri incelendiğinde, madencilik ve taş ocakçılığı sektörü endeksi yüzde 8,2, imalat sanayi sektörü endeksi yüzde 9,7 ve elektrik, gaz, buhar ve iklimlendirme üretimi ve dağıtımı sektörü endeksi de yüzde 4,7 arttı.
+
+     Takvim etkisinden arındırılmış endeks 2010 yılı Kasım ayında bir önceki yılın aynı ayına göre yüzde 8,4 artarken, mevsim ve takvim etkilerinden arındırılmış sanayi üretim endeksi ise bir önceki aya göre yüzde 1,3 azalış gösterdi.
+</TEXT>
+</DOC>

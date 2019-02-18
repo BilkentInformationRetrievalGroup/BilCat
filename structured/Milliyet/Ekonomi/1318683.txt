@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318683 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f385f9c/l/0l0smilliyet0n0btr0cbir0ekasa0ehamsi0e10a0etl0cekonomi0csondakika0c0a10b110b20a10a0c130a83540cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 12:42:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bir kasa hamsi 10 tl
+</HEADLINE>
+<TEXT>Karadenizde avlanan Düzceli balıkçılar bir kasa hamsiyi 10 liradan satmaya başladı.AA muhabirinin edindiği bilgiye göre, Düzce’nin Akçakoca ilçesinde sabahın erken saatlerinde ağlarını toplayan balıkçılar, tekneleri hamsi dolu şekilde balıkçı barınağına döndü.Hamsi bolluğu nedeniyle tekneden satış yapmaya başlayan Akçakocalı balıkçılar yaklaşık 20 kilogram gelen bir kasa hamsiyi 10 liradan sattı.Karadeniz’de hamsi bolluğu olduğunu belirten balıkçılar vatandaşların ucuz hamsi yiyebilmeleri için balıkçı hali yerine tekneden satış yapmaya başladıklarını kaydettiler.</TEXT>
+</DOC>

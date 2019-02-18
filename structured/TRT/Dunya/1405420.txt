@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1405420 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b09e7471-8c58-4791-96a8-25b794e8c3c8 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 08:47:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pakistan'da korkun�� kaza
+</HEADLINE>
+<TEXT>
+Pakistan'da bir yolcu otobüsü ile akaryakıt tankerinin çarpışması sonucu meydana gelen kazada 32 kişi öldü.
+
+
+  
+     Ülkenin güneyinde Karaçi&rsquo;den Sukkur kentine yolcu taşıyan otobüs, Nuriabad yakınlarında kontrolden çıkarak karşı yönden gelen akaryakıt tankerine çarptı. 
+  
+     Kazadan sonra alev alan otobüste bulunan 32 yolcu yanarak can verdi. Kazada 10 kişi de yaralandı.
+  
+     Kaza nedeniyle karayolu bir süre ulaşıma kapanırken, yangın itfaiye ekiplerince söndürüldü.
+
+
+
+
+</TEXT>
+</DOC>

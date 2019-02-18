@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346700 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/ffe9963/l/0l0smilliyet0n0btr0chiv0ein0ebaskenti0emilano0cdunya0csondakika0c250b110b20a10a0c13185250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 21:01:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+h��v'in ba��kenti milano
+</HEADLINE>
+<TEXT>İTALYA’nın Milano kentinde bu güne kadar sorunlar listesinin başında yeralan ‘uyuşturucu bağımlılığı’ liderliği AIDS hastalığına neden olan HIV enfeksiyonuna bıraktı. Milano Yerel Sağlık Birimi ASL verilerine göre İtalya'da yeni HIV enfeksiyonlarının yüzde 30'u Milano'da bulunuyor.Milano'nun da yer aldığı Lombardia Bölgesi'nde ise toplam HIV pozitif sayısı 40 bini buldu. ASL tarafından yapılan açıklamayla, özellikle gençler arasında korunmasız cinsel birleşme nedeniyle vak'a sayısının her geçen gün artarak yayıldığı belirtildi. Yeni HIV enfeksiyonlarının giderek daha da genç yaşlarda görülmeye başladığını belirten Milano'daki Sacco Enfeksiyon Hastalıkları Hastanesi'nden Uzm. Dr. Paolo Bonfanti, “Biraz kontrol eksiğimiz var. Yeni bir kampanya başlatılarak gençlere cinsel sorumluluk eğitimi veren yeni bir kampanyaya ihtiyacımız var” dedi.</TEXT>
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 1403151 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dc7c8dea-8c7b-4609-ba57-e4127ad67c49 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 18:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa g��n�� kay��pla kapatt��
+</HEADLINE>
+<TEXT>
+Yurt içinde Merkez Bankası'nın faiz kararının ardından döviz piyasası yukarı doğru hareketlenirken, borsa 65 bin puan seviyesine geriledi.
+
+Ulusal-100 Endeksi günü bin 174 puan azalarak 65 bin 288 puandan tamamladı.
+
+Serbest piyasada Dolar 1 lira 58 kuruştan, Avro ise 2 lira 12 kuruştan işlem gördü.
+
+Merkez Bankası Para Politikası Kurulu kararları daha önce piyasaları etkilememek amacıyla saat 19.00&rsquo;da açıklanıyordu.
+
+ Ancak alınan karar doğrultusunda bu yıldan itibaren kurul kararları saat 14.00 itibariyle açıklanmaya başlandı.
+
+     Yılın ilk toplantısından gelen çeyrek baz puanlık faiz indirimi piyasaları hareketlendirdi.
+
+     İstanbul Borsası&rsquo;nda hisse senetleri günlük ortalama yüzde 1,76 oranında değer kaybetti. 
+
+     Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 12 kuruştan işlem gördü.
+
+     Uluslararası piyasalarda altının ons fiyatı bin 345 dolar. 
+
+     Kapalıçarşı&rsquo;da Cumhuriyet altını 455 liradan alıcı buldu. 
+
+     Dünya borsalarında da ibreler eksiye işaret ediyor.
+
+     Asya Pasifik piyasalarında aşağı yönlü hareketler vardı. 
+
+     Avrupa borsalarında da değer kayıpları yaşandı.
+
+     New York Borsası düşüşle açıldı.
+
+
+</TEXT>
+</DOC>

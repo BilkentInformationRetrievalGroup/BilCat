@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1414012 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=48804c6b-77c0-495a-8912-9e0a1335c012 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 14:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tsk art��k onlar�� da e��itecek
+</HEADLINE>
+<TEXT>
+Türk Silahlı Kuvvetleri'nin Suriye askerlerini eğitmesi konusunda mutabık kalındı.
+
+ Türkiye ve Suriye arasında son yıllarda yoğunlaşan askeri düzeydeki temaslar çerçevesinde, Suriye askerinin Türk askeri tarafından bazı alanlarda eğitilmesi konusunda mutabık kalındığı bildirildi.
+
+     Anadolu Ajansı&rsquo;nın haberine göre, Genelkurmay İkinci Başkanı Aslan Güner&rsquo;in Aralık ayında Şam&rsquo;a yaptığı ziyaret sırasında eğitim konusunun detayları değerlendirildi.
+
+     Orgeneral Aslan Güner&rsquo;in katılımıyla Aralık ayında Şam&rsquo;da yapılan Türkiye-Suriye Yüksek Düzeyli Askeri Diyalog Toplantısında bu işbirliğinin derinleştirilerek eğitim konusunun ele alındığı belirtildi.  
+     Bu çerçevede, Türk askerinin Suriye askerlerini bazı alanlarda eğitmesine ilişkin konunun detaylarının görüşüldüğü kaydedildi.
+     Suriye askerlerinin Türk askerleri tarafından eğitilmesi halinde, uzun yıllar eski Sovyetler Birliği ile müttefik olan Suriye ordusunun, Sovyet ekolünden Batı ekolüne kayabileceği yorumları yapılıyor.
+</TEXT>
+</DOC>

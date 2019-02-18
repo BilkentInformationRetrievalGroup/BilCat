@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1421129 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=82d2d130-fe01-4895-963f-1ac20f1a8e4f </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 14:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+serie a'da g��r��n��m
+</HEADLINE>
+<TEXT>
+İtalya Birinci Futbol Ligi'nin (Serie A) 24. haftası dün oynanan maçlarla tamamlanırken, haftanın önemli maçında FC Inter AS Roma'yı 5-3 mağlup etti.
+
+Genoa deplasmanından 1 puanla dönmek zorunda kalan lider AC Milan&rsquo;ın puan kaybı, takipçileri Napoli ile FC Inter&rsquo;in işine yaradı.
+
+Liderin takipçilerinden Napoli, Cesena&rsquo;yı sahasında 2-0 yenerek, puanını 46&rsquo;ya yükselterek liderle arasındaki puan farkını 3&rsquo;e indirdi.
+
+FC Inter, AS Roma&rsquo;yı 5-3 yenerek zirve tırmanışını sürdürdü. Milano bu sonuçla Lazio&rsquo;yu da üçüncülükten etti.
+
+Juventus&rsquo;un Cagliari&rsquo;yi 3-1 yendiği karşılaşmada Matri 2 gol birden attı. Bu sonuçla Juvertus, 3 hafta sonra tekrar galibiyetle tanıştı.
+
+Düşme hattından kurtulmaya çalışan iki takımın mücadelesinde Brescia Bari&rsquo;yi 2-0 yenerek puanını 22&rsquo;ye çıkardı.
+
+24. haftada alınan sonuçlar şöyle:
+
+Udinese: 2-Sampdoria: 0, Cagliari: 1-Juventus: 3, Bologna: 1-Catania: 0, Brescia: 2-Bari: 0, Genoa: 1-AC Milan: 1, Lazio: 1-Chievo: 1, Lecce: 2-Palermo: 4, Napoli: 2-Cesena: 0, Parma: 1-Fiorentina: 1, FC Inter: 5-AS Roma: 3
+
+Gol krallığı yarışında, Edinson Cavani (Napoli) 18 golle birinci sırada bulunuyor. Onu,16 golü olan Udinese&rsquo;li Antonio Di Natale izliyor. Üçüncü sıradaki FC Interli Samuel Eto&rsquo;o&rsquo;nun 15 golü var.
+
+Puan durumuna gelince, 49 puanı olan AC Milan Lider. İkinci sıradaki Napolinin 46, Üçüncü sıradaki FC İnter&rsquo;in 44 puanı var. Dördüncü sırada 42 puanlı Lazio, Beşinci sırada 40 puanlı Palermo bulunuyor. Son üç sıradaki takımlardan Brescia 22 puanla 18&rsquo;inci, Cesena 21 puanla 19&rsquo;uncu Bari 14 puanla son sırada yeralıyor
+</TEXT>
+</DOC>

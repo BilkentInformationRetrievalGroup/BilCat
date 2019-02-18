@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1408953 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ff45f64d-d459-4d46-95f6-c76b73e96a8a </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 12:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+f.bah��e-trabzon ma����n�� kim y��netecek
+</HEADLINE>
+<TEXT>
+Her iki takım için de büyük önem taşıyan İstanbul'daki karşılaşmanın hakemi Bünyamin Gezer.
+
+Spor Toto Süper Lig&rsquo;de 19. hafta karşılaşmalarını yönetecek hakemler açıklandı:
+29 Ocak Cumartesi: 
+Saat 13.30: Kardemir D.Ç.Karabükspor-Kayserispor  (Hüseyin Göçek)
+Saat 14.00: Sivasspor-Medical Park Antalyaspor  (Yunus Yıldırım)
+Saat 17.00: Bucaspor-Kasımpaşa  (Kuddusi Müftüoğlu)
+Saat 19.00 :Bursaspor-Galatasaray  (Bülent Yıldırım)
+30 Ocak Pazar: 
+Saat 14.00: MKE Ankaragücü-Manisaspor  (Abdullah Yılmaz)
+Saat 1500: B.Ş.Belediyespor-Beşiktaş  ((Fırat Aydınus)
+Saat 17.00: Gaziantepspor-Gençlerbirliği  (Süleyman Abay)
+Saat 19.00: Fenerbahçe-Trabzonspor  (Bünyamin Gezer)
+31 Ocak Pazartesi: 
+Saat 20.00: Eskişehirspor-Konyaspor  (Mustafa Kamil Abitoğlu)
+</TEXT>
+</DOC>

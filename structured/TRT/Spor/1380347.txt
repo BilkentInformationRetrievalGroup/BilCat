@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1380347 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5b114f8c-62f9-4dc7-b707-b05ae77623e4 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 21:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+gustavo bayern m��nih'te
+</HEADLINE>
+<TEXT>
+Bayern Münih, Hoffenheim'den Luiz Gustavo'yu transfer etti.
+
+Almanya Birinci Ligi takımlarından Bayern Münih, Hoffenheim&rsquo;de forma giyen Brezilyalı oyuncu Luiz Gustavo&rsquo;yu renklerine bağladı.
+ Bayern Münih Yönetim Kurulu Başkanı Karl-Heinz Rummenigge, Gustavo konusunda Hoffenheim&rsquo;in başkanı Dietmar Hopp ile anlaşma sağladıklarını belirtti.
+ Gustavo&rsquo;nun Bayern Münih kulübü ile 4,5 yıllık sözleşme imzalayacağı ifade edildi.
+ Gustavo&rsquo;nun transfer ücretinin 15 milyon avro civarında olduğu kaydedildi
+</TEXT>
+</DOC>

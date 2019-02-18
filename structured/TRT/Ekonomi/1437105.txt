@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 1437105 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fb196b3f-8c42-4b87-965f-b8c5698a9217 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 16:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"enflasyon ��ubattan sonra dalgal��"
+</HEADLINE>
+<TEXT>
+Para Politikası Kurulu, yıllık enflasyonun şubat ayında düşeceğini, ikinci çeyrekten itibaren ise dalgalı bir seyir izleyeceğini öngörüyor.
+
+
+Merkez Bankası Para Politikası Kurulu (PPK) yıllık enflasyonun şubat ayında bir miktar daha düşüş göstereceğini düşünüyor. Enflasyonun ikinci çeyrekten itibaren dalgalı bir seyir izleyeceğini öngören kurul, yıl sonunda da Ocak Enflasyon Raporu’ndaki tahmine yakın bir seviyede gerçekleşeceğini tahmin ediyor. 
+
+Merkez Bankası PPK’nın 15 Şubat 2011 tarihli toplantı özeti yayınlandı.
+
+Cihan Haber Ajansının haberine göre; raporda, Merkez Bankasının kasım ayından bu yana aldığı tedbirlerin özellikle ithalat talebindeki yavaşlama kanalıyla toplam talebin bileşimini dengeleyerek makro finansal riskleri azalttığı belirtildi.
+
+Kurul, yılın ilk çeyreğinde cari açığın yıllıklandırılmış bazda yavaşlayarak da olsa artmaya devam edeceğine ancak bu artışın baz etkisinden kaynaklanacağına dikkat çekti. 
+
+&quot;Tedbirlerin Dengeleyici Etkileri Gecikmeli Olarak Ortaya Çıkacak&quot;
+Mevsim etkilerinden arındırıldığında aralık ayında cari dengede bir miktar iyileşme görüldüğüne işaret edilen raporda, &quot;Kredilerde de 2011 yılı başından itibaren sınırlı bir yavaşlama eğilimi gözlendiği belirtilmiştir. Bununla birlikte Kurul üyeleri, bu aşamada sağlıklı bir değerlendirme yapılması için açıklanan verilerin yeterli olmadığına işaret ederek, alınan tedbirlerin dengeleyici etkilerinin gecikmeli olarak ortaya çıkacağının altını çizmiştir.” denildi. 
+
+Kurul, alınan parasal sıkılaştırma kararlarının enflasyon üzerindeki iç talep kaynaklı baskıları sınırlayacağı değerlendirmesinde bulundu. Enerji ve diğer emtia fiyatlarında gözlenen hızlı artışların enflasyon üzerinde arz yönlü ilave bir risk unsuru teşkil ettiğine işaret etti. Fiyatlama davranışlarının yakından izlenmesi gerektiği vurgulandı. 
+
+İlave Tedbir Gündeme Gelebilir
+Değerlendirmeler sonucunda Kurul, fiyat istikrarına ve finansal istikrara ilişkin risklerin azaltılması amacıyla ilave tedbirlerin alınabileceğinin altını çizdi. 
+
+Toplantı özetinde şu değerlendirme yapıldı: 
+&quot;Düşük düzeyde politika faizi, geniş faiz koridoru ve yüksek zorunlu karşılık oranlarından oluşan politika bileşiminin sıkılaştırıcı yöndeki etkilerinin bir sonraki toplantıya kadar yakından izlenmesinin ve gerekli görüldüğü takdirde aynı doğrultuda ilave tedbirlerin alınmasının uygun olacağını belirtmiştir.
+
+Kurul üyeleri, küresel ekonomiye ilişkin belirsizliklerin henüz ortadan kalkmadığını ve bu nedenle mevcut konjonktürde para politikasının her iki yönde de esnekliğini koruması gerektiğini düşünmektedir.&quot;
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1398482 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=138b8234-ed7f-4bfb-9a79-24c12daaad19 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 15:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bornova belediyesi'nde transfer
+</HEADLINE>
+<TEXT>
+Bornova Belediyesi, ABD'li Mardy Collisn ile anlaştı.
+
+Beko Basketbol Ligi ekiplerinden Bornova Belediyesi, ABD&rsquo;li oyuncu Mardy Collins&rsquo;i renklerine bağladı.
+ Yabancı oyuncularının ikisinden sakatlıklar nedeniyle faydalanamayan, Francis ile de yollarını ayıran Bornova Belediyesi&rsquo;nin, en son NBA takımlarından Los Angeles Clippers&rsquo;ta forma giyen 27 yaşındaki Collins ile anlaşma sağladığı bildirildi.
+ Faks yoluyla sözleşme imzalanmasının ardından, ABD&rsquo;li oyuncunun Türkiye&rsquo;ye geleceği öğrenildi.
+ NBA&rsquo;de 2006-2007&rsquo;den itibaren New York Knick ve Los Angeles Clippers formalarıyla 189 maçta forma giyen Collins, 3,9 sayı 1,8 ribaund ve 1,7 asist ortalamalarıyla mücadele etti.
+</TEXT>
+</DOC>

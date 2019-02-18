@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1403021 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a190da08-6ba3-4c70-88e3-70b3d6b42bb0 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 16:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+d��viz rezervimiz art��yor
+</HEADLINE>
+<TEXT>
+Merkez Bankası haftalık verilerine göre brüt döviz rezervleri, 14 ocak itibarıyla 81 milyar 653 milyon dolar oldu
+
+Merkez Bankası&rsquo;nın brüt döviz rezervleri, bir haftada 1 milyar 474 milyon dolar artarak, 14 Ocak 2011 tarihi itibariyle 81 milyar 653 milyon dolar oldu. Brüt döviz rezervleri, 7 Ocak 2011 tarihinde 80 milyar 179 milyon dolar düzeyindeydi.
+
+Merkez Bankasının 7 Ocak&rsquo;ta 85 milyar 443 milyon dolar olan toplam rezervleri de 86 milyar 917 milyon dolara yükseldi.
+
+Söz konusu rezervin 5 milyar 264 milyon dolarını altın oluşturdu.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1426593 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c2819ca7-30d3-46d6-918c-5406fc312890 </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 15:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta intihar sald��r��s��: 28 ��l��
+</HEADLINE>
+<TEXT>
+Samarra kentinde Şii hacılara yönelik intihar saldırısında en az 28 kişi öldü. 
+
+
+Olayda 24 kişi de yaralandı.
+
+Ölü sayısının artmasından endişe ediliyor. 
+
+</TEXT>
+</DOC>

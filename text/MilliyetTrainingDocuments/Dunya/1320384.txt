@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320384 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f45e86e/l/0l0smilliyet0n0btr0cpolis0eisadaminin0ebankasini0ekusatti0cdunya0csondakika0c0a20b110b20a10a0c130a92420cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:01:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+polis i��adam��n��n bankas��n�� ku��att��
+</HEADLINE>
+<TEXT>Rusya’nın başkenti Moskova’da, banka ve medya devi Aleksandr Lebedev’in bankalarından birini kuşatan maskeli silahlı kişilerin, polis olduğu bildirildi.Lebedev’in sözcüsü Artyom Artyomov, Rus işadamının sahibi olduğu Ulusal Rezerv Bankasını 30 kadar polisin kuşattığını, polisin daha sonra binaya girerek bazı belgeler aradığını belirtti.Lebedev’in binanın içinde olduğu söyleyen Artyomov, polisin ne istediğini bilmediklerini kaydetti.Polis sözcüsü Viktor Biryukov da baskını doğrulayarak, baskının "devam eden bir soruşturma kapsamında yapıldığını" belirtti.Güvenlik görevlileri baskının sona erdiğini, polisin binadan ayrıldığını da ifade etti.</TEXT>
+</DOC>

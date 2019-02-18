@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 1422427 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4590fc42-14d1-4920-85ce-96535cec334d </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 16:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+k��rl��kle m��cadelede milat...
+</HEADLINE>
+<TEXT>
+Körlüğe yol açan başlıca hastalıklardan biri olan sarı nokta harabiyetinin nedeni, uluslararası bir ekibin yaptığı çalışmalar sonunda bulundu.
+
+Sonuçları Nature dergisinde yayınlanan araştırmada,  DICER-1 adlı enzimin sarı nokta harabiyeti görülen hastalarda salgılanmadığı farkedildi. 
+
+Uzmanlar Hastalığa da bu enzim eksikliğinin  yol açtığı düşünüyor.
+
+Sarı nokta, göz küresinin arka duvarında bulunan retinanın merkezi bölgesi...
+
+ Işığın odaklandığı ve keskin   görmeden sorumlu bu bölgenin dejenerasyonu her yıl milyonlarca kişinin görme yetisini  kaybetmesine yol açıyor .
+
+Hastalık 50 yaşın üzerindeki her 50 kişiden birini etkiliyor; bu oran 85 yaş üzerindekilerde beşte bire yükseliyor.
+
+Hastalık ilerledikçe görüş azalıyor; okumak, araç kullanmak, televizyon izlemek, insanları tanımak güçleşiyor.
+
+Bu rahatsızlığın henüz çaresi  bulunmuyor fakat bilim adamlarının son keşfi  tedavi için bir umut oldu.
+
+Uzmanlar hastalığın &quot;kuru formu&quot;nu çekenlerde, DICER1 adlı enzimin  daha az aktif olduğunu belirledi.
+
+Farelerde bu enzimin salgılanması  durdurulduğunda, retina hücreleri harap oldu.
+
+Hastalığın nedeninin bulunması, tedavisinin geliştirilebilmesi yolunda önemli bir adım olarak görülüyor.
+
+Uzmanlar şimdi de, DICER1 düzeylerini yükseltecek  çözümler geliştirmeye çalışıyor
+</TEXT>
+</DOC>

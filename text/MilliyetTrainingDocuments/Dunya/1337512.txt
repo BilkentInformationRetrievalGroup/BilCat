@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337512 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa99fca/l/0l0smilliyet0n0btr0citalya0eda0ehukumet0ekrizi0cdunya0csondakika0c150b110b20a10a0c13147830cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+italya'da h��k��met krizi
+</HEADLINE>
+<TEXT>İtalya’da Silvio Berlusconi liderliğindeki merkez sağ koalisyondaki hükümet krizi geri dönülmesi zor bir yola girdi. Berlusconi’yle olan görüş ayrılığında Temsilciler Meclisi Başkanı Gianfranco Fini’nin yanında yer alan kabine üyeleri, daha önce açıkladıkları üzere bugün görevlerinden istifa etti.Fini önderliğindeki İstikbal ve İtalya’ya Özgürlük (İİÖ) grubuna mensup olan Avrupa Politikaları Bakanı Andrea Ronchi, Ekonomik Kalkınma Bakanı Yardımcısı Adolfo Urso, bakan yardımcısı konumunda olan Antonio Buonfiglio ve Roberto Menia, kabineden ayrıldıklarını ve istifa kararından geri dönüş olmayacağını açıkladı.Berlusconi, parlamentoda bütçe tasarısının görüşülüp onaylanmasının ardından hükümetin güven oylamasına başvuracağını açıkladı. Bu da güven oylamasının aralık ayı ortalarına doğru yapılacağı anlamına geliyor.Parlamento takvimine göre 19 Kasım’da bütçe tasarısı Senato ve Temsilciler Meclisi’nde ele alınmaya başlayacak. Tasarının görüşülüp oylanmasının aralık ortasına doğru tamamlanması öngörülüyor.Berlusconi’nin, Fini yanlılarının kabineden çekilmesine rağmen aritmetiksel açıdan senatodan güven oyu alması mümkün görünüyor. Temsilciler Meclisi’nde ise hükümetin güven oyu almama ihtimalinin son derece yüksek olduğu belirtiliyor.Berlusconi, Temsilciler Meclisi’nden güven oyu alamaması durumunda, ülkeyi sadece milletvekillerinin seçimi için sandık başına götüreceğini açıkladı.Cumhurbaşkanı Giorgio Napolitano’nun yarın Senato ve Temsilciler Meclisi başkanlarıyla bir durum değerlendirmesi yapması bekleniyor.</TEXT>
+</DOC>

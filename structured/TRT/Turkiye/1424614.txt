@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1424614 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7619bf1d-67cc-4e77-8fb8-55b5756a86f5 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 15:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trafikte telefona af yok
+</HEADLINE>
+<TEXT>
+Trafik polisleri, seyir halinde cep telefonuyla konuşan sürücülere ceza yağdırdı.
+
+Araç kullanırken cep telefonuyla konuşmak, tüm uyarılara rağmen bazı sürücülerin vazgeçemediği alışkanlıklardan... 
+
+İçişler Bakanı Beşir Atalay, polislerden bu konuda hassasiyet göstermelerini istemişti. İşte bu uyarı trafik polislerini harekete geçirdi.     
+
+İstanbul&rsquo;daki Taksim Meydanı&rsquo;nda uygulama yapan ekipler telefonla konuşan sürücülere 66&rsquo;şar lira ceza yazdı.
+
+Bazı sürücüler cezaya şaşırırken bazıları da uygulamanın doğru olduğunu söyledi.
+
+</TEXT>
+</DOC>

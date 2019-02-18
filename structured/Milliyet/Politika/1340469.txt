@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340469 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc1abb9/l/0l0smilliyet0n0btr0ckktc0ecumhurbaskani0eeroglu0enew0eyork0eta0csiyaset0csondakika0c180b110b20a10a0c13156250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 13:09:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kktc cumhurba��kan�� ero��lu new york'ta
+</HEADLINE>
+<TEXT>Eroğlu, Genel Sekreter Ban-Ki Moon aracılığıyla, Rum yönetimi lideri Hristofyas bugün Kıbrıs sorununun çözümüne ilişkin üçlü görüşme gerçekleştirecek. Cumhurbaşkanlığı Müsteşarı Mustafa Tokay, Cumhurbaşkanı Özel Temsilcisi Kudret Özersay, Cumhurbaşkanlığı Sözcüsü Osman Ertuğ ve müzakere heyeti üyelerinin eşlik ettiği Cumhurbaşkanı Eroğlu, New York JFK Havalimanı'nda, Türkiye'nin BM Daimi Temsilcisi Ertuğrul Apakan ve KKTC New York Temsilcisi Kemal Gökeri tarafından karşılandı. Eroğlu herhangi bir açıklama yapmadı.</TEXT>
+</DOC>

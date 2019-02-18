@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318618 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f385df7/l/0l0smilliyet0n0btr0cbrezilya0enin0eilk0ekadin0ebaskani0cdunya0chaberdetay0c0a10b110b20a10a0c130a850a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 01:00:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+brezilya���n��n ilk kad��n ba��kan��
+</HEADLINE>
+<TEXT>İşçi Partisi adayı 62 yaşındaki eski solcu militan Rouseff böylece ülkenin ilk kadın başkanı oldu. Brezilya’nın mevcut lideri Lula da Silva’nın desteklediği Roussef, askeri dikta döneminde üç yıl hapis yatmış ve işkence görmüştü.</TEXT>
+</DOC>

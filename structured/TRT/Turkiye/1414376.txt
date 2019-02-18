@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1414376 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2ace5bb8-3939-4aae-9a73-157aaed576fe </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 21:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+clinton t��rkiye ziyaretini erteledi
+</HEADLINE>
+<TEXT>
+ABD Dışişleri Bakanı'nın Türkiye ziyareti Mısır'daki olaylar nedeniyle ertelendi.
+
+Amerika Birleşik Devletleri Dışişleri Bakanı Hillary Clinton&rsquo;ın 7 Şubat&rsquo;ta Türkiye&rsquo;ye yapması beklenen ziyaretinin ertelendiği öğrenildi.
+
+Diplomatik kaynaklardan edinilen bilgiye göre, Clinton&rsquo;ın gelecek hafta başında Ankara&rsquo;ya gerçekleştirmesi öngörülen ziyareti ertelendi.
+
+ Ertelemeye gerekçe olarak Mısır&rsquo;daki olayların gösterildiği bildirildi.
+</TEXT>
+</DOC>

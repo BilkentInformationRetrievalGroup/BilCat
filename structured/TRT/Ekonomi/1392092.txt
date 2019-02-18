@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1392092 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c2326c21-a142-49b1-a613-1241f88dc6b4 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 16:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+piyangoda has��lat 312 milyon
+</HEADLINE>
+<TEXT>
+Yılbaşı özel çekilişinde toplam 312 milyon 893 bin lira hasılat elde edildi.
+
+Milli Piyango İdaresinden yapılan yazılı açıklamada, elde edilen hasılatın geçici sonuçlarına göre, 189 milyon lirasının talihlilere ikramiye olarak, 37,4 milyon lirasının da bayilere satış komisyonu olarak ödenmiş olacağı kaydedildi.
+
+Açıklamada, kamuya aktarılacak kaynak ise 82,2 milyon lira olarak belirlendi. Bunun 47,4 milyon lirasını KDV, 26,5 milyon lirasını şans oyunları vergisi, 8,3 milyon lirasını da kamu payı oluşturuyor.
+
+Bu arada açıklamada, yılbaşı özel çekilişinde elde edilen hasılatın başta idare çalışanları olmak üzere, bayilerin özverili çalışmaları ile basın ve yayın kuruluşlarının katkıları ile gerçekleştiği ifade edildi.
+
+</TEXT>
+</DOC>

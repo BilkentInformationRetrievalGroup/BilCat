@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321180 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4792a0/l/0l0smilliyet0n0btr0ciste0ecep0edolandiricilarinin0eson0enumaralari0cekonomi0csondakika0c0a20b110b20a10a0c130a93310cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 19:00:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+i��te cep doland��r��c��lar��n��n son numaralar��
+</HEADLINE>
+<TEXT>Dolandırıcılar ‘cep’lere gözünü dikti. Zaman zaman savcı, polis, asker maskesiyle kontör isteyen dolandırıcılar, farklı yöntemler geliştiriyor. Cep telefonlarına gönderdikleri mesajla “Tebrikler, kol saati kazandınız” ya da “Elektrik faturanızdaki indirimden yararlanın” gibi aldatıcı mesajlarla tuzak kuruyorlar.İşte o mesajlar: * Tebrikler! Ücretsiz 2 adet kol saati kazandınız. Hemen 0532111xxxx’i arayın, size özel ücretsiz hediyenizi ve tasarruf cihazınızı almayı unutmayın.* Tebrikler! Hediye kol saati kazandınız. Hemen 0216468xxxx’i arayınız. Hem kol saatinizi alın hem de elektrik faturalarınızdaki indirimden yararlanın.Cep telefonlarına gelen bu mesajlara kesinlikle yanı verilmemeli ve verilen numara aranmamalı. Uzmanlar bu gibi şüpheli mesajlara karşı kullanıcıları uyarırken banka hesap numarası, kredi kartı numarası gibi kişisel bilgilerinizi isteyenlere karşı uyanık olunması gerektiği konusunda uyarıyor.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320821 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f40f117/l/0l0smilliyet0n0btr0ckilicdaroglu0etalimat0everdi0esergi0ekalkti0csiyaset0chaberdetay0c0a20b110b20a10a0c130a90a610cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:13:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+k��l����daro��lu talimat verdi sergi kalkt��
+</HEADLINE>
+<TEXT>RA MilliyetOkay, “Kabullenilmemiştir, benimsenmemiştir, gerekli tavır konulmuştur, derhal sergi kaldırılmıştır” dedi. Okay, sergiyi gezdikten sonra Kılıçdaroğlu’nun da rahatsızlığını belirttiğini kaydetti. Sergide Başbakan Recep Tayyip Erdoğan Adolf Hitler’e benzetilirken, hükümet üyelerine kimi ağır eleştiriler yöneltiliyordu.</TEXT>
+</DOC>

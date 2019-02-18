@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1436623 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=da6b3ae9-c545-4b79-b49a-b79401af9da4 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 10:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cim-bom'un konu��u caserta
+</HEADLINE>
+<TEXT>
+Galatasaray Cafe Crown, Pepsi Caserta’yı altı veya daha farklı skorla mağlup etmesi hâlinde, puan sıralamasında ikinci basamağa çıkacak.
+
+Galatasaray Cafe Crown, ULEB Eurocup K Grubu beşinci maçında bu akşam İtalya temsilcisi Pepsi Caserta ile karşılaşacak, Ayhan Şahenk Spor Salonu’ndaki mücadele, saat 20.45 de başlayacak.
+ULEB Eurocup K Grubu’ndaki ilk iki maçını kaybettikten sonra CEZ Nymburk’u İstanbul’da 76-75, dış sahada ise 77-62’lik skorla mağlup eden Galatasaray Cafe Crown, son sekiz için iddiasını korumayı başardı. Takımımız, grubun ilk maç gününde ise Pepsi Caserta ile deplasmanda karşılaştı ve sahadan 81-76 mağlup ayrıldı.
+Galatasaray Cafe Crown, Pepsi Caserta’yı altı veya daha farklı skorla mağlup etmesi hâlinde, puan sıralamasında ikinci basamağa çıkacak.
+
+</TEXT>
+</DOC>

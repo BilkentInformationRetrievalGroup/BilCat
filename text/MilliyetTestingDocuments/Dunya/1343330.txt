@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343330 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd2e2d6/l/0l0smilliyet0n0btr0cazerbaycan0eermenistan0esinirinda0esok0egelisme0cdunya0csondakika0c20a0b110b20a10a0c131630a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:03:56.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+azerbaycan ermenistan s��n��r��nda ��ok geli��me
+</HEADLINE>
+<TEXT>Dağlık Karabag’daki Ermenistan Askeri birliklerinin birinde Ermeni askerleri arasında çıkan çatısmada ölen ve yaralananların oldugu bildirildi.Ermeni yetkililer, iç çatışma iddiasını doğrulamadı ancak 4 askerin öldüğünü resmi olarak açıkladı.Azeri APA Ajansi ise bölgedeki kaynaklarına dayanarak verdiği haberde ölü sayısının 20 civarında olduğunu bildirdi.Ermeni Armtoday ajansına göre, Dağlık Karabağ’daki ayrılıkçı Ermeni Yonetiminin ``Savunma Bakanligi Basin Sozcusu`` Senor Asratyan olayda olen ve yaralananlarin oldugunu dogrularken,sayi vermekten kaçındı.Bazi Ermeni kaynaklari ise çatısmanın Azeri-Ermeni askerleri arasında olduğunu ve ölüm olaylarının bu yüzden meydana geldiğini ileri sürdü.</TEXT>
+</DOC>

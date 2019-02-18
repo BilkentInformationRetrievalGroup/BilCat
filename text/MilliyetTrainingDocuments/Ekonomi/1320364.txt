@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320364 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f440539/l/0l0smilliyet0n0btr0csifirci0ehoca0eya0ekostebek0esorgusu0cekonomi0csondakika0c0a20b110b20a10a0c130a9170a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:00:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+s��f��rc�� hoca'ya k��stebek sorgusu
+</HEADLINE>
+<TEXT>CI DEDEKTİF GİBİ İZ SÜREREK BULDUMoody’s’in içindeki köstebek, adeta film gibi operasyon ile yakalandı. Olayın açığa çıkmasını sağlayanın ise ekim ayındaki işlemlerden zarar eden bir Türk bankacısı olduğu öğrenildi. Herşey Moody’s’in 5 Ekim’de Türkiye’nin, ‘Ba2’ olan kredi notuna ilişkin görünümünü ‘durağan’dan, ‘pozitif’e yükseltmesiyle başladı. Kulislerde Moody’s’in açıklamasının, önceden piyasaya sızdırıldığı ve bu işten bazılarının hayli kârlı çıktığı konuşuldu. Moody’s’in açıklaması 5 ekimde yapıldı. 1-18 Ekim tarihlerinde borsa endeksi 12 işlem gününde yüzde 8.6 değer kazanarak 70 bin 457 puana ulaştı. Söz konusu dönemde yapılan işlemlerden zarar gören bir Türk bankacısı ise bir dedektif gibi olayın peşine düştü. Kulislerde konuşulduğu gibi Moody’s’den piyasaya önceden haber sızdıranın olup olmadığını araştırmaya başlayan bankacı, borsada açıklama öncesi alım yapan kişilerle görüşmelerde bulundu. Bankacı, yaptığı araştırma sonucunda Moody’s içinde bir çalışanın kararlar kamuoyuna açıklanmadan önce Türkiye’deki bazı kişilere bildirdiğini tespit etti. Türk bankacı, bu tespitini de kanıtladı. Bankacı, Moody’s çalışanı ile Türkiye’deki bağlantıları arasındaki ses kayıtlarını ele geçirdi.</TEXT>
+</DOC>

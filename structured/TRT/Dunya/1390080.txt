@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1390080 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=63156029-bfae-4653-82a3-ea5482a51a48 </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 07:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kuzey kore teklifini yineledi...
+</HEADLINE>
+<TEXT>
+Kuzey Kore, Güney Kore ile arasındaki gerginliğin son bulması için koşulsuz görüşme teklifini yineledi.
+
+
+     Seul yönetiminden yapılan açıklamada, Pyongyang&rsquo;dan gelen son teklifin gözden geçirileceği ancak bunun resmi nitelikte olmadığı belirtildi.
+
+      Kuzey kore&rsquo;nin daha önceki görüşme teklifleri Güney tarafından &quot; Pyongyang değiştiğini sözle değil eylemle göstermeli &quot; denilerek geri çevrilmişti.     
+
+      Güney Kore&rsquo;yi destekleyen Washington da aynı yönde açıklama yapmıştı.
+</TEXT>
+</DOC>

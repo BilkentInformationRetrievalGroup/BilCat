@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1392429 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=425f833c-3fec-4b7a-ab5c-cecd32d8a44f </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 01:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fuhu�� operasyonu'nda 25 ki��i serbest
+</HEADLINE>
+<TEXT>
+İstanbul'daki fuhuş operasyonunda gözaltına alınarak adliyeye sevk edilen 25 kişi serbest bırakıldı.
+
+
+&rsquo;&rsquo;Fuhuş yaptıkları ya da yaptırdıkları&rsquo;&rsquo; iddiasıyla gözaltına alınan 25 kişi, İstanbul Adliyesi&rsquo;ne sevk edildi.
+
+Bu kişilerden 5&rsquo;i &rsquo;&rsquo;Adli kontrol kararı&rsquo;&rsquo; doğrultusunda imza atılması karşılığı serbest bırakıldı.
+
+Savcılıkça mahkemeye sevk edilen 20 kişi ise çıkarıldıkları mahkemece serbest bırakıldı.
+
+İstanbul&rsquo;da 70 adrese düzenlenen eş zamanlı operasyonda, fuhuşa aracılık ettikleri belirtilen bazı kişilerle eski mankenlerin de aralarında bulunduğu 23 kadın, mağdur sıfatıyla ifadelerine başvurulmak üzere emniyete götürülmüştü.
+
+İfadeleri alınan kadınlar serbest kalırken, 25 şüpheli, işlemlerinin tamamlanmasının ardından adliyeye sevk edilmişti
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1393509 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=82d3c0b3-7f6b-4219-b9c5-df10fe080f43 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 21:08:14.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sa��l��k m��zesine ziyaret��i ak��n��
+</HEADLINE>
+<TEXT>
+500 yıl önce uygulanan tedavi yöntemlerini anlatan Edirne'deki Sağlık Müzesi ziyaretçi akınına uğruyor.
+
+500 yıl önce uygulanan tedavi yöntemleri ve Osmanlı döneminde tıp öğrencilerinin aldığı uygulamalı eğitimi anlatan Edirne&rsquo;deki Sağlık Müzesi ziyaretçi akınına uğruyor. Geçen yıl müzeyi 150 bin kişi ziyaret etti.
+
+Tunca Nehri kenarında bulunan Bayezid Külliyesi Sağlık Müzesi Türk ve dünya tıp tarihinde önemli bir yere sahip. Müzede arkeolojik ya da etnografik eserler değil yaşamın kendisi sergileniyor..
+
+Hastalar, hekimler, hasta bakıcıları, hanende ve sazendeler, öğrenci ve hocalar, tüm canlılıklarıyla, karşınızda duruyor. Bundan tam 500 yıl önce psikiyatri hastalıklarında uygulanan ve dönemine göre çok ileri olarak kabul edilen, müziğin ve su sesinin tedavide etkin şekilde kullanımı ziyaretçilerin ilgisini çekiyor.
+
+Dönemin tıp öğrencilerine verilen uygulamalı eğitim de müzede anlatılıyor. 2. Bayezid Külliyesi Sağlık Müzesi Avrupa Konseyi&rsquo;nin 2004 yılı Avrupa Müze Ödülüne de sahip.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323377 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f50bc8e/l/0l0smilliyet0n0btr0ckorlere0eyeni0eumut0cdunya0csondakika0c0a30b110b20a10a0c130a98170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 19:01:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+k��rlere yeni umut
+</HEADLINE>
+<TEXT>Gözün retina tabakasının arkasına yerleştirilen çip sayesinde kalıtsal retina hastalığı nedeniyle görme yetisini kaybeden hastalar "ışığa kavuştu" Alman doktorlar, "retinitis pigmentosa" (halk arasında tavuk karası olarak biliniyor) nedeniyle görme yetisini kaybeden 3 hastaya deney aşamasındaki bu cihazı nakletti.Retinaya nakledilen cihazı gözlüğe bağlı küçük bir kameraya da bağlayan doktorlar, böylece cihazın gözün beyne görüntü gönderme becerisini kullanmasını sağladı."Yapay retina" sayesinde hastalardan ikisi nesneleri ve şekilleri fark edebilirken, biri yardım almadan yürüyebildi, saati, harfleri ve grinin 7 farklı tonunu görebildi."Royal Society" dergisinde yayımlanan araştırmada, diğerleri gibi dış kamera gerektirmeyen bu cihazın geliştirilmesi, protez retina alanında büyük başarı olarak değerlendirildi. Yeni teknolojinin bu kalıtsal hastalık nedeniyle göremeyen 200 bin kişiye umut ışığı olabileceği vurgulandı.</TEXT>
+</DOC>

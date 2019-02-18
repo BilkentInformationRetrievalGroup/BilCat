@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1332702 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f7f0d40/l/0L0Smilliyet0N0Btr0Ciphone0Ea0Erakip0Ebutceye0Euygun0Ecep0Cekonomi0Chaberdetay0C10A0B110B20A10A0C13124520Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:04:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+iPhone’a rakip, bütçeye uygun cep
+</HEADLINE>
+<TEXT>Burak Sevilengül
+ Genel Müdür Yardımcısı Burak Sevilengül, T10’un 3G hızında mobil interneti, cepten TV izleme servisi, tasarımı, dokunmatik ekranı, özel Turkcell uygulamaları ve uygun fiyatıyla cep telefonu piyasasına damgasını vuracağını kaydetti. 
+Sevilengül, “Turkcell T10 için “İnternetli Telefon Bayramı” sloganıyla çıkmayı uygun bulduk. Çünkü makul fiyatlı bir akıllı telefon sahibi olmak ve cepten internete girmek isteyen milyonlarca insana bayram havasını yaşatacak” dedi.
+Burak Sevilengül ’de  Sesli Arama uygulaması önceden yüklenmiş olarak gelen ilk akıllı telefon olan Turkcell T10’da telaffuz edilen kelimeleri metin haline çeviren konuşma tanıma teknolojisi de yer aldığını söyledi. 
+ 
+325 TL’ye akıllı cep telefonu
+Fiyatı 325 lira olan Turkcell T10, 2.8 inç boyutlu dokunmatik ekran, Android 2.1 işletim sistemi, 3G şebeke desteği, 3.2 megapiksel kamera,  çalar, e-posta ve GPS teknolojileriyle birlikte geliyor. Cihaz ile Wi-Fi şebekesi üzerinden internete bağlanmak da mümkün oluyor. </TEXT>
+</DOC>

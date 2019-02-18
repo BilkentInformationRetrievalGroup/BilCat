@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318951 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/f388a8b/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c0a10cyazardetay0c130a84120cfransiz0ertuk0eunden0ebuyuk0eceza/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 03:29:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+frans��z rt��k�����nden b��y��k ceza
+</HEADLINE>
+<TEXT>/";                    if (window.sidebar)         {                       window.sidebar.addPanel(title, url,"");                    }         else if( window.external )         {                      window.external.AddFavorite( url, title);         }                    else if(window.opera && window.print)      {      return true;      }      }      function IsNumeric(v_code)      {      var sText = String.fromCharCode(v_code);      return IsNumericB(sText);      }      function IsNumericB(sText)      {      var ValidChars = "0123456789.";      for (var i = 0; i MİLLİYET ANASAYFA|SON DAKİKA|BUGÜNKÜ MİLLİYETYAZARLAR|SİYASET|EKONOMİ|FİNANS|DÜNYA|SPOR|GÜNCEL|YAŞAMHızlı ErişimFillCboHizliErisim()MNetBanner("milliyet_cadde_728x90");</TEXT>
+</DOC>

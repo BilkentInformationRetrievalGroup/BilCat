@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1410211 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=26f80d83-77e0-4cbf-aa08-1f671ed58c2d </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 10:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sinemalar�� "kurtlar" basacak
+</HEADLINE>
+<TEXT>
+Sinemaseverler bu hafta biri yerli, 2'si yabancı 3 yeni filmle buluşacak. Haftanın tek yerli yapımı ise "Kurtlar Vadisi Filistin"... 
+
+&quot;Kurtlar Vadisi Filistin&quot;
+Zübeyr Şaşmaz&rsquo;ın yönettiği ve Necati Şaşmaz, Gürkan Uygun, Kenan Çoban ile Nur Aysan&rsquo;ın oynadığı &quot;Kurtlar Vadisi Filistin&quot; filmi, politik ve aksiyon sahneleriyle sinemaseverlerin ilgilisini çekecek.
+
+Filmin konusu şöyle:
+
+&quot;Gazze&rsquo;ye insani yardım götürmeye çalışan gemilere düzenlenen baskın üzerine Polat Alemdar ve arkadaşları Filistin&rsquo;e gitmiştir. Bu baskının askeri planlayıcısı İsrailli komutan Moşe ele geçirilmelidir. Polat, Moşe&rsquo;ye ulaşmaya çalışırken, Filistin&rsquo;de masum insanların nasıl öldürüldüklerini görür. Teknolojik imkanlar ve kural tanımazlık, Moşe&rsquo;yi kurtarmaya yetmeyecektir.&quot;
+&quot;Tron Efsanesi-Tron Legacy&quot;
+Joseph Kosinski&rsquo;nin yönettiği ve Jeff Bridges, Garrett Hedlund, Olivia Wilde ile Bruce Boxleitner&rsquo;ın oynadığı &quot;Tron Efsanesi-Tron Legacy&quot; filmi, gerilim ve aksiyon sahneleriyle beyaz perdeye yansıyacak. 
+
+Filmde, Kevin Flynn&rsquo;in 27 yaşındaki teknoloji meraklısı oğlu Sam Flynn, babasının ortadan kayboluşunu araştırır ve kendini babasının 25 yıldır yaşadığı Tron&rsquo;un dijital dünyasında bulur. 
+&quot;Biutiful&quot;
+Alejandro Gonzalez Inarritu&rsquo;nun yönettiği ve Javier Bardem, Blanca Portillo, Martina Garcia ile Felix Cubero&rsquo;nun oynadığı &quot;Biutiful&quot; filmi, dram sahneleriyle izleyicilerin dikkatini çekecek.
+
+Filmde, baba olmayı, sevgiyi, ruhsallığı, suçu, pişmanlığı ve ölümlülüğü, Barcelona&rsquo;nın tehlikeli yer altı dünyasında dengelemeye çalışan Uxbal&rsquo;ın hikayesi anlatılıyor. 
+
+
+</TEXT>
+</DOC>

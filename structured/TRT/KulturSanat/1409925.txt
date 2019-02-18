@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1409925 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=73830f04-226a-42b1-bcbe-faf007c71c6c </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 10:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+efsane gitarist paco pena istanbul'da
+</HEADLINE>
+<TEXT>
+Flamenko gitaristi Paco Pena, 29  Ocakta İş Sanat Kültür Merkezi'nde Sınırsız Flamenko adlı  yeni gösterisini sergileyecek.
+
+Efsanevi flamenko gitaristi Paco Pena, 29 
+ Ocakta İş Sanat Kültür Merkezi&rsquo;nde vereceği konserle müzikseverlere unutulmaz bir 
+ gece yaşatacak.
+
+         Latin müzikleri ve flamenkonun en önemli isimlerinden olan İspanyol 
+ sanatçı Paco Pena, İstanbul&rsquo;da, Flamenco sin Fronteras (Sınırsız Flamenko) adlı, 
+ başarılı müzisyenler ve dansçılarla birlikte oluşturduğu yeni gösterisini 
+ sergileyecek.
+
+         Flamenko parçalarının yanı sıra diğer Latin Amerika ülkelerinin de 
+ kültürlerinden eserlerin seslendirileceği konserde, Latin müzik tarihinin önemli 
+ parçalarının yeniden yorumlanan şekilleri de dinlenebilecek.
+        
+</TEXT>
+</DOC>

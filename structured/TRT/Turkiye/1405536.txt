@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> 1405536 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f8dda473-47fd-4202-99bf-8d4b5fa82d5b </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 10:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ara�� muayenesinde yeni d��zenleme
+</HEADLINE>
+<TEXT>
+Ulaştırma Bakanlığı, araç muayenesindeki hafif ve ağır kusurları yeniden belirledi. 
+
+                  Ulaştırma Bakanlığı&rsquo;nca yapılan düzenlemeyle bir önceki 
+                  muayenesine göre kilometresi düşük olan araçlar &rsquo;&rsquo;hafif 
+                  kusurlu&rsquo;&rsquo;, arka amortisörleri olmayan, lastik sayısı eksik 
+                  olan veya aynı aks üzerinde farklı ebatta lastik kullanılan, 
+                  ön cam buğu giderme sistemi çalışmayan araçlar &rsquo;&rsquo;ağır 
+                  kusurlu&rsquo;&rsquo; kabul edilecek.
+                  Yarından (24.01.2011) itibaren geçerli olacak 
+                  &rsquo;&rsquo;2011-2012 Yıllarında Uygulanacak Kusurlar Tablosuna&rsquo;&rsquo; göre 
+                  araçların muayenede &rsquo;&rsquo;emniyetsiz&rsquo;&rsquo;, &rsquo;&rsquo;ağır kusurlu&rsquo;&rsquo;, &rsquo;&rsquo;hafif 
+                  kusurlu&rsquo;&rsquo; kabul edilmelerine gerekçe olan ölçütlerde 
+                  değişikliğe gidildi.
+                  Buna göre, araçların ABS&rsquo;lerinin çalışmaması veya arızalı 
+                  olması, fabrika çıkışı ABS&rsquo;li üretilmiş araçların ABS&rsquo;sinin 
+                  iptal edilmesi veya fabrika çıkışı ABS&rsquo;siz olarak üretilmiş 
+                  araçlara sonradan teknik onay alınmadan ABS takılması, &rsquo;&rsquo;ağır 
+                  kusur&rsquo;&rsquo; sayılacak. 
+                  Yeni kusur düzenlemesiyle ABS&rsquo;li üretilen yolcu ve yük taşıyan 
+                  M2, M3, N2,N3,O3 ve O4 sınıfı ticari araçların ABS&rsquo;lerinin 
+                  çalışır durumda olması ve iptal edilmemesi, ABS&rsquo;li olmaları 
+                  gerektiği halde teknik mevzuata aykırı şekilde ABS&rsquo;siz 
+                  üretilmiş/tadil edilmiş araçların ve özellikle M2 sınıfı 
+                  minibüs, M3 sınıfı otobüs ve O4 sınıfı römorkların üzerine 
+                  sonradan ve teknik onay olmadan takılmış ABS&rsquo;lerin araç 
+                  muayenesi sırasında tespit edilmesi ve bunların teknik onay 
+                  almaları güvence altına alınmış olacak.
+
+                 Mevzuata Uygun Dingil İlave Edilmemesi &quot;Emniyetsiz&quot; 
+                
+               Araçlara mevzuata uygun şekilde dördüncü dingil ilave 
+                  edilmemesi &rsquo;&rsquo;emniyetsiz&rsquo;&rsquo; olarak sayılırken, daha önceden 
+                  &rsquo;&rsquo;hafif kusur&rsquo;&rsquo; kabul edilen arka amortisörlere ilişkin madde 
+                  &rsquo;&rsquo;olması gerektiği halde arka amortisör yoksa &rsquo;ağır kusur&rsquo; 
+                  sayılacak&rsquo;&rsquo; şeklinde düzenlendi.
+                  Araçların lastik sayıları eksikse, aynı aks üzerinde farklı 
+                  ebatta lastik kullanılmışsa ve ön cam buğu giderme sistemi 
+                  çalışmıyorsa &rsquo;&rsquo;ağır kusurlu&rsquo; olarak kabul edilecek.
+                  Öte yandan, araç muayene istasyonlarında fiziksel eksiklikler 
+                  nedeniyle &rsquo;&rsquo;damper muayeneleri yapılamayacak. Bu muayeneleri 
+                  sürücülerin farklı yerlerde yaptırmaları gerekecek. 
+              
+</TEXT>
+</DOC>

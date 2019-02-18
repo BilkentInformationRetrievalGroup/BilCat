@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1379943 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3ec7ec89-7333-426e-a330-e6c2f572b4a7 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 10:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ahmedinejad arabas��n�� sat��yor
+</HEADLINE>
+<TEXT>
+İran Cumhurbaşkanı, gelirini gençler için konut projesine vermek amacıyla arabasını satıyor.
+
+İran Cumhurbaşkanı Mahmud Ahmedinejad&rsquo;ın Tahran Belediye Başkanı olduğu dönemde sıkça bindiği ancak Cumhurbaşkanlığına geldiği 2005&rsquo;ten bu yana nadir kullandığı 33 yaşındaki Peugeot 504 marka otomobil, Abadan kentinde şubat ayında açık artırmaya sunulacak.
+
+Yetkililer, klasik araçlar sergisinde satışa sunulacak otomobilin 2 bin dolardan fazlaya satılacağını umuyor.
+
+Satıştan elde edilecek gelir Mehr Konut Fonuna aktarılacak.
+
+</TEXT>
+</DOC>

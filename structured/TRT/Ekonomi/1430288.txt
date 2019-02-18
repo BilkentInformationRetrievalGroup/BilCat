@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1430288 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=418086cb-4266-4909-bbaf-88cfad3ac126 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 10:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��keticinin g��veni art��yor
+</HEADLINE>
+<TEXT>
+2010 Aralık ayında 90,99 puan olan tüketici güven endeksi 2011 ocak ayında 91,29 değerine yükseldi.
+
+Tüketicilerin, Türk ekonomisinin şu andaki durumu hakkındaki görüşlerini ve gelecek ile ilgili beklentilerini gösteren ulusal ekonomik gösterge olan Tüketici Güven endeksi yükseliyor.
+
+ 2011 Ocak ayında Tüketici Güven Endeksi, bir önceki aya göre yüzde 0,33 oranında arttı.
+
+ 2010 Aralık ayında 90,99 olan endeks 2011 Ocak ayında 91,29 değerine yükseldi. 
+ 
+</TEXT>
+</DOC>

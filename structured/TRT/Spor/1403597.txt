@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1403597 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9240b711-87ef-4773-b22d-072fd6c24e08 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 10:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+basketbolda 2. perde
+</HEADLINE>
+<TEXT>
+Beko Basketbol Ligi'nde 2010-2011 sezonunun ikinci yarısı yarın 5 maçla başlıyor.
+
+
+Ligde 16. haftanın programı şöyle:
+
+22 Ocak Cumartesi:
+13.00 Antalya Büyükşehir Belediyesi–Efes Pilsen (Antalya Atatürk)
+15.00 Erdemir–Galatasaray Cafe Crown (Erdemir)
+17.00 Olin Edirne–Mersin Büyükşehir Belediyesi (Mimar Sinan)
+17.00 OYAK Renault–Aliağa Petkim (Bursa Atatürk)
+18.00 Pınar Karşıyaka–TOFAŞ (Karşıyaka)
+
+23 Ocak Pazar: 
+13.00 Fenerbahçe Ülker–Banvit (Sinan Erdem)
+15.00 Beşiktaş Cola Turka–Türk Telekom (BJK Cola Turka)
+16.00 Medical Park Trabzonspor–Bornova Belediyesi (Trabzon 19 Mayıs)
+</TEXT>
+</DOC>

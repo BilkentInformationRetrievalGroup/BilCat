@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1395195 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c07a1acb-7008-46c9-9a26-dc633cc72958 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 11:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ener rotay�� ��izdi
+</HEADLINE>
+<TEXT>
+Trabzonspor Kulübü Başkanı Sadri Şener, bu sezon şampiyon olacaklarını söyledi.
+
+Trabzonspor Kulübü Başkanı Sadri Şener, geçen sezon Türkiye Kupası&rsquo;nı, sezon öncesinde de Süper Kupa&rsquo;yı kazandıklarını belirterek, &quot;Bu sezon tek düşüncemiz şampiyon olarak kupaları üçlemek&quot; dedi.
+ Sezonun ilk devresini lider tamamlayarak, ikinci yarı öncesi rakiplerine karşı ciddi bir avantaj elde ettiklerini belirten Şener, bordo-mavili takımın bu üstünlüğünü sezon sonuna kadar koruyacağına yürekten inandığını söyledi.
+ Şener, şöyle konuştu: &quot;Yaklaşık 3 yıldır büyük özveriyle oluşturduğumuz ekibimizin her yıl yükselen bir grafik çizerek, bizleri murtlu sona taşıması yönündeki beklentimiz artık üst seviyededir. Şu an için ligin en avantajlı takımıyız. Her şey bizim elimizde. Ligin ilk devresindeki havamızı korusak kalan mesafeyi de istediğimiz gibi kat edebiliriz.&quot;
+</TEXT>
+</DOC>

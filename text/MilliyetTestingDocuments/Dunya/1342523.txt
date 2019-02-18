@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342523 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fced983/l/0l0smilliyet0n0btr0c0eyesil0ezirveyi0eyedi0ebin0ekisi0ekoruyor0ebes0ebin0ekisi0eizliyor0cdunya0chaberdetay0c20a0b110b20a10a0c13160a730cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:01:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���ye��il��� zirveyi yedi bin ki��i koruyor be�� bin ki��i izliyor
+</HEADLINE>
+<TEXT>-  NATO Zirvesi’ne ev sahipliği yapan Portekiz Başbakanı Jose Socrates ve Avrupa Komisyonu Başkanı Jose Manuel Barroso toplantıya elektrikli araçlarla gelerek çevreci bir mesaj verdi. ABD Başkanı Barack Obama’nın 8 tonluk “canavar” lakaplı limuzini ise bu mesajla büyük bir tezat oluşturdu. Zirveyi izleyen gazeteciler de elektrikli otobüslerle taşındı.-  Ermenistan Devlet Başkanı Serj Sarkisyan, zirvenin sonuç bildirgesinde Karabağ’la ilgili “Ermenistan’ın kabul edemeyeceği” bir mesaj verileceği gerekçesiyle Lizbon’a gitmekten vazgeçti.-  Zirve için Portekiz’e 5 bin temsilci ve gazeteci gitti. -  Zirvenin yapıldığı mekanla şehir merkezi arasında 7 bin güvenlik görevlisi konuşlandırıldı. Portekiz sınırlarında da güvenlik artırılarak helikopterlerle devriye gezilmeye başlandı.</TEXT>
+</DOC>

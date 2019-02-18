@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325512 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f57df06/l/0l0smilliyet0n0btr0chsyk0etasarisi0ekomisyonda0csiyaset0csondakika0c0a40b110b20a10a0c1310a2150cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:12:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hsyk tasar��s�� komisyonda
+</HEADLINE>
+<TEXT>TBMM Adalet Komisyonu, Hakimler ve Savcılar Yüksek Kurulu (HSYK) Kanunu Tasarısı’nı alt komisyona sevk etti.Komisyon Başkanı Ahmet İyimaya, müzakerelerin ardından, tasarının alt komisyona sevk edildiğini açıkladı.Milletvekillerinin eleştirilerini yanıtlayan Adalet Bakanı Sadullah Ergin, "Eski HSYK ile yeni HSYK karşılaştırıldığında, Adalet Bakanlığının ve bakanın yetkilerinde ’Bir gıdım’ artma varsa, şu anda bu görevimi bırakmaya hazırım" dedi.</TEXT>
+</DOC>

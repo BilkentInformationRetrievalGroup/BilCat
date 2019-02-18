@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326269 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5b817b/l/0l0smilliyet0n0btr0cturkiye0eis0eyapma0ekolayligi0esiralamasinda0e650esiraya0egeriledi0cekonomi0chaberdetay0c0a50b110b20a10a0c1310a4380cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:00:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye, i�� yapma kolayl������ s��ralamas��nda 65. s��raya geriledi
+</HEADLINE>
+<TEXT>IFC ve Dünya Bankası tarafından yayımlanan “İş Yapma Kolaylığı 2011: Girişimciler İçin Bir Fark Yaratmak” raporunda, Türkiye’nin yatırım ortamını iyileştirmek için kaydettiği ilerleme vurgulanarak, özellikle vergisel işlemlerin işletmelerin üzerindeki yükünün azaltılması ve  sözleşmelerin uygulanması alanlarında son 6 yıl içerisinde atılan adımlara dikkat çekildi.  Reformda ilerleme sınırlıRaporda, Türkiye’de reformların önemini koruduğu ve özellikle diğer gelişmekte olan piyasa ekonomileri ile karşılaştırıldığında ilerlemenin daha sınırlı kaldığı politika alanlarına dikkat çekildi. Gelişme endeksinde de kötüÖte yandan Türkiye, Birleşmiş Milletler Kalkınma Programı’nın (UNDP) yeni düzenlenen İnsani Gelişme Endeksine (İGE) göre ise 0.679’luk bir değerle 169 ülke arasında 83. sırada yer aldı ve “yüksek insani gelişme” gösteren ülkeler sınıfına girdi. UNDP’den yapılan açıklamaya göre, 2010 İGE’de Türkiye, sıralamada AB üyesi ülkeler ile AB’ye aday olan diğer ülkelerin ve OECD ortalamasının altında yer aldı. Bulgaristan, Letonya ve Romanya gibi ülkeler, ortalama eğitim süresi ve beklenen yaşam süresi ortalamaları nedeniyle sıralamada Türkiye’nin üstünde değerlendirildi. En yeni konut projelerinin adresi burası.</TEXT>
+</DOC>

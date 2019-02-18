@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321958 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f49be69/l/0l0smilliyet0n0btr0ciste0eebedi0edost0cspor0chaberdetay0c0a30b110b20a10a0c130a95160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:13:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+i��te ebedi dost
+</HEADLINE>
+<TEXT>Geçen yılın birincisi olan Milliyet fotomuhabiri Fehim Kayacan mansiyon aldı. GSYİAD’ın Levent’teki yerleşkesinde düzenlenen törene Fenerbahçe Kulübü’nün efsane Başkanı Faruk Ilgaz da katıldı. 88 yaşındaki Ilgaz’ın daveti kabul ederek, törene katılması büyük bir sevinçle karşılandı.</TEXT>
+</DOC>

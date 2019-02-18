@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325093 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f56ad9f/l/0l0smilliyet0n0btr0cborsa0eilk0eyarida0eyukseldi0cekonomi0csondakika0c0a40b110b20a10a0c1310a1660cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa ilk yar��da y��kseldi
+</HEADLINE>
+<TEXT>İMKB 100 Endeksi birinci seansta, dünkü kapanışa göre 1.084,48 puan artarak 69.689,11 puandan kapandı. Hisse senetleri ortalama yüzde 1,58 değer kazandı.TAHVİL-DÖVİZ-REPO-PARİTE -İstanbul Menkul Kıymetler Borsası (İMKB) Tahvil ve Bono Piyasası Kesin Alım Satım Pazarında, 8 Ağustos 2012 vadeli, bugün valörlü tahvilin saat 12.30 itibariyle basit getirisi yüzde 7,82, bileşik getirisi yüzde 7,60 seviyelerinde bulunuyor.-DOLAR KOTASYONLARI- Bankalararası piyasada dolar kotasyonlarında fiyat, alışta en düşük 1,3910 lira, en yüksek 1,3950 lira, satışta en düşük 1,3985 lira, en yüksek 1,4010 lira olarak belirlendi.-REPO- İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarında gecelik repo işlemleri en düşük yüzde 7,00, en yüksek yüzde 7,05 ve ortalama yüzde 7,04’ten gerçekleşiyor.-PARİTE- Uluslararası piyasalarda avro-dolar paritesi 1,4236, sterlin-dolar paritesi 1,6184, yen-dolar paritesi ise 80,90 düzeyinde seyrediyor.</TEXT>
+</DOC>

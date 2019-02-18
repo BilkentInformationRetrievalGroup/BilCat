@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1435787 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=81071d69-e537-48c6-8397-120fc05caf8c </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 14:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+insans��z u��ak vurdu: 7 ��l��
+</HEADLINE>
+<TEXT>
+Güney Veziristan'da bir yerleşim yerine düzenlenen saldırıda en az 7 kişi  yaşamını yitirdi.
+
+
+Amerikan insansız savaş uçağının Pakistan&rsquo;ın Güney Veziristan bölgesindeki bir yerleşim merkezine düzenlediği saldırıda en az 7 kişinin öldüğü bildirildi.
+
+Amerikan insansız uçakları Kaza Panga köyündeki bir eve 4 roket fırlattı.
+
+Saldırıda ölenlerden bazılarının yabancı ülke vatandaşı olduğu ileri sürüldü.
+
+Amerikan insansız savaş uçakları Pakistan&rsquo;a en son 23 Ocak&rsquo;ta saldırmıştı.
+</TEXT>
+</DOC>

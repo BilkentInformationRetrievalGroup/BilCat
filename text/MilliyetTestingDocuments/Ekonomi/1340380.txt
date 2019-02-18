@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340380 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fc1c82f/l/0l0smilliyet0n0btr0celektrik0eucuzluyor0e0cekonomi0csondakika0c180b110b20a10a0c13156290cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 13:00:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+elektrik ucuzluyor!
+</HEADLINE>
+<TEXT>Elektrik Üretim AŞ (EÜAŞ), hidroelektrik santrallarda (HES) üretilen ve Türkiye Elektrik Ticaret ve Taahhüt AŞ’ye (TETAŞ) sattığı yıllık 20-22 milyar kilovatsaatlik elektrikte, yeni yıldan itibaren yüzde 60’a yakın indirim yapma kararı aldı.İndirimle, ortalama elektrik üretim maliyeti düşecek. Bu da yeni yılda elektrik fiyatlarının sabit kalmasını sağlayacak.6 KURUŞA İNECEK Enerji Bakanlığı, Hazine ve enerji KİT’leri arasındaki 2011 yılına ilişkin elektrik fiyatı ve kâr hedefleri konusundaki görüşmeler tamamlandı. Devletin kontrolündeki EÜAŞ, Elektrik Ticaret ve Taahhüt AŞ’ye, 2011 yılında hidroelektrik santrallardan üreteceği 20 milyar kilovatsaat elektriği satacak. EÜAŞ, yeni yılda HES kaynaklı elektrik satış fiyatında yüzde 60 indirim yapacak. EÜAŞ, halen TETAŞ’a, HES’lerden üretilen elektriği (kilovatsaatini) 11.5 kuruştan satıyor. Yeni yılda bu fiyat, 5- 6 kuruşa kadar gerileyecek.EÜAŞ’ın yapacağı indirim sonrasında ortalama toptan elektrik maliyetlerinin, yüzde 25-30 olumlu etkileneceği hesaplanıyor. TETAŞ’ın, toptan elektrik maliyetlerinin düşmesi, 2011 yılı elektrik fiyatları açısından büyük önem taşıyor. TETAŞ, 2011 yılında toptan elektriğe zam yapmayacak. Bu durumda gerek sanayi, gerekse de konut aboneleri, 2011 yılı boyunca aynı fiyattan elektrik tüketecek.İLK ADIMI ATTI TETAŞ, 1 Ocak-31 Mart 2011 tarihlerini kapsayan 3 aylık dönem için elektrikte toptan satış fiyat teklifini, EPDK’ya gönderdi. Birim elektrik fiyatında değişiklik öngörülmedi. Elektriğin birim toptan satış fiyatı, 12.5 kuruş düzeyinde bulunuyor. (Habertürk)</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339688 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fbe2caa/l/0l0smilliyet0n0btr0cilacci0eroche0e40e80a0a0ekisiyi0eisten0ecikaracak0cekonomi0chaberdetay0c180b110b20a10a0c13154780cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 01:01:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ila������ roche, 4.800 ki��iyi i��ten ����karacak
+</HEADLINE>
+<TEXT>Firma yaptığı açıklamada iki yılda toplam işgücünün yüzde 6’sını oluşturan 4 bin 800 kişiyi işten çıkaracağını, 2012 yılına kadar 2.4 milyar dolar tasarruf yapmayı planladığını bildirdi. Ayrıca işten çıkarmalardan en fazla satış, pazarlama ve üretim bölümlerinde çalışanların etkileneceği, ayrıca 1.500 kişinin şirket içinde yerlerinin değiştirileceği, böylece 6.300 kişinin bu planlamadan etkileneceği ifade edildi. Roche’un kararından en fazla ABD’de çalışanlar etkilenecek. ABD’de 3.550 kişi işinden olacak ya da yer değiştirecek. İsviçre’de 770, diğer Avrupa ülkelerinde 1.300 ve dünyanın diğer bölgelerinde de 680 kişi işten çıkarılacak ya da çalıştıkları yerler değiştirilecek. Üçüncü çeyrekte satışları yüzde 7 azalarak 11.5 milyar dolara düşen şirket, 82 bin kişiye istihdam sağlıyor.</TEXT>
+</DOC>

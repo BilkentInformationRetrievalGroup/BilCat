@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328275 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f639fd6/l/0l0smilliyet0n0btr0cserdar0eozkan0esoku0cspor0chaberdetay0c0a60b110b20a10a0c1310a90a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:14:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+serdar ��zkan ��oku
+</HEADLINE>
+<TEXT>Futbol Federasyonu’ndan yapılan açıklamada, talimatlara aykırı şekilde menajerlik faaliyeti içinde bulundukları iddia edilen Serdar Özkan, Konyasporlu Mehmet Sedef, Elazığsporlu Mehmet Ozan Tahtaişleyen, lisanslı futbolcu temsilcisi Ekrem Örenç ile amatör kulüp Fenerköyspor’un antrenörü Tekin Aslıhan’ın, PFDK’ya sevk edildiği duyuruldu. Serdar ve diğer futbolcular hafta sonu oynanacak maçlarda forma giyemeyecekler. </TEXT>
+</DOC>

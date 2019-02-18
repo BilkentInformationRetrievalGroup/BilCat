@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1420214 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=73fc0c77-19ae-4f45-b77d-f2d3984e1763 </URL>
+<DATE> 2011/02/06 </DATE>
+<TIME> 17:00:28.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��nl�� e��e��in kalbi u��maya dayanamad��
+</HEADLINE>
+<TEXT>
+Reklam filmi için Rusya'nın Krasnodar kentindeki plajda paraşütle uçurulan Anapka isimli eşek, Moskova'da öldü. 
+
+Reklam filmi çekimi sadece Rusya&rsquo;da değil tüm dünyada hayvanseverlerin büyük tepkisine yol açmıştı. 
+
+Geçen Temmuz ayında paraşütle uçurulan ve yarım saat kadar havada duran, inişte su yüzeyinde sürüklenen eşek üzerinde veterinerlerin yaptığı incelemede herhangi bir darp izine rastlanmadı. 
+
+Bu nedenle eşek sahibi ve reklam firması aleyhine de dava açılamadı.
+
+Kremlin Sarayı’nın koruması altına alınan &quot;Anapka&quot;, geçen Aralık ayında hastalandı ve tedavisine rağmen kurtarılamadı. 
+
+Kremlin Binicilik Okulu&rsquo;nda özel olarak beslenen uçan eşeğin kalp rahatsızlığı ve yaşlılık nedeniyle öldüğü belirtildi. 
+
+</TEXT>
+</DOC>

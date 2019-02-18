@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1402979 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=49f7114a-8265-4342-a814-5989173824fc </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 17:00:27.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+acemi matador boynuzu yedi
+</HEADLINE>
+<TEXT>
+Kolombiya'da matadorluğa soyunan acemi gencin ayağı kaydı, kızgın boğa da affetmedi.
+
+     Kolombiya&rsquo;da bir festival kapsamında düzenlenen boğa güreşinde yine bilindik görüntüler yaşandı.
+
+     Alkolün dozunu kaçıran izleyiciler, matador olmaya yeltenince kızgın boğaya da gün doğdu.
+
+     Kızgın boğa, acemi matadoru affetmedi. 
+
+</TEXT>
+</DOC>

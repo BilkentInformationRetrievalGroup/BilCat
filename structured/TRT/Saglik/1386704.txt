@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1386704 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=aa00cde0-1b97-461a-95bc-cc9932bab4ab </URL>
+<DATE> 2011/01/05 </DATE>
+<TIME> 10:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+h��zl�� y��r�� ge�� ��l!
+</HEADLINE>
+<TEXT>
+Yaşlılarda yaşam süresinin, yürüme hızlarıyla bağlantılı olabileceği bildirildi.
+
+Amerikan Tıp Derneği&rsquo;nin yayın organında yayımlanan ve birçok araştırmanın sonucunun değerlendirildiği çalışma, 65 yaşın üzerindeki hızlı yürüyen yaşlıların daha uzun yaşadığını gösterdi.
+
+Araştırmada, yüzde 59,6&rsquo;sı kadın, ortalama 73,5 yaşında 34 bin 485 kişinin verileri incelendi.
+
+Pittsburgh Üniversitesi&rsquo;nden Dr. Stephanie Studenski ve ekibinin yaptığı araştırmada, yürümenin enerji ve hareketlerin kontrolünü gerektirdiği, kalp, akciğerler, sinir ve dolaşım, kas ve eklem sistemi gibi birçok organ ve sistemi çalıştırdığı vurgulandı.
+
+Yavaş yürümenin bu organ ve sistemlerin işleyişinde bozulma olduğunun göstergesi olabileceğini belirten araştırmacılar, yürüme hızı saniyede 0,6 metrenin altında olan yaşlıların, diğerlerinden daha erken ölebileceğine dikkati çekti.
+ 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328286 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f634e7c/l/0l0smilliyet0n0btr0cjuventus0eserdar0etasci0eicin0ebastiriyor0cspor0chaberdetay0c0a60b110b20a10a0c1310a8920cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:14:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+juventus, serdar ta������ i��in bast��r��yor
+</HEADLINE>
+<TEXT>Savunma hattını güçlendirmek isteyen İtalyan kulübünün bu bölge için ilk olarak düşündüğü isimlerden biri olan futbolcunun, ocak ayında transfer sezonu açılır açılmaz Torino ekibine katılmasının beklendiği bildirildi. Juventus Sportif Direktörü Beppe Moratta'nın Stuttgart kulübü ile olan iyi ilişkilerinin hem Almanları ikna edebileceği, hem de genç futbolcuyu isteyebilecek başka kulüplere karşı İtalyanlar'ın elini güçlendirebileceği belirtilirken, geçtiğimiz günlerde 10 milyon Euro'yu gözden çıkardığı kaydedilen siyah-beyazlıların, Serdar için kiralık alma formülünü de kullanabileceği ifade edildi. </TEXT>
+</DOC>

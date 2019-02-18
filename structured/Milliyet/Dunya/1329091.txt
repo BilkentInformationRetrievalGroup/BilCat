@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1329091 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f65e3e0/l/0l0smilliyet0n0btr0ciran0eda0edeprem0e80a0eyarali0cdunya0csondakika0c0a60b110b20a10a0c13110a220cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 13:01:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+iran'da deprem: 80 yaral��
+</HEADLINE>
+<TEXT>İran’da meydana gelen orta şiddetteki depremde 80 kişinin yaralandığı bildirildi.İran’ın resmi haber ajansı IRNA, Loristan eyaletine bağlı Durud kentinde yerel saatle 07.22’de Richter ölçeğine göre 4,9 büyüklüğünde deprem meydana geldiğini duyurdu.Durud kenti ve köylerinde küçük çaplı hasara neden olan depremde yaralananlardan 55’inin ayakta tedavi edildiği belirtildi.İlk yardım ekiplerinin depremden etkilenen bölgede çalışmalara başladığı ve kriz masası oluşturulduğu kaydedildi.Bu arada, Meşhed’de yerel saatle 08.46’da 4,2 ve Batı Azerbaycan eyaletinde yerel saatle 04.35’te 4 büyüklüklerinde deprem meydana geldi.Her iki depremde de can ve mal kaybı olmadığı belirtildi.</TEXT>
+</DOC>

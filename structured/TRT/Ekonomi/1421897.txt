@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1421897 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6f0ac2c1-60d4-4885-a37c-36ce93b79962 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 10:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sanayi ��retimi y��zde 16,9 artt��
+</HEADLINE>
+<TEXT>
+2010 yılı Aralık ayında 2005=100 temel yıllı sanayi üretim endeksi bir önceki yılın aynı ayına göre %16,9 artmıştır.
+
+Sanayi üretimi artışını sürdürüyor.
+
+ Türkiye istatistik Kurumu, 2010 yılının son sanayi üretimi verilerini açıkladı.
+
+ Buna göre, 2010 yılı Aralık ayında sanayi üretimi bir önceki yılın aynı ayına göre yüzde 16 virgül 9 oranında arttı.
+
+Aralık ayında bir önceki yıla göre; madencilik ve taşocakçılığı sektöründe yüzde 1 virgül 8, imalat sanayi sektöründe ise yüzde 18 virgül 9 artış görüldü.
+
+ Elektrik, gaz, buhar ve iklimlendirme üretimi ve dağıtımı sektöründeki artış ise yüzde 7 virgül 9 oldu.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337568 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa949d6/l/0l0smilliyet0n0btr0cmmp0esecime0ehazir0csiyaset0csondakika0c150b110b20a10a0c13147730cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:09:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mmp se��ime haz��r
+</HEADLINE>
+<TEXT>Milliyetçi ve Muhafazakâr Parti (MMP) Lideri Ahmet Reyiz Yılmaz, partisinin seçime hazır olduğunu söyledi.Yılmaz, yayınladığı bayram mesajında, partisinin Türkiye genelinde örgütlenme çalışmalarını tamamladığını belirterek, "Çifte bayram için tüm teşkilatlarımıza şükranlarımı sunuyorum" dedi. Yılmaz, bayram mesajında şu görüşlere yer verdi:"Mübarek Kurban bayramının öncelikle insanlığa, Türk İslam dünyasına ve ülkemize hayırlar getirmesini yüce Allahtan temenni ederiz. Tüm şehitlerimizin yakınlarının ve vatandaşlarımızın bayramını kutlar ülkemizin bu acıları tarihe gömecek iradeye kavuşmasını temenni ederiz. Bu bayram vesilesi ile ülke genelinde teşkilatlanmasını şu ana kadar 78 ilde tamamlayarak milletimize ve Türk İslam dünyasına Milliyetçi ve Muhafazakâr Partiyi hediye eden ve partimizi seçime hazır hale getirerek partililerimize çifte bayram yaşatan il başkanlarımız başta olmak üzere ilçe ve belde başkanlarımın ve tüm parti teşkilatımın bayramını kutlarım. Bu büyük başarılarının 2011 seçimlerine yansıyarak Türk İslam davasını Meclis’te layık şekilde temsil edileceği günleri artık milletimize yaşatacağımızdan kimsenin şüphesi olmamalıdır. Milletimizin ve Türk İslam dünyasının gözü aydın olsun."</TEXT>
+</DOC>

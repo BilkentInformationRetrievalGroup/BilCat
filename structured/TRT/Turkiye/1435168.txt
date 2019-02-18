@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1435168 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=60e51154-df7b-43de-b73c-bbb4a654f486 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 23:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+d����i��leri'nde acil libya toplant��s��
+</HEADLINE>
+<TEXT>
+Dışişleri Bakanı Davutoğlu'nun katılımıyla aralarında Genelkurmay'ın da bulunduğu 7 kurumun temsilcileri gelişmeleri değerlendiriyor.
+
+Dışişleri Bakanı Ahmet Davutoğlu&rsquo;nun katılımıyla aralarında Genelkurmay&rsquo;ın da bulunduğu 7 kurumun temsilcileri gelişmeleri değerlendiriyor.
+</TEXT>
+</DOC>

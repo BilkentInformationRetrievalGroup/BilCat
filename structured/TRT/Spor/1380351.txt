@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1380351 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=72f42773-f7b7-44ed-8289-d15b0200a77a </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 21:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+trabzonspor'da mesai ba��lad��
+</HEADLINE>
+<TEXT>
+Bordo-mavili takım, yeni yılın ilk antrenmanını yaptı.
+
+Spor Toto Süper Lig&rsquo;de ilk yarıyı lider tamamlayan Trabzonspor, yeni yılın ilk antrenmanını Antalya&rsquo;da yaptı.
+ Teknik Direktör Şenol Güneş gözetiminde çalışan futbolcular, idmana düz koşu ile başladı. Daha sonra kondisyon çalışması gerçekleştiren futbolcular, antrenmanın son bölümünde dar alanda kısa paslaşma yaptı. 
+ Öte yandan ülkelerinden henüz dönmeyen Jaja, Alanzinho ve Colman için antrenman sırasında yine noter tespiti yapıldı.
+</TEXT>
+</DOC>

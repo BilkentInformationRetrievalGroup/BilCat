@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337224 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa73614/l/0l0smilliyet0n0btr0cgalatasaray0eda0ekritik0esaatler0ebasladi0cspor0csondakika0c150b110b20a10a0c13147170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:12:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+galatasaray'da kritik saatler ba��lad��
+</HEADLINE>
+<TEXT>Galatasaray'da çok sıcak saatler yaşanıyor. Sarı-kırmızılı yönetim Mecidiyeköy'deki kulüp binasında bir araya geldi.Üst üste gelen mağlubiyetlerin ardından Galatasaray yönetimi olağanüstü toplandı. Mecidiyeköy'deki kulüp binasında gerçekleşen toplantıya yurt dışında bulunan Adnan Polat katılmadı. Polat'ın görüşlerinin telefonla alınacağı öğrenildi.Sarı-kırmızılı takımın tarihinin en kötü sezonunu geçirdiği şu günlerde bu toplantıdan çıkacak kararlar büyük bir merakla bekleniyor. Manisa maçının ardından açıklamalarda bulunan İkinci Başkan Mehmet Helvacı, istifanın da gündeme gelebileceğine işaret etmişti.Galatasaray'daki bu kritik toplantıdan Adnan Sezgin'in istifasından, bazı oyuncuların kadro dışı kalmasına kadar bir çok kararın çıkabileceği konuşuluyor. </TEXT>
+</DOC>

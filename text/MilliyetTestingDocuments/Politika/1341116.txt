@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341116 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc70dd0/l/0l0smilliyet0n0btr0cak0eparti0eedelman0ebizi0ekiskaniyor0csiyaset0chaberdetay0c190b110b20a10a0c13157930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:09:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ak parti: edelman bizi k��skan��yor
+</HEADLINE>
+<TEXT>RA MilliyetAK Parti Genel Başkan Yardımcısı Ömer Çelik, ABD’nin eski Ankara Büyükelçisi ve eski Savunma Bakanlığı Müsteşarı Eric Edelman’ın, Başbakan Recep Tayyip Erdoğan ve AK Parti iktidarına yönelik değerlendirmelerinin provokatif olduğunu, bu sözlerin arkasında demokrasisi güçlü, dış politikası vizyoner bir Türkiye’nin varlığına karşı kıskançlık duyguları bulunduğunu öne sürdü.</TEXT>
+</DOC>

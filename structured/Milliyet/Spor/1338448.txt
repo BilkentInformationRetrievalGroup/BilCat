@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338448 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fb54c80/l/0l0smilliyet0n0btr0ccok0ekulturlu0egolcu0emesut0e0cspor0chaberdetay0c170b110b20a10a0c13152810cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:42:49.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��ok k��lt��rl�� golc�� mesut!
+</HEADLINE>
+<TEXT>Gazete, Avrupa genelinde giderek yayılan göçmen karşıtı hareketler ve bunlarla mücadeleye girişen siyasi partilerle ilgili hazırladığı, "Avrupa: baskı altındaki göçmenler" başlıklı yazı dizisinin dünkü haberinde, Mesut Özil’in başarı öyküsüne yer verdi.İlk futbolcuAlmanya doğumlu Özil’in mükemmel futbolculuğunun, kendisine şöhret ve para kazandırdığını yazan gazete ancak ailesinin bulunduğu yerdeki göçmenlerin geleceğinin hiç de umut verici olmadığını kaydetti.Almanların, çok kültürlülüğüne atfen Özil’i "Çok kültürlü golcü" diye tanımladıkları belirtilen haberde, Alman Milli Takımı dünya futbolu sahnesine çıktıktan sonra, Özil’in bu denli başarı gösteren göçmen kökenli ilk futbolcu olduğuna dikkat çekildi.</TEXT>
+</DOC>

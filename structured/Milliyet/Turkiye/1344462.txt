@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344462 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd784e5/l/0l0smilliyet0n0btr0cgunes0eyerini0eyagisa0ebirakacak0cturkiye0csondakika0c210b110b20a10a0c13165770cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 15:09:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g��ne�� yerini ya������a b��rakacak
+</HEADLINE>
+<TEXT>Marmara, 23 Kasım Salı gününden itibaren Akdeniz üzerinden gelecek yağışlı havanın etkisi altına girecek. Hava sıcaklığı ise 5-6 derece düşecek.AA muhabirinin Devlet Meteoroloji İşleri Genel Müdürlüğünden aldığı bilgiye göre, 9 günlük Kurban Bayramı tatilini güneş havada geçiren Marmara’da önümüzdeki hafta içinde yağışlar etkili olacak.Hava sıcaklığının mevsim normallerinin üzerine seyrettiği Bursa, İstanbul, Balıkesir, Çanakkale, salı gününden itibaren Akdeniz üzerinden gelecek yağışlı havanın etkisi altına girecek.Hava sıcaklığı 5-6 derece düşerken, beklenen en yüksek hava sıcaklığı Bursa ve İstanbul’da 16, Balıkesir ve Çanakkale’de ise 17 derece olacak.Özellikle 25 Kasım Perşembe günü tüm bölgede sağanak bekleniyor.</TEXT>
+</DOC>

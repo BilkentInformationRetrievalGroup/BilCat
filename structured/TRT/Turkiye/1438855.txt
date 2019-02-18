@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1438855 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dd7b1402-5922-4f45-bc16-c119fc70dbe5 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 10:48:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+soba facias��: bir aile yok oldu
+</HEADLINE>
+<TEXT>
+İstanbul Küçükçekmece'de sobadan sızan gazdan 3 kişi hayatını kaybetti.
+
+    İkitelli Mehmet Akif Mahallesi Sembol Sokak&rsquo;taki apartman dairesinde oturan Ünsal ailesinden haber alamayan komşuları, durumu polise bildirdi. 
+
+     Polisle birlikte girilen evde, Ahmet Ünsal, eşi Fadime Ünsal ve üç yaşındaki çocukları Mehmet Ünsal ölü olarak bulundu.
+
+     Ailenin sobadan sızan gazdan zehirlendikleri belirlendi.
+
+     Bu arada doğalgaz bulunan dairede ailenin soba kullandığı ifade edildi. 
+</TEXT>
+</DOC>

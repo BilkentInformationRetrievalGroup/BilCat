@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1407541 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=61ec8f7f-9c33-4cac-82eb-b26c60bc3573 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 10:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��te merak edilen enflasyon tahmini
+</HEADLINE>
+<TEXT>
+Merkez Bankası 2011 enflasyon tahminini güncelledi. Başkan Durmuş Yılmaz, enflasyon tahminine ilişkin rakamları açıkladı.
+
+Merkez Bankası 2011 enflasyon tahminini güncelledi. Buna göre banka yıl sonu için yüzde 5,9 enflasyon bekliyor. 2012 yılı için ise öngörülen hedef ise yüzde 5 ,1.      
+
+Konuya ilişkin açıklama yapan Merkez Bankası Başkanı Durmuş Yılmaz, şunları söyledi: 
+&quot;Politika bileşiminin 2011 yılının kalanında sınırlı bir ek parasal sıkılaştırma sağlayacak şekilde değiştirildiği varsayımı altında enflasyonun yüzde 70 olasılıkla 2011 yılı sonunda orta noktası yüzde 5,9 olmak üzere yüzde 4,5 ile yüzde 7,3 aralığında 2012 yılı sonunda ise orta noktası yüzde 5,1 olmak üzere yüzde 3,3, ile 6,9 aralığında gerçekleşeceğini tahmin etmekteyiz. Enflasyonun orta vadede ise yüzde 5 düzeyinde istikrar kazanacağını öngörmekteyiz.&quot;
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

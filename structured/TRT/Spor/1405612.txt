@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1405612 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2a92c32e-d52e-4056-b778-759fa3e41451 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 12:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sharapova veda etti
+</HEADLINE>
+<TEXT>
+Rus tenisçi Maria Sharapova, Avustralya Açık'ın 4. turunda Alman Andrea Petkovic'e 2-0 yenildi ve turnuvaya veda etti.
+
+Turnuvaya 30 numaralı seribaşı olarak katılan Petkovic, 2008&rsquo;in Avustralya şampiyonu Rus tenisçiyi 6-2 ve 6-3&rsquo;lük setlerle 2-0 yendi. 
+
+Petkovic, sadece 1 saat 19 dakika süren 4. tur mücadelesini 2 &rsquo;&rsquo;ace&rsquo;&rsquo; ve 9 basit hata ile çift hata yapmadan tamamladı. İlk servislerinden yüzde 56 oranında sayı çıkartabilen 14 numaralı seribaşı Sharapova&rsquo;nın rakibine kolay teslim olmasında, yaptığı 30 basit hata ve 5 çift hata etkili oldu.
+
+Petkovic, çeyrek finalde, Victoria Azarenka&rsquo;yı 2-0 yenerek son 8&rsquo;e kalan Çinli Li na ile karşılaşacak.
+</TEXT>
+</DOC>

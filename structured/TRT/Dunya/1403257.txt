@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1403257 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=afc8fdc7-5d0e-443d-8ef1-08de74218338 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 22:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'den ada'ya ziyaret
+</HEADLINE>
+<TEXT>
+Cenevre'de 26 Ocak'ta yapılacak Kıbrıs Zirvesi öncesinde adada yoğun bir diplomasi trafiği yaşanıyor.
+
+Amerika Birleşik Devletleri&rsquo;nin  Avrupa ve Avrasya&rsquo;dan Sorumlu Dışişleri Bakan Yardımcısı Philip Gordon liderler tarafından kabul edildi. 
+
+Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Derviş Eroğlu, Amerikalı diplomatı makamında kabul etti. 
+     
+Güney Kıbrıs Rum Yönetimi Lideri Dimitris Hristofyas ile de bir araya gelen Philip Gordon, ülkesinin, Kıbrıs sorununa iki toplumlu, iki kesimli federal çözüm bulunması çabalarına destek verdiğini söyledi. 
+     
+Rum radyosunun haberine göre Gordon, Kıbrıs sorununa çözüm bulunmasının en iyi yolunun doğrudan müzakereler olduğunu ifade etti.
+     
+ İki tarafın perspektiflerine ilişkin daha iyi bir anlayışa sahip olmak amacıyla adayı ziyaret ettiğini vurgulayan Amerikalı diplomat,  Washington&rsquo;un işlevsel olmayacak bir çözümü empoze etmeyeceğini kaydetti.
+
+</TEXT>
+</DOC>

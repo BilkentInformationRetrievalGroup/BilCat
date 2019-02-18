@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1421118 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=99ae997d-345b-4f2c-bf90-cc3d0e563a80 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 14:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+avustralya adeta "felaketler ��lkesi"
+</HEADLINE>
+<TEXT>
+Batı Avustralya'da hafta sonunda başlayan yangınlarda, 59 ev yandı, 28'i de zarar gördü. 
+
+Selin ve Yasi kasırgasının ardından Avustralya şimdi de çalı yangınlarıyla mücadele ediyor. 
+
+Batı Avustralya&rsquo;da hafta sonunda başlayan yangınlarda, 59 ev yandı, 28&rsquo;i de zarar gördü. Şiddetli rüzgarlar yüzünden söndürelemeyen yangınlarda, bölge ulusal afet bölgesi ilan edildi.
+
+Bundan iki yıl önce Kara Cumartesi olarak adlandırılan günde çıkan yangınlar 173 kişinin hayatına malolmuştu. Daha bu yangınlar hafızalarda tazeliğini korurken, ülke gündeminde yine yangınlar var. 
+
+Yangınlar Batı Avusturalya eyaletinin başkenti Perth&rsquo;in kuzeyinde ve güneydoğusunda etkili oluyor.
+
+  Bir itfaiyecinin yaralandığı yangınlarda dumandan etkilenen çok sayıda kişi de tedavi altına alındı.
+
+Yangında evini kaybedenler, hayatta oldukları için kendilerini şanslı hissediyor.
+</TEXT>
+</DOC>

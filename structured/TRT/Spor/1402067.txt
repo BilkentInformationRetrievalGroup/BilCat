@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1402067 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=db9913d5-1aa9-4f79-befd-f8f023055c34 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 22:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'a yeni antren��r
+</HEADLINE>
+<TEXT>
+Beşiktaş futbol takımına İspanyol antrenör geldi.
+
+Beşiktaş Teknik Direktörü Bernd Schuster&rsquo;in ekibine İspanyol antrenör Angel Jesus Mejias Rodriguez de katıldı.
+
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş&rsquo;den, Kamuyu Aydınlatma Platformu&rsquo;na gönderilen yazıda, Rodriguez&rsquo;in, siyah-beyazlı ekipte yardımcı 
+antrenör olarak görev yapacağı bildirildi.
+
+Şirketten yapılan açıklamada, Rodriguez ile 2011-2012 sezonunun sonuna kadar anlaşma imzalandığı, İspanyol teknik adama bu sezonun yarı dönemi için 50 bin avro, gelecek sezon için de 100 bin avro ödeneceği belirtildi.
+</TEXT>
+</DOC>

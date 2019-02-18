@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1379999 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=53a1f2c3-8c30-4fc5-bddb-a4c2cda301fd </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 12:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+potada y��l��n ilk derbi heyecan��
+</HEADLINE>
+<TEXT>
+Beşiktaş, Fenerbahçe Ülker'i yenerek liderliğe yükselen Galatasaray'ı BJK Cola Turka Arena'da konuk edecek.
+
+ 
+Beko Basketbol Ligi&rsquo;ndeki derbi karşılaşmasında Beşiktaş Cola Turka ile Galatasaray Cafe Crown takımları yarın (02.01.2011)  karşı karşıya gelecek.
+ 
+Ligin güçlü ekiplerinden Fenerbahçe Ülker&rsquo;i yenerek 22 puanla averajla liderliğe yükselen Galatasaray Cafe Crown&rsquo;u ağırlamaya hazırlanan Beşiktaş Cola Turka, seyircisinin de desteğini alarak rakibini yenmenin hesaplarını yapıyor.
+ 
+Beşiktaş Cola Turka-Galatasaray Cafe Crown karşılaşması BJK Cola Turka Arena&rsquo;da saat 19.00&rsquo;da başlayacak.
+</TEXT>
+</DOC>

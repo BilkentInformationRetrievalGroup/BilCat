@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321955 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f49be6b/l/0l0smilliyet0n0btr0caziz0eyildirim0e580eyasinda0cspor0chaberdetay0c0a30b110b20a10a0c130a95140cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:13:12.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+aziz y��ld��r��m 58 ya����nda
+</HEADLINE>
+<TEXT>Şükrü Saracoğlu Stadı’ndaki kulüp binasında önceki akşam gerçekleştirilen haftalık olağan toplantıda yapılan kutlamayla ilgili bilgiler ve fotoğraflar kulübün internet sitesinde yayınlandı. Başkan Yıldırım için hazırlanan pastanın üzerinde, Düzce’nin Kaynaşlı ilçesinde yapımı süren Topuk Yaylası Kamp ve Dinlenme Tesisleri’nin fotoğrafının yer aldığı bildirildi.</TEXT>
+</DOC>

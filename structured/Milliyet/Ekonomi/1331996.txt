@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331996 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f74c33b/l/0l0smilliyet0n0btr0csayisal0eloto0eda0eikramiye0ene0ekadar0e0cekonomi0csondakika0c0a80b110b20a10a0c13118540cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:01:06.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+say��sal loto���da ikramiye ne kadar?
+</HEADLINE>
+<TEXT>Sayısal Loto’da bu hafta 6 bilenlere dağıtılacak ikramiyenin 7 milyon liraya ulaşması bekleniyor.Milli Piyango Genel Müdürlüğünden yapılan açıklamada, geçen haftaki çekilişte 6 bilen bulunmadığı için ikramiyenin bu haftaya devrettiği anımsatılarak, devreden ikramiye tutarının 4 milyon 568 bin lira olduğunu ifade edildi. Açıklamada, 6 bilenlere dağıtılacak ikramiyenin, 7 milyon liraya ulaşmasının beklendiğini ifade edildi.</TEXT>
+</DOC>

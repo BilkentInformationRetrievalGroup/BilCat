@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1324400 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f548102/l/0l0smilliyet0n0btr0c40a0a0emilyon0ekisi0eissiz0ekalabilir0cekonomi0csondakika0c0a40b110b20a10a0c1310a0a320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 09:00:12.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+400 milyon ki��i i��siz kalabilir
+</HEADLINE>
+<TEXT>Strauss-Kahn, Fas'ta düzenlenen İnsanı Gelişim Forumunda yaptığı konuşmada, yeni küreselleşmenin önceliğinin istihdam yaratmak olduğunu belirtti.Dünyada küresel kriz nedeniyle 30 milyon istihdam kaybı olduğuna dikkat çeken Strauss-Kahn, önümüzdeki yıllarda 400 milyon istihdam kaybının olabileceği konusunda uyarıda bulundu.Strauss-Kahn, yeni küreselleşme çerçevesinde birinci önceliğin istihdam, ikinci önceliğin istihdam, üçüncü önceliğin de istihdam olması gerektiğini vurguladı.Uluslararası Çalışma Örgütü (ILO) verilerine göre, küresel bazda 210 milyon işsiz bulunurken, gelecek 10 yıl içerisinde yaklaşık 440 milyon gencin istihdam piyasasına katılması bekleniyor.</TEXT>
+</DOC>

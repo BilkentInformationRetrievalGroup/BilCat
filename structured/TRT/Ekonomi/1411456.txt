@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1411456 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=884a2127-fa27-4f87-8cb1-8cc9da92a530 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 14:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ban ki-mun'dan ��arp��c�� yorum
+</HEADLINE>
+<TEXT>
+Davos'ta konuşan BM Genel Sekreteri Ban Ki-mun, yürürlükteki ekonomik modelin, "küresel bir intihar anlaşması" olduğunu kaydetti. 
+
+BM Genel Sekreteri Ban Ki-mun, yürürlükteki ekonomik modelin, &quot;küresel bir intihar anlaşması&quot; olduğunu ve yeniden düzenlenmemesi durumunda felaketle sonuçlanacağını söyledi.
+
+Ban, Davos&rsquo;taki Dünya Ekonomik Forumu&rsquo;nda bir panelde yaptığı konuşmada, siyasilerin ve iş dünyasının, dünyayı kurtarmak için bir ekonomi &quot;devrimi&quot;ni benimsemesi gerektiğini belirtti.
+&quot;Bir Devrime İhtiyacımız Var&quot;
+Küresel ekonominin sürdürülebilir hale getirilmesi için zamanın daraldığını vurgulayan BM Genel Sekreteri, iklim değişikliğinin, &quot;bu eski modelin eskiden ibaret olmadığını gösterdiğini&quot; ifade etti.
+
+Küresel ekonominin sürdürülebilir hale getirilmesi için de BM Genel Sekreteri, &quot;Bir devrime ihtiyacımız var&quot; dedi.
+</TEXT>
+</DOC>

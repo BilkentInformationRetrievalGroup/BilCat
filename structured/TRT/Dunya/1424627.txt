@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1424627 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c6ddf639-28ae-43d2-8e5b-d15dd7b3758c </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 15:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran kendi muhaliflerine g��z a��t��rm��yor
+</HEADLINE>
+<TEXT>
+İran'da muhalefetin önde gelen isimlerinden Mehdi Kerrubi'nin ev hapsine alındığı bildiriliyor. 
+
+
+Kerrubi ve diğer muhalefet lideri Mir Hüseyin Musavi, Mısır ve Tunus&rsquo;taki halk ayaklanmalarına destek amacıyla Pazartesi günü büyük bir yürüyüş için izin başvurusunda bulunmuştu. 
+
+Ancak İran makamları bu talebi reddeti ve muhalefetin toplanmaya kalkışması durumunda güvenlik güçlerinin müdahelede bulunacağı uyarısı yaptı. 
+
+Diğer yandan İran yönetimi ve dini liderlerinden, Mısır&rsquo;daki halk ayaklanmasını öven açıklamalar gelmişti. 
+
+Ahmedinejad yönetimi, 2009 yazında seçime hile karıştırıldığı iddiasıyla düzenlenen gösterileri sert bir şekilde bastırmıştı. 
+</TEXT>
+</DOC>

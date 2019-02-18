@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333162 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f81f5ad/l/0L0Smilliyet0N0Btr0Ckpss0Eortaogretim0Elisans0E280Ekasim0Eda0Eyapilacak0Cturkiye0Csondakika0C10A0B110B20A10A0C13125740Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:45:01.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KPSS ortaöğretim/lisans 28 Kasım'da yapılacak
+</HEADLINE>
+<TEXT>Yüksek Öğretim Kurulu Öğrenci Seçme ve Yerleştirme Merkezi Başkanlığının bugünkü ’de yayımlanan duyurusunda, 2010-Kamu Personel Seçme Sınavı ortaöğretim/önlisansın, 28 Kasımda sabah ve öğleden sonra olmak üzere iki oturumda yapılacağı bildirildi.</TEXT>
+</DOC>

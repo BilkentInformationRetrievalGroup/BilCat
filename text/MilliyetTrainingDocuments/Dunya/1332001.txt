@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332001 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f74c1be/l/0l0smilliyet0n0btr0ctomas0eaksirgasi0e20a0ecan0ealdi0cdunya0csondakika0c0a80b110b20a10a0c13118560cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tomas aks��rgas�� 20 can ald��
+</HEADLINE>
+<TEXT>Tomas kasırgasının Haiti’de cuma günü en az 20 kişinin ölümüne neden olduğu, 36 kişinin yaralandığı bildirildi.Haiti sivil savunma kuruluşunun bugün yaptığı açıklamada, kasırgadan en çok etkilenen güneybatıdaki Grand’Anse bölgesinde 7 kişinin öldüğünü, 7 kişinin yaralandığını, yaklaşık 857 evin yıkıldığını, 5000 evin hasar gördüğünü, 36 bin kişinin de tahliye edildiğini açıkladı.Kasırganın neden olduğu sel ve toprak kaymaları yüzünden birçok yolun halen kapalı olduğu kaydedildi.</TEXT>
+</DOC>

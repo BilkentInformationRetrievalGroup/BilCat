@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1409275 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=272eb9cb-0fd6-4b9c-8957-0de88423799a </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 15:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yurtkur'dan yeni burs
+</HEADLINE>
+<TEXT>
+Yurt dışında okuyan Türk öğrencilere de kredi ve burs verilecek.
+
+
+Yurtdışında öğrenim gören öğrencilere müjde...
+
+YURTKUR&rsquo;un, 2011-2012 eğitim öğretim yılında yurtdışında öğrenim gören öğrencilere de kredi ve burs vermeye başlayacağı bildirildi.
+
+
+</TEXT>
+</DOC>

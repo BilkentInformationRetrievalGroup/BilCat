@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1438841 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4c3f3dac-157c-4d9c-ab3a-8cd8a0d73202 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 10:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kar, trakya'da etkili olmaya ba��lad��
+</HEADLINE>
+<TEXT>
+Balkanlar üzerinden gelen soğuk ve yağışlı hava Trakya'da etkisini gösterdi.
+
+     Edirne&rsquo;de sabah saatlerinde başlayan kar yağışı şehrin yüksek kesimlerini beyaza bürüdü. 
+
+     Kar kalınlığı 10 santimetreye kadar ulaştı. 
+
+     Yağışın etkili olduğu Kapıkule ve Hamzabeyli Sınır Kapıları&rsquo;nda karayolları ekipleri tarafından tuzlama çalışması başlatıldı.
+
+     Kentte hava sıcaklığı 1 dereceye kadar indi.
+
+     Kar yağışının etkisini artıracağı belirtildi.
+
+     Bunun yanında tüm ilçe ve köy yollarının açık olduğu belirtildi. 
+
+</TEXT>
+</DOC>

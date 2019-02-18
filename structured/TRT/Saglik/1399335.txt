@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1399335 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5bbf7e24-ca07-4864-b1a4-69cb33ef8055 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 13:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��aya bal kat��nca...
+</HEADLINE>
+<TEXT>
+Çayın balla tatlandırılması durumunda antioksidan değerinin arttığını ortaya koydu.
+
+İstanbul Teknik Üniversitesi Gıda Mühendisliği Bölümü&rsquo;nde yapılan bir araştırma, Türk insanının vazgeçilmez içeceği olan çayın balla tatlandırılması durumunda antioksidan değerinin arttığını ortaya koydu.
+
+İstanbul Teknik Üniversitesi Gıda Mühendisliği Bölümü öğretim üyelerinden Prof. Dr. Dilek Boyacıoğlu, çayın içeriğindeki polifenoller sayesinde güçlü bir antioksidan olduğu gerçeğinden yola çıkarak yaptıkları araştırmada, diğer bir antioksidan kaynağı olan bal ile tatlandırıldığında ortaya çıkan etkiyi ölçtüklerini söyledi.
+
+Birçok hastalığın oluşum ve gelişiminde risk azaltıcı etkisi olan antioksidan maddelerle ilgili yapılan araştırmada, Türk insanının çok sık tükettiği çayın içeriğindeki antioksidanların hangi koşullarda, nasıl etkilendiğini incelediklerini anlattı. 
+
+Balın bileşiminde de antioksidan özelliğe sahip polifenoller bulunduğunu vurgulayan Prof. Dr. Boyacıoğlu, şöyle devam etti:
+
+&quot;Çay ve bal günlük yaşamımızın iki vazgeçilmez gıda maddesi. Araştırmamızda antioksidanca zengin bu iki gıda maddesinin bir arada kullanımının nasıl bir sonuç vereceğini görmek istedik. Çalışmada, sonuçları etkileme açısından fark yaratıp yaratmadığını görebilmek için çam balı, poliflora (karışık bölgelerden toplanmış), yöresel (Şemdinli) ve monoflora (ayçiçeği) olmak üzere 4 çeşit bal kullandık. Bu karışımı farklı sıcaklıklardaki içilmeye hazır çaylara karıştırdık. 
+
+Çaya bal ilavesinin yapıldığı farklı sıcaklıkların balın HMF (hidroksimetilfurfural) ve diastaz değerleri (doğal enzimler) üzerine etkileri de analiz edildi. Toplam fenolik madde içeriğinin balın çaya ilave edildiği bütün sıcaklık derecelerinde yükseldiği gözlemlendi. Bu artış yüzde 25-35 aralığında gerçekleşti.&rsquo;&rsquo;
+
+</TEXT>
+</DOC>

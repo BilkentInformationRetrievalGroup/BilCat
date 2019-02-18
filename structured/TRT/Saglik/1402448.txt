@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1402448 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d258aa1d-9d53-407d-8566-005fb1d61128 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 10:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+a����r�� alkol kalbe zararl��
+</HEADLINE>
+<TEXT>
+Aşırı ve düzenli alkol tüketiminin, kalpte ritim bozukluğunun bir türü olan atriyal fibrilasyon olasılığını artırabileceği bildirildi.
+
+        Japonya&rsquo;da Tsukuba Üniversitesi&rsquo;ne bağlı Klinik Tıp Enstitüsü&rsquo;nden Satoru 
+ Kodama&rsquo;nın liderliğindeki ekibin 14 araştırmanın sonuçları üzerinde yaptığı 
+ inceleme, atriyal fibrilasyonun teşhis edilme olasılığının, az alkol tüketen ya 
+ da hiç tüketmeyenlere oranla çok alkol alanlarda yüzde 51 oranında daha yüksek 
+ olduğunu gösterdi.
+         Sonuçları &quot;Journal of the American College of Cardiology&quot; dergisinde 
+ yayımlanan incelemede, aşırı olmasa da düzenli içki içmenin de bu olasılığı 
+ artırdığına dikkat çekildi.
+         Kişinin günlük alkol alımı 10 gram artıkça, ritim bozukluğu olasılığının 
+ da yüzde 8 oranında yükseldiği belirtildi.
+          Atriyal fibrilasyonun, ritim bozukluğunun en yaygın türü olduğu ve 
+ hastaların felç geçirme olasılığını önemli ölçüde artırdığı belirtiliyor.
+</TEXT>
+</DOC>

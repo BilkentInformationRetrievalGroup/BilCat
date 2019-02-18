@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1419272 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6aba9a3b-f6c8-4e01-a1ea-85b025e81bbf </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 13:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sahte istihbarat���� yakaland��
+</HEADLINE>
+<TEXT>
+Gaziantep'te kendisini istihbaratçı olarak tanıtıp vatandaşları dolandıran şahıs yakalandı.
+
+Bir ihbarı değerlendiren güvenlik güçleri, evlilik ve askeri birliklerde iş bulma vaadiyle vatandaşları kandıran şahısı takibe aldı.
+
+Yapılan çalışma sonucu kendisini istihbarat Yüzbaşı, Pilot Yüzbaşı ve Kurmay Yüzbaşı olarak tanıtıp evlilik ve iş bulma amacıyla vatandaşlardan para alan şahıs yakalandı.
+
+Gözaltına alınan şahıs, emniyetteki sorgusunun ardından adliyeye sevk edildi.
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1403584 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=00e3261a-b489-41f4-af34-d1d2c9b804da </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 10:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bank asya 1. lig heyecan�� ba��l��yor
+</HEADLINE>
+<TEXT>
+Bank Asya 1. Lig'de 2010-2011 sezonunun ikinci yarısı Gaziantep Büyükşehir Belediyespor-Karşıyaka mücadelesi ile başlayacak.
+
+Bank Asya 1. Lig&rsquo;de 2010-2011 sezonunun ikinci yarısı yarın oynanacak maçlarla başlıyor.
+ 
+1. Lig&rsquo;de 18. hafta maçlarının programı şöyle:
+ 
+22 Ocak Cumartesi:
+ 13.30 Gaziantep Büyükşehir Belediyespor-Karşıyaka (Kamil Ocak)
+ 
+14.00 Mersin İdmanyurdu-Adanaspor (Tevfik Sırrı Gür)
+ 
+23 Ocak Pazar:
+ 
+13.30 Boluspor-Giresunspor (Bolu Atatürk)
+ 13.30 Orduspor-Kayseri Erciyesspor (Ordu 19 Eylül)
+ 13.30 Güngören Belediyespor-Denizlispor (Mimar Yahya Baş)
+ 13.30 Akhisar Belediyespor-Samsunspor (Akhisar Belediye)
+ 19.00 Çaykur Rizespor-Diyarbakırspor (Yeni Rize Şehir-Seyircisiz)
+ 
+24 Ocak Pazartesi:
+ 
+20.00 Altay-Tavşanlı Linyitspor (İzmir Alsancak)
+</TEXT>
+</DOC>

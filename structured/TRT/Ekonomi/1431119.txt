@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1431119 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=98153059-bd62-4364-bc4b-7d6ab7d69f79 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 01:01:30.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bu fuar i��tah a����yor
+</HEADLINE>
+<TEXT>
+İştahları açacak ne varsa Antalya'daki Uluslararası Yiyecek ve İçecek İhtisas fuarında 450 firmanın katılımıyla  sergilendi.
+
+Renk renk meyve suları, çeşit çeşit ekmekler, köfteler, turşular, baharatlar ve sanat eseri gibi pastalar.
+
+     İştahları açacak ne varsa Antalya&rsquo;daki Uluslararası Yiyecek ve İçecek İhtisas fuarında sergilendi.
+
+450 firmanın katıldığı organizasyonda şirketler ziyaretçilerin ilgisini çekmek için ilginç yöntemler denedi.
+
+Renkli etkinliklere ev sahipliği yapan fuar 19 Şubat&rsquo;a kadar açık kalacak.
+</TEXT>
+</DOC>

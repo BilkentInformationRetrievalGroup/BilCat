@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1390712 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1b712116-ef2e-4ac9-b421-20ea9272696c </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 20:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"silahlar��n g��lgesinde uzla��ma olmaz"
+</HEADLINE>
+<TEXT>
+Kılıçdaroğlu, terör sorununun çözümünün koşulsuz silah bırakmaya bağlı olduğunu dile getirdi.
+
+Cumhuriyet Halk Partisi Genel Başkanı Kılıçdaroğlu, terör sorununun çözümünün terör örgütünün koşulsuz silah bırakmasına bağlı olduğunu söyledi.
+
+Hatay&rsquo;ın İskenderun ilçesinde sivil toplum örgütleri temsilcileriyle biraraya gelen Kemal Kılıçdaroğlu, silahların gölgesinde uzlaşma olamayacağını söyledi.
+
+Terör örgütünün koşulsuz silah bırakması gerektiğini vurgulayan Kılıçdaroğlu, siyaset kurumunun da üzerine düşen görevi yerine getirmesi gerektiğini kaydetti.
+</TEXT>
+</DOC>

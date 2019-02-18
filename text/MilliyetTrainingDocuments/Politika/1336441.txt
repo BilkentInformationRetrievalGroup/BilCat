@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336441 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa3e0fa/l/0l0smilliyet0n0btr0cchp0ede0emor0ebrosur0ebasildi0csiyaset0chaberdetay0c150b110b20a10a0c13145260cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:09:15.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp���de mor bro����r bas��ld��
+</HEADLINE>
+<TEXT>MANSUR ÇELİK AnkaraKılıçdaroğlu’nun çok önemi verdiği aile sigortasının tanıtıldığı broşürde, “CHP; çünkü sen daha iyisini hak ediyorsun. Hedef: Sıfır yoksulluk” sloganı yer alıyor.Onur’un, örgütten sorumlu Genel Başkan Yardımcısı Gürsel Tekin ile birlikte hazırladığı broşürde, aile sigortasının, ailenin geçimini sağlayan kişinin işsiz kalması durumunda devreye girerek ödeneceği, böylece ailenin temel ihtiyaçlarını karşılayabileceği belirtildi.Tüm dünyada uygulanan ve Türkiye’nin de kabul ettiği 9 sigorta dalından birisi olan, ancak Türkiye’nin yıllardır uygulanmayan Aile Sigortası, evin kadınına verilecek ve böylece kadının evde daha güçlü konuma getirilmesine katkı sağlanacak.</TEXT>
+</DOC>

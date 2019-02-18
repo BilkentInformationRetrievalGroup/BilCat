@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326387 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5b86f6/l/0l0smilliyet0n0btr0ctaktik0ecalistilar0cspor0chaberdetay0c0a50b110b20a10a0c1310a4530cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:13:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+taktik ��al����t��lar
+</HEADLINE>
+<TEXT>Teknik Direktör Şenol Güneş gözetiminde yapılan idmanda düz koşunun ardından pas çalışması yaptı. Futbolcular son olarak taktik ağırlıklı çift kale maç yapıldı. Öte yandan bu sezon evinde Fenerbahçe ve Beşiktaş'ı mağlup ederek önemli bir başarıya imza atan Trabzonspor, Galatasaray'ı da yenerek uzun bir aradan sonra kendi evinde oynadığı üç derbiden de galibiyetle ayrılmayı hedefliyor. </TEXT>
+</DOC>

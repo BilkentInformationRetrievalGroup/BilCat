@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320900 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f45add7/l/0l0smilliyet0n0btr0cbesiktas0etan0eguti0eaciklamasi0cspor0csondakika0c0a20b110b20a10a0c130a92380cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:16:50.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+be��ikta��'tan guti a����klamas��
+</HEADLINE>
+<TEXT>Beşiktaş Kulübü, bugün iki gazetede İspanyol futbolcu Guti Hernandez ile ilgili çıkan haberlere tepki gösterdi.Siyah-beyazlı kulüpten yapılan açıklamada, "Oyuncumuz Guti Hernandez ile ilgili çıkan haber, bizleri hayrete düşürdüğü gibi, bu gazetelerin saygınlıklarına da zarar vermiştir. ’Bir erkek ile dudak dudağa öpüştüğü’ iddiasıyla gazetelerde yayımlanan haber, Türk spor basını adına utanç vericidir.’Guti’den skandal öpücük’ başlıklarıyla yayınlanan bu haberlerdeki asıl skandal bu görüntü değil, aslını bilmeden bir görüntüden yola çıkarak senaryo yazanların, gazetecilik mesleğini getirdiği noktadır" denildi.Açıklamada, "Görüntülerde babası ile vedalaşan İspanyol futbolcumuz Guti’yi ’bir erkek ile dudak dudağa öpüşme’ fantezisiyle skandala imza atmış gibi göstermek, bu gazetelerinin utancıdır. Her iki gazetedeki bu haberleri şiddetle kınıyor ve özür bekliyoruz" ifadelerine yer verildi.</TEXT>
+</DOC>

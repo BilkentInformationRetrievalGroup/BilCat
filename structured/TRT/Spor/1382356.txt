@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1382356 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=38539c66-6d97-44fc-b486-20e3d71a0ba4 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 18:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e'de taurasi ��oku
+</HEADLINE>
+<TEXT>
+Fenerbahçe'nin dünyaca ünlü yıldız basketbolcusu Diana Taurasi’nin doping testindeki B numunesi de pozitif çıktı.
+
+A numunesinde yasaklı maddeye rastlanan Fenerbahçe Kadın Takımı&rsquo;nın yıldızı Diana Taurasi&rsquo;nin B numunesi de pozitif çıktı.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330077 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f68eab5/l/0l0smilliyet0n0btr0csav0ea0etesekkur0emektubu0csiyaset0chaberdetay0c0a70b110b20a10a0c13111980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:09:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sav���a te��ekk��r mektubu
+</HEADLINE>
+<TEXT>RA ANKAKılıçdaroğlu, “Sayın Önder Sav, CHP’nin önceki Genel Sekreteri” hitabıyla başladığı mektupta, Genel Sekreter olarak PM Üyesi Prof. Dr. Süheyl Batum’u görevlendirdiğini belirtti ve “Partimizin en kıdemli üyelerinden birisi olarak, her kademede yaptığınız hizmetlerden ötürü teşekkürlerimi sunuyorum. Bundan böyle de CHP iktidarı için birlikte çalışacağımızı umuyorum” dedi.</TEXT>
+</DOC>

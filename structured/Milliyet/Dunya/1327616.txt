@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327616 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f606761/l/0l0smilliyet0n0btr0cdiscovery0enin0efirlatilisi0ebir0ekez0edaha0eertelendi0cdunya0csondakika0c0a50b110b20a10a0c1310a6850cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:01:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+discovery'nin f��rlat��l������ bir kez daha ertelendi
+</HEADLINE>
+<TEXT>Uzay mekiği Discovery’nin fırlatılışı yakıt sızıntısı nedeniyle bir kez daha ertelendi.Amerikan Uzay ve Havacılık Dairesi NASA, yakıt sızıntısının bu sabah doldurma işleminin ortalarında meydana geldiğini belirterek, bugün TSİ 21.04’te uzaya fırlatılması planlanan Discovery’nin gidişinin ertelendiğini bildirdi.Benzer bir sorununun geçen yıl da mekiğin fırlatılışının iki kez ertelenmesine neden olduğunu belirten NASA, hidrojen gazının alev alma tehlikesi nedeniyle yakıt sızıntısının ciddi bir sorun olarak değerlendirildiğini kaydetti.NASA, yeni fırlatma girişiminin pazartesi gününden önce olmayacağını, hatta uçuşun aralık ayına kadar yapılamayabileceğini bildirdi.Mekik programını kapatma kararı alan NASA, Discovery’ye son misyonunu yaptırmaya çalışıyor.Discovery’nin gezisi, üç motorundan birinde bulunan elektronik sistemdeki bir sorun nedeniyle önceki gün, kötü hava koşulları yüzünden de dün ertelenmişti.6 astronotla birlikte uzaya fırlatılması beklenen Discovery, Uluslararası Uzay İstasyonu’na (UUİ) yeni bir depolama modülü ve bir ’insansı’ robot götürecekti.</TEXT>
+</DOC>

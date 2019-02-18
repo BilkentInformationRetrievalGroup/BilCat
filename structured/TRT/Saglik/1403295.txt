@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1403295 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=16aeb634-6cba-4f76-9782-4e6701f35a8e </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 02:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+b��brek kanserine neden olan gen
+</HEADLINE>
+<TEXT>
+Mutasyona uğramış bir genle, böbrek kanseri arasında bağlantı bulundu.
+
+Böbrek kanseri ile mutasyona uğramış bir gen arasında  ilişki olduğuna dair kanıtlar bulundu.
+
+Nature dergisinde yayınlanan bir makaleye göre yapılan araştırmada en yaygın böbrek kanseri türünün görüldüğü hastaların üçte birinde aynı gen tespit edildi.
+
+İngiltere&rsquo;de yapılan bir araştırmada Böbrek kanserine neden olduğu düşünülen mutasyona uğramış bir gen bulundu.
+
+VHL isimli bir genin Böbrek kanserine neden olan esas gen olduğu biliniyordu fakat bu genin 10 hastadan 8 inde bulunması başka nedenlerin araştırılmasına sebep oldu.
+
+Araştırmalarda mutasyona uğramış başka bir gen, hastaların üçte birinde tespit edildi.
+
+Bu araştırma ile çok zor tespit edilebilen böbrek kanseri teşhisinin daha kolay  yapılacağı dile getiriliyor
+</TEXT>
+</DOC>

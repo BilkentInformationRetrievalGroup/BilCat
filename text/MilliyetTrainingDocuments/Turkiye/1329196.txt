@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1329196 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f66280a/l/0l0smilliyet0n0btr0cistanbul0eda0esis0enedeniyle0esehirhatlari0evapur0eseferleri0eiptal0eedildi0cturkiye0csondakika0c0a60b110b20a10a0c13110a0a0a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 13:09:01.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+istanbul'da sis nedeniyle ��ehirhatlar�� vapur seferleri iptal edildi
+</HEADLINE>
+<TEXT>MARMARA Bölgesi'nde etkili olan yoğun sis, Yalova'da deniz otübüs seferlerinin iptal olmasına neden oldu.Yoğun sis nedeniyle bugün Kartal'a yapılması gereken deniz otobüsü, Pendik ve Yenikapı arasındaki feribot seferleri iptal edildi. Görüş uzaklığının 200 metrenin altına düşmesi sonucu Topçular-Eskihisar arasındaki arabalı vapur seferleri de yapılamadı. İDO yetkilileri, sisin kalkması halinde seferlerin başlayacağını söyledi.</TEXT>
+</DOC>

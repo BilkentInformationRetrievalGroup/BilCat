@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1433845 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0f98478b-a859-4ed6-b572-4712e0a9c729 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 11:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+van'da ter��r ��rg��t�� operasyonu
+</HEADLINE>
+<TEXT>
+Van'da terör örgütü elebaşının yakalanışını protesto eden 13 kişi tutuklandı.
+
+15 Şubat günü gerçekleştirilen izinsiz gösteride olay çıkaran 24 kişi gözaltına alındı. 
+
+Zanlılar emniyeteki sorgularının ardından adliyeye sevk edildi.
+
+4&rsquo;ü çocuk 13 kişi tutuklanarak cezaevine gönderildi.
+
+
+
+</TEXT>
+</DOC>

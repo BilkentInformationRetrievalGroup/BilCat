@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> 1332740 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f7f0cb0/l/0L0Smilliyet0N0Btr0Cgoogle0Eharitasi0Ebahanesiyle0Eisgal0Cdunya0Chaberdetay0C10A0B110B20A10A0C13123990Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:06:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google haritası bahanesiyle işgal
+</HEADLINE>
+<TEXT>Kosta Rika Başkanı Laura Chinchilla Miranda
+ , aslında ’ya ait olan toprak parçasını, “Kosta Rika yönetimindeki Nikaragua toprağı” olarak gösteriyordu. Bunun üzerine Nikaragualı askerler sınırı aşarak kamp kurdu, kendi bayraklarını dikti. Olayın ardından Amerikan Devletleri Örgütü, arabuluculuk amacıyla devreye girdi. Askerlere Kosta Rika sınırını aşmaları emrini veren Nikaragualı Komutan Eden Pastora, olaydan Google Maps’i sorumlu tuttu. Google ise, yaptığı hatadan dolayı özür dileyerek haritayı düzeltti.</TEXT>
+</DOC>

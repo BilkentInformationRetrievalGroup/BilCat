@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343584 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7e3/l/0l0smilliyet0n0btr0cbayanlarda0emuthis0estart0cspor0chaberdetay0c210b110b20a10a0c13164960cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:47:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bayanlarda m��thi�� start
+</HEADLINE>
+<TEXT>Burhan Felek Spor Salonu’nda ise Galatasaray Medical Park ile Fenerbahçe Acıbadem arasında 17.30’da ilk derbi oynanacak. Zorlu müsabaka Sports TV’den canlı olarak ekrana gelecek.DİĞER MAÇLARBeşiktaş C.T S.S12.30 Beşiktaş-İller BankasıKonya Ereğli S.S13.30 Ereğli Bld.-AnkaragücüBurhan Felek S.S15.00 Dicle Üniv.-VGS T.TelekomAnkara TOBB S.S16.00 TED Kolejliler-KarşıyakaEczacıbaşı S.S18.00 Eczacıbaşı-Nilüfer Bld.</TEXT>
+</DOC>

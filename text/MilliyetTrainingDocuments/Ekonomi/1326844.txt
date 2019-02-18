@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326844 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5e2400/l/0l0smilliyet0n0btr0cjaponya0emerkez0ebankasi0efaizleri0edegistirmedi0cekonomi0csondakika0c0a50b110b20a10a0c1310a5260cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 11:00:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+japonya merkez bankas�� faizleri de��i��tirmedi
+</HEADLINE>
+<TEXT>Japonya Merkez Bankası(BOJ), gösterge faiz oranını değiştirmedi.BOJ’un Politika Kurulu’nun dün başlayan ve bugün sona eren toplantısının ardından yapılan açıklamada, yüzde 0 ile yüzde 0,1 aralığında olan faiz oranlarının sabit tutulmasına oy birliği ile karar verildiği belirtildi.Piyasalarda da faiz oranlarında değişiklik beklenmiyordu.Banka, ekonomiyi canlandırmayı amaçlayan 5 trilyon yenlik (61 milyar dolar) varlık alım programına ilişkin ayrıntılarını da açıkladı.Açıklamada, yavaş ABD ekonomisinin, gelişmiş ülkelerdeki hıza rağmen Japonya ekonomisinin büyümesi önünde tehdit oluşturduğu belirtilerek, Japonya’nın hala aşırı değerlenen Yen’le mücadele ettiği vurgulandı.Bankanın ekonomiyi desteklemek amacıyla gelecek hafta tahvil alımına başlayacağına dikkat çekilen açıklamada, 3,5 trilyon yene kadar devlet bono ve tahvili alınacağı, ayrılan paranın geri kalanıyla da ticari kağıtlar, şirket hisseleri ve kambiyo ticaretine konu fonlar satın alınacağı belirtildi.Bankanın, 15-16 Kasım tarihlerinde yapılması gereken toplantısı fon ve gayrimenkul yatırım fonu tahvillerinin alımının başlatılabilmesi için 10 gün önceye çekilerek 4-5 Kasım tarihlerine alınmıştı.</TEXT>
+</DOC>

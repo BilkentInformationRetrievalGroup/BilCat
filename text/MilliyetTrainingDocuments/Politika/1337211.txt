@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337211 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa752f2/l/0l0smilliyet0n0btr0ccemil0ecicek0ee0ekktc0ede0eprotesto0csiyaset0csondakika0c150b110b20a10a0c131470a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:09:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+cemil ��i��ek'e kktc'de protesto
+</HEADLINE>
+<TEXT>Türkiye Cumhuriyeti'nin Kıbrıs İşlerinden Sorumlu Devlet Bakanı Cemil Çiçek, Kuzey Kıbrıs Türk Cumhuriyeti'nin 27'inci kuruluş yıldönümünü için gittiği KKTC'de protesto edildi. Özel uçak “Gapö ile Kıbrıs'a giden Çiçek havalimanından makam aracı iler çıkışı sırasında bir grup tarafından protesto edildi. Türkiye'nin KKTC'nin ekonomik politikalarını belirlediğini söyleyerek bundan vazgeçmesini isteyen protestocu bazı sendika üyeleri toplandıkları Ercan Havalimanı kavşağında, üzerinde “Türkiye elini toprağımızdan çekö “Cemil Çiçek senin maaşın ne kadarö “Bu memleket bizimö “Ülkemiz satılık değilö yazılı pankartlar açtı. Çiçek'in geçişi esnasında sloganlar atan grubun taşkınlık yapmasını önlemek için polis güvenlik tedbiri aldı.Protestoculardan Kıbrıs Amme Memurları Sendikası Başkanı Ahmet Kaptan, ülkede hükümet ve KKTC Meclisi olduğunu ancak ülkede demokrasi olmadığını söyledi. Kendilerinin Kıbrıs Türkünün çalışanlarını temsil ettiğini ve Türkiye'nin KKTC'ye getirdiği yeni paketleri koltuklarının altına alarak geri dönmelerini söyledi. Kıbrıs Türkünün asla kimsenin baskısına boyun eğmeyeceğini söyleyen Kaptan bu anlayışla Türkiye'yi adada istemediklerini söyledi.Kıbrıs Türk Öğretmenler Sendikası Başkanı Güven Varoğlu ise Türkiye'nin dayatmalarına boyun eğmeyeceklerini ve Cemil Çiçek'in KKTC'ye geldiği gibi yolladıkları paketleri alarak geri dönmelerini istediklerini söyledi.</TEXT>
+</DOC>

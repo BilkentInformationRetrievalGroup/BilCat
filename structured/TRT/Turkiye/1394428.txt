@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1394428 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ba6f2b6b-6b36-4380-a915-cab714996547 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 16:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+anayasa mahkemesi'ne yetki tart����mas��
+</HEADLINE>
+<TEXT>
+Anayasa Mahkemesi'yle ilgili yeni tasarının Meclis'e gönderilmesiyle birlikte tartışmalar başladı. 
+
+Yüksek Mahkeme&rsquo;ye &quot;üstün yetkiler&quot; verildiği eleştirisini Adalet Bakanı Sadullah Ergin cevapladı. Ergin, &quot;Yetki, her karar için geçerli değil&quot; dedi.
+
+Tasarıda yer alan, Anayasa Mahkemesi&rsquo;ne, Yargıtay ve Danıştay kararlarını iptal etme yetkisini veren düzenleme eleştiri konusu oldu.  
+
+Adalet Bakanı Sadullah Ergin, Meclis&rsquo;te eleştiriye karşılık, &quot;O yetki, her karar için geçerli değil&quot; cevabını verdi. 
+</TEXT>
+</DOC>

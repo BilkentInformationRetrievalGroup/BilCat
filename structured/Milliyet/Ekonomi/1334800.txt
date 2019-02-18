@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1334800 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f985970/l/0L0Smilliyet0N0Btr0Cagustosta0Eissiz0Esayisi0E4580Ebin0Eazaldi0Cekonomi0Chaberdetay0C130B110B20A10A0C13139250Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:00:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ağustosta işsiz sayısı 458 bin azaldı
+</HEADLINE>
+<TEXT>, Pazar|
+Ağustosta işsiz sayısı 458 bin azaldıAğustos  ayında işsizlik oranı geçen yılın aynı dönemine göre 2 puan düşerek yüzde 11.4’e geriledi. Türkiye genelinde işsiz sayısı 458 bin kişi azalarak 2 milyon 971 bin oldu00:19 | 13 Kasım 2010EKONOMİ SERVİSİ
+ oranı, temmuz-ağustos-eylül döneminde geçen yılın aynı dönemine göre 2 puan düşüşle yüzde 11.4’e, tarımdışı isşizlik oranı ise 2.5 puan düşüşle yüzde 14.5’e geriledi.  verilerine göre,  genelinde işsiz sayısı geçen yılın aynı dönemine göre 458 bin kişi azalarak 2.97 milyon kişiye düştü. 
+Kentsel yerlerde işsizlik oranı 2.5 puanlık azalışla yüzde 14, kırsal yerlerde ise 1.2 puanlık azalışla yüzde 6.2 oldu. Ekonomistler, yüzde 12 olarak açıklanan mevsimsellikten arındırılmış verilerin ise işsizlikte iyileşme eğiliminin bozulduğuna bir işaret olduğunu söyledi. Bazı ekonomistler bu bozulmanın ekonomideki canlanmaya paralel olarak ortadan kalkabileceğini belirtirken, bazı ekonomistler de mevsimsel faktörlerin ortadan kalkmasıyla işsizlik oranının artmaya devam edeceğini belirtiyorlar. İşsizlikte ağustosta bir önceki aya göre yüzde 0.8 artış görüldü. 
+
+544 bin kişi işten ayrıldı
+Ağustosta 1.87 milyon kişi işe yeni başlamış veya iş değiştirmiş olup, bunun toplam istihdam içindeki oranı yüzde 8.1 oldu. Mevcut işsizlerin yüzde 18.3’üne karşılık gelen 544 bin kişi bu dönemde işten ayrılanlar oluşturdu. 
+Öte yandan mevsim etkilerinden arındırılmış istihdam edilenlerin sayısında bir önceki döneme göre 87 bin kişilik azalış, işsiz sayısında ise 40 bin kişilik artış söz konusudur. 
+Mevsim etkilerinden arındırılmış işgücüne katılma oranı bir önceki döneme göre 0.1 puanlık azalış ile yüzde 48.6, istihdam oranı 0.2 puanlık azalış ile yüzde 42.8, işsizlik oranı ise 0.2 puanlık artış ile yüzde 12  olarak gerçekleşti. 
+
+
+5 gençten biri işsiz
+Genç nüfusta işsizlik oranı, geçen yılın aynı dönemine göre 2.4 puanlık azalışla, yüzde 21.1’e geriledi. Buna göre, yaklaşık her 5 gençten biri işsiz. Bu dönemde işsizlerin yüzde 30.4’ü eş-dost vasıtasıyla iş aradı. 
+İşsizlerin yüzde 86.7’si (2 milyon 577 bin kişi) daha önce bir işte istihdam edildi. Daha önce bir işte çalışmış olan işsizlerin yüzde 52.1’i hizmetler, yüzde 22.7’si sanayi, yüzde 16.5’i inşaat, yüzde 6.2’si tarım sektöründe çalıştı, yüzde 2.5’i ise 8 yıldan önce işinden ayrıldı.
+
+
+Hükümetin yıl sonu hedefi yüzde 12
+Hükümet tarafından açıklanan Orta Vadeli Program’da (OVP) işsizlik oranı bu yıl sonunda yüzde 12.2, 2011’de yüzde 12 olarak öngörülüyor.  Ekonomik Araştırmalar tarafından yayımlanan notta şöyle denildi: “Bu düşüş baz etkisinin yüksek olmasından kaynaklandı ve mevsimsellikten arındırılmış veriler istihdam piyasasındaki görünümün ağustosta zayıfladığına işaret etti. Diğer taraftan, PMI ve  gibi öncü göstergelerin önümüzdeki dönemde ekonomik aktivitenin canlanacağına işaret etmesini göz önünde bulundurarak, istihdam piyasasındaki bozulmanın geçici olacağını düşünüyoruz.” 
+Garanti Ekonomik Araştırmalar tarafından yayımlanan notta da, “Önümüzdeki aylarda yine işsizliği düşüren mevsimsel faktörlerin ortadan kalktığını gözönüne aldığımızda; işsizlik oranının artarak yüzde 12.5’in üzerine çıkacağını, 2010 yılı ortalamasında ise yüzde 12-12.5 aralığında gerçekleşeceğini düşünüyoruz. 2011’de işsizlik oranının benzer seviyede olacağını tahmin ediyoruz” denildi</TEXT>
+</DOC>

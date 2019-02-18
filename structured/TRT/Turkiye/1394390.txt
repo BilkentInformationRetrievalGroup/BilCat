@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1394390 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2d0defea-35e4-4d2e-ad3c-6bd4267cf0e9 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 15:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+y��k ba��kan��'ndan ����rencilere davet
+</HEADLINE>
+<TEXT>
+YÖK Başkanı Yusuf Ziya Özcan, 19 Ocak'ta üniversitelerin öğrenci konseyi başkanlarıyla görüşecek.
+
+YÖK Başkanı Prof. Dr. Yusuf Ziya Özcan, üniversitelerin öğrenci konseyi başkanlarıyla görüşecek.
+
+Edinilen bilgiye göre, YÖK Başkanı Prof. Dr. Özcan, Türkiye genelindeki tüm devlet ve vakıf üniversitelerinin öğrenci konseyi başkanlarına YÖK&rsquo;te yapılacak toplantı için davet gönderdi. 
+
+Davete katılacak öğrenci konseyi başkanları, 19 Ocak Çarşamba günü YÖK&rsquo;te Özcan ile biraraya gelecek.
+
+Toplantıda üniversitelerin, öğrencilerin sorunlarına ilişkin görüş alışverişi yapılacağı öğrenildi.
+
+Cumhurbaşkanı Abdullah Gül de geçen hafta Ankara&rsquo;daki üniversitelerin öğrenci temsilcileriyle öğle yemeğinde biraraya gelmiş, ardından öğrenci temsilcilerinden dinlediği sorunları Özcan&rsquo;a aktarmış ve bu sorunların çözülmesi için talimat vermişti.
+
+
+
+</TEXT>
+</DOC>

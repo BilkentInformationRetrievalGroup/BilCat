@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1420780 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5a765dd8-3f9a-4b8a-95c2-f28ab7e33408 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 10:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+elektrikli otomobilde vergi oranlar��
+</HEADLINE>
+<TEXT>
+Elektrikli otomobillere sağlanacak vergi teşvikleri konusunda da altyapı hazırlandı. 
+
+Elektrikli araçların motor güçleri kilovat bazında sınıflandırıldı ve gösterge olarak, yüzde 37-84 arasında özel tüketim vergisine (ÖTV) tabi tutuldu.
+
+ Ancak belirlenecek teşvik politikası çerçevesinde Bakanlar Kurulu bu oranları sıfıra kadar indirmeye yetkili olacak. 
+
+Bakanlar Kurulu’nun vergi oranını indirme yetkisini, strateji belgesinin son şeklini almasından sonra kullanacağı bildirildi.
+
+Sürücü dahil 9 kişilik oturma yeri olan elektrikli araçlarda ise yüzde 10 ÖTV uygulanacak. Halen normal araçlarda silindir hacimleri üzerinden vergi alınıyor. 
+
+Her ne kadar Bakanlar Kurulu değiştirme yetkisine sahipse de, elektriklilerin motor güçlerine göre vergilendirilmesi bir teşvikten çok cezaya benziyor. 
+
+Öneride 85 kW bir aracın ÖTV’sinin % 60, 120 kW’yi geçenlerin ise % 84 olacağı belirtiliyor. 
+
+Ancak bugün bu güç oranları benzinli araçlarda, yüzde 37 oranında vergilendirilen 1.4 ve 1.6 litre araçlardan alınabiliyor. Bu durumda gücü yüksek benzinliden düşük, aynı güçteki elektrikliden ise yüksek vergi isteniyor.
+
+</TEXT>
+</DOC>

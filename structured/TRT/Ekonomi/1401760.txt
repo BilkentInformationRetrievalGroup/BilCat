@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1401760 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7b1447ce-d37b-40e4-b7a4-34bb741b3bdc </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 15:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ithalat beklentisi 183 milyar dolar
+</HEADLINE>
+<TEXT>
+Zafer Çağlayan, geçtiğimiz günlerde açıklanan ithalat rakamlarını değerlendirdi.
+
+Devlet Bakanı Zafer Çağlayan, &quot;2010 yılı ithalatımızın yüzde 30&rsquo;luk bir artışla 183 milyar dolar düzeyinde olacağını tahmin ediyoruz&quot; dedi.
+             
+Zafer Çağlayan, İstanbul&rsquo;da geçtiğimiz günlerde açıklanan İthalat rakamlarını değerlendirdi.
+
+&quot;2010 yılı Ocak-Kasım döneminde ithalatımız 2009 yılının aynı dönemine göre yüzde 31 artarak 164,9 milyar dolar olmuştur&quot; diyen Çağlayan şöyle konuştu:
+&quot;Aralık ayında da 18-20 milyar dolar civarında bir ithalatın gerçekleşeceğini ve 2010 yılı ithalatımızın yüzde 30&rsquo;luk bir artışla 183 milyar dolar düzeyinde olacağını tahmin ediyoruz.&quot;
+
+Doğalgazda Bağımlılığın İthalata Etkisi
+Devlet Bakanı Çağlayan, doğalgazda dışa bağımlı olmamızın ithalat üzerindeki etkisine de dikkat çekti:
+&quot;İthalatımızdaki ilk 10 ülke içinde yer alan ve en çok petrol, doğalgaz ve kömür ithal ettiğimiz Rusya ile İran pazarlarıyla dış ticaretimiz çok enteresan bir yapıdadır… Bu iki ülkeyi  toplam olarak alırsak 11 ayda 6,8 milyar dolar ihracat, 26 milyar dolar da  ithalatımız var. Bu durumda dış ticaret açığımız 19,2 milyar dolara ulaşıyor. Fakat bu iki ülkeden yaptığımız enerji kaynakları yani petrol, doğalgaz ve kömür ithalatımız ise 20,1 milyar dolara ulaşıyor. Yani biz enerji kaynakları ithal etmek zorunda olmasak, Rusya ve İran&rsquo;la olan dış ticaretimizde yaklaşık 1 milyar dolar fazla vermiş olacaktık.&quot;
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332117 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f74cf06/l/0l0smilliyet0n0btr0cadalet0ebakani0eergin0eden0ebir0egarip0eevren0eaciklamasi0csiyaset0csondakika0c0a80b110b20a10a0c13118520cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:12:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+adalet bakan�� ergin'den bir garip 'evren' a����klamas��
+</HEADLINE>
+<TEXT>Adalet Bakanı Sadullah Ergin, Kenan Evren’in yargılanmasına ilişkin yapılan başvurunun Ankara Cumhuriyet Başsavcılığı tarafından suç tarihi eski olduğu gerekçesiyle görevsizlik verilmesiyle ilgili olarak, "Benim burada referandum öncesinde beyanların var.Biz geçici 15’nci maddedeki yasakları kaldırıyoruz. Zaman aşımı ile sıkıntıların çözümü, ilgili savcıların yapacağı işlemlerle belli olacak. Görev konusunda da bir tereddüt var. İlgili organlar aralarında bunlar görüşülecek. Yargılanır ya da yargılanmaz diyemem" dedi.</TEXT>
+</DOC>

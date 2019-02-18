@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1438607 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1e54e3f3-f370-49a4-83ea-af9bc0743cb1 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 01:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fildi��i sahilinde gerginlik s��r��yor
+</HEADLINE>
+<TEXT>
+Fildişi Sahilinde Kasım ayındaki seçimlerden bu yana devam eden karışıklık büyüyor.
+
+
+ 
+     Ülkede seçimlerden bu yana Alassane Outtara yanlısı çok sayıda insan Laurennt Gbagbo yanlısı askerler tarafından öldürülmüştü. 
+ 
+     Son olarak ise, seçimleri kazanan Ouattara yanlıları seçimleri kaybeden fakat bu sonucu tanımayan Gbagbo yanlısı 20 askeri öldürdü.
+ 
+     Geçen hafta Outtara yanlılarının Mısır&rsquo;daki gibi ayaklanma girişiminde bulunacağı açıklanmıştı.
+
+
+
+</TEXT>
+</DOC>

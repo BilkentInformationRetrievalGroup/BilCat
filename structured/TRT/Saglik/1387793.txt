@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1387793 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=acb6075f-58b7-49cb-9724-7311cd0d6fa3 </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 11:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+doktorum internet!
+</HEADLINE>
+<TEXT>
+Ankara genelinde yapılan bir araştırmaya göre, kadınların büyük çoğunluğu doktora gitmek yerine, rahatsızlıklarına internetten çare arıyor.
+
+Uzmanlarının, 3 bin 500 kadın üzerinde yaptığı çalışma, başkentli kadınların eğitim seviyesi farketmeksizin doktora gitmediğini ortaya çıkardı. 
+
+Kadın Hastalıkları ve Doğum Uzmanı Operatör Doktor Gökçen Erdoğan, &quot;Sosyal ekonomik seviyesi yüksek olan yerledeki hastalar şunu yapıyor; bilgisayarımın başına geçiyorum yazıyorum, kadın kulüpleri çıkıyor, benim sorunum da aşağı yukarı aynı o ilacı alıp kullanıyorum.&quot; diyor.
+
+Sosyo-ekonomik seviyesi düşük yerlerde ise sağlık; eş, çocuklar ve ev işlerinden sonra geliyor.  
+
+Gökçen Erdoğan, &quot;20 ila  40 &rsquo;lı yaşlardaki kadınlarda adet düzensizliği, yumurtalık kistleri belirtileri, rahim ağzı kanserini ortaya çıkaran şikayetleri ile  ilgili konuştuk. Aşağı yukarı yüzde 70 kadında menopoz şikayetleri, terleme, sıkıntı sinirlilik artı depresyon o kadar yoğun ki&quot; diye konuştu.
+
+Halbuki kadınların önemsiz gibi gördüğü bir çok belirti, rahim ağzı ve rahim kanserlerinin başlıca işaretleri olabiliyor: 
+&quot;Sürekli akıntı, ilişki sonrası kanama, ara düzensiz kanamalar, adet düzensizlikleri kasık ağrıları olduğu zaman aman hanımlar Türkiye&rsquo;de çok sık rastlanılan kanserleri en azından ilerlemeden ilk döneminde yakalayalım. &quot;
+
+</TEXT>
+</DOC>

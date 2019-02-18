@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1416056 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=861dbd1b-a4a7-4bef-bc28-31be33411236 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 15:02:19.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��l��me b��yle direksiyon k��rd��
+</HEADLINE>
+<TEXT>
+ABD'de karayolu güvenliği için yerleştirilen kameralardan birine yansıyan bu feci kaza izleyenlerin dehşete kapılmasına neden olacak cinsten.
+
+Karşı şeritten gelen okul servisinin bulunduğu şeride son anda manevra yapan otomobil, otobüs ile kafa kafaya çarpıştı.
+
+Neredeyse ön kısmı ortadan kaybolan otomobilin sürücüsü hayatını kaybederken okul servisindekiler kazayı yara almadan atlattı.
+
+</TEXT>
+</DOC>

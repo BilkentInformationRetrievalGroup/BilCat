@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> 1334781 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f9e4b08/l/0L0Smilliyet0N0Btr0Cvergi0Edaireleri0Epazartesi0Egunu0Eoglene0Ekadar0Eacik0Cekonomi0Chaberdetay0C140B110B20A10A0C13141760Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:00:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi daireleri pazartesi günü öğlene kadar açık
+</HEADLINE>
+<TEXT>RA Milliyet
+, vergi dairelerinin 15 Kasım Pazartesi günü saat 13.00’e kadar açık bulundurulacağını bildirdi. Bu arada Gelir İdaresi Başkanlığı, Ekim 2010 dönemine ait aylık muhtasar beyannameler ile Ekim 2010 dönemine ait Katma Değer Vergisi beyannamelerinin verilmesi süresini 25 Kasım mesai bitimine kadar uzatıldığını açıkladı.   </TEXT>
+</DOC>

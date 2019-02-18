@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1389807 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=23933e2e-34e1-4a4f-86b4-53fa6967c84d </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 21:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ma��lubiyetle ba��lad��k
+</HEADLINE>
+<TEXT>
+Mersin'de başlayan 21 Yaş Altı Erkekler Hentbol Dünya Şampiyonası Eleme Grubu ilk maçında Türkiye, İspanya'ya 35-25 yenildi.
+
+
+Yenişehir Spor Salonu&rsquo;ndaki karşılaşmanın ilk yarısı İspanya&rsquo;nın 17-14 üstünlüğüyle tamamlandı. İkinci yarıda etkili mücadelesini sürdüren İspanya, 
+Türkiye&rsquo;yi 35-25 yenerek ilk galibiyetini aldı.
+
+Türkiye ile aynı grupta bulunan Hollanda ise Slovakya&rsquo;yı 33-27 yendi.
+
+9 Ocak Pazar günü sona erecek şampiyonada Türkiye gruptaki ikinci maçını Slovakya ile oynayacak.
+</TEXT>
+</DOC>

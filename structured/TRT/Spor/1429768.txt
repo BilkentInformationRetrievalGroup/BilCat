@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1429768 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=70d197a2-1ebc-4123-821d-0d26eba496f3 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 18:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+santos'tan k��t�� haber
+</HEADLINE>
+<TEXT>
+Fenerbahçe'nin Brezilyalı oyuncusu Andre Santos'un burun kemiğinde kırık tespit edildi.
+
+ 
+Kayserispor maçında yüzüne bir dirsek darbesi alan Fenerbahçe&rsquo;nin Brezilyalı oyuncusu Andre Santos&rsquo;un burun kemiğinde kırık tespit edildiği açıklandı.
+ 
+Sarı-lacivertli kulübün Sağlık Kurulu tarafından verilen bilgilere göre, Kayserispor maçında aldığı darbenin ardından, takımını yaptığı antrenmana katılmayarak, MR&rsquo;ı çekilen Andre Santos&rsquo;un burun kemiğinde kırık tespit edildi. Oyuncunun da tedavisine hemen başlanıldığı belirtildi.
+</TEXT>
+</DOC>

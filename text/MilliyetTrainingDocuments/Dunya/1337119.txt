@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337119 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af6a/l/0l0smilliyet0n0btr0cafganistan0eda0e90emuhafiz0e70etaliban0emilitani0eoldu0cdunya0csondakika0c150b110b20a10a0c1314720a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:00:53.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+afganistan'da 9 muhaf��z, 7 taliban militan�� ��ld��
+</HEADLINE>
+<TEXT>Afganistan’ın kuzeyinde Taliban militanlarının bir telefon santraline düzenlediği saldırıda, santralin korunmasından sorumlu muhafızlardan 9’unun öldüğü bildirildi.Kunduz vilayeti polisinden yapılan açıklamada, muhafızların saldırıya karşı koyduğu ve çıkan çatışmada 7 Taliban militanının da öldürüldüğü ifade edildi.Olay yerine polisin takviye gönderdiği belirtilen açıklamada, çatışmada bir polisin de hayatını kaybettiği kaydedildi.</TEXT>
+</DOC>

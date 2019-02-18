@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1338561 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fb59dfc/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c170cyazardetay0c1315130a0cenerjik0eve0ehevesliyiz/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 04:09:56.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+enerjik ve hevesliyiz
+</HEADLINE>
+<TEXT>ÇarşambaAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Hakan Kırkoğlu          hkirkoglu@ttmail.com                                            Müneccimbaşı                                ENERJiK VE HEVESLiYiZ       Fiziksel açıdan hareketli, ruhen canlı olabilece-ğimiz bir gündeyiz. Bugün yeni başlangıçlar yapmak ve harekete geçmek için uygun koşullar var. Mücadele arayabiliriz. Kendimizi daha iyi savunup, öne çıkabileceğimiz bir gündeyiz. Yeni bir fikri ya da projeyi ortaya koyabiliriz. Aceleci olmamak gerekiyor. Kolayca öfkelenebileceğimiz, düşüncesizce hareket edebileceğimiz durumlar olabilir. Kararlarımızı kontrol etmeden son noktayı koymamalıyız. Tam olarak sonucu göremediğimiz, bilgi sahibi olmadığımız durumlar yüzünden hata yapabiliriz.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      16 Kasım 2010Niyetlerimiz gerçekleşiyor15 Kasım 2010Duygusallık ön planda13 Kasım 2010Edebiyatta Akrep burcu</TEXT>
+</DOC>

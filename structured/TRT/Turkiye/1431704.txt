@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1431704 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3a37a5ee-5ab3-41fb-ac29-5223713fbdd5 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 13:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ya�� tasar��s�� komisyondan ge��ti
+</HEADLINE>
+<TEXT>
+Sözleşmeli askerlik ve YAŞ mağdurları tasarısı Komisyondan geçti.
+
+
+
+Sözleşmeli askerlik ve Yüksek Askeri Şura mağdurları tasarısı Milli Savunma Komisyonu&rsquo;ndan geçti.
+</TEXT>
+</DOC>

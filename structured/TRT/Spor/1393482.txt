@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1393482 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=79186f82-37eb-4769-a7d7-cb932698265b </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 20:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+vak��fbank gst telekom 3-0 k��z��ly��ld��z
+</HEADLINE>
+<TEXT>
+Vakıfbank Güneş Sigorta Türk Telekom, Sırbistan'ın Kızılyıldız takımını 3-0 yendi.
+
+Voleybolda Bayanlar Avrupa Şampiyonlar Ligi (A) Grubu son hafta maçında Sırbistan&rsquo;ın Kızılyıldız takımını 3-0 yenen Vakıfbank Güneş Sigorta Türk Telekom, grup birincisi olarak play-off grubuna yükseldi. 
+Salon: Burhan Felek
+Hakemler: Omero Satanassi (İtalya), Rene Cinatl (Çek Cumhuriyeti)
+Vakıfbank Güneş Sigorta Türk Telekom: Nikolic, Bahar, Gözde, Glinka, Poljak, Özge (Gizem, Nilay, Seray, Güldeniz) 
+Kızılyıldız: Blagojevic, Stevanovic, Bjelica, Malagurski, Ninkovic, Zivkovic (Valcic, Rakic, Madarevic, Pusic) 
+Setler: 25-8, 25-15, 25-16 
+Süre: 61 dakika (17, 22, 22)
+</TEXT>
+</DOC>

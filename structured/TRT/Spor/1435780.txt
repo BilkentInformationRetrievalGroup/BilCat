@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1435780 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ef04f8ec-b321-4ab9-9a29-1b0d869724be </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 14:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+istanbul'da 80, kiev'de 10 lira
+</HEADLINE>
+<TEXT>
+Beşiktaş'ın 24 Şubat'ta Dinamo Kiev ile Deplasmanda Oynayacağı Karşılaşmanın Bilet Fiyatlarının Düşük Olması Dikkat Çekti.
+
+Beşiktaş&rsquo;ın UEFA Avrupa Ligi ikinci tur rövanş maçında Perşembe günü Dinamo Kiev&rsquo;de oynayacağı maç öncesi, Ukrayna ekibi bilet fiyatlarını açıkladı. 
+
+Maçın oynanacağı 16,873 kapasiteli Valeriy Lobanovskyy Stadyum&rsquo;unda bilet fiyatları 50-100-150 ve 200 Ukrayna Hryvnia olarak açıklandı. (50 Ukrayna Hryvnia yaklaşık 10 TL) 
+
+Açıklanan ücrete göre karşılaşmada en ucuz bilet 10 TL değerinde olurken, en pahalı bilet 40 TL olacak. 
+
+Geçen hafta Fi Yapı İnönü Stadı&rsquo;nda oynanan ve Beşiktaş&rsquo;ın 4-1 kaybettiği ilk maçta en ucuz bilet 80 TL&rsquo;den, en pahalı bilet ise 500 TL&rsquo;den satışa sunulmuştu.
+</TEXT>
+</DOC>

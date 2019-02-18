@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1412801 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dbf2cce4-273e-4ddd-916f-0ffde9c9e64f </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 08:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yang��n bir aileyi yok etti
+</HEADLINE>
+<TEXT>
+Sivas'ın Divriği ilçesinde ahşap evde çıkan yangında 2'si çocuk 4 kişi hayatını kaybetti.
+
+
+Sivas&rsquo;ın Divriği ilçe merkezi Abuçimen Mahallesi&rsquo;nde, İsmail Kırkayak&rsquo;a ait iki katlı sobalı ahşap evde, saat 02.00 sıralarında henüz belirlenemeyen nedenle yangın çıktı.
+
+Yangın, itfaiyenin müdahalesiyle çevredeki evlere sıçramadan söndürülürken, yangında İsmail Kırkayak ve Gülüzar Özdemir ile 9 yaşındaki Erdem Özdemir ve 12 yaşındaki Kerem Özdemir hayatını kaybetti.
+
+Yangın çıkan evin çıkmaz sokakta olması nedeniyle itfaiye araçlarının yangın yerine güçlükle ulaştığı belirtiliyor
+</TEXT>
+</DOC>

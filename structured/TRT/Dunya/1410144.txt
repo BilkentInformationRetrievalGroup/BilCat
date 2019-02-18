@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1410144 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=00b80498-e0c4-4334-99d8-989b55c27811 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 13:00:31.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+japonya'da ku�� gribi yay��l��yor
+</HEADLINE>
+<TEXT>
+Ülkenin üçüncü büyük tavuk çiftliğini etkileyen kuş gribi nedeniyle 150 bin tavuk daha itlaf edilecek.
+
+
+     Japonya&rsquo;da kuş gribi yayılıyor.
+
+
+
+     Kuş gribinden etkilenen Japonya&rsquo;nın üçüncü büyük tavuk çiftliğindeki 150 bin tavuk itlaf edilecek.   
+
+     Japonya&rsquo;da 5 çiftlikte daha kuş gribi yüzünden 20 bin tavuk itlaf edilmişti.
+
+     Japonya, askeri birlikleri 410 bin tavuğun itflafı için bölgeye göndermişti.
+
+
+</TEXT>
+</DOC>

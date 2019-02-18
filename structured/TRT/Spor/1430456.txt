@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1430456 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eabb4741-3c1a-4327-a2e7-a97fbf32a843 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 12:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��mer'li bulls evinde g��ld��
+</HEADLINE>
+<TEXT>
+Ömer'li Chicago Bulls, Charlotte Bobcats’i 106 - 94 mağlup etti.
+
+Milli oyuncu Ömer Aşık&rsquo;ın formasını giydiği Chicago Bulls, sahası United Center&rsquo;da konuk ettiği Charlotte Bobcats&rsquo;i 106-94&rsquo;lük skorla mağlup etmeyi başardı. 
+ Ömer Aşık bu maçta 15 dakika süre alırken, 2 sayı-7 ribaund ile mücadeleyi tamamladı.
+ Chicago&rsquo;da skorer oyuncu Luol Deng 24 sayı-4 ribaund-3 asist ile oynarken, Derrick Rose 18 sayı-13 asist-3 ribaund ile mücadele etti. 
+ Milli oyuncu Mehmet Okur&rsquo;un formasını giydiği Utah Jazz, deplasmanda karşılaştığı Phoenix Suns&rsquo;a 102 - 101&rsquo;lik skorla mağlup oldu. Mehmet Okur bu maçta sakatlığı nedeniyle forma giymedi.
+</TEXT>
+</DOC>

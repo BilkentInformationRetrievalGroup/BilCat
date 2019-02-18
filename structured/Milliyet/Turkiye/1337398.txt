@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337398 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa89fe7/l/0l0smilliyet0n0btr0c10e50eaylik0ebebek0eevde0eolu0ebulundu0cturkiye0csondakika0c150b110b20a10a0c1314750a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 15:06:49.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+1.5 ayl��k bebek evde ��l�� bulundu
+</HEADLINE>
+<TEXT>İZMİR'in Yenişehir semtinde, ailesi tarafından adı henüz konulmamış olan 1.5 aylık erkek bebek ölü bulundu. Bebeğin cesedi otopsi için Adli Tıp Kurumu'na gönderildi.Olay bugün saat 08.00 sıralarında 1151 sokakta meydana geldi. 1.5 aylık bebeklerini yatağında hareketsiz şekilde bulan Selcan ve Emre Kaymaz, onu Eşrefpaşa Belediye Hastanesi'ne götürdü. Bebeğin hastaneye ölü getirildiğini öğrenen oto yıkamacılık yapan baba Emre Kaymaz ile annesi Selcan Kaymaz, büyük üzüntü yaşadı. Kimliği henüz çıkartılmayan bebeğin cesedi, kesin ölüm nedeninin belirlenmesi için Adli Tıp Kurumu'na gönderildi. Polisin soruşturmasının devam ettiği bildirildi.</TEXT>
+</DOC>

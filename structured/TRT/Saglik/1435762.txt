@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1435762 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0509526e-8c48-42e1-a9bc-8d4118432b33 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 12:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+meme kanserinin ��ifresi ����z��ld�� m��?
+</HEADLINE>
+<TEXT>
+İngiliz ve Kanadalı biliminsanlarının ortaklaşa yürüttükleri çalışma ile meme kanserinin vücutta yayılmasına neden olan genin şifresi çözüldü. 
+
+İnsan vücudunda meme kanserinin yayılmasına neden olan ‘ZNF703’ adlı onkogenin şifresi çözüldü.
+
+İngiliz ve Kanadalı biliminsanlarının 5 yılı kapsayan araştırması sonucu ‘ZNF703’ adlı onkogenin,
+vücutta kanserin yayılmasına neden olduğu belirlendi. 
+
+Araştırma dünyaca ünlü tıp dergisi EMBO Molecular Medicine&rsquo;nın son sayısında yer aldı.
+1172 farklı tümör üzerinde gerçekleştirilen araştırma İngiltere Kanser Araştırmaları Merkezi’ne bağlı Cambridge Araştırma Enstitüsü ve Vancouver’daki British Colombia Kanser Ajansı bünyesindeki biliminsanlarının ortak çalışmasının ürünü.
+
+Araştırmacılardan biri olan Dr. Carlos Caldas&rsquo;ın verdiği bilgiye göre onkogenler vücuttaki sağlıklı hücrelerin bölünmesinde hayati bir rol oynuyor ancak bu genlerin tümörlere girmesi halinde kanserin vücutta hızla yayılmasına neden oluyorlar.
+
+ Araştırmanın meme kanseri tedavisinde önemli bir gelişme olduğunu söyleyen Dr. Caldas, bir sonraki adımın, BRCA 1 ve 2 gibi tümör baskılayıcı genleri de kullanarak, ZNF703 onkogenini durdurmak olabileceğini belirtti.
+
+
+</TEXT>
+</DOC>

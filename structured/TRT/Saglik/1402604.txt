@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1402604 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=93af81a5-48df-4a40-917a-45c6d475bce6 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 12:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+a����r�� d vitamini kemi��e zarar
+</HEADLINE>
+<TEXT>
+D vitaminini belirli bir miktara kadar kemiği geliştiriyor, fazlası ise kemiklere zarar veriyor.
+
+Kemik gelişimi ve tamiri konusunda çok önemli olduğu bilinen D vitamini, yaygın inanışın tersine aşırı alınması durumunda kemiklere zarar veriyor.
+
+İtalyan Corriere della Sera gazetesinde çıkan habere göre, eksik olması 
+durumunda çocuklarda raşitizm, erişkinlerde ise osteomalazi gibi rahatsızlıklara 
+neden olan D vitamininin, fazla miktarda alınmasının da beklenenden farklı bir etki 
+yaparak kemikleri daha kırılgan hale getirdiği belirtildi.
+         ABD&rsquo;deki Minnesota Üniversitesi ve Minneapolis Tıp Merkezi&rsquo;nde görev yapan bilim insanları, 69 yaşının üstündeki 6 binden fazla kadının kanındaki D vitamini seviyesini ölçtü ve elde ettikleri verilerle bu kişilerin kemik sağlığı 
+ arasındaki ilişkiyi inceledi. Bilim insanları, D vitamininin eksik olanlar ile 
+ vitaminin çok fazla olduğu kişilerin kemiklerinin oldukça kırılgan olduğunu 
+ gözlemledi.
+         Kanındaki D vitamini seviyesi 20-30 ng/ml olan kadınların kemiklerinin 
+ daha kuvvetli olduğunu gözlemleyen bilim adamları, 15 ng/ml&rsquo;nin altındaki 
+ kadınların kemiklerinin bu gruba göre yüzde 47, 30ng/ml&rsquo;nin üstünde 
+ olanlarınkilerin de yüzde 32 oranında daha kırılgan olduğunu belirledi.
+         D vitamini seviyesi ne kadar yüksek olursa kemiklerin o kadar kuvvetli 
+ olacağı yönünde bir inanış olduğuna dikkati çeken bilim insanları, 
+ araştırmalarının bunun doğru olmadığını kanıtladığını belirterek, aşırı vitamin 
+ takviyesi yapılmaması uyarısında bulundu.
+</TEXT>
+</DOC>

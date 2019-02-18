@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342796 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fcf1cfd/l/0l0smilliyet0n0btr0c0eboyumuzdan0ebuyuk0eisler0ee0ekarismak0e0cali0enail0ekubali0cege0cyazardetay0c20a0b110b20a10a0c13161240cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 03:22:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���boyumuzdan b��y��k i��ler���e kar����mak!..
+</HEADLINE>
+<TEXT>BAYRAMDA çok sevdiğim bir akrabamdan ilginç bir elektronik posta (e-mail) aldım. Hem beni “Prospect” adlı çok zekice kaleme alınmış yazı ve haberlerin yer aldığı  bir dergiyle tanıştırıyor, hem de dergide  16 Kasım’da Brian Eno tarafından yazılmış kısa bir makaleyi gönderiyordu.Bana bu makale ilginç geldi. Özetliyerek tercüme edeceğim. Makale, toplumda işlenebilecek en büyük suçun sizi toplumun yerleştirdiği yerden daha yukarlara yükselmeye çalışmak olduğunu söylüyor.  Bir pop yıldızının toplumsal ya da politik  bir konuda fikir beyan etmesine karşı gösterilen küçümseyici tepki aslında  kıskançlık ve darkafalılıktan beslense de,  o duygular şu sözcüklerle kamufle edilir: “Onun bu konuda nasıl bir bilgisi olabilir  ki?” Ya da bizde daha sık duyduğumuz, “Herkes kendi işine baksın kardeşim!” Bu tepkiyi gösteren kafalarda şöyle bir  önyargı vardır. Bir tarafta olayları “bilen” uzmanlar vardır, diğer tarafta da bunların dışında kalan biz “bilmeyenler”!.. Ancak böyle bir klişeleşmiş hükmü savunmak artık hızla zorlaşmakta! Çünkü bilgi   sanal ortamda büyük bir hızla yayıldıkça “uzmanlık” da artık bir ayrıcalık olmaktan çıkıyor! Bilgiye hepimiz kolaylıkla ulaşabildiğimize göre o bilgiden yararlanabilme yeteneği önemli hale geliyor. Yani, “bilgi” anahtar olmaktan çıkıyor, onun yerini “muhakeme” alıyor.Bu gelişme bir devrim olarak yayılmakta. Artık hepimiz yerleştirildiğimiz yerden yükselebiliriz. “Boyumuzdan büyük” konularla igilenebiliriz! Bunu gören birçok şirket, ar-ge faaliyetlerini sanal ortamda dünyanın her tarafından herkesin katkıda bulunabileceği platformlara taşıyorlar. Biliyorlar ki birçok serbest çalışan programcı hiçbir ücret de  talep etmeden konuya katkıda bulunacaklar. Bunun en canlı örneği olarak meşhur bilgisayar devi Apple, oluşturduğu bir platformda</TEXT>
+</DOC>

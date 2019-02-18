@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 1424771 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b36b56a6-9b99-4b10-bc87-4d1aa1e749c5 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 18:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+imkb g��n�� kay��pla kapatt��
+</HEADLINE>
+<TEXT>
+Borsa günü bin 148 puan azalarak 64.421 puandan tamamladı.
+
+
+
+   İstanbul Borsası Ulusal-100 Endeksi günü bin 148 puan azalarak 64 bin 421 puandan tamamladı.
+
+ Serbest piyasada Dolar 1 lira 59 kuruştan, Avro ise 2 lira 16 kuruştan işlem gördü.
+
+ Hisse senetleri günlük ortalama yüzde 1,75 oranında değer yitirdi. 
+
+ Serbest piyasada Amerikan Doları 1 lira 59 kuruş, Avro ise 2 lira 16 kuruştan işlem gördü.
+
+ Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,49 seviyesinde bulunuyor.
+
+  Uluslararası piyasalarda altının ons fiyatı bin 354 dolar. 
+  Kapalıçarşı&rsquo;da Cumhuriyet altını 464 liradan alıcı buldu. 
+
+   Dünya borsalarında da satış baskısı hakim...
+
+ Asya Pasifik piyasalarında bugün aşağı yönlü hareketler vardı.
+
+ Avrupa borsalarında değer kayıpları yaşandı.
+  New York Borsası düşüşle açıldı.
+
+
+
+</TEXT>
+</DOC>

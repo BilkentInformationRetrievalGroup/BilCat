@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1406061 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=190d3751-fc88-46bc-b2a3-7402e16b5d1d </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 22:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+otomobil denize u��tu
+</HEADLINE>
+<TEXT>
+Sinop'taki kazada üç öğretmen hayatını kaybetti. 
+
+Sinop&rsquo;ta bir otomobil denize uçtu. Kazada üç öğretmen hayatını kaybetti. 
+
+Ayancık ilçesi Yalı mahallesi Gelincik Burnu&rsquo;nda, bir otomobil denize uçtu. 
+
+Kazada, Ayancık ilçesinde öğretmen olduğu öğrenilen Özgür Boyar, İlkay Karabal ve Celalettin Özcanlı hayatını kaybetti. 
+
+Olayla ilgili soruşturma başlatıldı.
+</TEXT>
+</DOC>

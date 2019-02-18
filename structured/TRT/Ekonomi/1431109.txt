@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1431109 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6cf65dff-a152-4d8e-9c1f-ced0138ff5d0 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 23:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+babacan'dan bankalara uyar��
+</HEADLINE>
+<TEXT>
+Başbakan Yardımcısı Ali Babacan, bankacıların bu yıl çok fazla karlar beklememesi gerektiğini kaydetti. 
+
+Başbakan Yardımcısı Ali Babacan, ekonomi alanında alınan bir dizi kararların meyvelerini vermeye başladığını ve Türk ekonomisinin iyi durumda olduğunu söyledi. 
+
+Bankaların sıkı denetim altında tutulduğunu belirten babacan bu durumun seçimlerle bir bağlantısı olmadığını bildirdi.
+
+Başbakan Yardımcısı Ali Babacan, katıldığı bir televizyon programında soruları cevapladı. 
+
+Bankaların çok sıkı bir şekilde denetlendiğini kaydeden Babacan, bu denetimlerle seçimler arasında bağlantı kuran iddiaların gerçeği yansıtmadığının altını çizdi. 
+
+Babacan şöyle konuştu:
+&quot;Bankacılıkla ilgili çıkacak bir problemin faturasını halk ödüyor. Dolayısıyla bankaları tek tek sıkıya almamız halkımıza gelebilecek maliyetleri baştan önlemek, başka birşey değil&quot; ifadesini kullanan Babacan, bankacıların bu yıl çok fazla karlar beklememesi gerektiğini kaydetti. 
+
+Babacan, kredi hacimlerini daraltmadıklarını ancak aşırı bir genişlemenin de, Türkiye&rsquo;nin istikrarına zarar verebileceğine işaret etti.
+</TEXT>
+</DOC>

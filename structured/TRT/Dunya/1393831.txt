@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1393831 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=caaf36bf-f1c0-47d8-9644-43286d96908c </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 08:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kabil'de motosikletle intihar sald��r��s��
+</HEADLINE>
+<TEXT>
+Afganistan'da düzenlenen ve istihbarat servisi elemanlarının hedefte olduğu saldırıda 4 kişi öldü, 8 yaralı var.
+
+Afganistan&rsquo;da bomba yüklü motosikletle düzenlenen intihar saldırısında en az 4 kişi hayatını kaybetti. 
+
+Başkent Kabil&rsquo;in batısında meydana gelen saldırının, istihbarat servisi elemanlarını hedef aldığı bildirildi. 
+
+Patlamada 8 kişinin de yaralandığını kaydediliyor. 
+
+Yetkililer, hastaneye ulaştırılanların çoğunun sivil olduğunu, ölü ve yaralı sayısının artabileceğini açıkladı.
+</TEXT>
+</DOC>

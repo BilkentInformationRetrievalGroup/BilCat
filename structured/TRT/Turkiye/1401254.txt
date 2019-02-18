@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1401254 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e1e5b267-bac5-4805-9e40-5b617c1d7629 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 09:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mesut y��lmaz istifa etti
+</HEADLINE>
+<TEXT>
+Eski Başbakanlardan, Demokrat Parti Rize Milletvekili Mesut Yılmaz partisinden istifa etti.
+
+Mesut Yılmaz istifa dilekçesini noter kanalıyla DP Genel Merkezi’ne gönderdi.
+
+İstifa dilekçesinin genel merkeze ulaşmasının iki günü bulabileceğini belirten Mesut Yılmaz, 3-4 gün sonra istifa nedenleri konusunda Ankara’da basın toplantısı düzenleyeceğini kaydetti.
+
+Namık Kemal Zeybek’in DP Genel Başkanı seçilmesinin ardından partide eksen kayması tartışmaları başlamıştı.
+
+</TEXT>
+</DOC>

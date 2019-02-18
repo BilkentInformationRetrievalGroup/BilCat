@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1415713 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=71edbe47-ff26-4086-8769-d54e14407ed9 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 09:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erdo��an m��barek'e ��a��r��s��n�� yineledi
+</HEADLINE>
+<TEXT>
+Başbakan Erdoğan, Mısır halkının Hüsnü Mübarek'ten çok daha farklı bir adım atmasını beklediğini söyledi.
+
+Başbakan Recep Tayyip Erdoğan AK Parti Grup toplantısında Mısır Devlet Başkanı Hüsnü Mübarek&rsquo;e yaptığı çağrıyı Kırgizistan&rsquo;da yineledi.
+
+&quot;Halk Hüsnü Mübarek&rsquo;ten çok daha farklı adım atmasını bekliyor&quot; diyen Erdoğan, &quot;Mısır&rsquo;daki mevcut hükümet güven vermiyor&quot; açıklamasını yaptı.
+&quot;Ambargo Konusundaki Tavrımız Bellidir&quot;
+Erdoğan, İran&rsquo;a yönelik ambargolarla ilgili olarak da &quot;neden yapıldığını bilmiyorum fakat bizim ambargo konusundaki tavrımız bellidir&quot; ifadesini kullandı.
+</TEXT>
+</DOC>

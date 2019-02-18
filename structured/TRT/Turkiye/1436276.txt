@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1436276 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=45fffe13-0bf9-4af8-a186-5d59fc34bba9 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 15:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+davuto��lu'ndan libya'ya mesaj
+</HEADLINE>
+<TEXT>
+Dışişleri Bakanı Ahmet Davutoğlu'ndan Libya'ya, "Güvenlik için özgürlük, özgürlük için güvenlik feda edilemez" mesajı verdi.
+
+Dışişleri Bakanı Ahmet Davutoğlu&rsquo;ndan Libya&rsquo;ya, &quot;Güvenlik için özgürlük, özgürlük için güvenlik feda edilemez&quot; mesajı verdi.
+
+Avrupa Konseyi Dönem Başkanı sıfatı ile Tunus&rsquo;ta demokrasiye geçiş sürecine destek vermek üzere temaslarda bulunan Davutoğlu, bir yandan da Libya&rsquo;daki Türk vatandaşlarının tahliyesi için yoğun bir mesai yürütüyor.
+
+Davutoğlu Tunus&rsquo;ta düzenlediği basın toplantısında, &quot;Devletimiz bütün vatandaşlarını korumaya muktedirdir. Bakanlığımızın kriz masası 24 saat çalışıyor&quot; açıklamasında bulundu.
+
+Davutoğlu, bölgedeki son durumla ilgili olarak Amerika Birleşik Devletleri ve İngiltere Dışişleri bakanlarıyla telefon görüşmeleri de gerçekleştirdi.
+
+Almanya Dışişleri Bakanı Westerwelle ise İran&rsquo;da tutuklu bulunan Alman gazetecilerin serbest bırakılması için Türkiye&rsquo;nin gösterdiği çabadan dolayı Davutoğlu&rsquo;nu arayarak teşekkür etti.
+</TEXT>
+</DOC>

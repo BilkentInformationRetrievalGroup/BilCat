@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1433473 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=968c404f-4177-4ab9-8a0c-a3068d60ee78 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 00:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye'de duble demiryolu ��a����
+</HEADLINE>
+<TEXT>
+Ulaştırma Bakanı Binali Yıldırım, önümüzdeki 10 yıl içerisinde Türkiye'yi duble demiryolu ağıyla donatacaklarını söyledi.
+
+
+Ulaştırma Bakanı Yıldırım İstanbul&rsquo;daki bir toplantıda bakanlığının 2023 yılı demiryolu hedefini anlattı.
+
+Demiryolların önemine dikkat çeken Ulaştırma Bakanı Binali Yıldırım: &quot;Önümüzdeki 10 yılda en büyük hedefimiz Türkiyeyi duble demiryolu ağlarıyla baştan başa donatmak. Demiryollarımızın mevcut ağ yapısını 2 katına katlayacak bir projeyi ülkemizde gerçekleştireceğiz. bunun projelerini anlaşmalarını planlarını yapıyoruz.&quot; diye konuştu.
+     
+Toplantı sonrası Ulaştırma Bakanlığı ile Okan üniversitesi arasında iş birliği protokolü imzalandı.
+
+İş birliği porotokolünü Ulaştırma Bakanı Binali Yıldırım ile Okan Üniversitesi Mütevelli Heyeti Başkanı Bekir Okan ve Rektör Şule Kut imzaladı.
+</TEXT>
+</DOC>

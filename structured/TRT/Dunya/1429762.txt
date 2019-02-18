@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1429762 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8d5301f1-5063-4200-bb68-84ffe929318d </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 18:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sudan'da ��iddet 200 can ald��
+</HEADLINE>
+<TEXT>
+Sudan'ın güneyinde militanların düzenlediği saldırılarda son bir haftada 200'den fazla sivil hayatını kaybetti.
+
+Saldırılar ülkenin güneyindeki petrol zengini Congley eyaletinde düzenlendi.
+
+     Sudan ordusu, eski bir generale bağlı isyancı güçlerin, sivilleri hedef aldığını açıkladı. 
+
+     Bölgeyi ziyaret eden Güney Sudanlı yetkililer, sivillerin bir ırmakta toplanarak öldürüldüklerini bildirdi.
+
+     Toplanan cesetler, civardaki toplu mezarlara konuldu.
+
+     Milisler, bir kasabayı da 1 gün süreyle ele geçirdi.
+
+     Güney Sudanlılar, kuzeydeki Hartum yönetiminin, asi generale helikopterlerle silah ve para gönderdiğini iddia etti.
+
+     Ülkenin güneyinin referandumla kuzeyden ayrılma kararı alması ile bölgede şiddetin arttığına dikkat çekiliyor.
+
+    Referandumdan bağımsızlık kararı çıkmasının ardından, Güney Sudan&rsquo;ın Temmuz ayında bağımsızlığını ilan etmesi bekleniyor.
+
+</TEXT>
+</DOC>

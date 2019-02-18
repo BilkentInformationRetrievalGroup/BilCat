@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1404790 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eb365b90-7003-4443-a2b0-64784153d4fe </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 12:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yasemin devrimi'nin yank��lar�� s��r��yor
+</HEADLINE>
+<TEXT>
+Tunus'ta hükümeti protesto eden yüzlerce kişi yine sokaklarda...
+
+Tunus&rsquo;ta geçici milli birlik hükümetini protesto eden yüzlerce kişi haftasonu yine başkent sokaklarına çıktı.
+
+
+6 ay içinde yapılması planlanan seçimlere kadar görev yapacak milli birlik hükümetinde devrik Devlet Başkanı Zeynel Abidin Bin Ali&rsquo;nin partisinden isimler muhalefetin tepkisini çekiyor. 
+
+Anayasaya göre 60 gün içinde yeni devlet başkanını seçecek olan Tunuslular protestolara devam ediyor. 
+
+Yeni hükümetin açıklamaları, sokaklardaki tepkileri yatıştırmaya yetmedi. 
+
+Hayatını kaybedenler için 3 günlük ulusal yas ilan edilen ülkede, tüm siyasi mahkumlar serbest bırakılmıştı. 
+</TEXT>
+</DOC>

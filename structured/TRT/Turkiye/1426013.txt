@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1426013 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=40524c64-2e2e-4268-9d6e-4e77514acfa8 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 22:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+denizde internet keyfi
+</HEADLINE>
+<TEXT>
+İDO ve Türk Telekom yeni bir projeyi hayata geçirdi. Deniz otobüsü, feribot ve iskelelerde de kablosuz internet keyfi yaşanacak...
+
+
+Artık İstanbul&rsquo;da deniz otobüsü, feribot ve iskelelerde de kablosuz internet keyfi yaşanacak.
+
+Ulaştırma Bakanı Binali Yıldırım, projeyle İstanbulluların yaşamının kolaylaşacağını dile getirdi.
+
+Yıldırım, İstanbul Boğazı&rsquo;na yapılacak üçüncü köprü ihalesinin de bu ay içersinde gerçekleşebileceğini belirtti.
+
+Projenin tanıtım toplantısı İstanbul&rsquo;da Adnan Menderes Feribotunda yapıldı.
+
+Projeyle, 33 iskele ile hızlı feribotlara kurulan teknik altyapı sayesinde yolcular denizin ortasında internet keyfini yaşayabilecek.
+
+3&rsquo;üncü Köprü İhalesi Bu Ay Yapılabilir
+Ulaştırma Bakanı Binali Yıldırım İstanbul Boğazı&rsquo;na yapılacak üçüncü köprünün ihalesiyle ilgili bir soru üzerine, ihalenin bu ay içerisinde yapılabileceğini söyledi.
+</TEXT>
+</DOC>

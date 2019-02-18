@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1400253 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=34be2a47-ea58-4c34-b02a-b01c048c2c3e </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 12:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+h��rs��zlar bu ayr��nt��y�� atlay��nca...
+</HEADLINE>
+<TEXT>
+Muğla'nın Milas ilçesindeki bir camiden halı çalan hırsızları akıllarına gelmeyen bir hataları yakalattı. 
+
+Edinilen bilgiye göre, Milas ilçesinde camilerden halı çaldıkları iddia edilen 4 kişinin bulunduğu otomobil, jandarma ekipleri tarafından Beçin beldesinde durdurulmak istendi.
+
+&rsquo;&rsquo;Dur&rsquo;&rsquo; ihtarına uymayan hırsızlık zanlıları H.Ş (41), Ş.T. (35), Ç.G. (34) ve Y.A&rsquo;nın (42) bulundukları ve kiralık olduğu belirlenen otomobilde uydudan takip sistemi bulunduğunu belirleyen güvenlik güçleri, sistem sayesinde zanlıların yerini tespit ettiler.
+
+Beçin ile Bafa beldesi arasında bulunduğunu belirlenen otomobildeki zanlılar, yaklaşık 6 saat süren kovalamacanın ardından Kurudere köyünde yakaladı.
+
+Gözaltına alınan zanlıların hırsızlık suçundan çok sayıda suç kaydı bulunduğu öğrenildi. Zanlıların İzmir&rsquo;de hırsızlık suçlamasıyla haklarında tutuklama kararı bulunduğu ve Milas&rsquo;ta işlemlerinin tamamlanmasının ardından İzmir&rsquo;e gönderileceği kaydedildi.
+
+Öte yandan jandarma ekiplerinden kaçan hırsızların Kısırlar köyü camisinden çaldıkları halıları kovalamaca sırasında Beçin beldesi yakınlarında yol kenarına attıkları, halıları bulan vatandaşların jandarmaya teslim ettikleri öğrenildi. 
+
+
+</TEXT>
+</DOC>

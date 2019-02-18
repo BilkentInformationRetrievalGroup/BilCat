@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1416841 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d8a8c673-da38-4983-8266-35ded5110dec </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 09:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+benzin ve motorin zamlanacak m��?
+</HEADLINE>
+<TEXT>
+Motorinin rafineri çıkış fiyatı 8.5 kuruş zamlandı.
+
+14 Ocak’ta Tunus’taki Yasemin Devrimi’yle başlayan ve Mısır’da günlerdir yaşanan gösterilerin siyasi krize dönüşmesi ham petrol fiyatını bir anda 100 doların üzerine çıkardı.
+
+Petrol fiyatındaki bu artış, benzin ve motorinde zammı gündeme getirdi. 
+
+Motorinin rafineri çıkış fiyatı bugünden itibaren 8.5 kuruş zamlandı. 
+
+Zammın pompa fiyatlarına da aynen yansıması durumunda motorin fiyatları yüzde 2.4 civarında artacak.
+
+</TEXT>
+</DOC>

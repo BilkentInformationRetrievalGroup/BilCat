@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1381694 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0f753062-7895-4272-b7ef-8158aac4e220 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 10:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ya���� belirleyen kan testi
+</HEADLINE>
+<TEXT>
+Hollanda'da Erasmus MC Üniversitesi'nden bir grup bilim insanı, analize alınan kanın sahibinin yaşının tespit edilebileceğini buldu.
+
+Üniversiteden yapılan açıklamada araştırmaların sürdüğü, kesin sonuç için bir süre çalışmalara devam edileceği belirtildi. 
+
+Araştırmanın başında olan Mannfred Kayser, tekniğin henüz cinayet şüphelilerinin bulunması ve yaşının tespit edilmesi için erken olduğunu fakat en azından delil geliştrmede kullanılabileceğini söyledi. 
+
+Kayzer, bu teknik sayesinde çeşitli felaketlerde hayatını kaybetmiş insanların yaşının belirlenebileceğini de belirtti.
+</TEXT>
+</DOC>

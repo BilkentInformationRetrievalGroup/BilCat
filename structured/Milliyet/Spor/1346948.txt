@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346948 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fff932e/l/0l0smilliyet0n0btr0cschuster0ee0eguvenoyu0cspor0chaberdetay0c260b110b20a10a0c131870a40cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:13:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+schuster���������e g������venoyu
+</HEADLINE>
+<TEXT>Kulübün internet sitesinden yapılan açıklamada, Bernd Schuster'e tam destek verilerek, şu ifadeler kullanıldı:"Türk futbolunu Avrupa'da temsil etme onurunu taşıyan takımımızın, yoğun maç trafiği ve ortaya çıkan futbolcu sakatlıkları neticesinde yaşadığı puan kayıpları, basında yönetim ile teknik direktörümüz arasında bir güven eksikliğine yol açmış gibi gösterilmeye çalışılmaktadır. Modern futbolun temsilcisi teknik direktörümüz ile uzun vadeli planlar yapan yönetim olarak, bu vesileyle Sayın Schuster'e duyduğumuz güveni bir kez daha tekrarlama gereği hissettik."</TEXT>
+</DOC>

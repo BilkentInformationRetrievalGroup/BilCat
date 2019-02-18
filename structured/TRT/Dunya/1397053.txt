@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1397053 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0af5c3aa-98dd-403a-9097-fc8dea9615c1 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 20:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+assange: as��l d����man ��in
+</HEADLINE>
+<TEXT>
+Julian Assange, kurucusu olduğu Wikileaks'in teknolojik düşmanının Amerika Birleşik Devletleri değil, Çin olduğunu söyledi.
+
+
+Bir İngiliz dergisinde, gazeteci John Pilger&rsquo;ın sorularını yanıtlayan Julian Assange, saldırgan ve karmaşık bir önleme teknolojisi olan Çin&rsquo;e bilginin ulaşması için mücadele ettiklerini, asıl teknolojik düşmanlarının sanıldığının aksine Çin olduğunu kaydetti.
+
+     Assange, Amerika Birleşik Devletleri&rsquo;nin diplomatik yazışmalarını Wikileaks&rsquo;e sızdırmakla suçlanan Amerikalı asker Bradley Manning ile ilgili ise bu kişinin adını basında yer almadan önce duymadığını söyledi.
+
+     Amerika Birleşik Devletleri&rsquo;nin, Manning&rsquo;i, &quot;kendisiyle birlikte Amerika&rsquo;nın ulusal güvenliğine zarar vermeyi planladıkları&quot; yönünde itirafta bulunmaya zorladığını savunan Assange, kendilerine bilgi sızdıran kaynakların kimliklerini bilmediklerini, dolayısıyla bu tip bir komplonun imkansız olduğunu ifade etti.
+
+     Assange, kendisine veya Wikileaks&rsquo;e birşey olduğu takdirde, Amerikan hükümetiyle ilgili olanların yanı sıra, bazı medya devi şirketlere ait &quot;sigorta&quot; diye adlandırdığı belgeleri yayımlamaya başlayacaklarını, söyledi.
+
+     Bu arada yarın (15.01.2011) Amerika Birleşik Devletleri, Kanada, Avustralya, ve İspanya&rsquo;nın çeşitli kentlerinde Wikileaks ve konuşma özgürlüğünü desteklemek için gösteriler yapılması planlanıyor.
+
+
+
+</TEXT>
+</DOC>

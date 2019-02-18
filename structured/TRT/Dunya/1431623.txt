@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1431623 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f3115a91-888e-4d31-a305-f0442f391d6e </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 13:00:18.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yine nefes kesen bir kovalamaca...
+</HEADLINE>
+<TEXT>
+ABD'de otomobil hırsızı yakalanacağını anlayınca otomobilden böyle atladı. 
+
+ABD&rsquo;nin Maryland eyaletinin en büyük şehri olan Baltimore&rsquo;da helikopterle görüntülenen takip nefesleri kesti.
+
+Otomobil hırsızı ile polisler arasında devam eden kovalamacada an be an görüntülendi. 
+
+Uzun süre polislerden kaçmayı başaran zanlı kimi zaman ters yola girdi kimi zaman aracı tabiri caizse iğne deliğinden geçirdi... 
+
+Sonunda araçla kaçamayacağını anlayan zanlı hareket halindaki araçtan atlayıp yaya olarak kaçmaya çalıştı.
+
+Ancak kısa bir süre sonra yakalandı. 
+
+</TEXT>
+</DOC>

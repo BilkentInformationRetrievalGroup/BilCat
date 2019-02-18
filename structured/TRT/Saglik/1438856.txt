@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1438856 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=922b0bf7-065d-4257-b6d3-a604ff8efeef </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 10:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ocu��unuzu ��ok temiz ortamda b��y��tmeyin!
+</HEADLINE>
+<TEXT>
+Yapılan bir araştırma, çiftlik ve tarla ortamında büyüyen çocukların astıma karşı daha dirençli olduklarını ortaya çıkardı.
+
+
+
+Çocuğunuz tarlalarda, çiftliklerde büyüyorsa astımdan korkmanıza gerek yok.
+
+Zira buralarda barınan mikrop türleri bağışıklık sistemini harekete geçiriyor ve astıma karşı vücut özel bir koruma geliştiriyor.
+
+Çok temiz ortamlarda yetişen çocuklar içinse durum tehlikeli. Bağışıklık sistemi zayıf kalan çocuk astıma karşı savunmasız kalıyor.
+
+Almanya&rsquo;da Münih Üniversitesi&rsquo;nde araştırma grubuna başkanlık eden Doktor Markus Ege, bir grup çocuk üzerinde yaptıkları araştırmada çiftlik ve tarlalarda büyüyen ve buradaki mikrop ve böceklerle temas eden çocuklarda astımın neden yok denecek kadar az görüldüğünü  araştırdı.
+
+Markus Ege bu &quot;kirli&quot; mikropların çocukların bağışıklık sistemini geliştirdiğini belirtirken, çok temiz ortamlarda yaşayan çocukların ise bağışıklık sisteminin hiç uyarılmadığını ve astıma direnç gösteremediğini vurguladı.
+
+Bu böcekler ve mikroplardan yola çıkan uzmanlar astıma karşı aşı geliştirmeye hazırlanıyor. Aşı milyonlarca çocuğu astımdan koruyabilecek.
+</TEXT>
+</DOC>

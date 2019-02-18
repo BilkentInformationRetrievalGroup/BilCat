@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318625 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f38507d/l/0l0smilliyet0n0btr0cahmet0eozal0eak0eparti0edogru0eisler0eyapiyor0csiyaset0chaberdetay0c0a10b110b20a10a0c130a84870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 01:00:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ahmet ��zal: ak parti do��ru i��ler yap��yor
+</HEADLINE>
+<TEXT>DP Merkez İlçe Teşkilatının 2’nci Olağan Kongresi’ne katılan Özal, Sivas’a son geldiği döneme göre tarım ve hayvancılığın biraz daha kötüye gittiğini gördüğünü söyledi. Özal, Türkiye’nin 8 yıldan bu yana AK Parti yönetiminde çok doğru işler de yaptığını anlatırken, şöyle dedi:“Anavatan ile Doğru Yol Partisi’nin yaptığı bütün hatalar, oyların başka partilere kaymasına sebep olmuştur. Demokrat Parti süratle olması gereken yere gelmelidir."</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1438820 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=97415cce-0f03-44ea-8566-31a5198ca34a </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 09:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+key alacakl��lar��na m��jde!
+</HEADLINE>
+<TEXT>
+Konut Edindirme Yardımı kesintilerinin ödenmesinde 5. etap hazırlıkları bitti. 133 bin hak sahibi bu ödemeden yararlanacak.
+
+
+
+İlk etapta, beşinci KEY ödemesinden 300 bin kişinin yararlanacağı açıklanmıştı. 
+
+Ancak incelemelerde, birçok kamu kurumunun önceki ödemelerden yararlanmış kişileri yeniden bildirdiği belirlendi.
+
+Star Gazetesi&rsquo;nin haberine göre, liste, Emlak Gayrimenkul Yatırım Ortaklığı’na teslim edildi. Emlak Gayrimenkul de, kontrolün ardından Resmi Gazete’ye gönderecek. 
+
+Bu arada, KEY ödemelerine ilişkin yasal süreç mart sonu doluyor. 
+Ancak yetkililer, halen bilgileri hatalı olduğu için ödemelerden yararlanamayan 500 bin kişinin olduğunu bildirdiler. 
+
+Süre uzatılmazsa bu kişilerin KEY ödemelerinden yararlanmaları riske girecek.
+
+</TEXT>
+</DOC>

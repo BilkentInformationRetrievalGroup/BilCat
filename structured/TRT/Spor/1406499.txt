@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1406499 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f93e9bf6-13de-4027-9e84-c4c3918f8451 </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 11:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+italya serie a'dan g��r��n��m
+</HEADLINE>
+<TEXT>
+İtalya Birinci Futbol Ligi Serie A'da Lazio'nun düşüşü, AS Roma'nın ise çıkışı sürüyor.
+
+İtalya Birinci Futbol Ligi&rsquo;nin 21. haftası sonunda AC Milan, Cesena karşısında aldığı galibiyetle takipçilerinin puan farkını daha da indirmesine izin vermedi.
+
+AC Milan evinde ağırladığı Cesena&rsquo;yı 2-0&rsquo;lık net bir skorla geçti.
+
+Juventus ise Cenova deplasmanında Sampdoria&rsquo;ya konuk oldu. Siyah-beyazlı ekip, zorlu deplasmandan golsüz beraberlikle  döndü.
+
+Ligin 21. haftasında alınan sonuçlar ve oluşan puan durumu şöyle:
+
+Palermo-Brescia.: 1-0, Parma-Catania.: 2-0, AS Roma-Cagliari.: 3-0, Udinese-FC Inter.: 3-1, Sampdoria-Juventus.: 0-0, Chievo-Genoa.: 0-0, Bologna-Lazio.: 3-1, Bari-Napoli.: 0-2, Fiorentina-Lecce.: 1-1, AC Milan-Cesena.: 2-0
+
+Puan durumuna gelince, 44 puanı bulunan AC Milan Lider, Napoli 40 puanla ikinci, AS Roma 38 puanla üçüncü. Dördüncü sıradaki Lazio&rsquo;nun  37, beşinci sırada FC Inter&rsquo;in ise 35 puanı var. Son üç sıradaki takımlardan 18&rsquo;inci sıradaki Cesena&rsquo;nın 19 puanı bulunuyor. 19&rsquo;uncu sıradaki Brescia&rsquo;nın ise 18 puanı var. son sırada 14 puana sahip Bari yeralıyor.
+
+Gol krallığı yarışında zirvedeki isim 15 golü bulunan Udineseli Antonio Di Natale, takımının FC Inter&rsquo;i 3-1 yendiği maçta attığı golle zirvedeki yerini bu hafta da korumayı başardı. Di Natale&rsquo;yi 14 golle Napoli&rsquo;nin Uruguaylı golcüsü Edinson Cavani ve 13 gollü Bologna&rsquo;nınforveti Marco Di Vaio izliyor.
+
+</TEXT>
+</DOC>

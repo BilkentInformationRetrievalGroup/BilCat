@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1410049 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=156b11c6-3951-459e-917d-22895a456691 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 11:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+japonya'da k��l kabusu
+</HEADLINE>
+<TEXT>
+Ülkenin güneydoğusudaki Kirişima yanardağının püskürttüğü buhar ve kül hava ulaşımını olumsuz etkiliyor. 
+
+
+
+Yanardağın faaliyete geçmesi üzerine bölgede alarm verildi. 
+
+Yanardağın zirvesinden püsküren küller 2 kilometreye kadar yükseldi.
+
+Civardaki yerleşim merkezleri kül tabakasıyla kaplandı, işyerleri, okullar ve bazı yollar kapandı.
+
+Görmeyi güçleştiren kül yüzünden, bölgeden geçen uçakların güzerhahı değiştirildi, bazı uçak ve tren seferleri iptal edildi.
+
+Kirişima&rsquo;daki patlamaların önümüzdeki günlerde daha da şiddetlenmesi bekleniyor. 
+
+</TEXT>
+</DOC>

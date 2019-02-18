@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1433472 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7307a265-dc05-4b9b-9d1e-c977263ebeea </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 00:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"����z��ms��zl������n sebebi t��rk taraf��"
+</HEADLINE>
+<TEXT>
+New York'ta Ban Ki Moon'la biraraya gelen Yunan Dışişleri Bakanı, Kıbrıs'taki çözümsüzlüğün sebebinin Türk tarafı olduğunu iddia etti.
+
+
+Yunanistan Dışişleri Bakanı Dimitris Druças, Birleşmiş Milletler Genel Sekreteri Ban Ki Moon ile New York&rsquo;ta biraraya geldi.
+
+Rumlar Yapıcı Tutum İzlemiş...
+Druças görüşmenin ardından yaptığı açıklamada, Kıbrıs&rsquo;taki çözümsüzlüğün Türk tarafının suçu olduğunu, Rumların başından beri yapıcı bir tutum izlediğini savundu.
+
+Yunanistan Dışişleri Bakanı Druças, Türkiye&rsquo;yi daha önce üzerinde uzlaşılan önerileri terk etmekle de suçladı.
+
+Druças, görüşmede Ban Ki Moon&rsquo;a, çözüm sürecinde Rum tarafının Avrupa Birliği üyeliğinin göz önünde bulundurulması gerektiğini de söyledi.
+</TEXT>
+</DOC>

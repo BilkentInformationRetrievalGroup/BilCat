@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1402571 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0bcc2f23-2527-4694-9045-1a2adf16187e </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 11:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+300 bin hastaya evde bak��l��yor
+</HEADLINE>
+<TEXT>
+3 yıl önce 28 bin olan evde bakım hizmeti 297 bin hastaya çıktı.
+
+Yaşlılar, engelliler, evden dışarı çıkamayacak durumdaki hastalar artık sahipsiz değil. Sosyal Hizmetler Çocuk Esirgeme Kurumu (SHÇEK), Sağlık Bakanlığı&rsquo;yla birlikte başlattığı proje çerçevesinde geçen yıl 297 bin hastaya evinde bakım hizmeti verdi. Bu rakam üç yıl önce 28 bin civarındaydı.
+
+Sosyal devlet olma yönünde önemli adımlar atan Türkiye, artık bakıma muhtaç engellilerinin, yaşlılarının, dışarı çıkamayacak durumdaki hastalarının tedavi ve bakımlarını evlerinde yapıyor. 
+
+Hükümetin &rsquo;bakım hizmetleri eylem planı&rsquo; çerçevesinde Sosyal Hizmetler Çocuk Esirgeme Kurumu (SHÇEK), Sağlık Bakanlığı ve belediyeler önemli çalışmalara imza atıyor. 
+
+SHÇEK, geçen yıl 297 bin engelliye evde bakım hizmeti sundu. 2007 yılında bu rakam 28 bin civarındaydı. Sağlık Bakanlığı da tüm illerde hastaneye gidemeyecek durumdaki yaşlılar, yatağa bağlı hastalar ile kronik rahatsızlığı bulunanların evlerine doktor ve hemşire gönderiyor. 
+
+İstanbul Büyükşehir Belediyesi de günde ortalama 180 hastaya evinde bakıyor. Belediyenin 2004&rsquo;ten beri bu şekilde hizmet sunduğu hasta sayısı 85 bini aştı.
+
+Sağlık Bakanlığı&rsquo;nın tüm Türkiye&rsquo;de geçerli olan 444 38 33 numaralı hattı aranarak eve sağlık ekibi çağrılabiliyor. 
+</TEXT>
+</DOC>

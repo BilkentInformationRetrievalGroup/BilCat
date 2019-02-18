@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337123 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af66/l/0l0smilliyet0n0btr0c280ekatli0ekulede0eyangin0e50eolu0e90a0eyarali0cdunya0csondakika0c150b110b20a10a0c13147250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:01:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+28 katl�� kulede yang��n: 5 ��l��, 90 yaral��
+</HEADLINE>
+<TEXT>Çin’in Şanghay kentinin merkezindeki 28 katlı bir kulede çıkan yangında 5 kişi öldü, 90 kişi yaralandı.Yerel yetkililer ve medya kuruluşları, yenileme çalışmalarının yapıldığı kuledeki yangından sonra etrafı yoğun bir duman bulutunun kapladığını, bazı kişilerin alevlerden kaçmak için pencerelerden atladığını bildirdi.Aynı kaynaklar, çatıya çıkan bazı kişilerin el-kol işaretleriyle civarda uçan helikoptere yardım çağrısında bulunduğunu, olay yerine gelen itfaiyecilerin de yangını söndürme çalışmaları yürüttüğünü kaydetti.</TEXT>
+</DOC>

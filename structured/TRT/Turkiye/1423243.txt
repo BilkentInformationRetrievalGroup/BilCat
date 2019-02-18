@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1423243 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8d023fc5-62f6-4c02-9693-8d817cc31c68 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 12:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��r kuyru��unda bir ��l�� bulundu
+</HEADLINE>
+<TEXT>
+Gürbulak sınır kapısında 10 kilometreye varan tır kuyruğu oluşurken bir TIR sürücüsü aracının içinde ölü bulundu.
+
+Ağrı’nın Doğubayazıt ilçesi yakınlarındaki Türkiye-İran Gürbulak sınır kapısında kar yağışı nedeniyle günlerdir kapalı olan yollar açılınca uzun kuyruklar oluştu. 
+
+Bu yoğunluğa birde sistemdeki sıkıntılar eklenince 10 kilometrelik TIR kuyruğu meydana geldi.
+
+Tır şoförlerinin çileli bekleyişi devam ediyor. Dün gece gümrük sahası içinde Nasrettin Aktürk adındaki bir Tır sürücüsü aracının içinde ölü bulundu.
+ 
+     Sürücünün ölüm nedeninin belirlenebilmesi amacıyla cenaze, otopsi yapılmak üzere Trabzon&rsquo;a gönderildi.
+
+</TEXT>
+</DOC>

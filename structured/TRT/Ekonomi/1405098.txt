@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1405098 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=aa82e04e-a1d2-4688-a250-cbc7e3cffa89 </URL>
+<DATE> 2011/01/22 </DATE>
+<TIME> 19:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+antalya'ya iki h��zl�� tren projesi...
+</HEADLINE>
+<TEXT>
+Ulaştırma Bakanı Binali Yıldırım, Antalya'ya yönelik iki tane hızlı tren projesi olduğunu söyledi.
+
+
+Antalya&rsquo;da bulunan Ulaştırma Bakanı Binali Yıldırım, Ankara- İstanbul hattının Eskişehir üzerinden Afyonkarahisar ve Antalya&rsquo;ya ineceğini; ayrıca Antalya&rsquo;dan Konya ve Kayseri&rsquo;ye ayrı bir güzergah olacağını ifade etti.
+
+Projelerin ne zaman biteceğinin kesin olmadığını belirten Yıldırım, projelerin 2023 hedeflerinin içerisinde yer aldığını söyledi.
+
+Yıldırım, Antalya&rsquo;dan Alanya&rsquo;ya ayrı bir güzergahtan otoyol yapımı için de proje ihalesine çıkacaklarını söyledi.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333628 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f8437ee/l/0l0smilliyet0n0btr0cbayram0ein0eilk0eiki0egunu0eispark0etan0ehediye0cturkiye0csondakika0c10a0b110b20a10a0c13126980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:43:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bayram'��n ilk iki g��n�� ispark'tan hediye
+</HEADLINE>
+<TEXT>Belediyeden yapılan açıklamada, alınan karar doğrultusunda İSPARK’ın kent genelinde yaklaşık 500 noktadaki yol üstü otoparklarının 16 ve 17 Kasımda ücretsiz, kapalı ve açık otoparkların ise ücretli olacağı belirtildi.Ücretsiz otopark uygulaması yapılan özel günlerde, bazı noktalarda yetkisiz ve kurumla bağlantısı olmayan kişilerin istismar ederek para talebinde bulunduğu uyarısı yapılan açıklamada, vatandaşların bunlara itibar etmeyerek açık otoparklarda bayramın ilk iki günü ücret ödemeyecekleri kaydedildi.Açıklamada, bayram boyunca İstanbulluların her türlü şikayetlerinde İSPARK’a "212 274 20 20" numaralı hizmet hattından ulaşılabileceği ifade edildi.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337854 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68ab/l/0l0smilliyet0n0btr0cscania0eve0eman0ebirlesme0egorusmeleri0eyapiyor0cekonomi0chaberdetay0c160b110b20a10a0c131490a40cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:01:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+scania ve man birle��me g��r����meleri yap��yor
+</HEADLINE>
+<TEXT>FRANKFURT ReutersScania tarafından yapılan açıklamada, “Bu süreç, potansiyel sinerjilerin tümüyle gerçekleştirilebilmesinin, iki şirket birleştirilerek, marka değerleri korunarak, daha yakın bir işbirliğini gerektirdiğini gösterdi” denildi. Bir süre önce Volkswagen’in Scania’daki payını yüzde 75-80’e çıkararak MAN’daki yüzde 30 hissesini de İsveçli şirkete aktarmayı planladığı söyleniyordu. Açıklamanın ardından MAN hisseleri değer kazanırken, Scania ve Volkswagen hisseleri değer kaybetti.</TEXT>
+</DOC>

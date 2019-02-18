@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1405573 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bb04f699-167d-4e4b-b66d-94ad3a516d8c </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 11:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+do��algaz��n y��ld��z�� 2011'de parlayacak
+</HEADLINE>
+<TEXT>
+ Türkiye en büyük doğalgaz dağıtımı ve yatırımını 2011 yılında gerçekleştirecek.
+
+
+Bu yıl 60 bölgede yatırımları ve faaliyetleri devam eden doğalgaz dağıtım şirketleri tarafından 1 milyona yakın yeni aboneye doğalgaz ulaştırılması hedefleniyor.
+ 
+ Doğalgaz dağıtım şirketleri tarafından Enerji Piyasası Düzenleme Kurumu&rsquo;na (EPDK) sunulan yatırım ve abone hedeflerine göre 2011 yılında yaklaşık 986 bin 364 aboneye doğalgaz ulaştırılacak. Bu rakam önümüzdeki beş yılda 5  milyon 290 bine çıkacak.
+ 
+Dağıtım şirketleri tarafından 5 yıllık dönemde 2,8 milyar liralık yatırım gerçekleştirilmesi hedefleniyor. Bu yatırımın 857 milyon 337 bin 138 liralık en büyük kısmı da 2011 içinde yapılacak.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1437243 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=efbd823c-ec05-492d-98bc-29f8e53f862e </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 17:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+italya petrol ��okunda!
+</HEADLINE>
+<TEXT>
+Petrol ihtiyacının yüzde 25'ini, gaz ihtiyacının ise yüzde 10'unu Libya'dan karşılayan İtalya'nın 90 gün yetecek petrolü, 30 gün yetecek gazı kaldı.
+
+İtalyan hükümet kaynakları, Libya limanlarından petrol sevkiyatının durdurulduğunu açıkladı. Söz konusu durumun petrol fiyatları üzerinde ciddi baskı yapacağı belirtiliyor. Libya&rsquo;nın günlük petrol üretimi 100 bin varili buluyor. 
+
+OPEC Petrol Üretimini Artırabilir
+Libya&rsquo;dan petrol arzının sıkıntıya girmesi OPEC&rsquo;i harekete geçirdi. Bu kapsamda OPEC&rsquo;in petrol üretimini artırabileceği konuşuluyor. Petrol spekülatörlerinin fiyatlar üzerindeki etkilerinin petrol üreticilerini kaygılandırdığı da belirtiliyor.
+
+Diğer yandan, söz konusu durum İtalya kanadında kaygıyla izleniyor. Çünkü Libya, İtalya&rsquo;nın petrol ihtiyacının yüzde 25&rsquo;ini, gaz ihtiyacının da yüzde 10&rsquo;unu karşılıyor.
+
+Bu arada  İtalya&rsquo;nın 90 gün yetecek kadar petrolü, 30 gün yetecek kadar gazı kaldı. 
+
+İtalyan Borsasında &quot;Teknik&quot; Mola
+Libya&rsquo;daki yönetim karşıtı gösteriler nedeniyle dün yüzde 3,59 oranında değer kaybeden Milano Borsası, bu sabah &quot;teknik nedenlerle&quot; açılamadı. 
+
+İtalyan Borsasından yapılan açıklamada, Milano Borsası&rsquo;nın &quot;teknik problemler&quot; nedeniyle bu sabah borsanın açılış saati olan 08.00&rsquo;de açılamadığını duyurdu. TSİ 15:00 itibariyle borsada hala işlemin yapılamadığ görülüyor. Borsa sözcüsü, işlemlerin geçici süreyle askıya alındığını belirterek, konuya ilişkin daha fazla bilgi vermedi.
+
+Yönetim karşıtı gösterilerin yaşandığı Libya ile güçlü ekonomik bağlantıları olan Milano Borsası&rsquo;nın temel göstergesi FTSE Mib endeksi, Pazartesi günü (21.02.2011) yüzde 3,59 oranında değer kaybederek 22.230 puandan kapanmış, borsada işlem gören Libya ile ekonomik bağlantıları olan İtalyan şirketlerinin hisseleri de önemli oranda değer kaybetmişti.
+</TEXT>
+</DOC>

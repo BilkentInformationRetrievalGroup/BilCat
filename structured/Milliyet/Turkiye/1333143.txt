@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1333143 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f832594/l/0L0Smilliyet0N0Btr0Cgoogle0Edan0Eataturk0Eicin0Eozel0Etasarim0Cturkiye0Csondakika0C10A0B110B20A10A0C13126690Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:43:06.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan Atatürk için özel tasarım
+</HEADLINE>
+<TEXT>’ın  ana sayfasındaki kırmızı gülün üzerine tıklandığında "Ulu Önder Atatürk’ü Saygıyla Anıyoruz" yazısı görülüyor.
+
+’Doodle" olarak nitelendirilen özel tasarımlı logolar, 1999 yılından itibaren Google’ın kurucuları Larry Page ve Sergey Brin tarafından kullanıldı.
+
+Doodle uygulamaları, tüm dünya ülkeleri için önemli gün ve tatillere, kültürel olaylara ve tarihte yer alan önemli kişilere bu platformda yer vererek, dikkati çekmeyi amaçlıyor. Ayrıca  kullanıcıları, bu özel tasarımlı logonun üstüne tıklayarak, o güne, kişiye, konuya özel daha ayrıntılı bilgiye erişebiliyor.</TEXT>
+</DOC>

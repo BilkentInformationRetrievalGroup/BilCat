@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1380660 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fa16c670-f30b-4dad-a77c-80d1c5ca5fad </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 10:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ismail batur g��revden al��nd��
+</HEADLINE>
+<TEXT>
+Spor Toto 3. Lig 2. Grup takımlarından Gümüşhanespor'un teknik direktörü İsmail Batur görevinden alındı.
+
+Gümüşhanespor Başkan Kurban Karagöz, yaptığı yazılı açıklamada, Batur&rsquo;un görevine son verdiklerini ve yeni hoca arayışına 
+girdiklerini belirterek, &rsquo;&rsquo;Yeni teknik direktörü 6 Ocak&rsquo;ta Antalya&rsquo;da başlayacak kampa yetiştireceğiz&rsquo;&rsquo; dedi.
+     
+</TEXT>
+</DOC>

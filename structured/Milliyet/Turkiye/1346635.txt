@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346635 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/ffd4e3f/l/0l0smilliyet0n0btr0cdusen0eyildirim0e20ehektar0eormani0ealanini0eyakti0cturkiye0csondakika0c250b110b20a10a0c1318480a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 19:12:06.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+d����en y��ld��r��m 2 hektar orman�� alan��n�� yakt��
+</HEADLINE>
+<TEXT>Mersin’de, yıldırım düşmesi sonucu çıkan orman yangınında 2 hektar alan zarar gördü.Alınan bilgiye göre, Aydıncık ilçesi Yeniyörük mevkisindeki ormanlık alana yıldırım düşmesi sonucu yangın çıktı. Rüzgarın etkisiyle büyüyen yangın, Aydıncık Orman İşletme Şefliği ekiplerinin müdahalesi ile söndürüldü.Yangında 2 hektar kızılçam ormanlık alanının zarar gördüğü bildirildi.</TEXT>
+</DOC>

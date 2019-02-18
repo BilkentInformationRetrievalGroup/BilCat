@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337506 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa91360/l/0l0smilliyet0n0btr0cdevler0eeleman0eavina0ecikti0e0cekonomi0csondakika0c150b110b20a10a0c13147630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:00:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+devler eleman av��na ����kt��!
+</HEADLINE>
+<TEXT>/devler-eleman-avina-cikti-/ekonomi/sondakika/15.11.2010/1314763/default.htm?PAGE="+pageNo;                  }                  function showAllPage()                  {                                        document.location.href = "http://www.milliyet.com.tr/devler-eleman-avina-cikti-/ekonomi/sondakika/15.11.2010/1314763/default.htm?PAGE="+(parseInt(totalPage)+1)+"?AllPage=1";                                      }                İleriTümünü Oku            document.getElementById('idNext').style.display=nextVisible;            document.getElementById('idPrev').style.display=prevVisible;                          document.getElementById('liTekSayfa').style.display="block";            Toplu taşıma yerine hayalindeki otomobil buradaYorum yaz Arkadaşına gönderSitene ekleSayfayı yazdırAA+-</TEXT>
+</DOC>

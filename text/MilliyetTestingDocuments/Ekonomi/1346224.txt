@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346224 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffbc8e2/l/0l0smilliyet0n0btr0c0eavrupa0efinansal0ekrizden0etam0ekurtulmus0edegil0e0cekonomi0csondakika0c250b110b20a10a0c13184170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 17:00:48.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���avrupa finansal krizden tam kurtulmu�� de��il���
+</HEADLINE>
+<TEXT>Fransa Başbakanı Francois Fillon, Avrupa’nın, Yunanistan ve İrlanda’yı vuran finansal krizden tam kurtulmuş olmadığını söyledi.Fillon, Parlamento’da yaptığı konuşmada, Fransa’nın sıkı bütçe disiplinini koruma taahhüdünde olduğunu belirtti.Krizlerin yayılmayı sürdürdüğünü ifade eden Fillon, Avrupa’nın ekonomik durgunluk ve aşırı borçluluk krizi tehdidi içinde olduğuna işaret etti.Fillion, Fransa’nın bu yıl yüzde 1,5’lik ekonomik büyümeyi başaracağını, hükümetin gelecek yıl için yüzde 2 büyüme hedefinin ise ulaşılabilir olduğunu kaydetti.</TEXT>
+</DOC>

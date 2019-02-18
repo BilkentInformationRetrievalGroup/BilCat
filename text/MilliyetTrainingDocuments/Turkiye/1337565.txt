@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337565 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fa98f5a/l/0l0smilliyet0n0btr0chatay0eda0ekavga0e70eyarali0cturkiye0csondakika0c150b110b20a10a0c1314780a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:08:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hatay'da kavga: 7 yaral��
+</HEADLINE>
+<TEXT>"Kız istemeye gelenlerin" reddedilmesi üzerine Temizkan ile Ünal aileleri arasında kavga çıktı. Aile mensupları, av tüfeği, taş ve sopalarla birbirine saldırdı.Saldırılarda yaralanan Nizamettin Temizkan, Mehmet Emin Temizkan, Melek Çakıcıoğlu, Hatice Aksu, Hülya Karlıoğlu, Ahmet Ünal ve Melike Temizkan, Antakya Devlet Hastanesi ile Mustafa Kemal Üniversitesi (MKÜ) Araştırma Uygulama Hastanesi’nde tedavi altına alındılar.Yetkililer, kavgayı yatıştırmak için Antakya’dan takviye kuvvet geldiğini, tarafların barıştırıldığını, soruşturmanın sürdüğünü kaydetti.</TEXT>
+</DOC>

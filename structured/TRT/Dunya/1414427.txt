@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1414427 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=78704699-d8cb-42e5-a7d3-a2ba9c428426 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 23:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bolivya'y�� sel vurdu: 31 ��l��
+</HEADLINE>
+<TEXT>
+Bolivya'da yağan şiddetli yağmurlar bir otobüs ve kamyonun sulara kapılmasına yol açtı.
+
+Bolivya&rsquo;da şiddetli yağmurlar can aldı.
+
+Ülkenin güneyinde Mollepunku nehri üzerinden geçmek isteyen bir otobüs ve kamyon taşan sulara kapılarak sürüklendi.
+
+Olayda aralarında çocukların da bulunduğu 31 kişinin hayatını kaybettiği bildiriliyor.
+</TEXT>
+</DOC>

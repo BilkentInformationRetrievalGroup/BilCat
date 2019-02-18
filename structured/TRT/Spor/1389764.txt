@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1389764 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8c2b7aae-24dc-48fe-a371-1078b415fa46 </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 20:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ziraat t��rkiye kupas��
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası'nda 3. hafta karşılaşmalarını yönetecek hakemler belli oldu.
+
+
+Türkiye Futbol Federasyonu Merkez Hakem Kurulu&rsquo;ndan yapılan açıklamaya 
+ göre, Ziraat Türkiye Kupası 3. hafta maçlarında düdük çalacak hakemler şöyle:
+
+11 Ocak Salı:
+21.00 Galatasaray-Beypazarı Şekerspor: Deniz Çoban
+14.00 Konya Torku Şekerspor-Trabzonspor: Suat Arslanboğa
+19.00 Kasımpaşa-Kırıkhanspor: Taner Gizlenci
+13.30 İstanbul Büyükşehir Belediyespor-Karşıyaka: Mustafa Öğretmenoğlu
+
+12 Ocak Çarşamba:
+18.00 Denizlispor-Gaziantepspor: Hüseyin Sabancı
+20.00 Manisaspor-Beşiktaş: Özgür Yankaya
+19.00 Bucaspor-Gençlerbirliği: Mustafa Kamil Abitoğlu
+20.00 Yeni Malatyaspor-Fenerbahçe: Mustafa İlker Coşkun
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1423408 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c1cb071b-55e2-47a5-8587-97f5a0704fb2 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 15:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+baros 5. zapatocny 24. oldu
+</HEADLINE>
+<TEXT>
+Milan Baros ülkesinde yapılan yılın futbolcusu anketinde 5. oldu.
+
+Sarı-kırmızılıların yıldız futbolcusu Milan Baros ülkesi Çek Cumhuriyeti&rsquo;nde yapılan yılın futbolcusu anketinde 100 puan aldı.
+
+Ankette en çok oyu Chelsea&rsquo;nın kalecisi Petr Cech kazandı.
+
+Petr Cech 590 oy ile birinci olurken bu ünvanı üst üste 3&rsquo;ncü kez elde etti.
+
+Beşiktaşlı Sivok 2 oyla 20&rsquo;nci Sparta Prag&rsquo;a dönen eski Beşiktaşlı Zapatocny ise 1 oy ile 24&rsquo;ncü sırada yer bulabildi.
+</TEXT>
+</DOC>

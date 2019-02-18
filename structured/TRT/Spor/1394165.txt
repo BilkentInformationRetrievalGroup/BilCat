@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1394165 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=12e6f068-a245-472e-b14a-73b05375d31e </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 13:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bisiklet��iler bu y��l bo��az�� da ge��ecek
+</HEADLINE>
+<TEXT>
+Cumhurbaşkanlığı Bisiklet Turu, 2011'e, farklı bir başlangıç yapacak.
+
+
+Asya ve Avrupa kıtaları arasındaki köprü geçişleri, İstanbul&rsquo;da yapılan spor organizasyonlarına farklı bir heyecan katıyor.
+
+Avrasya Maratonu&rsquo;nda atletler her iki kıtada koşarak bitiş çizgisine ulaşıyor. Bisikletçiler de, hem Asya&rsquo;da hem de Avrupa&rsquo;da pedal basacak.
+
+Şampiyonlar Ligi&rsquo;nde yerini alarak prestijini pekiştiren Cumhurbaşkanlığı Bisiklet Turu, İstanbul parkuruna Boğaziçi Köprüsü&rsquo;nün de eklenmesiyle, kıtalararası ilk bisiklet turu unvanını da kazanmış olacak.
+
+Yarış yine Sultanahmet Meydanı&rsquo;ndan başlayacak.
+
+Boğaziçi Köprüsü&rsquo;nü geçen bisikletçiler ardından Bağdat Caddesi&rsquo;nde 6 tur atacak.
+
+Bu yılki yarışın bitiş etabı da değişti. Antalya-Alanya etabı turdan çıkarıldı. 
+
+8 etaptan oluşacak, toplam bin 390 kilometrelik tur, Side-Alanya etabıyla son bulacak
+</TEXT>
+</DOC>

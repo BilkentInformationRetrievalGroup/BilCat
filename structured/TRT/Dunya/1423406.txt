@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1423406 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4f3e219d-265b-4f98-a517-f586e6903793 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 15:00:25.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"kar bombas��" gibi...
+</HEADLINE>
+<TEXT>
+ABD'de TIR üzerindeki kar yola adeta bomba gibi düştü.
+
+Amerika’nın üçte birlik bölümünde etkili olan kar yağışı ve aşırı soğuk hava yaşamı olumsuz etkiliyor.
+
+Aşırı kar nedeniyle 2 gün park etmek zorunda kalan bir TIR, yağışın durması ve yolların açılması üzerine hareket etti. 
+
+Üzerinde 1 metreden fazla kar bulunan TIR, yolda ilerlerken her zaman rahatlıkla altından geçebildiği köprüye geldi. 
+
+Sürücü hızını kesmeden yoluna devam edince, üzerindeki kar üst geçide çarptı ve karayoluna adeta &quot;kar bombası&quot; düştü.
+
+</TEXT>
+</DOC>

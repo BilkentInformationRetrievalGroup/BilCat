@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1414232 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1207d7a6-de4c-46bf-982a-2bfc5c683c15 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 17:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"zaman bankac��l������" nedir?
+</HEADLINE>
+<TEXT>
+İtalya'da öyle bir banka var ki, müşterinin parası ile ilgilenmiyor. "Zaman Bankası"nın verdiği kredi, paranın satın alamayacağı şeyleri kapsıyor...
+
+Amerika Birleşik Devletleri ve İngiltere&rsquo;de örneklerine rastlanan &quot;zaman bankası&quot; şimdi de İtalya&rsquo;da hizmete açıldı.
+
+Takas sisteminin çağdaş versiyonu olarak görülebilecek zaman bankacılığında bireyler, diğer insanlara kazandırdıkları fayda miktarınca &quot;zaman puanı&quot; kazanıyor.
+
+Üyeler, kazandıkları zaman puanlarını da, kendi ihtiyaçları olan başka bir konuda harcayabiliyor.
+
+Mesela, birilerine pizza yaparak kazandığınız puanları dans eğitimi alarak harcayabiliyorsunuz.
+
+Sosyal paylaşımı arttırmaya yönelik bu sistemin en yaygın uygulandığı alanlar; çocuk ve hasta bakımı ile tamirat işleri ve özel dersler...
+
+Zaman bankacılığının Avrupa&rsquo;da toplulukları ve bireyleri biribirine yaklaştıracağı, ırkçı duyguları törpüleyeceği umut ediliyor.
+</TEXT>
+</DOC>

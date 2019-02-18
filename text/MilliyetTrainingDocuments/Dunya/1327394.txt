@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327394 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5f9072/l/0l0smilliyet0n0btr0cpakistan0edaki0esaldirida0eolu0esayisi0e50a0eye0eyukseldi0cdunya0csondakika0c0a50b110b20a10a0c1310a6430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:01:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+pakistan'daki sald��r��da ��l�� say��s�� 50'ye y��kseldi
+</HEADLINE>
+<TEXT>Pakistan’da bir camiye düzenlenen intihar saldırısında ölenlerin sayısı 50’ye çıktı.Yerel yetkililer, Peşaver kenti yakınlarındaki Darra Adam Hel bölgesinde bir Sünni camisine cuma namazı sırasında düzenlenen saldırıda 50 kişinin öldüğünü, 80 kişinin yaralandığını belirtti.Daha önce yapılan açıklamada 40 kişinin öldüğü, caminin yıkıldığı bildirilmişti.</TEXT>
+</DOC>

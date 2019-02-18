@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1431904 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7d2b15fe-2bd9-47d6-9b6b-fd744cc36048 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 16:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kom��uda bakan domuz gribi oldu
+</HEADLINE>
+<TEXT>
+Domuz gribi salgını Yunanistan'da paniğe neden oluyor. Salgının son kurbanı İçişleri Bakanı Yannis Ragusis oldu.
+
+     Ülkede bu yıl domuz gribi virüsünden hayatını kaybedenlerin sayısı 74&rsquo;e çıktı.
+
+Salgının son kurbanı İçişleri Bakanı Yannis Ragusis oldu.
+     
+Geçen Cuma günü rahatsızlanan İçişleri Bakanı Ragusis&rsquo;in iki gün önce yüksek ateşle evinde tedavi altına alındığı bildirildi.
+
+     Yapılan tetkiklerde, bakanın domuz gribine yakalandığı tespit edildi.
+
+      Ülkede son 24 saate 7 kişinin domuz gribinden hayatını kaybettiği açıklandı.
+
+      Hastanelerin yoğun bakım ünitelerinde ise 126 kişi gözlem altında tutuluyor.
+
+     Sağlık yetkilileri 48 saati aşkın süre yüksek ateşi olan şahıslara doktorları ile temasa geçmeleri çağrısında bulunurken, halka da grip aşısı yaptırmalarını tavsiye ettiklerini vurguladı. 
+</TEXT>
+</DOC>

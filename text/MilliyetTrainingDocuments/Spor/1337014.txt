@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337014 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa6a587/l/0l0smilliyet0n0btr0cmehmet0ehelvaci0edan0eistifa0eaciklamasi0cspor0csondakika0c150b110b20a10a0c13146480cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:11:38.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+mehmet helvac��'dan istifa a����klamas��
+</HEADLINE>
+<TEXT>İkinci başkan, ‘G.Saray’da başkan tatilde diye işler durmaz’ diyerek üstü kapalı gönderme yaptı.CİMBOM’da 2. başkan Mehmet Helvacı, yaşanan kötü gidiş üzerine bugün yönetim kurulu olarak toplanıp, kararlar alacaklarını belirterek, “G.Saray sahipsiz değil, gerekeni yapacağız. Radikal bir karar alıp, almayacağımızı birlikte anlayacağız” diye konuştu. İstifa konusunda ise “Bütün bunları yönetim kurulu olarak konuşup, karar altına almak lazım” dedi. Helvacı bir TV kanalına ise “Adnan Polat burada değil, başkan olmadan nasıl karar alacaksınız” sorusuna ise iğneli bir yanıt verdi: “Kimse tek başına karar veremez. Adnan Polat tatilde diye G.Saray’ın işleri duracak değil.” Bu arada bugünkü toplantıda muhalif kanadın Adnan Sezgin’in istifasını isteyeceği öğrenildi.</TEXT>
+</DOC>

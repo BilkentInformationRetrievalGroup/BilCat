@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1400144 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=db71531a-d8d2-4c80-bbed-08a6e9dfbf96 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 10:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"t��rk i��aret dili"ne yeni d��zenleme
+</HEADLINE>
+<TEXT>
+Türk İşaret Dili Sisteminin Oluşturulması yönetmeliğinde değişiklik yapıldı.
+
+Yapılan değişiklikle yönetmelikte geçen &quot;federasyon&quot; kelimesinin tanımı değiştirildi.
+
+Yönetmeliğin önceki halinde &rsquo;&rsquo;İşitme özürlülerin tüm sorunlarına yönelik faaliyet gösteren en çok üyeye sahip işitme engelliler federasyonu&rsquo;&rsquo; olan &rsquo;&rsquo;Federasyon&rsquo;&rsquo; tanımına, &rsquo;&rsquo;Bakanlar Kurulu kararı ile kamuya yararlı statüsü bulunan ve İçişleri Bakanlığınca denetlenmekte olan&quot; ibaresi eklendi.
+
+Yeni yönetmelikle Türk işaret dili ile ilgili araştırma ve geliştirme çalışmaları yapmakla görevli olan Türk İşaret Dili Bilim Kurulu&rsquo;nun üye sayılarında da artış yapıldı. 
+
+Oluşturulan kurul Türk İşaret Dili konusunda yazılı ve görsel araçları belirleyecek, bu konuda oluşturulacak programları onay için Milli Eğitim Bakanlığı&rsquo;na sunacak.
+
+</TEXT>
+</DOC>

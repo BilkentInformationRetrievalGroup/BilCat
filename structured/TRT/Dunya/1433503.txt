@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1433503 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8af4ff59-8d77-4fbf-a37c-9e51f0e31332 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 01:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'den israil'e destek
+</HEADLINE>
+<TEXT>
+ABD, BM Güvenlik Konseyi'nde İsrail'in Filistin'de Yahudi yerleşim yerleri inşaasını yasadışı ilan eden karar tasarısını veto etti.
+
+
+Amerika&rsquo;nın veto ettiği tasarı için diğer 14 üye evet oyu kullandı.
+
+Güvenlik Konseyi tasarısı Yahudi yerleşim yerleri inşaasının durdurulmasını öngörüyordu.
+
+Washington yönetimi yeni Yahudi yerleşim yerleri konusunu Birleşmiş Milletler&rsquo;e taşımanın iki devletli bir çözüm için İsrail ile Filistin arasında tıkanan görüşmelerin açılması çabalarına zarar vereceğini iddia ediyor.
+
+Filistin yönetimi ise İsrail Batı Şeria ve Doğu Kudüs&rsquo;teki Yahudi yerleşim yerleri inşaasını askıya almadan barış görüşmelerine katılmayacağını açıklamıştı.
+</TEXT>
+</DOC>

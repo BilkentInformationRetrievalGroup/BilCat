@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1435610 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=630e3066-c292-4708-b925-b72f57b84c0b </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 12:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��per ligde gelecek hafta
+</HEADLINE>
+<TEXT>
+Fenerbahçe, Kasımpaşa'yı konuk edecek. Ligin en önemli maçlarından biri de Trabzon'da.
+
+25 Şubat 2011 CUMA
+20:00  Bucaspor-Bursaspor
+ 
+26 ŞUBAT 2011 CUMARTESİ
+14:00  Ankaragücü-Gençlerbirliği
+16:00  B.Ş. Belediyespor-Galatasaray
+17:00  Gaziantepspor-Eskişehirspor
+19:00  Fenerbahçe-Kasımpaşa
+  
+27 ŞUBAT 2011 PAZAR
+14:00  Karabükspor-Konyaspor
+17:00  Sivasspor-Manisaspor
+19:00  Trabzonspor-Kayserispor
+  
+28 ŞUBAT 2011 PAZARTESİ
+20:00  Antalyaspor-Beşiktaş
+  
+ 
+
+
+</TEXT>
+</DOC>

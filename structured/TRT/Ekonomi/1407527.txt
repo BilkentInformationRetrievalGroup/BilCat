@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1407527 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=88670a4b-a07c-47e5-8945-f180d32778af </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 10:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kredi art��k kolay de��il
+</HEADLINE>
+<TEXT>
+Kredilerdeki büyümeyi frenlemekte kararlı Merkez Bankası yine zorunlu karşılık silahını çekti.
+
+Merkez Bankası paranın maliyetini artıran kararlar aldı.
+
+Cuma günü politika faizlerini (1 haftalık repo) 0.25 puan indiren Merkez Bankası, faiz indiriminin kredi büyümesini tetiklemesini önlemek için yine zorunlu karşılık silahını çekti. 
+
+Türk Lirası zorunlu karşılık oranları; vadesiz, ihbarlı mevduatlar ve özel cari hesaplarda yüzde 8’den yüzde 12’ye, 1 aya kadar vadeli mevduatlar/katılma hesapları için yüzde 8’den yüzde 10’a, 3 aya kadar vadeli mevduatlar/katılma hesapları ve özel fon havuzları için yüzde 7’den yüzde 9’a, mevduat/katılım fonu dışındaki diğer yükümlülükler için yüzde 8’den yüzde 9’a yükseltti.
+
+Türk Lirası zorunlu karşılık oranları, 6 ay ve 1 yıllık vadelilerde sabit tutuldu. 
+
+Politika faizlerini düşürerek sıcak paranın önünü kesmeye çalışan Merkez Bankası, zorunlu karşılıkları artırarak bankacılık sektöründeki likiditeyi keserek krediye dönüşmesini önlemeyi amaçlıyor. Merkez Bankası zorunlu karşılıklarda dün yaptığı değişiklikle, piyasadan yaklaşık 9.8 milyar TL likidite çekmiş olacak
+
+Merkez Bankası, Türk Lirası zorunlu karşılık oranlarını piyasa beklentilerinin üzerinde artırarak, “Kredi büyümesinin cari açığı artırmasına izin vermem” mesajını verdi.
+
+Merkez Bankası, zorunlu karşılık oranlarında kısa vadelilerde artış yaparak sektörde yapısal bir sorun haline gelen “kısa vade” problemini de kırmaya çalışıyor.
+
+ Eğer zorunlu karşılık artışları kredi büyümesinde anlamlı bir yavaşlamaya neden olursa, Merkez Bankası önümüzdeki aylarda faiz indirimlerini sürdürmek için daha rahat bir durumda olacak. Bir sonraki indirim 25 baz puanın üzerinde bile  olabilileceği düşünülüyor.
+</TEXT>
+</DOC>

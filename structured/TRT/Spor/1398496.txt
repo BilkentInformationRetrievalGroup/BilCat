@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1398496 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5fa14050-d00c-4607-a2e4-f6ccc3b3f1c4 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 15:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+gen��lerbirli��i 2-0 yeni malatyaspor
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası (C) Grubu'nda Gençlerbirliği, Yeni Malatyaspor'u 2-0 yendi.
+
+Ziraat Türkiye Kupası (C) Grubu&rsquo;nda, Gençlerbirliği ile Yeni Malatyaspor, Ankara 19 Mayıs Stadı&rsquo;nda karşı karşıya geldi.
+ Başkent ekibi, 47. ve 88. dakikalarda Yasin&rsquo;in attığı gollerle rakibini 2-0 yendi.
+ Hakemler: Hakan Ceylan, Cevdet Kömürcüoğlu, Ahmet Şimşek
+Gençlerbirliği: Serdar, Mahmut, Aykut, Kulusic, Murat, Cem Can, Azofeifa, Harbuzi (Dk. 46 Erdal), Hurşut (Dk. 75 Soner), Mununga (Dk. 46 Yasin), Zec 
+Yeni Malatyaspor: Eray, Mehmet Tosak, Adem, Gökhan Sinanoğlu (Dk. 73 Gür Ege), Can, Mehmet Düz (Dk. 59 Uğur), Enis, Serkan, Yusuf, Hüseyin, Müslüm (Dk. 46 Önder)
+Goller: Dk. 47 ve 88 Yasin (Gençlerbirliği)
+ Sarı kartlar: Dk. 51 Mahmut, Dk. 75 Kulusic, Dk. 86 Erdal (Gençlerbirliği)
+
+</TEXT>
+</DOC>

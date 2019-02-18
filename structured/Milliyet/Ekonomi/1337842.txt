@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337842 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68c0/l/0l0smilliyet0n0btr0cyildiz0enukleerde0eoncelikle0ejaponya0eile0egorusecegiz0e0cekonomi0chaberdetay0c160b110b20a10a0c13148870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:00:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+y��ld��z: n��kleerde ��ncelikle japonya ile g��r����ece��iz...
+</HEADLINE>
+<TEXT>Yıldız, nükleer santral yapımıyla ilgili görüşmelerin devam ettiği Güney Kore’nin ağır şartlar öne sürdüğünü, bunları değerlendireceklerini, ama Güney Kore ile yaşanan bu sürecin, Türkiye’nin diğer ülkelerle görüşmesine engel olmayacağını bildirdi. Yıldız şöyle devam etti: “Şimdi öncelikle Japonya’yla görüşmek için arkadaşlarımıza talimat verdim. Bayramın üçüncü günü bu hazırlıkları tamamlayacaklar, heyeti Türkiye’ye davet edecekler. Zannediyorum bayramdan sonra önümüzdeki hafta o heyet gelir. Bizim bir şablonumuz var. Arkadaşlarımız bu müzakerelerde ciddi bir tecrübe kazandılar. O şartlar çerçevesinde görüşecekler. Ben de gelecek hafta değerlendireceğim.”</TEXT>
+</DOC>

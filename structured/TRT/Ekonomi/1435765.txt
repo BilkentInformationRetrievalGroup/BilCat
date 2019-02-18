@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1435765 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4cd63016-5eba-4bbe-988e-7518eef1eea2 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 13:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2001 krizinde ne kadar kaybettik
+</HEADLINE>
+<TEXT>
+Başbakan Yardımcısı Babacan, ekonomi muhabirleriyle bir araya geldi. 
+
+10. yıl dönümü sebebiyle 2001 krizine ilişkin açıklamalarda bulunan Ali Babacan, 2001 krizinin devlete olduğu kadar, vatandaşa ve özel sektöre maliyetlerinin de hesaplanması gerektiğine dikkat çekti. 
+
+Devlet açısından maliyetini ortaya çıkarmak adına yaptıkları hesaplamayı aktaran Babacan, krizin yükünü temizlemek adına yapılan özel tertip hazine kağıtlarının borçlarının 2010 yılında bitirildiğini ifade etti.
+
+ Sadece ödenen bu borçların enflasyonla güncellenmesiyle krizin devlete faturasının 251 milyar 563 milyon lira (160 milyar dolar) olduğunu vurgulayan Babacan, &quot;Bir de bu borcu ödeyebilmek için piyasadan borçlanmak zorunda kaldık. 
+
+Böyle bir yük Hazine üzerinde olmasaydı 381 milyar 877 milyon lira daha az borç yükü olacaktı.
+
+İç ve dış borç stokumuzun KİT&rsquo;ler ve belediyeler hariç 473 milyar 3 milyon lira olduğu hesap edildiğinde krizin faturası çok net ortaya çıkar&quot; dedi.
+
+</TEXT>
+</DOC>

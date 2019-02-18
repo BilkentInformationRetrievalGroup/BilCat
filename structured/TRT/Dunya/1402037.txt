@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1402037 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fe122dea-17bc-40c8-8f43-6a11eca6ff46 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 20:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yunanistan ��it ��ekmekte ��srarl��
+</HEADLINE>
+<TEXT>
+Dışişleri Bakanı Druças, "Uluslararası plandaki yükümlülüklerimizin tamamına uymak için gereken önlemleri alarak bunu yapacağız'' dedi.
+
+Yunanistan Dışişleri Bakanı Dimitris Druças, Türkiye sınırına çit çekmeye kararlı olduklarını söyledi.
+
+
+     Druças, Polonya&rsquo;nın başkenti Varşova&rsquo;da düzenlenen basın toplantısında, Yunanistan - Türkiye sınırına çit çekilmesine ilişkin soruları yanıtladı.
+
+     Yunanistan Dışişleri Bakanı,
+     &rsquo;&rsquo;Karar Yunan Hükümeti tarafından alınmıştır. Projenin insani yönünü garanti altına alacak biçimde, uluslararası plandaki yükümlülüklerimizin tamamına uymak için gereken önlemleri alarak bunu yapacağız&rsquo;&rsquo; dedi.
+
+</TEXT>
+</DOC>

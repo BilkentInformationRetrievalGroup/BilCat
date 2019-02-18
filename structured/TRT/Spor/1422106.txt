@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1422106 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=89bd679b-91bb-4af3-8678-0a5c19b54e81 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 12:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye 71- almanya 61
+</HEADLINE>
+<TEXT>
+Türk Telekom Yıldız Erkekler Basketbol Turnuvası'nda (A) Grubu'ndaki üçüncü maçda Yıldız Millilerimiz Almanya'yı 71-61 yendi.
+
+Karşılaşmanın birinci periyodunda 24-9 öne geçen Yıldız Millilerimiz devreyi 38-22 önde kapattı. Üçüncü periyotta da 52-38 önde olan Yıldız Millilerimiz maçı 71-61 kazandı.
+
+Benjamin Jimenez, Saso Petek ve Ciprian Stoica&rsquo;nın yönettiği Kamil Ocak Salonu&rsquo;ndaki maçta Yıldız Millilerimizde, Cedi Osman 14, Metecan 14, Kartal 7, Ayberk 11, Mehmet Fırat Alemdaroğlu 3, Kenan Sipahi 4, Hakan 3, İbrahim Sertan 4, Mehmet Şanlı 7 ve Göktürk Gökalp 4 sayı kaydetti.
+
+Almanya Yıldız Millilerde ise David Taylor 11, Jan-Niklas Wimberg 3, İsmet Akpınar 12, Gavin Schilling 15, Daniel Mayr 2, Sebastian Heck 2, Terry Thomas 5, Janis Stielow 7, Maximilian Ugrai 1 ve Niklas Ney 3 sayı attı.
+
+Ay yıldızlılar, grubundaki dördüncü karşılaşmasını yarın saat 20.00&rsquo;de Ukrayna ile yapacak.
+
+Turnuvanın üçüncü gününde gruplarda yapılan maçlarda şu sonuçlar alındı:
+
+(A) GRUBU
+
+Türkiye-Almanya: 71-61, Ukrayna-Porto Riko: 79-74, Romanya-Rusya: 58-84
+
+(B) GRUBU
+
+Fransa-Çin: 67-69, Bulgaristan-Slovenya: 63-72, Gürcistan-İran: 50-6
+</TEXT>
+</DOC>

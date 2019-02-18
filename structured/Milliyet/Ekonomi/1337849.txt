@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337849 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68b2/l/0l0smilliyet0n0btr0ceski0ebinalara0eyeni0eyuz0ecizmek0eicin0ebir0earaya0egeldiler0cekonomi0chaberdetay0c160b110b20a10a0c13148960cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:01:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+eski binalara yeni y��z ��izmek i��in bir araya geldiler
+</HEADLINE>
+<TEXT>tarihinde Eskidji tarafından ihaleleri gerçekleşecek olan arsaların en küçüğü 875 metrekare, en büyüğü ise 658 bin 64 metrekare büyüklüğe sahip. Yapılan açıklamaya göre, 18 arsanın en ucuzu Ankara Gölbaşı’ndaki 91 bin 910 TL’lik arsa olurken, en pahalısı ise İstanbul Ataşehir’de yer alan 56 milyon TL değerindeki arsa oldu. Vakıfbank 11 şehirde 159 taşınmaz satıyorVakıfbank,  bayramdan bir gün önce11 ildeki toplam 159 taşınmazı satışa çıkaracağını açıkladı. En ucuzu 6 bin TL, en pahalısı 980 bin TL olan gayrimenkuller için ilk teklif değerlendirme tarihi olarak 10 Aralık 2010 belirlendi. Kapalı zarf teklif usulüyle gerçekleştirilecek olan taşınmazların 10 Aralık’ta satılamaması halinde teklif almaya devam edilecek ve gelen teklifler her ayın 20 ve 30’unda değerlendirmeye tabii tutulacak. Vakıfbank’tan yapılan açıklamada 159 taşınmazın villa, tarla, bağ, mesken, arsa, ev, dükkan, büro ve fabrikadan oluştuğu belirtildi.</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1409331 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=43b894ed-4807-46d1-a5ba-33bb465b7e6a </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 16:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+elaz����'da g������k
+</HEADLINE>
+<TEXT>
+Sori mevkiindeki krom ocağında meydana gelen göçükte Natik Erkol hayatını kaybetti.
+
+
+Elazığ&rsquo;ın Alacakaya ilçesindeki krom ocağında meydana gelen göçükte 1 işci hayatını kaybetti.
+
+Sori mevkiinde bulunan krom ocağı şantiyesinde göçük meydana geldi. 
+
+Göçük altında kalan işçi Natik Erkol, yaralı olarak kaldırıldığı Fırat Üniversitesi Araştırma Hastanesinde hayatını kaybetti.
+
+
+
+</TEXT>
+</DOC>

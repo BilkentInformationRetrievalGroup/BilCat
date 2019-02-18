@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1438533 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=11a87c4f-b84f-486c-911c-d019ac0474a9 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 19:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tahkim kurulu anayasa'ya giriyor mu?
+</HEADLINE>
+<TEXT>
+AK Parti trafından verilmesi planlanan kanun teklifine göre, sporda Tahkim Kurulu kararlarına karşı yargı yoluna başvurulamayacak.
+
+Meclis, kapanmadan önce tek maddelik Anayasa değişikliği yapmaya hazırlanıyor. 
+
+     Buna göre, sporda Tahkim Kurulu kararlarına karşı yargı yoluna başvurulamayacak.
+
+     Önümüzdeki hafta AK Parti tarafından verilmesi planlanan kanun teklifine göre, Anayasa&rsquo;nın 125&rsquo;inci maddesine ek yapılacak. 
+
+     Böylelikle, Tahkim Kurulu ilk kez Anayasa&rsquo;ya girecek. 
+
+     Mali konular dışındaki sportif faaliyetlerde Tahkim Kurulu&rsquo;nun verdiği kararlara karşı yargı yoluna gidilemeyecek. 
+     
+</TEXT>
+</DOC>

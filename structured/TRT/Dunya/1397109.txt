@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1397109 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4f935b0d-fc71-4efe-91c0-8fd16420b2c7 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 00:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da izdiham: 100 ��l��
+</HEADLINE>
+<TEXT>
+Hindistan'ın en popüler Hindu festivallerinden birinden dönen en az 100 kişi çıkan izdiham nedeniyle öldü.
+
+
+Polis kaynaklarına göre ülkenin güneyinde bu gece meydana gelen olayda yaklaşık 25 kişi de yaralandı.
+
+İzdihama, dinsel festivalden sonra dağlık bölgede dar bir yolda ilerleyen hacılar arasına, yine hacıları taşıyan bir jipin girmesinin neden olduğu bildirildi.
+</TEXT>
+</DOC>

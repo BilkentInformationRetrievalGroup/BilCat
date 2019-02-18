@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 1392952 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3575d1b8-1bc5-4949-9ffa-73b6967c645a </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 12:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+imkb ilk seansta y��kseldi
+</HEADLINE>
+<TEXT>
+     İstanbul Borsası Ulusal-100 Endeksi birinci seansı 241 puan artarak 68 bin 115 puandan tamamladı.
+
+Avrupa&rsquo;nın borç sorunu yaşayan ekonomilerine dönük kaygılar sürerken, Çin&rsquo;in ardından Japonya&rsquo;nın da Avro Bölgesi tahvillerinden alacağını açıklaması piyasalara biraz moral verdi. 
+
+     Gözler, Portekiz ve İtalya&rsquo;nın gerçekleştireceği tahvil ihraçlarının sonuçlarına çevrilmiş durumda.
+
+     Amerika&rsquo;da açıklanan şirket bilançoları da takip ediliyor.
+
+     New York Borsası&rsquo;nda dün Dow Jones Sanayi endeksi yüzde sıfır virgül 31 gerilerken, teknoloji göstergesi Nasdaq yüzde sıfır virgül 17&rsquo;lik artış kaydetti.
+
+     Karışık bir tablo çizen Asya ve Uzakdoğu piyasalarında bugün değer artışları ön plana çıkıyor. 
+
+     Avrupa borsalarında ise sınırlı yükselişler yaşanıyor.
+
+     İstanbul Borsası da dış piyasalara paralel bir görünüm sergiliyor.
+
+     Hisse senetleri günün ilk yarısında ortalama yüzde sıfır virgül 35 oranında değer kazandı. 
+
+     Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 4 kuruştan işlem görüyor.
+
+     Uluslararası piyasalarda altının ons fiyatı bin 381 dolar. 
+
+     Kapalıçarşı&rsquo;da Cumhuriyet altını 466 liradan alıcı buluyor. 
+</TEXT>
+</DOC>

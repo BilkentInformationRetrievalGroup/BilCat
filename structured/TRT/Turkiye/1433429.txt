@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1433429 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b7ecaa65-994a-4429-b28f-c1c1fad65a19 </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 22:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+marmara depremi sinyal vermi��!
+</HEADLINE>
+<TEXT>
+17 bin kişinin öldüğü Marmara depreminde, 7,6 büyüklüğündeki yer sarsıntısından 45 dakika önce küçük sarsıntılar olduğuna dikkat çekiliyor.
+
+
+Milliyet gazetesinin haberine göre, 1999’da 17 bin kişinin öldüğü Marmara depremini inceleyen bilimadamları, 7,6 büyüklüğündeki yer sarsıntısından 45 dakika önce küçük sarsıntıların felaketi haber verdiğini gördü.
+
+Fransa’daki Grenoble Üniversitesi tarafından yapılan ve Science dergisinde yayımlanan araştırmada, sismik kayıtların depremden 45 dakika önce fay hattından önsarsıntıların dalga dalga gelmeye başladığı tespit edildi.
+
+Marmara depreminin sismik kayıtları incelendiğinde, araştırmacılar büyük yer sarsıntısının son 20 dakikasında, 5 küçük sarsıntı olduğunu gördüler. Ön sarsıntıların &quot;P-dalgası&quot; ve &quot;S-dalgası&quot; diye tabir edilen iki ayrı dalga biçiminde birbirlerini izlediği ve bir P-dalgasını 2,4 saniye sonra, daha yüksek titreşim genişliğinde bir S-dalgasının izlediği görüldü.
+
+Araştırmacı Michel Bouchon, &quot;Bu iki dalga arasındaki zaman farkı hep aynıydı ve fay hattındaki aynı noktadan geliyorlardı&quot; dedi.
+
+İsabetli Bir Erken Uyarı Sistemi Geliştirilebilir
+Bilimadamları, ön sarsıntılardaki bu düzen ve benzerliğin artan biçimde güçlendiğini ve büyük depreme doğru daha yakında bağlantılı şekilde geliştiğini belirterek, depremler için isabetli bir erken uyarı sisteminin geliştirilebileceğinin altını çizdi.
+
+Ancak bir erken uyarı sisteminin kullanışlılığının sınırlı olabileceğini savunan Edinburgh Üniversitesi’nden Ian Main, deprem erken uyarısının deprem tahminiyle aynı olmadığını söyledi.
+
+İskoç sismolog, bir erken uyarı sisteminin sadece birkaç saat avantaj sağlayabileceğini, bir tahliye için günlere gerek olduğunu savundu
+</TEXT>
+</DOC>

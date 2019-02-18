@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327390 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5ff5dd/l/0l0smilliyet0n0btr0cendonezya0eda0eyanardag0epatlamasinda0eolu0esayisi0e1220eye0eyukseldi0cdunya0csondakika0c0a50b110b20a10a0c1310a6580cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:01:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+endonezya'da yanarda�� patlamas��nda ��l�� say��s�� 122'ye y��kseldi
+</HEADLINE>
+<TEXT>Endonezya’da geçen hafta faaliyete geçen Merapi yanardağında dün meydana gelen son patlamayla ölü sayısının 122’ye çıktığı bildirildi.Ulusal Afet İdaresi Kurumu’ndan yapılan açıklamada, Merapi’de Bronggang köyü civarında onlarca kişinin cesedinin bulunduğu kaydedilirken, ölü sayısının 122’ye yükseldiği belirtildi.Yetkililer, sabah saatlerinde yaptıkları açıklamada toplam ölü sayısını 102 olarak vermişlerdi.</TEXT>
+</DOC>

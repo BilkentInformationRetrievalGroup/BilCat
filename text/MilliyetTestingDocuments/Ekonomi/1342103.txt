@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342103 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fcc80b4/l/0l0smilliyet0n0btr0cimf0eyunan0ehukumeti0ene0eyapmasi0egerekiyorsa0eyapiyor0e0cekonomi0csondakika0c190b110b20a10a0c13159870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 17:00:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��mf: 'yunan h��k��meti ne yapmas�� gerekiyorsa yap��yor'
+</HEADLINE>
+<TEXT>Uluslararası Para Fonu (IMF) Başkanı Dominique Strauss-Kahn, Yunanistan’ın, bütçe açığını azaltma önlemlerinin yolunda gittiğini bildirdi.Strauss-Kahn, Frankfurt’da yaptığı açıklamada, "Yolunda gittiğini görmekten mutluyum... Yunan hükümeti cesaretle, ne yapması gerekiyorsa yapıyor" dedi.Yunanistan, IMF ve avro kullanan AB ülkelerinden aldığı 110 milyar dolarlık yardım sonrasında, fonun ve bu ülkelerin sıkı denetimi altında bulunuyor.Yunanistan hükümeti, açıkladığı bütçeyle gelecek yılki bütçe açığını 5 milyar avro daha azaltacağını taahhüt etti.</TEXT>
+</DOC>

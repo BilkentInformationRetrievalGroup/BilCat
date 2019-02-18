@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328896 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f659663/l/0l0smilliyet0n0btr0cdelta0eii0eroketi0euzaya0efirlatildi0cdunya0csondakika0c0a60b110b20a10a0c1310a9760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:01:20.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+delta ���� roketi, uzaya f��rlat��ld��
+</HEADLINE>
+<TEXT>Sivil ve askeri amaçlar için kullanılacak, Dünya gözlem uydusunu taşıyan Delta II roketi, ABD’nin California eyaletindeki Vandenberg Hava Gücü Üssünden uzaya fırlatıldı.Üsteki yetkililer, Delta II roketinin, yerel saatle 19.20’de uzaya fırlatıldığını belirtti. Roketin taşıdığı gözlem uydusu, radar yardımıyla, özellikle Akdeniz bölgesinde, savunma ve bilimsel amaçlar için görüntüler oluşturan COSMO-SkyMed adlı 4 parçalı uydu sisteminin son parçasını oluşturuyor.İtalya Uzay Ajansı ile İtalya Savunma Bakanlığı arasında yapılan anlaşma uyarınca geliştirilen uydu sisteminin geçen hafta yapılması planlanan fırlatılışı, roketin motorlarını sıcak tutmak için kullanılan ısıtıcısı ve roketin iticisiyle ilgili sorunlar nedeniyle ancak bugün yapılabildi.</TEXT>
+</DOC>

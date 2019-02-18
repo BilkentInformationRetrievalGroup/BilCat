@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336444 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa3e0f7/l/0l0smilliyet0n0btr0ckadinlar0eicin0esiyaset0eokulu0csiyaset0chaberdetay0c150b110b20a10a0c1314540a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:09:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kad��nlar i��in siyaset okulu
+</HEADLINE>
+<TEXT>Öğretim üyelerinin yanı sıra Devlet eski Bakanı Işılay Saygın ile eski CHP Milletvekili Türkan Miçooğulları da deneyimlerini anlatacak. 18 yaşından büyük her kadının EKAM’a şahsen ya da ‘ekam@mail.ege.edu.tr’ adresine elektronik posta ile başvurabileceği bildirildi. Her hafta salı ve perşembe günleri verilecek dörder saatlik eğitim Aralık’ta başlayacak. Sadece 40 kişinin yararlanabileceği 2.5 aylık eğitimle kadınlar milletvekili adaylığı için cesaretlendirilecek.</TEXT>
+</DOC>

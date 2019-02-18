@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1429116 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=79a0c0e1-65cd-408c-a5fb-09442fdf6d2f </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 10:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+para politikas�� kurulu toplan��yor
+</HEADLINE>
+<TEXT>
+Merkez Bankası Para Politikası Kurulu Şubat ayı toplantısını bugün yapıyor.    
+
+     Kurul, yılın ikinci toplantısı için biraraya geliyor.
+
+     Finans ve ekonomi çevrelerinin gözü kulağı bu toplantıda.
+
+     Kurul, 2011 yılının ilk toplantısında politika faiz oranını yüzde 6,5&rsquo;den yüzde 6,25&rsquo;e indirmişti. 
+
+     Gecelik faiz oranlarında ise değişiklik yapılmamıştı.
+
+      Para Politikası Kurulu, faiz oranlarını bu toplantıda yeniden gözden geçirecek. 
+
+</TEXT>
+</DOC>

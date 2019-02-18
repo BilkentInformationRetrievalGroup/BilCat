@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1335113 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f9e6917/l/0L0Smilliyet0N0Btr0C0Ebu0Egalibiyeti0Eabartmayalim0E0Cspor0Chaberdetay0C140B110B20A10A0C13142690Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:10:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+‘Bu galibiyeti abartmayalım’
+</HEADLINE>
+<TEXT> Kafkas, “Ben bundan sonra daha iyi olacağımızın sözünü veriyorum. Galibiyetler ve yenilgiler hokkabaz gibidir, ikisine de aynı şekilde davranmak, dikkat etmek lazım” diye konuştu.</TEXT>
+</DOC>

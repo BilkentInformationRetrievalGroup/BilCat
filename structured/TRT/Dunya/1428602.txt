@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1428602 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3d9c8c0-d606-43b4-a7bc-0ec325e0da67 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 15:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'den vatanda��lar��na uyar��!
+</HEADLINE>
+<TEXT>
+Amerika Birleşik Devletleri, Azerbaycan'daki vatandaşlarını terör eylemleri ihtimaline karşı uyardı.
+
+Uyarı, Amerika&rsquo;nın edindiği istihbarat bilgisi doğrultusunda Bakü Büyükelçiliği internet sitesinden yapıldı.
+
+     Uyarıda Amerika Birleşik Devletleri&rsquo;nin çıkarlarına karşı terör eylemi ihtimalinin ciddiyetini koruduğu vurgulandı.
+
+     Amerika ve İngiltere geçen ay da Azerbaycan&rsquo;da terör eylemlerine karşı bir uyarıda bulunmuş tehlikenin niteliği ve bilginin kaynağı açıklanmamıştı..
+
+     Bunun üzerine Azerbaycan Milli Güvenlik ve İçişleri Bakanlıkları milli güvenliğe ve çıkarlarına ters düşecek tehditlere karşı her zaman önlem alındığını bildirdi.
+
+     Bakanlık sözcüleri, Azerbaycan&rsquo;ın istikrarın güçlü olarak sağlandığı ülkelerden biri olduğu vurguladı. 
+
+
+
+</TEXT>
+</DOC>

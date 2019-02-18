@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1413126 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5e44b2fc-4a6b-4f11-86f6-37ae3841655c </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 15:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"davos" sona erdi
+</HEADLINE>
+<TEXT>
+Dünya Ekonomik Forumunun 41'inci yıllık toplantısı bitti.
+
+
+&quot;Yeni Gerçek İçin Paylaşılan Normlar&quot; ana temasıyla 26 Ocak 2011 tarihinde başlayan Davos Zirvesi olarak da bilinen Dünya Ekonomik Forumunun 41. yıllık toplantısı sona erdi.
+         
+100&rsquo;ün üzerinde ülkeden yaklaşık 2 bin 500 katılımcının, uluslararası iş dünyasından 1400&rsquo;ü aşkın işadamının yer aldığı toplantılara, Türkiye&rsquo;den Devlet Bakanı ve Başbakan Yardımcısı Ali Babacan, Devlet Bakanı Zafer Çağlayan, Maliye Bakanı Mehmet Şimşek ve Merkez Bankası Başkanı Durmuş Yılmaz da katıldı.
+         
+Toplantılarda, ekonomik büyüme odak noktası olurken, ekonomik toparlanma ve krizden çıkış yolları da arandı, bir daha bu tür krizlere yakalanmamak için yeni mekanizmaların neler olabileceği tartışıldı.
+</TEXT>
+</DOC>

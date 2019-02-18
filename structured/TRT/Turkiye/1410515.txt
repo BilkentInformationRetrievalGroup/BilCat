@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1410515 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6d3b89b1-254d-400e-8985-f4bd8bf8cefc </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 17:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"beypazar�� kazas��"nda tutuklama
+</HEADLINE>
+<TEXT>
+TIR sürücüsü tutuklandı, minibüs sürücüsü tutuksuz yargılanacak.
+
+
+Ankara&rsquo;nın Beypazarı ilçesinde 11 kişinin ölümü, 5 kişinin de yaralanmasıyla sonuçlanan kazada, TIR sürücüsü İbrahim Karayel tutuklandı. 
+
+Minibüs sürücüsü Neytullah Ekinci ise tutuksuz yargılanmak üzere serbest bırakıldı. 
+
+Cumhuriyet Savcısı tarafından ifadeleri alınan TIR sürücüsü İbrahim Karayel ve minibüs sürücüsü Neytullah Ekinci, tutuklanma istemiyle mahkemeye sevk edildi. 
+
+İbrahim Karayel çıkarıldığı mahkemece tutuklanırken, Neytullah Ekinci ise tutuksuz yargılanmak üzere serbest bırakıldı. 
+
+Beypazarı&rsquo;ndaki kazada, tarım işçilerini taşıyan servis minibüsü TIR ile çarpışmış, 11 işçi hayatını kaybetmişti.
+</TEXT>
+</DOC>

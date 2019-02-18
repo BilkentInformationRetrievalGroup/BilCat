@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331062 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/f6f1959/l/0l0smilliyet0n0btr0carac0emuayene0eistasyonlari0eicin0egenelge0chilmi0egultay0cege0cyazardetay0c0a80b110b20a10a0c13114740cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:15:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ara�� muayene istasyonlar�� i��in genelge
+</HEADLINE>
+<TEXT>tarihli genelgesiyle Araç Muayene İstasyonlarının Çalışma Usul ve Esaslarına İlişkin uygulama başlatıldı. Unutmayın; araç sahibi tarafından vizeye götürülmez ise; o aracı vizeye götürecek kişi bir ay içinde başka bir aracı vizeye götüremez. Ancak götüreceği bir başka araç için sahibinden yine Noter’den vekalet alması gerekiyor. Bu vekaletin veriliş tarihi de bir ay içinde olmalı.Yani bir vekalet defalarca olmayıp bir aracın sadece bir vize işleminde ve bir ay içinde geçerli.    Ülke bazında araç vize işleminde, kötü niyetlilerce kayıt ve yasa dışı elde edilen paraların yıllık miktarı yüz milyon lira civarında olduğu tahmin ediliyor. Bunun yanı sıra yasalara uygun çalışan gerçek trafik takip hizmeti veren kişi ve kurumların bu olumsuzluklar ile hiçbir ilişkisi olmadığını tekrar hatırlatmak isterim.</TEXT>
+</DOC>

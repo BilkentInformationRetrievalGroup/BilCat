@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326853 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5e39c7/l/0l0smilliyet0n0btr0cyanardag0ekurbanlarinin0esayisi0e10a0a0eu0easti0cdunya0csondakika0c0a50b110b20a10a0c1310a530a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 11:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+yanarda�� kurbanlar��n��n say��s�� 100'�� a��t��
+</HEADLINE>
+<TEXT>Endonezya'da geçen hafta faaliyete geçen Merapi yanardağında dün meydana gelen son patlamayla ölü sayının 100'ü ü aştığı bildirildi.Yetkililer son patlamadan sonra 58 kişinin ölümüyle yanardağın faaliyeti nedeniyle meydana gelen can kaybının 100'ü aştığını 70'den fazla kişinin de yaralandığını söyledi. Yüksekliği 8 kilometreye ulaşan Cava adasındaki yanardağın püskürttüğü kül bulutu nedeni ile uçakların farklı güzrgahlara yönlendiriliyor, halk ise bölgeden ayrılıyor.</TEXT>
+</DOC>

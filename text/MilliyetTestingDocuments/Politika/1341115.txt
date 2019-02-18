@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341115 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fc70dd3/l/0l0smilliyet0n0btr0cak0epartili0ekus0ekurtarilamadi0csiyaset0chaberdetay0c190b110b20a10a0c13157920cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 01:09:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ak partili ku�� kurtar��lamad��
+</HEADLINE>
+<TEXT>Şanlıurfa’dan 2007 yılında Ak Parti’nin 9. sıra adayı olarak TBMM’ye giren ve hastalığı nedeniyle sürekli hastanede tedavisi süren 7 çocuk babası Mustafa Kuş, dün öğle saatlerinde Ankara’da kurtarılamadı. Ölüm haberi ile kentte üzüntü yaratan Mustafa Kuş’un, akşam saatlerinde uçak ile Şanlıurfa’ya getirileceği ve yarın düzenlenecek tören ile defnedileceği öğrenildi. Kuş’un ölümünün ardından Ak Parti’nin Meclis’teki sandalye sayısı 335’e düştü.</TEXT>
+</DOC>

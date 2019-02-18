@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1417322 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f1767a6e-bd36-4040-8d8b-9f5d9699a9f3 </URL>
+<DATE> 2011/02/03 </DATE>
+<TIME> 15:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+m��s��r'dan insan manzaralar��...
+</HEADLINE>
+<TEXT>
+Kahire'de görevli fotomuhabirlerinin objektiflerine son olarak bu görüntüler takıldı. 
+
+
+Sancılı bir değişim sürecinden geçen Mısır&rsquo;daki durum, Mübarek yandaşlarının muhaliflere saldırmasıyla daha da karmaşıklaştı.
+
+Fotomuhabirlerinin objektiflerinden de zaman zaman bu tüyler ürpertici kareler yansıyor. 
+
+
+                    				İlgili Haberler
+				
+					Mısır'da Ne Olacak? 
+					Kahire Meydan Savaşı!
+</TEXT>
+</DOC>

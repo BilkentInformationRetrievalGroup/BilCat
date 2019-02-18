@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1425718 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=03261a1c-41dc-4eef-b385-eee41774457d </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 16:22:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkmen petrol�� akdeniz'de
+</HEADLINE>
+<TEXT>
+Bakü-Tiflis-Ceyhan Petrol Boru Hattı'ndan Türkmen petrolü de taşınıyor.
+
+Azerbaycan Devlet Petrol Şirketi&rsquo;i SOCAR&rsquo;ın açıklamasına dayandırılan habere göre, 7 ay önce başlayan sevkiyatla her ay 200 bin tondan fazla Türkmen petrolü, Bakü-Tiflis-Ceyhan Boru Hattı&rsquo;yla Akdeniz&rsquo;e ulaştırıldı.
+
+Geçen yılın temmuz ayında, Azerbaycan&rsquo;ın SOCAR petrol şirketi ile bazı uluslararası şirketler, Türkmen petrolünün BTC Hattı&rsquo;ndan Avrupa&rsquo;ya sevki için anlaşma imzalamışlardı.
+
+Türkmenistan&rsquo;ın batısındaki Ekerem ve Gumdag bölgesinden çıkarılan petrol, Hazar Denizi üzerinden tankerlerle Bakü&rsquo;ye taşınıyor.
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1425562 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=363b96be-0a19-4b37-ae33-09bee2478b59 </URL>
+<DATE> 2011/02/11 </DATE>
+<TIME> 10:51:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cari a����k y��zde 247 artt��
+</HEADLINE>
+<TEXT>
+2010 yılı cari açık 48 milyar 557 milyon dolar oldu.
+
+Merkez Bankası verilerine göre, 2010 yılında cari açık 2009&rsquo;a göre yüzde 247,1 artışla 13 milyar 991 milyon dolardan 48 milyar 557 milyon dolara yükseldi.
+     
+Yurtdışında yerleşik kişilerin yurtiçinde yaptıkları net yatırımlar yüzde 5,8 artışla 8 milyar 899 milyon dolar oldu.
+     
+Doğrudan yatırım ise, yüzde 3,9 artarak 7 milyar 122 milyon dolara  ulaştı.
+     
+Resmi rezervler de, 2010 yılının Ocak-Aralık döneminde 12 milyar 799 milyon dolar artış gösterdi.
+
+</TEXT>
+</DOC>

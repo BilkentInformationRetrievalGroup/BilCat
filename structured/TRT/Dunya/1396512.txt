@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 1396512 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0fd01354-971a-402e-928b-d0c0bf6dcf47 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 12:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dahi do��ulmaz, olunur!
+</HEADLINE>
+<TEXT>
+Bilimsel çalışmalar, üstün başarı gösteren insanların dehalarını genetik aktarım yoluyla edindikleri yönündeki inanışı çürütüyor.
+
+BBC Türkçe Servisi&rsquo;nin haberine göre, &quot;Doğuştan gelen yetenek&quot; gibi kalıplar geçerliliğini yitirmiş durumda..
+
+Yeni bulgular, genlerin çevreleriyle etkileşim içinde oldukları ve içinde bulundukları koşullardan bağımsız olarak değerlendirilemeyeceklerini ortaya koyuyor.
+
+Gen-Çevre Etkileşimi
+Kanada&rsquo;daki Mc Gill Üniversitesi&rsquo;nden Michael Meaney, kalıtımla aktarılan özelliklerin gen ve çevrenin karşılıklı etkileşimi sonucu belirlendiğini söylüyor.
+
+Cambridge Üniversitesi&rsquo;nden Patrick Beaston da canlıların yaşamlarının başlangıcında, farklı yolları izlemeyi başarabilecek donanıma sahip oldukları kanısında.
+
+Beaston bu farklı yolların ise canlının yaşamını sürdürdüğü ortam tarafından belirlendiğini düşünüyor.
+
+&quot;Gen Etkisiz Değil&quot;
+Bilimsel araştırmaların ortaya koyduğu yeni bulgular kalıtımla devralınan genlerin hiçbir önem taşımadığı anlamına gelmiyor.
+
+Ancak insanların yetenek ve özelliklerinin, genlerinden çok yetiştikleri ortam ve koşullara göre belirlendiği ortaya konuyor.
+
+Araştırmaların sonuçları, yaygın olan, insanların doğuştan gelen zeka seviyelerine sahip oldukları inancına da darbe vuruyor. 
+
+ABD&rsquo;deki Tufts Üniversitesi&rsquo;nden Robert Sternberg, zekanın sabit olmadığını, gelişimi süren bazı zihinsel yeteneklerden oluştuğunu düşünüyor.
+
+Yeni Zellanda&rsquo;daki Otago Üniversitesi&rsquo;nden James Flynn, zeka seviyelerinin geçtiğimiz yüzyıl boyunca ciddi miktarda yükseldiğini ispatlayan çalışmalarıyla tanınıyor.
+
+Flynn&rsquo;in vardığı sonuç, zaman içinde yaşanan kültürel gelişmenin daha zeki insanların ortaya çıkmasını sağladığı.
+
+Zeka konusunda yaşanan ilerlemenin yetenek konusunda da geçerli olduğu söylenebilir.
+
+Sporcuların ve müzisyenlerin, önceki kuşaklara göre daha başarılı performanslar göstermeleri bu ilerlemeyle açıklanmakta.
+
+</TEXT>
+</DOC>

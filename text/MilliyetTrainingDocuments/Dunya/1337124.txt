@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337124 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af65/l/0l0smilliyet0n0btr0cobezitenin0esorumlusu0ebulundu0e0cdunya0csondakika0c150b110b20a10a0c13147260cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:01:12.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+obezitenin "sorumlusu" bulundu!
+</HEADLINE>
+<TEXT>İngiliz bilimadamları, obezite ve fazla yemek yemenin, aşırı aktif bir genle ilişkisini doğruladılar.Fareler üzerinde yapılan araştırmada, FTO geninin aktif olduğu farelerin daha fazla yediği ve daha şişman olduğu belirlenirken, bu bulgunun obezite ilacının geliştirilmesinin yolunu açabileceği kaydedildi.Oxford üniversitesi araştırmacıları, farelere vücut yağları ve obeziteyle bağlantılı FTO geni aşıladılar ve 20 hafta sonra dişi farelerin diğer farelerden yüzde 22, erkek farelerin de yüzde 10 daha şişman olduğunu gördüler.Araştırmayı yürütenlerden Prof. Frances Ashcroft, "Bu bizim, FTO’nun şişmanlığa katkıda bulunan önemli bir gen olduğuna ikna olmamızı sağladı. Şimdi obeziteye karşı FTO geninin çalışmasını tersine döndüren ilaçlar geliştirmeye başlayabiliriz" dedi. Ancak Ashcroft, bir ilaç geliştirmenin uzun zaman alacağını ve başarının kesin olmadığını vurguladı.2007’de yapılan araştırmalarda, FTO’nun değişikliğe uğramış bir biçiminin obeziteyle bağlantılı olabileceği bulunmuştu.</TEXT>
+</DOC>

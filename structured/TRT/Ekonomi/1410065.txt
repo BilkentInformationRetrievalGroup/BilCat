@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1410065 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b49aef1f-a46b-4d25-be74-4a56c8999705 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 11:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ihracat����ya m��jde!
+</HEADLINE>
+<TEXT>
+Eximbank, ihracat sektörüne yüzde 5.8-8.25 aralığındaki faiz oranlarıyla 18 aya kadar vadeli TL kredi kullanma imkanı getirdi.
+
+Habertürk, Türk Eximbank&rsquo;ın, kısa vadeli TL kredilerinde faiz oranlarını 100 baz puan indirdiğini yazdı. 
+
+İhracat kredi sigortası kapsamındaki ihracatçılara 50 baz puan olarak uygulanacak indirimle Türk Eximbank, ihracat sektörüne yüzde 5.8-yüzde 8.25 aralığındaki faiz oranlarıyla 18 aya kadar vadeli TL kredi kullanma imkanı getirdi.
+
+ 
+
+</TEXT>
+</DOC>

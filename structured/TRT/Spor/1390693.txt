@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1390693 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1147f0f6-010f-4a5c-aae9-c8e6ed04cb3a </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 19:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ampiyon federer
+</HEADLINE>
+<TEXT>
+Katar Exxon Mobil Açık Tenis Turnuvası'nda ipi İsviçreli Roger Federer göğüsledi.
+
+Katar Exxon Mobil Açık Tenis Turnuvası&rsquo;nda İsviçreli Roger Federer, finalde Rus Nikolay Davydenko&rsquo;yu yenerek kariyerindeki 67. turnuva şampiyonluğunu kazandı.
+ Doha&rsquo;daki 1 milyon dolar ödüllü turnuvanın finalinde 2 numaralı seri başı Federer, 4 numaralı seri başı Davydenko&rsquo;yu 6-3 ve 6-4&rsquo;lük setlerle 2-0 yendi ve şampiyon oldu.
+ Sezona şampiyonlukla başlayan ve 67. turnuvasını kazanan 29 yaşındaki Federer, her iki sette de bir kez servis kırarak, galibiyete ulaştı. 
+</TEXT>
+</DOC>

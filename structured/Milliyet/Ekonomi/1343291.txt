@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343291 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fd46954/l/0l0smilliyet0n0btr0cturk0esermayesi0eab0ede0efren0eyapti0ekorfez0ee0eakti0cekonomi0chaberdetay0c210b110b20a10a0c13164340cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:01:36.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rk sermayesi ab���de fren yapt��, k��rfez���e akt��
+</HEADLINE>
+<TEXT>Bu dönemde Avrupa ülkelerine doğrudan yatırım için giden yerli sermaye yüzde 15.7 azalırken, Körfez ülkelerine doğrudan yatırım için giden Türk sermayesi yüzde 177 arttı. Güvenli sürüşün sırlarını öğrenmek için tıklaYorum yaz</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1436625 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8c703a85-d881-4b56-95b0-d18140fce932 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 10:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fitch'den libya'ya k��t�� not
+</HEADLINE>
+<TEXT>
+Yönetim karşıtı gösterilerin yayıldığı Libya'nın kredi notu BBB+'dan BBB'ye düşürüldü.
+
+
+Uluslararası kredi derecelendirme kuruluşu Fitch, yönetim karşıtı gösterilerin yayıldığı Libya’nın kredi notunu düşürdü.
+
+Fitch, Libya’nın kredi notunu &quot;BBB+&quot;dan &quot;BBB&quot;ye indirdiğini açıkladı.
+
+Yeni Bir İndirim &quot;Yatırım Yapılamaz&quot; Seviyesine Düşürür
+Fitch, yeni bir kredi notu indirimi olabileceği uyarısında da bulundu. Yeni bir kredi notu indirimi, Libya’nın kredi notunun yatırım yapılamaz seviye olan &quot;junk&quot;a (Çöp) çekilmesi anlamına geliyor.
+
+Libya’nın kredi notunun indirilmesinde, yönetim karşıtı gösterilerin ülke için &quot;siyasi bir risk ortaya çıkarmasının&quot; etkili olduğu ifade edildi
+</TEXT>
+</DOC>

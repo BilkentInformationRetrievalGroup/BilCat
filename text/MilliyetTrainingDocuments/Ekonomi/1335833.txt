@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1335833 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa12d5b/l/0L0Smilliyet0N0Btr0Cturk0Etelekom0Edan0Ebedava0Ekonusma0Efirsati0Cekonomi0Csondakika0C140B110B20A10A0C13143470Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 15:00:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'dan bedava konuşma fırsatı
+</HEADLINE>
+<TEXT>Türk ’dan yapılan açıklamada, Türk Telekom müşterilerinin, kampanya ile ev telefonlarından, sevdikleri ile akşam 7 ve sabah 7 saatleri arası bedava konuşacakları belirtildi.
+
+Açıklamada, özellikle bayram gibi konuşma trafiğinin yoğun olduğu dönemlerde müşterilerinin iletişim giderlerinden tasarruf etmelerine destek sağlamayı hedefleyen Türk Telekom’un, tüm müşterilerini şehiriçi ve şehirlerarası ayrımı olmaksızın bedava konuşturduğu kaydedildi.
+
+7;’en 7’ye Bedava kampanyasında Türk Telekom’un bireysel müşterileri, sabit hatlarından akşam 7’den sabah 7’ye kadar yaptıkları şehiriçi ve şehirlerarası aramalar için herhangi bir ücret ödemeyecek. Kampanyada 3 bin dakikalık adil kullanım limiti uygulanacak. Kampanya, herhangi bir başvuru veya taahhüt gerektirmiyor.</TEXT>
+</DOC>

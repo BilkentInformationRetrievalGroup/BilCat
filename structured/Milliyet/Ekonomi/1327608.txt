@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327608 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f60f750/l/0l0smilliyet0n0btr0cblackberry0etorch0e980a0a0eturkiye0ede0cekonomi0csondakika0c0a50b110b20a10a0c1310a6950cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:00:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+blackberry torch 9800 t��rkiye���de
+</HEADLINE>
+<TEXT>BlackBerry Torch 9800, Turkcell tarafından satışa sunulacak.Turkcell açıklamasına göre şirket, yeni BlackBerry Torch 9800’ü 7 Kasım’dan itibaren bireysel müşterilerine 89 liradan, kurumsal müşterilerine 75 liradan başlayan fiyatlarla sunacak.BlackBerry Torch 9800 kontratlı kurgularını tercih eden Turkcell’liler aynı zamanda 4GB’lık Mega internet paketinden yararlanacak, buna ek olarak hafta sonları tüm Turkcell’lilerle konuşma ve SMS elde edecek.Dünyada BlackBerry klavyeyi tam dokunmatik ekran deneyimiyle ilk kez bir arada sunan akıllı telefon aynı zamanda yeni BlackBerry 6 işletim sistemine sahip.</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1413907 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=de45cd1e-ce1f-494c-8245-63e3a9c7fa3d </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 12:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+john barry ��ld��
+</HEADLINE>
+<TEXT>
+James Bond filmleri için yaptığı müziklerle tanınan, 5 Oscar ödülü sahibi kompozitör John Barry öldü.
+
+İngiliz yayın kuruluşu BBC, Barry&rsquo;nin 77 yaşında geçirdiği bir kalp krizi sonucu öldüğünü duyurdu.
+
+&quot;Altın Parmak&quot;, &quot;Rusya&rsquo;dan Sevgilerle&quot; ve &quot;İnsan İki Kere Yaşar&quot; adlı James Bond filmleri için yaptığı müziklerle tanınan Barry, 1966 ile 1990 yılları arasında 5 kez Oscar ödülüne layık görülmüştü.
+
+ Amerika Birleşik Devletleri&rsquo;nde 1966&rsquo;da çevrilen &quot;Hür Doğanlar&quot; için yaptığı film müziğiyle, &rsquo;&rsquo;en iyi orkestrasyon&rsquo;&rsquo; ve &rsquo;&rsquo;en iyi şarkı&rsquo;&rsquo; dallarında iki Oscar 
+kazanan Barry, 1968&rsquo;de çevrilen &quot;Kış Aslanı&quot;,  1985&rsquo;te çevrilen &rsquo;&rsquo;Benim Afrikam&rsquo;&rsquo; ile 1990&rsquo;da çevrilen &quot;Kurtlarla Dans&quot; filmlerine yaptığı müziklerle de Oscar&rsquo;a ulaşmıştı.
+</TEXT>
+</DOC>

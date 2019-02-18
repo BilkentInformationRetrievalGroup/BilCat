@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1396448 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0e77029e-3cb8-4469-8f32-1cf65bfba63b </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 11:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ku�� gribine kar���� gdo'lu tavuk...
+</HEADLINE>
+<TEXT>
+İngiltere'de araştırmacılar, kuş gribi virüsünü bulaştırmayan genetiği değiştirilmiş tavuklar üretti. 
+
+
+
+
+Sonuçları Science dergisinde yayımlanan araştırmayı yürüten ekip, tavuklara kuş gribi virüsünün bir kısmını da içeren suni bir gen enjekte etti. 
+
+Sözkonusu tavuklar, kuş gribine yakalandı ancak taşıdıkları virüsü başka kanatlı hayvanlara bulaştırmadı.
+
+Araştırmacılar, değişime uğramış tavukların diğer tavuklara ve bunu yiyecek olan insanlara zarar vermeyeceği iddiasında... 
+
+Teorik olarak, bu yönetim tüm çiftlik hayvanlarını hastalıklardan korumada da kullanılabileceği düşünülüyor.
+
+Nihai amaç ise, tüm virütik hastalıklara karşı tamamen dirençli hayvanlar üretmek...
+
+Araştırmayı yürüten ekip, &quot;Hayvansal gıda ürünlerine olan talep arttıkça, bu ürünler gittikçe daha pahalı olacak. Biz de bu sorunu çözmenin farklı yollarını arıyoruz&quot; değerlendirmesini yapıyor. 
+
+Ancak diğer yandan azımsanmayacak sayıda uzman, GDO&rsquo;nun sakıncalarına dikkat çekiyor. 
+
+Organik tarım savunucuları, hastalıkları önlemek için daha fazla teknoloji yerine doğal tarım uygulamalarına geçilmesi gerektiğini dile getiriyor. 
+
+
+</TEXT>
+</DOC>

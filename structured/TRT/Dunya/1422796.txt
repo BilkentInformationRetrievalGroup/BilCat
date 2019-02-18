@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1422796 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=54bf88e3-f095-4e6e-a73b-219f86bef9cf </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 01:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+k��br��s zirvesi yeniden...
+</HEADLINE>
+<TEXT>
+BM Genel Sekreteri Ban Ki Moon, Kıbrıs sorunun çözümü için adadaki liderlerle yeni bir zirvede tekrar biraraya geleceğini söyledi.
+
+
+Kıbrıs ile ilgili açıklamalarda bulunan Birleşmiş Milletler Genel Sekreteri Ban Ki Moon, Hristofyas ve Eroğlu ile Cenevre&rsquo;de gerçekleştirdiği görüşmenin öncekilere oranla daha yapıcı geçtiğini vurguladı.
+
+Ban Ki Moon, tarafların Cenevre&rsquo;de ortaya koyduğu olumlu havadan memnun kaldığını ve yakın bir tarihte yapılacak yeni zirvenin detayları üzerinde çalışıldığını kaydetti.
+
+Eroğlu ve Hristofyas&rsquo;ı müzakerelere devam etmeleri konusunda teşvik ettiğini söyleyen Ban, &quot;aradaki ayrılıklar ancak müzakereler yoluyla giderilir&quot; dedi.
+</TEXT>
+</DOC>

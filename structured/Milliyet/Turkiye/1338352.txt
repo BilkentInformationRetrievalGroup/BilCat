@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338352 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fb2d443/l/0l0smilliyet0n0btr0ckurban0ekani0ebogaza0eakti0e0cturkiye0csondakika0c160b110b20a10a0c13151210cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:30:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kurban kan�� bo��aza akt��!
+</HEADLINE>
+<TEXT>Kurban Bayramı'nın ilk gününde kesilen kurbanların kanları İstanbul Boğazı'nı kırmızıya bürüdü. Kurbanların kanları, kanallarla Beylerbeyi sahilinden İstanbul Boğazı'na ulaştı. Deniz öğleden sonra kırmızı oldu </TEXT>
+</DOC>

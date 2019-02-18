@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1411478 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=386a6f04-3707-4fdb-9dee-40770379ed9b </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 15:00:30.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+israil'den ����pheli deney...
+</HEADLINE>
+<TEXT>
+İsrail'de sismik ayarlar için kontrollü patlama deneyi yapıldı.
+
+
+Haaretz gazetesinin verdiği habere göre, deney dün yapıldı.
+
+İsrail Kara Kuvvetleri&rsquo;nin Necef Çölü&rsquo;ndeki deney alanı kullanılarak yapılan deneyde oluşan patlamanın, şimdiye kadar İsrail&rsquo;de gerçekleştirilenlerin en şiddetlisi olduğu bildirildi.
+</TEXT>
+</DOC>

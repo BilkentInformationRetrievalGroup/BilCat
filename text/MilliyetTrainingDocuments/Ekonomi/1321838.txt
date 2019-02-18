@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321838 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f49c02a/l/0l0smilliyet0n0btr0ckahn0ekriz0e40a0a0emilyon0eissiz0edaha0eyaratabilir0cekonomi0chaberdetay0c0a30b110b20a10a0c130a94940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:00:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kahn: kriz 400 milyon i��siz daha yaratabilir
+</HEADLINE>
+<TEXT>Fas’taki İnsanı Gelişim Forumu’nda yaptığı konuşmada, dünyada küresel kriz nedeniyle 30 milyon kişinin işsiz kaldığına dikkat çeken Kahn, önümüzdeki yıllarda 400 milyon istihdam kaybı daha olabileceği konusunda uyarıda bulundu. Kahn, her yerde birinci önceliğin istihdam olması gerektiğini vurguladı. </TEXT>
+</DOC>

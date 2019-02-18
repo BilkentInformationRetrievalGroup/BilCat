@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1380609 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6491d086-5549-4433-ba2b-e74b9cfe01b2 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 09:47:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+en ��ok istanbul'u g��rmek istemi��ler
+</HEADLINE>
+<TEXT>
+New York Times okurları, "2010 yılında en çok nereye gitmek istersiniz?" sorusuna "İstanbul" yanıtını verdi.
+
+ABD&rsquo;nin saygın gazetelerinden New York Times (NYT), okurlarının 2010 yılında en fazla görmek istediği yerin İstanbul olduğunu duyurdu.
+
+Gazetenin hafta sonu yayımlanan gezi ekinde yer alan haberde, gazete tarafından tüm dünyadaki okurlarına yöneltilen &quot;2010 yılında en çok nereye gitmek istersiniz?&quot; sorusuna en fazla &quot;İstanbul&quot; yanıtının verildiği, yapılan oylamada İstanbul&rsquo;un açık farkla birinci olduğu yazıldı.
+
+İstanbul&rsquo;un 2010 yılında dünyada en çok gidilmek istenen yer olmasında okuyuculara göre, tarihi mekanlarının, insanlarının ve kültürünün büyük rol oynadığını yazan gazete, İstanbul&rsquo;un büyük fark attığı oylamada, görülmek istenen diğer popüler yerler arasında Kolombiya, Seul, Kosta Rica ve New York&rsquo;un bulunduğunu belirtti.
+</TEXT>
+</DOC>

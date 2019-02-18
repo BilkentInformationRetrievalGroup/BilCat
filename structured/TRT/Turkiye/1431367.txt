@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1431367 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6b22033a-361b-440d-bddd-941a8029fba7 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 09:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+soner yal����n adliyeye sevkedildi
+</HEADLINE>
+<TEXT>
+ODATV'ye yapılan baskın sonrasında gözaltına alınan gazeteci Soner Yalçın ve TV'de çalışan 3 kişi adliyeye sevkedildi.   
+
+Ergenekon soruşturması çerçevesinde ODATV&rsquo;YE yapılan baskın sonunda gözaltına alınan, Soner Yalçın ve TV&rsquo;de çalışan 3 kişi İstanbul adliyeye sevkedildi. 
+</TEXT>
+</DOC>

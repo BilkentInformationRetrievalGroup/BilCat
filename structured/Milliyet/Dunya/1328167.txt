@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328167 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f634a2e/l/0l0smilliyet0n0btr0c10a20eairbus0eicin0einsan0ehaklarini0esatti0e0cdunya0chaberdetay0c0a60b110b20a10a0c1310a7940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+102 airbus i��in insan haklar��n�� ���satt�����
+</HEADLINE>
+<TEXT> Çin Cumhurbaşkanı Hu’yu, havaalanında Cumhurbaşkanı Nicolas Sarkozy karşıladı. İki ülke arasında 102 Airbus model uçak satışı da dahil 16 milyar euro’luk ticari anlaşmalar imzalanırken, Fransız basını, Sarkozy’yi ekonomik çıkar uğruna Çin yönetiminin insan hakları ihalleri konusunda suskun kalmakla suçladı. Liberation gazetesi, “İnsan haklarının bedeli 16 milyar euro” başlıklı haberinde Sarkozy’yi eleştirdi. Le Figaro gazetesi de Sarkozy’nin, Çin’i kızdırmamak için, 2010 Nobel Barış Ödülü verilen, hapisteki muhalif Çinli politikacı Liu Şiaobo’yu kutlamadığını ve Liu’nun tahliye edilmesi için çağrı yapmadığını yazdı.</TEXT>
+</DOC>

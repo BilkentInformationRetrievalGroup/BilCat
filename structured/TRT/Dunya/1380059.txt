@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1380059 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ecb85458-db67-4c81-a59b-4b7e15c4c902 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 13:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+arjantin'de ��iddetli deprem
+</HEADLINE>
+<TEXT>
+Arjantin'de kırsal kesimde ve yer kabuğunun derinlerinde şiddetli bir deprem meydana geldi. 
+
+ABD Jeolojik Araştırmalar Kurumu&rsquo;na göre ülkenin kuzey kesiminde meydana gelen depremin büyüklüğü 6,9... Santiago del Estero adlı yerleşim birimine 150 kilometre mesafede bulunan depremin merkezi 563 kilometre derinlikte. 
+
+Depremle ilgili henüz can kaybı, yaralı veya hasar bildirilmedi. 
+
+
+</TEXT>
+</DOC>

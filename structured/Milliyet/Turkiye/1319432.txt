@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319432 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f3aa5f4/l/0l0smilliyet0n0btr0cambulans0ehelikopter0emac0esirasinda0estada0eindi0cturkiye0csondakika0c0a10b110b20a10a0c130a860a50cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 11:15:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ambulans helikopter ma�� s��ras��nda stada indi
+</HEADLINE>
+<TEXT>112 Acil Servis ambulansı, ilçeye bağlı Karaman köyündeki evinde kalp krizi geçiren Hüsnü Karabıyık’ı (64) ambulans helikopterle İzmir’e sevk edilmek üzere Kiraz 1 Eylül Stadı’na getirdi.Ambulans helikopter, Amatör Lig takımlarından Kiraz 1 Eylülspor-Bayındırspor’un karşılaşmasının oynandığı sırada stada iniş yaparak, Karabıyık’ı İzmir Atatürk Eğitim ve Araştırma Hastanesi’ne kaldırdı.Karabıyık’ın sevkinin ardından karşılaşmaya kaldığı yerden devam edildi.</TEXT>
+</DOC>

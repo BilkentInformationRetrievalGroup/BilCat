@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323701 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f529905/l/0l0smilliyet0n0btr0cturkiye0eucus0esayisini0eartirmadi0erusya0esert0ecikti0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99450cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:00:17.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye u��u�� say��s��n�� art��rmad�� rusya sert ����kt��
+</HEADLINE>
+<TEXT>MOSKOVA MilliyetEdinilen bilgiye göre,31 Ekim’de ortaya çıkan kriz sonucu THY Moskova’daki Domodedovo Havaalanı’ndan Sabiha Gökçen’e yapılan haftalık dört seferle Şeremetyevo’dan İstanbul Atatürk Havaalanı’na yapılan 08.25 seferini iptal etmek zorunda kaldı. Ayrıca,Atatürk’den Şeremetyevo’ya yapılması gereken tarifeli 18.50 seferini de yapamadı.Kriz,Türkiye hattında artan yolcu sayısından aldığı payı artırmak isteyen Aeroflot’un İstanbul seferlerinin sayısını günde ikiden üçe çıkarmak amacıyla Devlet Hava Meydanları İşletmesi’ne (DHMİ)başvurmasıyla başladı.DHMİ yetkilileri İstanbul’daki yoğun hava trafiği nedeniyle Aeroflot’un talebini hemen kabul etmedi ve başvurunun bir süre sonra ele alınabileceğini açıkladı.Bu yanıtı “ret” olarak değerlendiren Rus tarafı “karşılıklılık” gerekçesine dayanarak misillemede bulundu ve THY’nin seferlerini aksattı.Kriz aşılmak üzereTHY’nin Rusya Müdürü Mefail Deribaş Milliyet’e yaptığı açıklamada 31 Ekim’den bu yana devam eden sorunu ek seferler düzenleyerek ve daha büyük uçaklar sefere koyarak çözdüklerini söyledi.Deribaş,”Sorun kökten çözülmek üzere.Şu anda mağdur durumda hiçbir yolcumuz kalmadı.Konu bir yanlış anlamadan kaynaklanıyor.Yarından(bugün)itibaren sorununun yüzde 90 çözüleceğine inanıyorum”dedi.Aeroflot’un üçüncü sefer talebinin dün akşam saatlerinde kabul edildiği,böylece krizin son bulduğu belirtiliyor.Sefer iptalleri,Rusya’da 4 Kasım’da(bugün)başlayacak dört günlük tatilden yararlanan Rus vatandaşlarının yoğun şekilde yurtdışına gittiği günlere denk geldi.Türkiye ile Rusya arasında her gün toplam beş sefer yapan,2009 yılında toplam 600 bin yolcu taşıyan THY kısa süre önce Moskova-Ankara hattını açtı. THY uçaklarında genellikle Türkten daha fazla sayıda Rus yolcu uçuyor.</TEXT>
+</DOC>

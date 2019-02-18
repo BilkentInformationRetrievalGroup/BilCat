@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1422269 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d3d99dce-d570-4df7-b654-d6a7a400dd6c </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 14:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+m��s��r meclis binas�� ku��at��ld��
+</HEADLINE>
+<TEXT>
+El Cezire televizlonu, bir grup göstericinin Mısır Meclis Binası'nı kuşattığını duyurdu.
+
+Mısır Devlet Başkanı Hüsnü Mübarek&rsquo;in istifasını isteyen göstericilerin eylemleri sürüyor.
+
+El Cezire televizlonu, bir grup göstericinin Mısır Meclis Binası&rsquo;nı kuşattığını duyurdu.
+
+</TEXT>
+</DOC>

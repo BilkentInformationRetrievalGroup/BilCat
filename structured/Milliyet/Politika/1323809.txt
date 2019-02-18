@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323809 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f5298df/l/0l0smilliyet0n0btr0ckonseyden0eeksi0eye0euyari0ecezasi0csiyaset0chaberdetay0c0a40b110b20a10a0c130a99370cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:09:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+konseyden ek��i���ye ���uyar����� cezas��
+</HEADLINE>
+<TEXT> Basın Konseyi’nden yapılan yazılı açıklamaya göre, Basın Konseyi Yüksek Kurulu, Oktay Ekşi’nin 28 Ekim 2010 tarihli yazısı nedeniyle bugün toplandı.Toplantıda alınan kararlar hakkında şu bilgi verildi:“Basın Konseyi, Basın Meslek İlkeleri’nin giriş bölümünde de belirtilen, Basın Konseyi’nin kendi çalışmaları üzerinde hiçbir müdahaleye izin vermeme ilkesini hatırlatarak yaratılan linç ortamına ve ’tard’ çağrılarına boyun eğmemeyi görev sayar.”</TEXT>
+</DOC>

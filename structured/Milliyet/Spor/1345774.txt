@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1345774 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/ff90d87/l/0L0Smilliyet0N0Btr0Cmisimovic0Eten0Esakiz0Eaciklamasi0E0Cspor0Csondakika0C250B110B20A10A0C13182890Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:08:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Misimovic'ten sakız açıklaması!
+</HEADLINE>
+<TEXT>G.Saray'da Hagi'nin raporu doğrultusunda kadro dışı bırakılan Misimovic, “Bana sakız çiğnediğim için kadro dışı bırakıldığım söylendi” dediği öğrenildi.
+'da Wolfsburg kulübüne yakınlığı ile bilinen Wos gazetesine konuşan Boşnak , “Bir oyuncunun sakız çiğnediği için takımdan uzaklaştırıldığı daha önce hiç duymadım. G.Saray'da kalmak istiyorum ama istenmediğim yerde de duramam. Gelen teklifleri değerlendireceğim” dedi.
+Gazetedeki haberde Hagi'nin “Eğer bir oyuncu sadece sakız çiğneyip onu yere tükürmekten başka bir şey yapmıyorsa ben öyle futbolcuyu ne yapayım” açıklamasına da yer verildi</TEXT>
+</DOC>

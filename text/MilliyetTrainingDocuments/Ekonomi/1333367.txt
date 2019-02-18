@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333367 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f84619b/l/0l0smilliyet0n0btr0cispark0ebayramda0eucretsiz0cekonomi0csondakika0c10a0b110b20a10a0c13127160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ispark bayramda ��cretsiz
+</HEADLINE>
+<TEXT>İstanbul Büyükşehir Belediyesi şirketlerinden İSPARK’a ait yol üstü otoparkların, Kurban Bayramı’nın birinci ve ikinci günü ücretsiz olacağı bildirildi.Belediyeden yapılan açıklamada, alınan karar doğrultusunda İSPARK’ın kent genelinde yaklaşık 500 noktadaki yol üstü otoparklarının 16 ve 17 Kasımda ücretsiz, kapalı ve açık otoparkların ise ücretli olacağı belirtildi.Ücretsiz otopark uygulaması yapılan özel günlerde, bazı noktalarda yetkisiz ve kurumla bağlantısı olmayan kişilerin istismar ederek para talebinde bulunduğu uyarısı yapılan açıklamada, vatandaşların bunlara itibar etmeyerek açık otoparklarda bayramın ilk iki günü ücret ödemeyecekleri kaydedildi.Açıklamada, bayram boyunca İstanbulluların her türlü şikayetlerinde İSPARK’a "212 274 20 20" numaralı hizmet hattından ulaşılabileceği ifade edildi.</TEXT>
+</DOC>

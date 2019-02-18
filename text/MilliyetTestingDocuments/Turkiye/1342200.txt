@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342200 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fcc62f0/l/0l0smilliyet0n0btr0ctuzla0eda0epalamar0egemisi0ebatti0cturkiye0csondakika0c190b110b20a10a0c13159860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 17:09:44.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tuzla'da palamar gemisi batt��
+</HEADLINE>
+<TEXT>Tuzla’dan Yenikapı’ya seyir halindeyken su alan palamar teknesi, Marmara Denizi’nde battı.Alınan bilgiye göre, büyük gemilerin marinalara yanaşmaları sırasında halat bağlamak için kullanılan 10 metre uzunluğundaki "Dinçer-7" isimli palamar teknesi, Tuzla’dan Yenikapı’ya seyir halindeyken pervaneye dolanan halat yüzünden motor arızası yaptı. Tekne, aynı halatın hasar vermesi sonucu kıç tarafından su almaya başladı.Tekne kaptanı ve bir mürettebat, olay yerine ulaşan sahil güvenlik botuna alınarak, kurtarıldı.Palamar teknesi, suya gömüldü.</TEXT>
+</DOC>

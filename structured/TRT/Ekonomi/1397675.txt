@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1397675 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=87d62d74-4791-4898-92b6-d6646f06e184 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 16:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fitch'ten kom��u'ya k��t�� haber
+</HEADLINE>
+<TEXT>
+Uluslararası kredi derecelendirme kuruluşu Fitch, Yunanistan'ın kredi notunu "yatırım yapılabilir" seviyenin altına indirdi.
+
+Uluslararası kredi derecelendirme kuruluşu Fitch, Yunanistan&rsquo;ın kredi notunu &quot;yatırım yapılabilir&quot; seviyenin altına indirdi.
+
+Kuruluştan yapılan açıklamada, Yunanistan&rsquo;ın &quot;BBB-&quot; olan kredi notunun bir basamak indirilerek &quot;BB&quot; yapıldığı bildirildi. Notlara ilişkin görünüm ise &quot;negatif&quot; olarak belirlendi.
+
+Kuruluş, Yunanistan&rsquo;ın ekonomik ve mali performansının birçok açıdan beklentileri aştığını, buna karşılık ülkenin ağır kamu borç yükünün, mali ödeme gücünü dış şoklara açık hale getirdiğini bildirdi.
+
+Fitch, negatif görünümün ise kamu borcunun sürdürülebilirliğinin kırılganlığına işaret ettiğini ifade etti. Yunanistan maliye bakanlığı kredi notunun indirilmesine tepki gösterdi.
+</TEXT>
+</DOC>

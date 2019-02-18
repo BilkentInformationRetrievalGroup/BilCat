@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1437707 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=761a83ad-171c-48da-b8bb-e4075b42e91a </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 09:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+benzine yine zam geldi
+</HEADLINE>
+<TEXT>
+Libya sokaklarındaki eylemlerle artışa geçen ham petrol fiyatları Türkiye'de pompalara yansıdı.
+
+Dünya borsalarında 105 doları aşan ham petrol fiyatları sonrası Tüpraş rafinerisi bugünden (23.02.2011) geçerli olmak üzere benzine 8-9 kuruş zam yaptı. 
+
+Yapılan zammın şirketler tarafından farklı oranlarda pompaya yansıtılması bekleniyor. Büyük şirketlerin çoğunun, zammı bayilerine 8-9 kuruş bandında uygulayacağı öğrenildi. 
+
+Son yapılan zamla İstanbul&rsquo;da 3 lira 95 kuruşa satılan kurşunsuz 95 oktan benzinin fiyatı 4 lirayı aştı. 
+
+Yetkililer, Tüpraş&rsquo;ın akaryakıt ürünlerine gelen zamları oldukça ötelediğini belirterek, &quot;Ancak petrol fiyatları yükseliyor. Döviz kuru da artıyor. Bunlara paralel zam kaçınılmaz&quot; değerlendirmesi yaptı. 
+
+Akaryakıta gelen zammın ardından bugün benzer artışın motorinde yapılması bekleniyor. 
+
+Aynı oranda zam gelmesi halinde ise bugün pompada 3 lira 43 kuruşa satılan Euro diesel fiyatı 3,5 lirayı aşacak.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1414260 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=15b8da1b-43ac-48da-a927-122cde10b888 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 18:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsada hafif art����
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi haftanın ilk işlem gününü 66 puan artarak 63 bin 278 puandan tamamladı. 
+
+İstanbul Borsası Ulusal-100 Endeksi haftanın ilk işlem gününü 66 puan artarak 63 bin 278 puandan kapattı. Hisse senetleri günlük ortalama yüzde 0,10 oranında değer kazandı. 
+
+Serbest piyasada Amerikan Doları 1 lira 60 kuruş, Avro ise 2 lira 19 kuruştan işlem gördü.
+
+Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,19 seviyesinde bulunuyor.
+
+Uluslararası piyasalarda altının ons fiyatı bin 328 dolar olurken Kapalıçarşı&rsquo;da Cumhuriyet altını 459 liradan alıcı buldu. 
+
+Asya Pasifik piyasalarında bugün aşağı yönlü hereketler ön plana çıktı. Avrupa borsalarında da değer kayıpları yaşandı. New York Borsası yükselişle açıldı.
+</TEXT>
+</DOC>

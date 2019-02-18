@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1335112 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f9e6918/l/0L0Smilliyet0N0Btr0Cantep0Etelafisi0Cspor0Chaberdetay0C140B110B20A10A0C13142680Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:10:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Antep telafisi
+</HEADLINE>
+<TEXT>Alman teknik adamın sık sık taktik maçını durdurarak yapılan hataları futbolculara detaylı bir şekilde gösterdiği öğrenildi. . maçında alınan kötü sonuç nedeniyle moralsiz gözüken futbolcuların, bu yenilgiyi unutturmak için hırslandıkları ifade edildi.</TEXT>
+</DOC>

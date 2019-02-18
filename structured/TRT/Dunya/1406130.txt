@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1406130 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2551f640-81f8-45fe-b248-c86e5001881f </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 01:21:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��n��r kosova polisine emanet
+</HEADLINE>
+<TEXT>
+Kosova'nın Makedonya ile arasındaki sınırda güvenliğin denetimini Kosova polisi üstlendi.
+
+
+Kosova&rsquo;nın Makedonya ile güney sınırının Dragaş belediyesine düşen bölümünün güvenliği kısa adı KFOR olan Kosova Barış Gücü&rsquo;nden bir birime devredildi.
+
+Devir teslim törenine KFOR Komutanı General Erhard Bühler&rsquo;in yanısıra üst düzey Kosovalı yetkililer katıldı. 
+
+Kosova ve Makedonya arasındaki sınırın bu bölümünde güvenliği sağlayan KFOR bünyesinde Türk Barış Gücü askerleri de yer alıyordu. 
+
+NATO komutasındaki KFOR, aşamalı olarak sınır denetimini Kosova polisine devrediyor.
+</TEXT>
+</DOC>

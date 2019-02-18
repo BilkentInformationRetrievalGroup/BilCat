@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1404059 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=aaf013d5-acbf-469a-9b49-41f5d7459d44 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 16:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sigara b��rakt��rma ilac�� temize ����kt��
+</HEADLINE>
+<TEXT>
+  Sağlık Bakanlığı, sigara bıraktırma ilacı Champix'in intiharla bağlantısının gözlenmediğini duyurdu.
+
+
+Sağlık Bakanlığı, sigara bıraktırma ilacı Champix&rsquo;in kullananları intihara sürüklediği iddiaları üzirene yaptığı incelemeyi tamamladı . 
+ 
+Yapılan incelemenin ardından Bakanlık, söz konusu ilacın intiharla bağlantısının gözlenmediğini duyurdu.
+
+Dünya Sağlık Örgütü&rsquo;nün de sigara ile savaş stratejisinde etkin bir tedavi olarak gördüğü ilaç, intihara varan ciddi yan etkilerinin olduğu yönünde çıkan haberlerin ardından incelemeye alındı.
+
+ Sağlık Bakanlığı Bilim Kurulunca  yapılan incelemede,  20 sigara bırakma merkezinde söz konusu ilacı kullanan 2 bine yakın hastada sigara bırakma başarı oranı yüzde 72 olarak tespit edilirken, intihar ya da intiharla bağlantılı bir olay gözlenmediği ifade edildi.
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1410496 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=28efd437-10cc-4b96-a504-bd877b38f66f </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 16:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ve fink resmen gitti
+</HEADLINE>
+<TEXT>
+Beşiktaş, kadrosunda bulunan futbolcu Michael Fink'i Alman ekiplerinden Borussia Mönchengladbach'a verdi.
+
+ 
+Siyah-beyazlı kulüp, Alman futbolcunun Borussia Mönchengladbach takımına verildiğini İstanbul Menkul Kıymetler Borsası&rsquo;na da bildirdi.
+ 
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.&rsquo;den, Borsa&rsquo;ya yapılan açıklamada, &quot;Profesyonel futbolcularımızdan Michael Fink&rsquo;in, Borussia Mönchengladbach Kulübü&rsquo;ne 2010-2011 sezon sonuna kadar, 700 bin avro bedelle geçici transferi konusunda sözleşme imzalanmıştır&quot; denildi.
+</TEXT>
+</DOC>

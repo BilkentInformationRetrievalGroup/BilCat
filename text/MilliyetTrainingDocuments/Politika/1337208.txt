@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337208 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa78457/l/0l0smilliyet0n0btr0cgokcek0eten0eyine0echp0etahmini0csiyaset0csondakika0c150b110b20a10a0c13147190cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:09:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g��k��ek'ten yine chp tahmini
+</HEADLINE>
+<TEXT>Gökçek, "Ankara Günleri" kapsamında bulunduğu Çin’in Şanghay kentindeki Jin Jiang Tower Otel’de gazetecilerle yaptığı sohbet toplantısında, CHP’de bir süre önce yaşanan gelişmeleri anımsatarak, bu konudaki tahminlerinin hep doğru çıktığını savundu.Melih Gökçek, CHP’nin 6-8 ay içinde yeni bir kongreye gideceğini ve bu kongreyi Kemal Kılıçdaroğlu’nun kaybedeceğini öne sürdü.Önümüzdeki yıl yapılacak olan genel seçimlere de değinen Ankara Büyükşehir Belediye Başkanı Melih Gökçek, seçimlerde AK Parti’nin yüzde 50 civarında oy almasını beklediğini, CHP’nin yüzde 23-25 arasında kalacağını, MHP’nin ise barajı geçemeyeceğini tahmin ettiğini söyledi.</TEXT>
+</DOC>

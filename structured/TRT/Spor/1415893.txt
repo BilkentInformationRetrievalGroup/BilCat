@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1415893 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e22757dd-bf8e-43d3-8bf4-74717e9001c4 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 12:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+curling'de t��rkiye'nin ilk galibiyeti
+</HEADLINE>
+<TEXT>
+25. Dünya Üniversiteler Kış Oyunları erkekler curlingde Türkiye, Slovenya'yı 9-3 yenerek, ilk galibiyetini elde etti.
+
+Curling Arena&rsquo;da yapılan müsabakada, Türk Milli Takımı rinkte, Oğuzhan Dikmen, Çağrı Bayraktar, Yusuf Ziya Bayraktutan ve Oğuz Zengin&rsquo;den oluşan kadrosuyla mücadele verdi.
+
+Rakip Slovenya ise Gasper Ursiç, Jure Culic, Jost Lajovec ve Matevz Kovac&rsquo;dan oluşan dörtlüsüyle rinke çıktı.
+
+Türkiye, rakibi önünde, 1, 3, 4 ve 8. rauntları, 4-0, 2-0, 1-0 ve 2-0 kazanmayı başardı. Slovenya ise 2, 6 ve 7. rauntları 1-0&rsquo;lık skorla galip tamamladı.
+
+Karşılaşmanın son 2 seti ise Slovenya&rsquo;nın rinkten çekilmesi sonrasında oynanmadı.
+
+Türkiye, bu sonuçla erkekler curlingde ilk maçını kazanmış oldu.
+</TEXT>
+</DOC>

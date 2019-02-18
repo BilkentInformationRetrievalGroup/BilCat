@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1403732 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=798e7a95-0c81-4296-8343-8d9e134e32c6 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��rme engelli atletler antalya'da
+</HEADLINE>
+<TEXT>
+Görme Engelliler Atletizm Türkiye Şampiyonası, Antalya'da yapılacak.
+
+Şampiyona, Antalya Gençlik ve Spor İl Müdürlüğünün atletizm tesislerinde, 29-30 Ocak tarihlerinde bayanlar ve erkekler B1, B2 ve B3 kategorilerinde düzenlenecek.
+
+Bayanlar ve erkeklerde 100 metre, 200, 400, 800 ve bin 500 metreyle uzun atlama ile gülle atma, erkeklerde de yüksek atlama müsabakaları yapılacak.
+
+</TEXT>
+</DOC>

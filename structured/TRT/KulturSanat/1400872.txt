@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1400872 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=da8fdf90-cfb4-4805-88e5-001f50353139 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 20:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+disneyland zarar etti
+</HEADLINE>
+<TEXT>
+Dünyaca ünlü Disneyland'ın Hong Kong Eğlence Parkı, 2010 yılını 718 milyon Hong Kong Doları (92,3 milyon Amerikan Doları) zararla kapattı.
+
+Hong Kong hükümeti ile Disneyland şirketi ortak girişimiyle 2005&rsquo;de kurulan Disneyland Hong Kong, yayımladığı raporda, şirketin 2010 yılını 718 milyon Hong Kong Doları (92,3 milyon Amerikan Doları) zararla kapattığını açıkladı.
+
+Disneyland Hong Kong Yöneticisi Andrew Kam, gelecek üç yıl için planlanan yeni çekim merkezleriyle parkın yeniden kara geçeceğini belirterek, Disneyland Hong Kong&rsquo;un ne zaman kara geçeceği konusunda tarih vermedi.
+
+Eğlence parkındaki ziyaretçi sayısı geçen yıl yüzde 13 artarak 5,2 milyon yükselmiş, ziyaretçi başına harcamalar ise 2009 yılına göre yüzde 7 artmıştı. 
+</TEXT>
+</DOC>

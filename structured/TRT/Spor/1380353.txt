@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1380353 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b54fce87-78f7-402d-87ce-05340eacb99a </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 21:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ralf rangnick ile yollar ayr��ld��
+</HEADLINE>
+<TEXT>
+Hoffenheim, teknik direktör Ralf Rangnick ile yollarını ayırdı.
+
+Almanya Birinci Ligi (Bundesliga) takımlarından Hoffenheim&rsquo;ın, teknik direktör Ralf Rangnick ile yollarını ayırdığı bildirildi.
+ Rangnick&rsquo;in 2012 yılına kadar olan sözleşmesini kulüp başkanı Dietmar Hopp ile anlaşarak karşılıklı feshettiği belirtildi.
+ Tecrübeli teknik adamla Başkan Hopp arasında geçen yıldan bu yana fikir ayrılığı olduğu, Rangnick&rsquo;in takıma takviye istemesi ve Hoffenheim&rsquo;lı oyuncu Luiz Gustavo&rsquo;nun satılmasına karşı çıkmasına rağmen Hopp&rsquo;un bunların aksine hareket etmesinin fikir ayrılığını daha da arttırdığı savunuldu.
+ Yazılım şirketi sahibi zengin iş adamı Dietmar Hopp&rsquo;un başkan olduktan sonra takımın başına 4 yıl önce Rangnick&rsquo;i getirdiği hatırlatılan haberde Alman teknik adamın köy takımı olarak kurulan Hoffenheim&rsquo;ı iki yıl içerisinde üçüncü ligden Bundesliga&rsquo;ya çıkardığı vurgulandı.
+</TEXT>
+</DOC>

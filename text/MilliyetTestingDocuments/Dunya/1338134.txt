@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338134 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fb1bab0/l/0l0smilliyet0n0btr0ctapinakta0e3480einsan0ecenini0ebulundu0cdunya0csondakika0c160b110b20a10a0c13150a820cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:02:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tap��nakta 348 insan cenini bulundu
+</HEADLINE>
+<TEXT>Bangkok’un orta kesimindeki bir Budist tapınağında 348 insan cenini bulundu.Tayland polisi, ceninlerin plastik çantalar içinde paketlenmiş halde tapınağın morgunda bulunduğunu belirtti.Polis, ceninlerin yasadışı kürtaj yapılan kliniklerden getirilmiş olabileceğini, olayın soruşturulduğunu kaydetti.Doğumun anne sağlığı için tehlikeli olabileceği veya hamileliğin tecavüz sonucu olması gibi durumlar dışında, Tayland’da kürtaj yasadışı.</TEXT>
+</DOC>

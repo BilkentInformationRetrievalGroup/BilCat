@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1438854 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=64e26a68-3af3-4358-8e1f-a3a85e8c52d3 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 10:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2010'un sonunda konut sat����lar�� y��kseldi
+</HEADLINE>
+<TEXT>
+2010 yılı Ekim-Kasım-Aralık aylarını kapsayan son çeyreğe ait konut satış istatistikleri açıklandı.
+
+
+ Türkiye İstatistik Kurumu&rsquo;nun rakamlarına göre 2010 yılının dördüncü çeyreğinde, 97 bin 517 konut satış sonucu el değiştirdi. 
+    
+    Türkiye genelinde konut satışlarında bir önceki döneme göre yüzde 16,51 oranında artış gerçekleşti.
+
+     En yüksek artış yüzde 44,68 oranı ile Şanlıurfa ve  Diyarbakır&rsquo;da görüldü.
+
+     2010 yılı Ekim-Kasım-Aralık aylarında, konut satışlarında bir önceki yılın aynı dönemine göre ise yüzde 16,10 oranında düşüş kaydedildi.
+
+
+
+</TEXT>
+</DOC>

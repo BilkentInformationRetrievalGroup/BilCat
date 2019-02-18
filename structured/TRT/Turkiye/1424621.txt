@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1424621 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=640d90d6-f8c9-4e0b-a2d6-e8b4c451d668 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 14:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ba��bakanl��k'ta s��rpriz g��r����me
+</HEADLINE>
+<TEXT>
+Başbakan Erdoğan'ın gün boyunca bazı kabullerde bulundu. Başbakanlıkta program dışı bir konuk daha vardı.
+
+Başbakan Recep Tayyip Erdoğan&rsquo;ın gün boyunca kabulleri vardı. 
+
+Başbakanlık Merkez Binada yeni sayıştay üyelerini kabul eden Erdoğan, Genelkurmay Başkanı Orgeneral Işık Koşaner ile haftalık görüşmesini yaptı. Başbakanlık&rsquo;ta bir de sürpriz görüşme gerçekleşti.
+
+Genelkurmay Başkanı ile yapılan görüşmede &rsquo;&rsquo;terörle mücadele&rsquo;&rsquo; ve &rsquo;&rsquo;Ortadoğu&rsquo;daki gelişmeler&rsquo;in gündeme geldiği belirtiliyor.
+
+Başbakanlıkta program dışı bir konuk daha vardı. Başbakan Erdoğan, YÖK Başkanı Yusuf Ziya Özcan&rsquo;ı kabul etti. 
+
+Erdoğan akşam saatlerindeyse Cumhurbaşkanı Abdullah Gül ile biraraya gelecek.
+</TEXT>
+</DOC>

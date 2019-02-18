@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318725 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f385dfc/l/0l0smilliyet0n0btr0ctelegraph0etan0esok0eiddia0e0cdunya0csondakika0c0a10b110b20a10a0c130a840a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 18:08:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+telegraph'tan ��ok iddia!
+</HEADLINE>
+<TEXT>İngiliz Daily Telegraph gazetesi, ABD'nin füze kalkanı konusunda Türkiye'yi kapalı kapılar ardında uyardığını iddia etti. Haberde ABD'nin Türkiye'nin 19 Kasım'da yapılacak NATO Zirvesi'ne kadar füze kalkanı konusunda tavrını netleştirmesini istediği belirtildi.ABD Dışişleri Bakanı Hillary Clinton ve ABD Savunma Bakanı Robert Gates'in bu hususta görüştükleri Türk yetkilieri 'tavırlarını belirlemeleri' için gizlice uyardıkları söyleniyor.Gazeteye konuşan isminin gizli tutulmasını isteyen Amerikalı üst düzey bir yetkili, " Türkiye'ye füze kalkanının, Batılı müttefikleriyle ortak güvenlik düzenlemelerine bağlılığına ilişkin zorlu bir sınav niteliğinde olduğunu ifade ettik" diye konuştu. Türkiye'nin füze kalkanının komşu İran'ı hedef almamasından ve İsrail'in de bundan faydalanmamasından yana olduğu biliniyor. </TEXT>
+</DOC>

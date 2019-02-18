@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1419988 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=40749e68-a631-4d22-b6f4-f3a1aaf1da60 </URL>
+<DATE> 2011/02/06 </DATE>
+<TIME> 12:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+izmir'de m��cevher fuar��
+</HEADLINE>
+<TEXT>
+Sadece profesyonel ziyaretçilere açık olan İzmir Mücevher Fuarı'nda birbirinden ilginç tasarımlar ziyaretçilerin beğenisine sunuldu. 
+
+Sayısız fuara ev sahipliği yapan Kültürpark&rsquo;taki fuar alanı bugünlerde ışıl ışıl.
+
+     Standlarda rengarenk taşlar, inci kolyeler, modası hiç geçmeyen tek taş yüzükler var.
+
+     Yurtiçi ve yurtdışından profesyonel alıcılara açık olan fuara 115 firma katılıyor.
+
+Öncelikli hedefleri ihracat olan firmaların tasarımları ziyaretçilerden tam not aldı.
+
+</TEXT>
+</DOC>

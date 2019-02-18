@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1387841 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=373c0985-967e-481b-9274-d953fcb0b667 </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 12:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsada yukar�� y��nl�� hareket s��r��yor
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi birinci seansı 777 puan artarak 69 bin 606 puandan tamamladı. 
+
+
+Yılın ilk üç işlem gününde yükselen borsa bileşik endeksi yukarı yönlü hareketini bugünkü ilk seansta da sürdürdü. 
+
+Hisse senetleri günün ilk yarısında ortalama yüzde 1,12 oranında değer kazandı.   
+ 
+Serbest piyasada Amerikan Doları 1 lira 55 kuruş, Avro ise 2 lira 3 kuruştan işlem görüyor.
+
+Uluslararası piyasalarda altının ons fiyatı bin 375 dolar. 
+
+Kapalıçarşı&rsquo;da Cumhuriyet altını 456 liradan alıcı buluyor. 
+
+Dünya borsalarına gelince...
+
+New York Borsası&rsquo;nda dün (05.01.2011) Dow Jones Sanayi endeksi yüzde 0,27 yükselirken, teknoloji göstergesi Nasdaq yüzde 0,78&rsquo;lik artış kaydetti.
+
+Asya ve Uzakdoğu piyasalarında bugün karışık bir tablo sözkonusu... 
+
+Avrupa borsalarında ise sınırlı değer artışları ön plana çıkıyor.
+</TEXT>
+</DOC>

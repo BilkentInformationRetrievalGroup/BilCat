@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1395709 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bd4ffdc8-3945-4fe6-a6ba-092eedd2b682 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 17:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"teknik ar��za" ihtimali azal��yor
+</HEADLINE>
+<TEXT>
+5 üsteğmenin şehit olduğu kazaya ilişkin olarak konuşan Milli Savunma Bakanı, şu ana kadar teknik arızaya ilişkin bir bulguya rastlanmadığını açıkladı
+
+Ankara&rsquo;da 5 kara pilot üsteğmenin şehit olmasıyla sonuçlanan helikopter kazasında &quot;teknik arıza&quot; ihtimali giderek azalıyor. 
+
+Milli Savunma Bakanı Vecdi Gönül, devam eden araştırmalarda şu ana kadar teknik arızaya ilişkin bir bulguya rastlanamadığını söyledi.
+
+Gönül şöyle konuştu:
+&quot;Araştırmalar devam ediyor, şu ana kadar kesin rapora ulaşılmış değil ama şu ana kadar teknik arıza ile ilgili herhangi bir bulguya rastlanmamıştır.&quot;
+
+
+
+
+
+</TEXT>
+</DOC>

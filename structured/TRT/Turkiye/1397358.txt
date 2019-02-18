@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1397358 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a4683a44-eb3d-4afa-82a4-54a6ce4ea698 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 10:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+h��samettin cindoruk karar��n�� verdi
+</HEADLINE>
+<TEXT>
+Demokrat Parti Genel Başkanı Hüsamettin Cindoruk, genel başlanlık adaylığı konusunda kararını verdi.
+
+Hüsametten Cindoruk, Demokrat Parti (DP) Genel Başkanlığı&rsquo;na yeniden aday olduğunu açıkladı.
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1334829 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f984ac8/l/0L0Smilliyet0N0Btr0Cgoogle0Ein0Ehilali0Eabd0Eyi0Ekaristirdi0Cdunya0Chaberdetay0C130B110B20A10A0C13138680Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 07:00:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google’ın ‘hilali’ ABD’yi karıştırdı
+</HEADLINE>
+<TEXT>logosunun üzerine Amerikan bayrağı yerleştirilince, bayrak resmi “e” harfinin üst kısmını kapadı ve  harfin açıkta kalan alt kısmı bazı kesimlerce hilale benzetildi. Logoyu gören Amerikalılar forumlarda ve mikro- sitesi ’da tepki göstermeye başlayınca tartışma basına da yansıdı.  bayrağının altına “Müslümanların hilalinin yerleştirildiğini” söyleyen Amerikalılar, Google’a şikayetler yağdırdı. Forumlarda ve Twitter’da “Google Gaziler Günü’nde şeriat tarafından ele geçirildi”, “Google’da Allah hayranı Usame’ler bir şov yönetiyor”, “Kutsal saydığımız sembole saygısızlık yapıldı”, “’ın hilali haçı ele geçirdi”, “Google’ın gizli bir İslami gündemi mi var?” gibi yorumlar yapıldı. 
+Logoya yer veren gazeteler konuyu tartışmaya açarken bazı köşe yazarları da olayın abartıldığını söyledi.
+ gazetesi Huffington Post’tan Jason Linkins “Bu sadece bir ‘e’ harfi” diyerek tartışmanın gereksiz olduğu yorumunda bulundu. Google’dan bir açıklama yapılmadı</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1414253 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b51402c6-f8ba-440b-94f6-1e803b57e1fc </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 18:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erzurum 2011'de 7. g��n program��
+</HEADLINE>
+<TEXT>
+Oyunlar, 7 ayrı branşta yapılacak müsabakalarla devam edecek.
+
+25. Dünya Üniversiteler Kış Oyunları, yarın (01.02.2011) 7 ayrı branşta yapılacak müsabakalarla devam edecek.
+ Oyunlarda alp disiplini, buz hokeyi, curling, kuzey kombine, biatlon, artistik patinaj ve snowboard branşlarında müsabakalar düzenlenecek.
+ Konaklı&rsquo;da alp disiplininde bayanlar ve erkekler Süper Combi kategorisinde Slalom yarışları yapılacak.
+ Buz hokeyi erkeklerde grup maçları, oynanacak 3 karşılaşmayla sona erecek.
+ 15 müsabakanın yapılacağı curling salonunda Türkiye, bayanlarda Japonya ve Güney Kore, erkeklerde ise Noorveç ile mücadele edecek.
+ Kuzey kombine takım yarışmalarında K95 atlayışı ve 3x5 kilometrelik kayaklı koşu sonucunda dereceye girenler belli olacak.
+ Biatlonda erkeklerde ve bayanlarda sprint kategorisinde madalyalar sahiplerini bulacak.
+ Artistik patinajda erkekler ve çiftler kısa programları yapılacak.
+ Palandöken&rsquo;de yapılacak snowboard müsabakalarında Paralle Giant Slalom (PGS) kategorisinde elemeler ve final müsabakaları yapılacak.
+</TEXT>
+</DOC>

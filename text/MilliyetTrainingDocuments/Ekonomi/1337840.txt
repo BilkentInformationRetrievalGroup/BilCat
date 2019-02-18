@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337840 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68c5/l/0l0smilliyet0n0btr0ctikad0edan0ebasortulu0ecalisma0earastirmasi0cekonomi0chaberdetay0c160b110b20a10a0c13148850cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:00:51.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tikad���dan ���ba����rt��l�� ��al����ma��� ara��t��rmas��
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİTİKAD tarafından yapılan açıklamada, Türkiye’nin gelişmiş ve gelişmekte olan ülkeler arasında kadınların iş hayatındaki istihdam oranı bakımından en alt sıralarda yer aldığı belirtilerek şöyle denildi: “Türkiye olarak birçok Avrupa ülkesinden daha önce almış olduğumuz haklarımıza gerektiği gibi sahip çıkamayıp kullanamadığımız için geldiğimiz nokta Türk kadını adına affedilemez ve son derece üzücü bir durumdur. 21. yy da kadınların çözülmesi gereken birçok sorunu ile birlikte yeni bir engel daha çıkartılmış, diğer sorunları bertaraf edilerek kadın sorunu başörtü sorununa kilitlenmiştir.Bu nedenle, Türkiye İş Kadınları Derneği (TİKAD) olarak, Türkiye’de toplumun başörtüsü sorunu ve bu sorunla bağlantılı olarak eğitim ve iş hayatındaki yansımalarını doğru tespit edip çözüm platformu oluşturabilmek için, 26 ilde başını örten kadın, başı açık kadın, eşinin başı örtülü olan erkek ve eşinin başı açık olan erkek olmak üzere toplam 3052 denek üzerinde kamuoyu araştırması yaptırdık.” TİKAD bu araştırmanın sonuçlarını 24 Kasım’da kamuoyuyla paylaşacağını bildirdi.</TEXT>
+</DOC>

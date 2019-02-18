@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1409031 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0ab741cb-55ba-4031-823d-eb6ed4ec90a9 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 13:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e ��lker valencia'y�� a����rl��yor
+</HEADLINE>
+<TEXT>
+Fenerbahçe Ülker Basketbol Takımı, THY Avrupa Ligi 2. turunda yarın İstanbul'da İspanya'nın Power Electronics Valencia takımı ile karşılaşacak.
+
+Sinan Erdem Spor Salonu&rsquo;nda yapılacak THY Avrupa Ligi 2. tur (Top 16) (H) Grubu 2. hafta maçı saat 21.45&rsquo;te başlayacak.
+
+Grupta ilk hafta maçında deplasmanda güçlü rakibi Yunanistan&rsquo;ın Olympiakos takımını 84-70 yenerek, 2. tura iyi bir başlangıç yapan sarı-lacivertliler, kendi sahasında taraftarının desteğiyle yarınki maçtan da galibiyetle ayrılmayı hedefliyor. Fenerbahçe Ülker, grupta ilk hafta maçlarının ardından ilk sırada bulunuyor.
+
+İlk maçında kendi sahasında Litvanya&rsquo;nın Zalgiris Kaunas takımını 73-59 yenen Power Electronics Valencia ise grupta Fenerbahçe Ülker&rsquo;in ardından ikinci sırada bulunuyor
+</TEXT>
+</DOC>

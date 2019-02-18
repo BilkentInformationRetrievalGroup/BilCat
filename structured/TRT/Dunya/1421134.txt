@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1421134 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2a7f7f59-39b4-428b-99b3-e1e8bc53b237 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 15:00:49.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tam 126 ya����nda...
+</HEADLINE>
+<TEXT>
+Küba'dan sonra dünyanın en yaşlı kadınına ilişkin bir haber de dost ve kardeş ülke Azerbaycan'dan geldi.
+
+Kişmir Muharremova nüfus kayıtlarına göre tam 126 yaşında...
+
+</TEXT>
+</DOC>

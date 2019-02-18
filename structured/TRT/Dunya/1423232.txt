@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1423232 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=91db7512-cefb-492c-ae6f-2fb966619aa9 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 12:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sava����n bedelini onlar ��d��yor
+</HEADLINE>
+<TEXT>
+Son verilere göre Afganistan'da günde ortalama 2 çocuk ölüyor. 
+
+
+Yoksullluğun pençesindeki Afganistan, dünya genelinde çocuk ölümlerinde başı çeken ülkelerden....
+
+     Ancak bu ülkede çocuk ölümlerine yol açan, sadece, yetersiz beslenme, salgın hastalıklar ya da sağlık hizmetlerinden yoksun olmak değil...
+
+     Çatışma ve saldırıların geçen yıl en üst düzeye çıktığı Afganistan&rsquo;da, günde ortalama iki çocuk şiddet olayları nedeniyle yaşamını yitirdi. 
+
+     Afganistan&rsquo;da İnsan Hakları İzleme Örgütü&rsquo;ne göre, 2010&rsquo;da saldırı ve çatışmalarda ölen sivillerin sayısı iki bin 420&rsquo;yi geçti.
+
+     Bunların 739&rsquo;u 18 yaşın altında...
+
+     Raporda, bu ölümlerin üçte ikisinden direnişçilerin, yüzde 17&rsquo;sinden de Amerikan güçleri ile NATO öncülüğündeki güçlerin sorumlu olduğu belirtiliyor.
+
+     Çocukların daha çok, el bombalarıyla düzenlenen saldırılar, intihar saldırıları ve havadan bombardımanın kurbanı olduklarına dikkat çekiliyor.
+</TEXT>
+</DOC>

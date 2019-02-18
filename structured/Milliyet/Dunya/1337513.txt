@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337513 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa99fc9/l/0l0smilliyet0n0btr0cisrail0eyagmur0eduasina0ecikacak0e0cdunya0csondakika0c150b110b20a10a0c13147860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 17:01:26.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+israil, ya��mur duas��na ����kacak!
+</HEADLINE>
+<TEXT>İsrail Hahambaşılığı, yağmur yağması için perşembe günü herkesi oruç tutmaya çağırarak, yağmur duası edilmesini istedi.Arutz Şeva haber sitesine göre, İsrail Hahambaşılığı, perşembe gününü yağmur için oruç günü olarak belirledi.1920’lerden bu yana, son 5 yılın İsrail’de en uzun ve en kurak dönemlerden biri olduğuna dikkat çekiliyor.Ayrıca son 5 yılda tatlı su temininin yüzde 25 dolayında azaldığı da vurgulanıyor. Su darboğazı nedeniyle çeşitli önlemlerin uygulamaya konulduğu İsrail’de, su tüketiminin en yoğun olduğu alanlardan biri olan tarımda, arıtılmış atıksu kullanımı özendiriliyor, kamuoyunda suyun tasarruflu kullanımına ilişkin kampanyalar düzenleniyor, televizyonlarda aynı amaçlı reklamlar sık sık yayımlanıyor.Halihazırda, tarımsal alanlarda sulama amaçlı kullanılan suyun yaklaşık yarısının atıksuların arındırılmasıyla elde edildiği de belirtiliyor.</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1388694 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=96c67acd-33e2-4945-b4cb-77cb3930ae0c </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 20:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+avantaj arka��'da
+</HEADLINE>
+<TEXT>
+Voleybolda, GM Capital Erkekler Avrupa Challenge Kupası 8'li eleme turu ilk maçında Arkas Spor, Belarus'tan Stroitel takımını 3-0 yendi.
+
+İzmir Atatürk Spor Salonu’nda oynanan karşılaşmanın setleri 25-21, 25-17, 25-15 sona erdi. 
+
+Karşılaşmanın rövanşı 12 Ocak Çarşamba günü Belarus&rsquo;ta oynanacak
+</TEXT>
+</DOC>

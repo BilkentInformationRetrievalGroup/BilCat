@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1398501 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=986c76aa-a326-4030-9816-1057e9bf6a81 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 15:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ve ba��bakan'dan a����klama geldi
+</HEADLINE>
+<TEXT>
+Başbakan Recep Tayyip Erdoğan: "Seyrantepe Stadının A'dan Z'ye yapımında Galatasaray Kulübünün bir Allah kuruşu yoktur."
+
+Galatasaray&rsquo;ın yeni stadı Türk Telekom Arena&rsquo;nın açılışına katılan ve yapılan protestolar sonunda stadı terk eden Başbakan Recep Tayyip Erdoğan&rsquo;dan açıklama geldi.
+ Erdoğan, &quot;Seyrantepe Stadının A&rsquo;dan Z&rsquo;ye yapımında Galatasaray Kulübünün bir Allah kuruşu yoktur. Tamamiyle bu tesis Toplu Konut İdaresi tarafından yapılmıştır. Ve Galatasaray Kulübümüze kullanma hakkı olarak kendisine tahsis edilmiştir. Bunun da anlaşmaları yapılacak, daha yapılmış değil. 
+ Tüm oradaki olumsuzluk sahiplerinindir. Galatasaray camiasını bundan tenzih ederim. Bizim de üzüntümüz budur. 
+ Oraya yaptığımız yatırımın toplam bedeli 600 trilyonu bulmuştur. Herhalde böyle bir yatırımın karşılığı bu olmamalıydı diye düşünüyorum&quot; dedi.
+
+</TEXT>
+</DOC>

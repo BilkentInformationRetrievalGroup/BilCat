@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340029 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fbe73cc/l/0l0smilliyet0n0btr0citalya0eya0eyenildik0cspor0chaberdetay0c180b110b20a10a0c13155680cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 05:02:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+italya���ya yenildik
+</HEADLINE>
+<TEXT>İtalya’nın Fermo kentindeki Bruno Recchioni Stadı’nda oynanan karşılaşmada, ay-yıldızlı ekibin tek golünü 89. dakikada İsmail Haktan Odabaşı attı. Ev sahibi İtalya’nın gollerini ise 41. ve 57. dakikalarda Manchester United’da forma giyen Federico Macheda kaydetti.</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1409217 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=77605edf-be22-499d-b07c-b90ef99b0a30 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 15:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��te be��ikta��'��n 18 ki��ilik kadrosu
+</HEADLINE>
+<TEXT>
+Siyah-beyazlıların 18 kişili kadrosu belli oldu.
+
+Beşiktaş&rsquo;ın, Trabzonspor ile oynayacağı Ziraat Türkiye Kupası maçının kadrosu belli oldu.
+ Sakatlığı geçen İbrahim Üzülmez de maç kadrosuna alınırken, siyah-beyazlıların 18 kişilik kadrosu şöyle: Hakan Arıkan, Cenk Gönen, Ekrem Dağ, İbrahim Üzülmez, İbrahim Toraman, İsmail Köybaşı, Guti Hernandez, Simao Sabrosa, Ricardo Quaresma, Hugo Almeida, Mehmet Aurelio, Ersan Gülüm, Fabian Ernst, Necip Uysal, Roberto Hilbert, Manuel Fernandes, Da Silva Bobo, Mert Nobre.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323118 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4efaa1/l/0l0smilliyet0n0btr0cvietnam0eda0eyeni0esel0efelaketi0cdunya0csondakika0c0a30b110b20a10a0c130a97160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:01:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+vietnam'da yeni sel felaketi
+</HEADLINE>
+<TEXT>Vietnam’da son haftalarda etkili olan aşırı yağışların yol açtığı sellerde 8 kişi daha öldü.Afet İdaresi yetkilileri, son sel felaketinin Phu Hen, Hanh Hoa ve Ninh Thuan’da etkili olduğunu belirttiler.Yetkililer, son sel felaketinde 8 kişinin hayatını kaybettiğini, ayrıca 6 kişinin kayıp olduğunu bildirdiler.Bu arada, iki hafta önce sel sularına kapılan otobüsün yolcularından iki kişinin cesedi bulundu. Cesetleri bulunan yolcuların sayısı böylece 17’ye yükselirken, üç kişiye henüz ulaşılamadı.Vietnam’ın orta kesiminde etkili olan sel felaketinde hayatını kaybedenlerin sayısının son ölümlerle birlikte 143’ü bulduğu belirtildi.</TEXT>
+</DOC>

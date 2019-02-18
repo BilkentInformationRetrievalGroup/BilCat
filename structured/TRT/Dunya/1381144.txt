@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1381144 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fa8ad054-5f0a-44db-af36-03ad690acf8c </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 22:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ili'de deprem...
+</HEADLINE>
+<TEXT>
+Ülkenin orta kesimlerinde 7,1 büyüklüğünde kaydedilen deprem paniğe yol açtı. 
+
+
+Amerikan Jeolojik Araştırma Kurumu, depremin merkez üssünün, Araucanio&rsquo;nun bölgesel başkenti Temuco&rsquo;nun 70 kilometre kuzeydoğusunda ve yaklaşık 30 kilometre derinlikte tespit edildiğini duyurdu. 
+
+Şiddetli sarsıntı özellikle kıyı bölgelerde yaşayan Şilililer arasında paniğe yol açtı. Olası bir tsunamiden korkan yüzlerce kişinin evini bırakıp yüksek kesimlere kaçtığı bildirildi. 
+
+Ancak Şili donanması başkent Santiago&rsquo;ya 595 kilometre meydana gelen depremin ardından tsunami alarmı verilmesine gerek olmadığını duyurdu. 
+
+Depremde ölen ya da yaralanan olup olmadığı henüz bilinmiyor. Bölgeden altyapının hasar gördüğü yolunda haberler geliyor. 
+
+
+
+</TEXT>
+</DOC>

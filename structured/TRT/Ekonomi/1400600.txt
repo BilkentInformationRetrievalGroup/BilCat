@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1400600 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e301cf7a-c4b9-42b4-85c9-791b4d76a5e4 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 15:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta petrol ihracat�� ��ubatta
+</HEADLINE>
+<TEXT>
+Irak Bölgesel Kürt Yönetimi, Irak'ın kuzeyinden petrol ihracatının yeniden başlayacağını duyurdu.
+
+Irak Merkezi Yönetimi ve Bölgesel Kürt Yönetimi arasında Irak&rsquo;ın kuzeyinden petrol ihracatının Şubat ayında yeniden başlaması konusunda anlaşmaya varıldı.
+
+Irak Bölgesel Kürt Yönetimi Irak&rsquo;ın kuzeyinden petrol ihracatının yeniden başlatılacağını açıkladı.
+
+Kürt Bölgesel yönetimi Başbakanı Barham Salih, Irak Başbakanı Nuri El Maliki ile yaptıkları görüşme sonrasında ihracatın Şubat ayında başlatılması konsunda anlaşmaya vardıklarını açıkladı.
+
+Bağdat yönetimi ve Kürt yetkililer arasında ödemelere ilişkin anlaşmazlık çıkması üzerine Haziran 2009&rsquo;da Irak&rsquo;ın kuzeyinden başlayan petrol ihracatı birkaç ay sonra durdurulmuştu.
+
+Neredeyse yarıya yakını ülkenin kuzeyinde olmak üzere dünyanın dördüncü büyük petrol rezervlerine sahip Irak, şu anda günlük yaklaşık 2 milyon varil olan ham petrol ihracatını gelecek yıl bu miktarın üzerine çıkarmayı hedefliyor.
+</TEXT>
+</DOC>

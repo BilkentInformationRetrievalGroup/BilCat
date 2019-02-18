@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1422663 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=14fac6d1-656c-419b-8409-de2f1e048473 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 19:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursaspor'da eski��ehirspor mesaisi
+</HEADLINE>
+<TEXT>
+Spor Toto Süper Ligi'nin 21. haftasında Eskişehirspor deplasmanına gidecek olan Bursaspor, hazırlıklarını Özlüce Tesisleri'nde sürdürüyor.
+
+Teknik Direktör Ertuğrul Sağlam yönetiminde gerçekleştirilen antrenmana milli takım maçı için ülkesine giden Kenny Miller ile Ümit Milli Takım&rsquo;da bulunan Serdar Aziz ile İsmail Haktan katılmadı. 
+ Düz koşuyla başlayan antrenman, 5&rsquo;e 2 pas-pres çalışması ile devam etti. 20 dakikası basına açık olan antrenmanının son bölümünde ise Eskişehirpor maçının taktiğinin çalışıldığı öğrenildi.
+</TEXT>
+</DOC>

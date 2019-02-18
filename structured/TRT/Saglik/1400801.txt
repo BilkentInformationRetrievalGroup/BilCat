@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 1400801 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=140c28e5-9a9e-4909-9ce6-79e6ab6e3941 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 18:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��te t��rkiye'nin hepatit risk haritas��
+</HEADLINE>
+<TEXT>
+Viral Hepatitle Savaşım Derneği, Türkiye'nin risk haritasını çıkardı. Hepatit B virüsünün 
+ en yaygın olduğu bölgeler Doğu ve Güneydoğu Anadolu.
+
+ Viral Hepatitle Savaşım Derneği&rsquo;nin 2 yıl süren, otobüsle Hepatit Tarama ve Bilinçlendirme Projesi çerçevesinde Türkiye&rsquo;nin risk haritası çıkarıldı.
+
+         Dernekten yapılan açıklamaya göre, 2 yıl boyunca, otobüsle Türkiye genelinde 45 şehri dolaşarak tarama ve bilinçlendirme çalışması yürüten Viral Hepatitle Savaşım Derneği&rsquo;nin verileri, Türkiye&rsquo;nin hepatit gerçeğini ortaya koydu. 
+
+50 Bin Kan Örneği Değerlendirildi
+50 bin kan örneğinin değerlendirildiği çalışmanın, hepatitlerin ülkemizde yaygın görüldüğünü bir kere daha teyit ettiği belirtilen açıklamada, şöyle denildi:
+
+&rsquo;&rsquo;Türkiye&rsquo;deki Hepatit B pozitifliği oranı yüzde 5.2, Hepatit C pozitifliği oranı yüzde 0.5 olarak belirlendi. 
+
+Oranların biraz yüksek çıkmasında, bu çalışmada, tarama testlerinin isteklilerde yapılması  ve bunların bir kısmının daha önceden taşıyıcı olduklarını bilmelerinin rol oynadığı düşünülmektedir.&quot;
+
+         Açıklamada, Hepatit B virüsüne karşı doğal aşılı olanlar değerlendirildiğinde, çocuklara yapılan aşılar nedeniyle, Hepatit B virüsüne karşı gelişen antikor pozitifliğinin daha yüksek olduğu vurgulandı.
+
+Hepatit B, Doğu ve Güneydoğu Anadolu&rsquo;da Daha Yüksek 
+         Açıklamaya göre, Doğu ve Güneydoğu Anadolu&rsquo;da Hepatit B virüsü pozitifliği daha yüksek 
+ görüldü. 
+
+Bu bölgeleri, Akdeniz, İç Anadolu, Karadeniz ve Marmara bölgeleri takip ederken, en düşük oran Ege&rsquo;de tespit edildi. 
+
+Hepatit C pozitifliği açısından en yüksek oranlar Karadeniz ve Akdeniz bölgelerinde görülürken, en düşük oran yine Ege&rsquo;de çıktı. 
+
+Hepatit C pozitifliklerinin, küçük ve genç yaşlarda daha düşük olduğu, yaşla birlikte giderek arttığı belirlendi.
+</TEXT>
+</DOC>

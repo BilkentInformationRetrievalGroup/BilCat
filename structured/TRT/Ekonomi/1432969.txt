@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1432969 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0b906d32-e021-4a96-a7a0-5cabaa660530 </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 13:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsada yatay seyir
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi ilk seansı 15 puan artarak 65 bin 988 puandan tamamladı.
+
+İstanbul Borsası Ulusal-100 Endeksi ilk seansı 15 puan artarak 65 bin 988 puandan bitirdi. Hisse senetleri günün ilk yarısında ortalama yüzde 0,02 oranında değer kazandı. 
+
+Serbest piyasada Amerikan Doları 1 lira 58 kuruş, Avro ise 2 lira 15 kuruştan işlem görüyor. Tahvil ve bono piyasasında gösterge tahvilin bileşik faizi ise yüzde 8,28 seviyesinde bulunuyor.
+
+Uluslararası piyasalarda altının ons fiyatı bin 385 dolar olurken Kapalıçarşı&rsquo;da Cumhuriyet altını 470 liradan alıcı buluyor. 
+
+
+New York Borsası&rsquo;nda dün Dow Jones Sanayi endeksi yüzde 0,24, teknoloji göstergesi Nasdaq yüzde 0,21 yükseldi.
+
+Asya Pasifik piyasaları bugün karışık bir görünüm sergiliyor. Avrupa borsalarında ise değer kayıpları yaşanıyor.
+</TEXT>
+</DOC>

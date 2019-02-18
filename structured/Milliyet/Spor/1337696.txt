@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337696 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/faa5ab7/l/0l0smilliyet0n0btr0cnadir0eciftci0ea0emilli0etakim0ea0edavet0eedildi0cspor0csondakika0c150b110b20a10a0c131480a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 19:11:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+nadir ��ift��i, a milli tak��m'a davet edildi
+</HEADLINE>
+<TEXT>Hollanda ile çarşamba akşamı oynayacağı özel maçın hazırlıklarını Amsterdam’da sürdüren (A) Milli Futbol Takımı’nın aday kadrosuna, Portsmouth’lu forvet oyuncusu Nadir Çiftçi de davet edildi.Futbol Federasyonu’ndan yapılan açıklamada, kadroda yer alan Avustralya doğumlu Ersan Adem Gülüm gibi milli takım tercihini Türkiye’den yana kullanan Nadir Çiftçi için FIFA’ya gerekli başvuruların yapıldığı, bugün öğleden sonra kampa katılan 18 yaşındaki genç futbolcunun, Hollanda maçında forma giyebilmesini sağlayacak prosedürün tamamlanması için yoğun çaba sarf edildiği bildirildi.Nadir Çiftçi, daha önce Hollanda 17 Yaş Altı Milli Takımı’nın formasını giymişti.</TEXT>
+</DOC>

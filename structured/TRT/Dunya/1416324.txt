@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1416324 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3d37eeac-4ccf-4aae-b5d4-70198486c026 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 17:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tam 100.000'i ayn�� sahilde!
+</HEADLINE>
+<TEXT>
+100 bin köpekbalığı Florida sahillerini istila etti. Üstelik yüzenler de vardı.
+
+Florida sahillerini köpek balıkları istila etti!.. 
+
+Özellikle sörfçülerin tercih ettiği plajlarda, şimdi binlerce köpek balığı sörf yapıyor... 
+
+Boyları 1 ila 3 metre arası olan köpekbalıklarının sayısı 100 bini aşıyor. 
+
+Florida sahillerinde yüzenler köpekbalıklarını karşılarında görünce şok geçirdi.
+
+Şans eseri kimse yaralanmadı.
+
+</TEXT>
+</DOC>

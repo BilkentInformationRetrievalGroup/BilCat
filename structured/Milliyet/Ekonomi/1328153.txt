@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328153 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f638b7e/l/0l0smilliyet0n0btr0cabd0ede0etarim0edisi0eistihdam0esevindirdi0cekonomi0chaberdetay0c0a60b110b20a10a0c1310a8580cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+abd���de tar��m d������ istihdam sevindirdi
+</HEADLINE>
+<TEXT> ABD Çalışma Bakanlığı verilerine göre ekim ayında tarım dışı istihdam 151 bin ile beklentilerin çok üzerinde artarken, işsizlik oranı da beklentilere paralel yüzde 9.6 oldu. Yatırımcıların beklentisi ekimde istihdamın 60 bin kişi artacağı yönündeydi. Artış, piyasalar tarafından işverenlerin ekonomiye olan güveninin arttığı şeklinde yorumlandı. Partisi hafta başında gerçekleştirilen Kongre seçimlerinden yenilgiyle çıkan ABD Başkanı Barack Obama, veriden sonra yaptığı açıklamada haberin cesaret verici olduğunu söylerken, “Bu yetmez. İşsizlik hâlâ kabul edilemeyecek kadar yüksek” dedi. Obama’nın partisi Demokratların oy kaybında yüksek işsizliğin bir türlü düşürülememesinin de etkili olduğu belirtiliyor. Verinin ardından ABD borsa endeks vadeli işlemleri artıya döndü. Dolar, euro ve yen karşısında kazanımlarını artırdı. Euro/dolar paritesi 1.4207 seviyesinden 1.4101’e çekildi.</TEXT>
+</DOC>

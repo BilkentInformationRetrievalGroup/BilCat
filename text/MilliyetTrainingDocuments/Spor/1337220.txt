@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337220 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa7d1d2/l/0l0smilliyet0n0btr0ckocaelispor0eun0edirilisi0cspor0csondakika0c150b110b20a10a0c13147350cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:12:12.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kocaelispor���un dirili��i
+</HEADLINE>
+<TEXT>MALİ sorunları sebebiyle transfer yapamadığı gibi kulübün eski borçları yüzünden FIFA kararıyla 6 puanı silinen Kocaelispor, pazar günü de Balıkesirspor'u 2-0 yenerek 13 puanla 13'üncü sıraya çıkma başarısını gösterdi.Yöneticilerinin tesislerine uğramadığı, parasızlıktan da futbolcularına maaş bile ödeyemeyen 2'nci Lig Kırmızı Grup'ta oynayan Kocaelispor'un deplasman ve sahasında ard arda galibiyetler alması, taraftarları arasında büyük sevinç yarattı.Kulüp Başkanı Muammer Çelik’in kulübün borçları sebebiyle intihar girişiminde bulunduğu Kocaelispor, 3 eski Sırp futbolcusuna borçları nedeniyle 3'üncü Lig'e düşmekten kurtuldu. Kocaeli Valisi Ercan Topaca’nın girişimleriyle 3 Sırp futbolcunun alacaklarının ödenmesi sayesinde lige devam edebilen Kocaelisporlu futbolculara Vali Ercan Topaca’nın çabalarıyla harçlık dağıtıldığı bildirildi.Futbolcuların özverisi ve çabalarını göz önüne alan Kocaelispor taraftarları da pazar günü oynanan Balıkesirspor maçında İsmetpaşa Stadı’nın neredeyse tamamını doldurdu. Eski günleri aratmayan bir atmosferde oynanan karşılaşmadan 2-0 galip ayrılıp büyük fedakarlık örneği gösteren futbolcuları, maçın sonunda taraftarları da bağrına bastı.</TEXT>
+</DOC>

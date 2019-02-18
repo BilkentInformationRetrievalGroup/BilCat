@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1396706 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cfe5b276-70c8-431b-8123-7920b0638a3e </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 15:13:11.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bucaspor'da istifa
+</HEADLINE>
+<TEXT>
+Spor Toto Süper Lig ekiplerinden Bucaspor'un kulüp asbaşkanı ve profesyonel şube sorumlusu Adnan Dolma'nın görevinden istifa ettiği bildirildi.
+
+Adnan Dolma,  sarı lacivertli ekipte daha önce başkanlık da yapmıştı.
+
+
+
+</TEXT>
+</DOC>

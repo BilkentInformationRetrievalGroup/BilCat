@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1414423 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9ef70f75-6f2d-437d-ab40-a84f0390bdaf </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 23:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ab'den luka��enko i��in ��ok karar
+</HEADLINE>
+<TEXT>
+Avrupa Birliği, Belarus Devlet Başkanı Aleksandr Lukaşenko'nun mal varlıklarını dondurdu ve vize yasağı getirdi.
+
+Belarus&rsquo;ta, Aralık ayında yapılan Devlet Başkanlığı seçimini protesto edenlere karşı şiddet kullanılması uluslararası tepki doğurdu. 
+
+Brüksel&rsquo;de toplanan Avrupa birliği dışişleri bakanları, Lukaşenko ile birlikte yaklaşık 150 üst düzey yöneticinin mal varlıklarını dondurarak vize yasağı getirdi. 
+
+Bakanlar ayrıca Lukaşenko&rsquo;dan 19 Aralık&rsquo;ta yapılan seçim ardından gözaltına alınanların serbest bırakılmasını ve demokratik güçler üzerindeki baskı politikasının durdurulmasını talep etti.
+ABD&rsquo;den de Mali Yaptırım 
+Amerika Birleşik Devletleri de, Belarus&rsquo;a yönelik yeni mali yaptırımlar ile seyahat kısıtlamaları açıkladı.
+
+Bu çerçevede, Belarus&rsquo;un devlet kontrolündeki en büyük petro-kimya şirketi ile iş yapılmasına imkan veren düzenleme iptal ediliyor.
+
+Belarus Dışişleri Bakanlığı ise içişlerine müdahale edildiği açıklamasında bulundu.
+</TEXT>
+</DOC>

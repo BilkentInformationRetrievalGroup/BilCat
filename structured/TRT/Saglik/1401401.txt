@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1401401 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1e714ec7-5137-4445-aeb1-f31acf648139 </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 10:58:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kaliteli bir uyku i��in ne yapmal��?
+</HEADLINE>
+<TEXT>
+Yapılan bir araştırmaya göre, uyumadan önce vakit geçirilen ortamlardaki ışık durumu, melatonin seviyesini dolayısıyla uyku kalitesini etkiliyor...
+
+Evde ışıkları açmak bir nevi hormon üretiminde şalterleri kapatıyor...
+
+Araştırmaya katılan 116 kişi 5 günü bir odada geçirdi ve 16 saat uyanık kalıp, 8 saat uyudu...
+
+116 kişi ilk aşamada, uyanık oldukları 16 saat boyunca aynı seviyede yapay ışığa maruz bırakıldılar.
+
+Daha sonra ise bu süre 8 saatle sınırlandı ve kalan 8 saatte, oda daha loş hale getirildi.
+
+Araştırmacılar bu ikinci 8 saatlik sürede melatonin salgısının arttığını saptadı.
+
+Araştırma ekibinden Doktor Joshua Gooley, aydınlatmanın melatonin seviyesini ciddi anlamda baskı altına aldığını belirlediklerini kaydetti.
+
+Gooley bunun uyku kalitesini düşürmenin yanı sıra, vücudun sıcaklık, kan basıncı ve şeker seviyesini ayarlama becerisini de olumsuz etkileyebileceğini belirtti.
+
+Melatonin seviyesinin azalmasının bazı kanser türlerine ve diyabete zemin hazırlama riski olduğunu hatırlatan Gooley, bulgularının vardiya usulü çalışan insanlar açısından önemli sonuçları olabileceğini söyledi.
+
+Vardiya usulü çalışan insanlarda melatonin seviyesinin düştüğünü ortaya çıkaran araştırmanın, vardiya usulünün sona erdirilmesi yönünde bir baskı aracı olabileceği tahmin ediliyor.
+
+</TEXT>
+</DOC>

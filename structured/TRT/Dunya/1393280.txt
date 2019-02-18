@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1393280 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eee85e1c-8cc0-471e-90f3-3558e5e0fb26 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 17:00:40.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev delik otomobilleri yuttu
+</HEADLINE>
+<TEXT>
+Almanya'da bir otomobil tamirhanesinde ortaya çıkan dev delik, çok sayıda aracı içine çekti.
+
+Almanya&rsquo;da bir otomobil tamirhanesinde ortaya çıkan dev delik, çok sayıda aracı içine çekti.
+
+     Essen kentinde yerde oluşan deliğin 8 metre derinliğinde, 9 metre eninde olduğu tahmin ediliyor.
+
+     Yetkililer deliğin daha da büyüyeceğinden kaygı duyuyor.
+
+     2 araç delik tarafından tamamen yutulurken, henüz deliğe düşmeyen çok sayıda otomobil de ağır hasar gördü.
+
+     Bölgeyi güvenlik kordonuna alan itfaiye, doğal gaz faciasından kaygı duyuyor.
+
+          Deliğin neden oluştuğu ise henüz bilinmiyor. Bölgedeki madencilerin hatasının ya da yeraltına eriyen buz tabakasının deliğe yol açmış olma ihtimali üzerinde duruluyor.
+
+     
+
+</TEXT>
+</DOC>

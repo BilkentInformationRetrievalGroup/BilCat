@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343575 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7ee/l/0l0smilliyet0n0btr0ckramponlarini0ealabilir0emi0e0cspor0chaberdetay0c210b110b20a10a0c13164870cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:46:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kramponlar��n�� alabilir mi?
+</HEADLINE>
+<TEXT> Konyaspor Teknik Direktörü Ziya Doğan, “Schuster büyük bir kulübün teknik adamı. Polemik yapmak istemiyorum ama geçen yıl Diyarbakırspor’da Ziya Doğan 1.5 trilyon harcadı. Yabancılara ödenen ise 800 bin euroydu. Schuster’e sormak lazım, bu parayla oyuncularının kramponlarını alabilir mi?” ifadesini kullandı.</TEXT>
+</DOC>

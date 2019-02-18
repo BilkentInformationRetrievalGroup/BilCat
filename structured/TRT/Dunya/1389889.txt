@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1389889 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=69cde4fe-b4c6-4455-8ffd-442b814b3e04 </URL>
+<DATE> 2011/01/08 </DATE>
+<TIME> 01:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak, abd'yi 2 ay ��nce bilgilendirmi��...
+</HEADLINE>
+<TEXT>
+Stockholm'de geçen ay düzenlenen terörist saldırıdan iki ay önce, Irak'ın saldırı planları hakkında ABD'ye bilgi verdiği bildirildi.
+
+
+Irak Terörle Mücadele Birimi Başkanı Hay Kanani, El Arabiye televizyonuna yaptığı açıklamada, 11 Aralıkta Stockholm&rsquo;de kendisini havaya uçuran kişinin  Musul&rsquo;da 3 ay boyunca patlayıcılar üzerine eğitim aldığını söyledi. 
+
+Televizyonun internet sitesindeki habere göre Kanani, bu kişinin Irak&rsquo;a Türkiye üzerinden girdiğini  iddia etti.
+
+Kanani &quot;Irak, İsveç&rsquo;teki saldırılarla ilgili bilgi sahibiydi ve bu ülkedeki saldırıdan iki ay önce Amerikalılara bilgi verdi&quot; dedi.
+
+Kanani, Irak&rsquo;ta yakalanan bazı El Kaide üyelerinin itiraflarında, örgütün Amerika Birleşik Devletleri ve Batı Avrupa&rsquo;da saldırı planlandığını ve İsveç&rsquo;in 2010 sonunda saldırı  hedefleri arasında olduğunu söylediklerini ifade etti.
+</TEXT>
+</DOC>

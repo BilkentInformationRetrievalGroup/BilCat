@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1345664 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/ff4a628/l/0L0Smilliyet0N0Btr0Ckarabuk0Ete0Etir0Eminibusle0Ecarpisti0Cturkiye0Csondakika0C240B110B20A10A0C13180A360Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:04:45.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Karabük'te tır minibüsle çarpıştı
+</HEADLINE>
+<TEXT>KARABÜK (A.A) 
+                  Alınan bilgiye göre, Yenice’den  istikametine giden İsmail Pınarbaşı (48) yönetimindeki 78 YL 034 plakalı tır, Balıkısık Tüneli çıkışında, karşı yönden gelen İsa Genç (52) yönetimindeki minibüsle çarpıştı.
+         Kazada, minibüs sürücüsü Genç ile araçta bulunan Mukadder (41) ve Gülsüm Kazancı (17) yaralandı.
+         Karabük Şirinevler Devlet Hastanesine kaldırılan yaralılardan sürücü Genç’in hayati tehlikesinin bulunduğu bildirildi.
+ </TEXT>
+</DOC>

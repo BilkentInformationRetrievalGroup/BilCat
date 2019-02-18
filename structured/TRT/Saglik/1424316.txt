@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1424316 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=943f6bf0-b081-486e-b5d0-f9c4d43c1adf </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 11:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bu kromozom uyurken gezdiriyor
+</HEADLINE>
+<TEXT>
+Yeni araştırma, uyurgezerlerin, hatalı bir kromozoma sahip olduklarını ve bu kromozomun uyurgezerliğe neden olduğunu ortaya çıkardı.
+
+Washington Tıp Fakültesi&rsquo;nden Doktor Christina Gurnett ve ekibi, 22 üyesinden 9&rsquo;u uyurgezer olan bir aileyi dört kuşak boyunca izledi.
+
+Araştırmacılar, varyasyonu kromozom 20&rsquo;nin bir bölümüne indirgedi.
+
+Nöroloji dergisinde yayınlanan araştırma sonuçlarına göre, kusurlu kromozomun bir kopyası uyurgezerlik için yeterli oluyor.
+
+Uzmanlar, genetik kodun kusurlu bölümünü izole ederek uyurgezerlik için yeni tedaviler geliştirmeyi umuyor.
+
+Çocukların yaklaşık yüzde 10&rsquo;unda uyurgezerlik görülürken, her 50 yetişkinde bir kişide bu rahatsızlığa rastlanıyor. Çocukların çoğu büyüyünce sorundan kurtuluyor, ama sorun yetişkinliğe taşınırsa rahatsız edici ve hatta tehlikeli olabiliyor.
+
+Bazı uyurgezerler uyuklarken araba bile kullanabiliyorlar. Bu durum için kullanılan tıbbi terim, somnambulizm.
+
+Aşırı stres ya da yorgunluk rahatsızlığı tetikleyebiliyor. Uyurgezerlik gecenin ilk saatlerinde, birey uykuya daldıktan hemen sonra ve uykunun rüyasız &rsquo;ağır dalga&rsquo; veya hızlı olmayan göz hareketi (NREM) aşamasında meydana geliyor. Kişi sabah olduğunda genelde o anlara dair hiçbir şey hatırlamıyor.
+
+Araştırma için gözlemlenen ailenin uyurgezer üyelerinden biri, sabah uyandığında sekiz çift çorap giymiş olduğunu görürken, diğerleri geceleri dolaşırken sürekli yaralandıklarını, ayak parmaklarında kırılmalar olduğunu anlatıyor.
+
+</TEXT>
+</DOC>

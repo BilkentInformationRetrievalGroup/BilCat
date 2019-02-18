@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1408029 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0595b757-7b46-4f0f-b5b9-43453415ee41 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 15:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+projelerde enerji kimlik belgesi ��art��
+</HEADLINE>
+<TEXT>
+Belediyeler enerji kimlik belgesi olmayan projelere ruhsat vermeyecek.
+
+
+Bayındırlık ve İskan Bakanı Mustafa Demir, artık belediyelerin enerji kimlik belgesi olmayan projelere ruhsat vermeyeceğini söyledi.
+
+
+     Mustafa Demir, enerji kimlik belgesinde, inşa edilecek yapının hangi kategoride enerji verimliliğine haiz olduğunun belirtileceğini bildirdi.
+
+     Demir, yapılan elektronik yazılım sistemi ile yapı kooperatiflerinin şeffaf bir yapıya kavuşacağını ve kesinlikle faaliyetlerinin dışında çalışmalarına izin verilmeyeceğini de kaydetti.
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1398286 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=29ade687-397d-4a89-8a14-deef21227d1c </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 12:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+oltaya k��pek bal������ tak��ld��
+</HEADLINE>
+<TEXT>
+Balıkçıların oltasına 100 kiloluk köpek balığı takıldı.
+
+Antalya&rsquo;nın Kumluca ilçesinde amatör bir balıkçı, oltayla boyu 2,4 metre, ağırlığı ise 100 kilo olan bir köpek balığı yakaladı. 
+                  Sabah saatlerinde balık avlamak için denize açılan balıkçı 
+                  Yusuf Kolakoğlu&rsquo;nun oltasına, Kumluca açıklarında camgöz köpek 
+                  balığı takıldı. Kolakoğlu, yaklaşık bir saatlik uğraş sonucu 
+                  köpek balığını tekneye çıkarmayı başardı.
+                  Kolakoğlu&rsquo;nun yakaladığı 2,4 metre boyunda, yaklaşık 100 kilo 
+                  ağırlığındaki köpek balığına vatandaşlar ve çocuklar büyük 
+                  ilgi gösterdi.
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1439425 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b1ee8952-66d6-437b-b899-5d7fae4a3e06 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 18:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"adalar��m��z sat��l��k de��il!"
+</HEADLINE>
+<TEXT>
+Almanya'nın, Yunanistan'a ekonomik yardım yerine, Atina'nın adaları satılığa çıkarması önerisi, iki ülkeyi karşı karşıya getirdi. 
+
+Yunanistan Başbakanı Yorgo Papandreu, geçen yıldan buyana gündeme getirilen önerileri kesin dille reddetti.
+
+Papandreu, uzun zamandır Yunan adalarının satılması yönünde kampanya yürüten Alman Bild gazetesinin sorularını cevaplandırdı.
+
+     &quot;Adalar Yunan kültürünün ve tarihinin ayrılmaz bir parçasıdır&quot; diyen Papandreu, Türkiye&rsquo;ye yakın olan adaları savunmak için olağanüstü bir savunma bütçesi ayırdıklarını anlattı.
+
+     Adaların sadece tarihi ve kültürel miras olmadıklarını, turizm açısından da büyük önem taşıdığını anlatan Papandreu, &quot;adalarımız satılık değil&quot; dedi.
+
+     Yunan adaların birkaç zengine satılması halinde, Alman turistlerin de bu adalardan mahrum kalacağını söyleyen Papandreu, Avrupa Birliği&rsquo;nden aldıkları yardımın bağış değil, kredi olduğunu hatırlattı.
+
+     Bild gazetesi, Alman vatandaşlarının vergilerinin Yunanistan&rsquo;a yardım olarak gitmesi fikrine karşı çıkıyor, bunun yerine Atina&rsquo;nın adaları satışa çıkarması gerektiğini savunuyor.
+
+     Alman siyasi çevrelerinin önemli bir bölümü de bu fikre destek veriyor.
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 1431572 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=19f0c148-b83a-4076-8fc2-3f9720967c90 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 11:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran ambargosuna gazl�� ����z��m
+</HEADLINE>
+<TEXT>
+BM ve ABD ambargosu nedeniyle İran ile ticarette bankacılık problemlerini aşabilmek için “doğalgaz barteri” yöntemi kullanılması planlanıyor.
+
+Organize Sanayi Bölgeleri, Birleşmiş Milletler ve ABD ambargosu nedeniyle İran ile ticarette sorun yaratan bankacılık sistemini bay pas edebilmek için ‘doğalgaz’ barter’ı yöntemini kullanmayı planlıyor. 
+
+Doğalgaza Karşılık Ürün
+Ankara Sanayi Odası, İran’a, doğalgaz karşılığında organize bölgelerde üretilen malların verilmesi için teklif sundu.
+
+Cumhurbaşkanı Abdullah Gül’ün İran’a daha önce gerçekleştirdiği ziyarette, ASO’nun “İran’dan Türkiye’ye gelen 10 milyar metreküp doğalgazın yarısı organize sanayi bölgelerine verilsin” teklifini sunduğu, alınacak doğalgazın bedelini de organize sanayi bölgelerinde üretilen makine, techizatla ödemeyi planladığı ortaya çıktı. 
+
+Cumhurbaşkanı Gül’ün dün tamamlanan İran ziyaretinde yapılan görüşmelerde, İran’a uygulanan ambargo nedeniyle bu ülkeye ticaret yapanların bankacılık sektöründe sorunlarla karşı karşıya kaldığını anlattığı öğrenildi. 
+
+İki ülke arasında mutabakata varılırsa doğalgaz karşılığı, Türk sanayicisinin ürettiği malları ihraç etmesine ilişkin anlaşmayı, ASO ile İran Ticaret Odası imzalayacak.
+
+Kontratlar devredilecek
+BOTAŞ’ın, Doğalgaz Piyasası Kanununa göre geçen yıl elinde bulunan hisselerinin yüzde 90’ını özel sektöre devretmesi gerekiyordu. 
+
+Ancak, BOTAŞ şimdiye kadar sadece Rusya’dan Batı Hattı ve Mavi Akım kapsamında aldığı doğalgaza ilişkin imzalanan kontratın 12 milyar metreküplük bölümünün özel sektöre devrini gerçekleştirdi.
+
+Rusya, Azerbaycan gibi ülkelerden boru hattı üzerinden yıllık yaklaşık 40 milyar metreküp doğalgaz satın alan Türkiye’nin 5 milyar metreküplük doğalgazını organize sanayi bölgeleri kullanıyor. 
+
+Organize sanayi bölgeleri geçtiğimiz günlerde doğalgaz ithal etmek için gerekli onayları alırken, geçtiğimiz yıllarda OSB Doğalgaz A.Ş’yi kurarak doğalgaz ithalatının önünü açtılar.
+
+</TEXT>
+</DOC>

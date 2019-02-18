@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1395663 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e9cf31cd-30fc-4abb-b747-b741c1b7c34d </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 17:00:39.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+d��nya krizlere art��k daha duyarl��
+</HEADLINE>
+<TEXT>
+Dünya Ekonomik Forumu'na göre, son 50 yıla kıyasla dünya artık krizlere karşı daha kırılgan durumda.
+
+     Dünya Ekonomik Forumu&rsquo;nun &quot;2011 Yılı Küresel Riskler&quot; raporu, uyarı niteliğinde.
+     Raporda dünyayı saran mali krizin, hem devlet hazinelerini hem de insanların kazançlarını kuruttuğu değerlendirmesinde bulunuluyor.
+     Ancak bu duruma karşın, altta yatan riskler hala mevcut.
+     Bunalım ve krizlerle mücadele kapasitesinin tükendiği uyarısında bulunulan rapora göre, dünya son 50 yıla kıyasla tehditlere karşı daha kırılgan durumda.
+     20&rsquo;inci yüzyıldan kalma sistemlerin, içinde bulunduğumuz 21&rsquo;inci yüzyılda riskleri yönetmede yetersiz kaldığı da vurgulanıyor.
+     Ekonomik krizin pençesindeki ülkelerin, bu yıl borçlarını ödeyememe riskinin ciddi boyutta olduğu vurgulanırken, gıda ve su sıkıntısı da diğer riskler arasında sayılıyor.
+
+</TEXT>
+</DOC>

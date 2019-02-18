@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1420106 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ee40ed06-1d4d-46f0-bbc9-7fa4bcae90c0 </URL>
+<DATE> 2011/02/06 </DATE>
+<TIME> 14:48:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"petrol��n varili 200 dolara ����kabilir"
+</HEADLINE>
+<TEXT>
+Venezuela Petrol Bakanı, Mısır'daki olaylar nedeniyle Süveyş Kanalı'nın kapanması durumunda petrol piyasasında kriz yaşanabileceği uyarısı yaptı. 
+
+
+Rafael Ramirez, başkent Caracas&rsquo;ta düzenlediği basın toplantısında, &quot;Eğer Süveyş Kanalı kapanırsa petrolün varil fiyatı 200 dolara kadar çıkar&quot; diye konuştu. 
+
+Venezuelalı Bakan, Mısır&rsquo;daki gelişmelerin OPEC&rsquo;in acil toplantısını gerektirmediğini ancak Süveyş Kanalı kapanırsa bunun kaçınılmaz olacağını vurguladı. 
+
+Mısır&rsquo;ın kontrolündeki Süveyş Kanalı üzerinden küresel petrol ihracatının yaklaşık yüzde 10&rsquo;u yapılıyor. 
+
+Mısır&rsquo;daki gelişmeler nedeniyle Brent tipi petrolün varil fiyatı geçen hafta 100 doların üzerine çıkmış ancak Mübarek rejiminin geri adım atmasıyla gerilemişti. 
+</TEXT>
+</DOC>

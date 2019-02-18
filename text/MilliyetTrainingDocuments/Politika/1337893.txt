@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337893 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fac68b3/l/0l0smilliyet0n0btr0cerdogan0ein0earife0eturu0csiyaset0chaberdetay0c160b110b20a10a0c13149340cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:08:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+erdo��an�����n ���arife��� turu
+</HEADLINE>
+<TEXT>İSTANBUL MilliyetErdoğan, “Sulukule”de bilgi aldı. Daha sonra Kulaksız Mezarlığı’nda babası Ahmet Erdoğan’ın mezarını ziyaret ederek dua okudu. Erdoğan daha sonra ailesiyle birlikte aynı semtte oturan yengesi Bedriye Erdoğan’ı ziyarete gitti. Daha sonra Kasımpaşa’daki restorasyonu tamamlanan Sinanpaşa Camii’ni ziyaret etti,. Erdoğan, “Ebenini” diye tanınan 85 yaşındaki eski komşusu Zeliha Engin’i ziyaret etti.</TEXT>
+</DOC>

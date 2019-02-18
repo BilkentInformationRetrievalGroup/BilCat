@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1399345 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e3d4ad8d-b04a-4265-9c2c-b304f3010df4 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 13:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+galatasaray cafe crown avrupa arenas��nda
+</HEADLINE>
+<TEXT>
+Galatasaray Cafe Crown, 2. tur K Grubu'ndaki ilk maçında İtalya'da Pepsi Caserta ile karşılaşacak.
+
+Basketbol ULEB Avrupa Kupası&rsquo;nda ilk turda (E) Grubu&rsquo;nu lider olarak tamamlayan Galatasaray Cafe Crown, 2. tur (K) Grubu ilk maçında yarın (18.01.2011) İtalya&rsquo;nın Pepsi Caserta takımıyla deplasmanda karşılaşacak. 
+ Palamaggio Stadı&rsquo;nda yapılacak karşılaşma saat 21.30&rsquo;da başlayacak. 
+ ULEB Avrupa Kupası&rsquo;nda son 16 takım arasına kalmayı başaran sarı-kırmızılılar, İspanya&rsquo;nın Asefa Estudiantes, Çek Cumhuriyeti&rsquo;nin CEZ Nymburk ve İtalya&rsquo;nın Pepsi Caserta takımları ile (K) Grubu&rsquo;nda yer alıyor. 
+ Grupta ilk 2 sırada tamamlayan takımlar çeyrek finale yükselecek. 
+</TEXT>
+</DOC>

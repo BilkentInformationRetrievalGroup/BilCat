@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1432352 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e6f1e80f-3378-4f66-9038-58bbd93caf1e </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 23:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta�� d��rtl�� finalde
+</HEADLINE>
+<TEXT>
+Voleybolda Teledünya Erkekler Türkiye Kupası çeyrek final rövanş maçında Beşiktaş, TOFAŞ'ı 3-2 yendi.
+
+Teledünya Erkekler Voleybol Türkiye Kupası çeyrek final rövanş mücadelesinde Beşiktaş, TOFAŞ&rsquo;ı 3-2 yenerek, dörtlü finale yükseldi.
+ Siyah-beyazlılar ilk karşılaşmayı da 3-1 kazanmıştı.
+Salon: Burhan Felek
+Hakemler: Erdal Akıncı, Tayfun Şener
+Beşiktaş: Berkan, Bakumvski, Erman, Demirhan, Levent, İbrahim (Hasan, Tayfun, Mithat, Erdem)
+TOFAŞ: Salih, Marcin, Esat, Ferhat, Umut, Emre (Ayberk, Keremcan, Eren)
+Setler: 25-21, 19-25, 25-16, 18-25, 15-12
+Süre: 101 dakika (24, 20, 21, 22, 14)
+
+</TEXT>
+</DOC>

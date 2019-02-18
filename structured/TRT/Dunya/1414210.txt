@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1414210 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cd978275-0082-4892-b383-9545933bb648 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 16:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+200 milyon y��l sonra yeniden evrim
+</HEADLINE>
+<TEXT>
+Keseli kurbağanın 200 milyon yıldır kayıp alt dişi yeniden evrim geçirdi...
+
+ABD&rsquo;nin New York eyaletindeki Stony Brook Üniversitesi tarafından yapılan araştırmada evrim ile ilgili ilginç bir keşif yapıldı.
+
+Üniversitede yapılan araştırmada, And Dağları&rsquo;nda yaşayan keseli kurbağaların, fosil ve DNA dizilimlerindeki veriler incelendi.
+
+Araştırma sonucunda, keseli kurbağa olarak bilinen &quot;Gastrotheca guentheri&quot;nin alt çenesinde bulunan ve 230 milyon yıl önce kaybolan dişlerinin, son 20 milyon yılda yeniden çıktığı tespit edildi.
+
+Evolution dergisinde yayımlanan araştırmanın başında yer alan Dr. John Wiens, geçmişte &quot;Dollo&quot; yasası uyarınca, evrim sırasında &quot;kayıp&quot; hale gelen organ ve özelliklerin yeniden evrim geçiremeyeceğini düşündüklerini belirtti.
+
+Dr. Wiens, keseli kurbağanın 200 milyon yıldan sonra alt dişlerinin geri gelmesinin, biyologların bu yasayı gözden geçirmelerini gerektirebileceğine işaret etti.
+
+</TEXT>
+</DOC>

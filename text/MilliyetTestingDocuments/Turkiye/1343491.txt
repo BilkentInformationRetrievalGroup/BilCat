@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343491 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd11ad1/l/0l0smilliyet0n0btr0c0ebeyendik0emi0ebegendik0emi0esorusuna0ekimse0ecevap0everemiyor0e0cturkiye0csondakika0c20a0b110b20a10a0c13162610cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:31:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'beyendik mi be��endik mi' sorusuna kimse cevap veremiyor!
+</HEADLINE>
+<TEXT>Edirne’nin Keşan ilçesine bağlı bir beldenin ismi resmi kayıtlarda dahi farklı geçiyor, vatandaş kime sorsa ilçenin gerçek isminin ne olduğunu bulamıyor.Beldenin Belediye Başkanı Nuran Uslu, AA muhabirine yaptığı açıklamada, beldelerinin isminin "Beğendik" ve "Beyendik" olarak resmi kayıtlarda bile iki türde geçtiğini söyledi.Uslu, tabelalardan, nüfus kayıtlarına varıncaya kadar beldenin adının değişik olarak yazılmasının vatandaşta da soru işareti oluşturduğunu ifade ederek, şunları kaydetti: "Belediyenin mühründe ’Beğendik Belediyesi’, nüfus idaresi nüfus cüzdanlarının bir kısmına ’Beyendik’ yazıyor. Tabelalarda da durum aynı, bir tarafta farklı, diğer girişte farklı.Hal böyle olunca vatandaş bize soruyor, ama bu öylesine zor bir soru ki.Tek bir yanıtı yok. Yanlışın kaynağı belli değil, resmi kurumlarda bile iki ayrı ismi kullanılıyor. Bu nasıl çözülür bilmiyoruz."</TEXT>
+</DOC>

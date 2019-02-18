@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1397905 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e147e3b2-0a28-4821-bcd9-0812b9002930 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 23:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dakar'da ��ampiyonlar belli oldu
+</HEADLINE>
+<TEXT>
+Dakar Rallisi'nde bitime 1 etap kala hem motosiklet hem de otomobil kategorisinde zirve belirlendi. 
+
+
+Cordoba - Buenos Aires arasında koşulan 13&rsquo;üncü etapta büyük çekişme vardı.
+
+Otomobil klasmanında Katarlı pilot Naser El-Attiyah, yarışı ikinci bitirdi ve genel klasman şampiyonluğunu ilan etti.
+
+Geçen yılın şampiyonu Carlos Sainz&rsquo;ın çabaları yeterli olmadı. Giniel de Villiers&rsquo;in birinci tamamladığı etabı Sainz,  üçüncü sırada bitirdi.
+
+Motosiklet klasmanında ise Marc Coma rüzgarı esti.
+
+Son 2 yılın şampiyonu, beşinci sırada bitirdiği etabın ardından klasman şampiyonluğunu ilan etti
+</TEXT>
+</DOC>

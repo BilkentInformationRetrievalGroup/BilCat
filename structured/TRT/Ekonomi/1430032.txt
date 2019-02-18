@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1430032 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0c3934d9-7cd0-4b97-8e4f-c100d273729d </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 02:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+thy prestijin zirvesinde!
+</HEADLINE>
+<TEXT>
+Dünyanın ne prestijli şirketlerin ofisinin bulunduğu Empire State gökdeleninin 75'inci katında artık bir Türk şirketi de var...
+
+
+Türk Hava Yolları (THY), dünyanın en ünlü ofis binalarından biri olarak kabul edilen Empire State Building&rsquo;de kendine ofis tuttu. 
+
+New York Observer&rsquo;de yer alan haberde &quot;New York uçuşlarını artıran şirketin, şehrin en ünlü gökdelenine konması şaşırtıcı değil&quot; yorumu yapıldı.
+
+THY, New York ve İstanbul arasındaki uçuşlarını yüzde 30 oranında artırdıktan birkaç ay sonra, Empire State Building’de 550 metrekarelik bir ofis kiraladı. 
+
+Böylece THY, aynı binadaki Air China ve Lufthansa ile komşu oldu. THY, Westbury’deki ofisinden yeni yerine bu ay içinde taşınacak. 
+
+Empire State binasının diğer kiracıları arasında İnsan Hakları İzleme Örgütü ve İtalyan havayolu şirketi Alitalia da yer alıyor.  
+
+Gökdelenin 102 katı bulunuyor. 
+</TEXT>
+</DOC>

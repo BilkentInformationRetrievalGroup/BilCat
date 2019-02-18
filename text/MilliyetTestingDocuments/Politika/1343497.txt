@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343497 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fd45f14/l/0l0smilliyet0n0btr0c0ebilinmeyen0edil0eifadesine0etepki0csiyaset0chaberdetay0c210b110b20a10a0c131640a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:32:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���bilinmeyen dil��� ifadesine tepki
+</HEADLINE>
+<TEXT>Aralarında BDP Genel Saymanı Salih Yıldız, Belediye Başkanı Fadıl Bedirhanoğlu ve İl Başkanı Orhan Koparan’ın bulunduğu yaklaşık 150 kişilik grup, basın açıklaması yaptı. Açıklamayı Kürtçe okuyan BDP İl Başkan Yardımcısı Rahmi Temel, KCK davasında sanıkların Kürtçe savunma taleplerini kabul etmeyip, Kürtçe’yi ‘bilinmeyen bir dil’ olarak tutanaklara geçen mahkeme heyeti ile AK Parti hükümeti üyelerine, Kürtçe kurslara gitmelerini önerdi.</TEXT>
+</DOC>

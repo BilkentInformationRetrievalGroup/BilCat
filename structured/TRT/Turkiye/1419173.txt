@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1419173 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1bba5361-7484-41cf-bf77-c3d88f3e9947 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 11:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+elinde sigarayla uyudu..!
+</HEADLINE>
+<TEXT>
+Çapa Tıp Fakültesi'nde çıkan yangın paniğe neden oldu. İddiaya göre, yangın, bir personelin elinde sigarayla uyuması sonucu çıktı. 
+
+İstanbul Üniversitesi Çapa Tıp Fakültesi Hastanesi Genel Cerrahi bölümünde yangın çıktı. Paniğe sebep olan yangın, kısa sürede söndürüldü. 
+
+Yangının çıkışıyla birlikte genel cerrahi bölümünde yatan hastalar hemen tahliye edildi ve itfaiye ekipleri yangını kontrol altına aldı. 
+
+İddiaya göre, yangın, bir personelin elinde sigarayla uyuması sonucu çıktı. 
+
+Yangınla ilgili soruşturma sürdürülürken, yangına neden olduğu iddia edilen personel gözaltına alındı. 
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1426492 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4c512ebd-9aaa-429a-93be-498770e042fc </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 13:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hatay'da bir i����i g������k alt��nda kald��
+</HEADLINE>
+<TEXT>
+Hatay'da bir iş makinesi kuma gömüldü, operatör göçük altında kaldı.
+
+Hatay’ın merkez ilçesi Antakya&rsquo;ya bağlı Narlıca beldesinde bir iş makinesi kum çekerken göçük altında kaldı. 
+
+Hatay’da baraj yapımı için kum çekme alanında çalışan iş makinesi, meydana gelen göçük nedeniyle tamamen kuma gömüldü. 
+
+Operatörün iş makinesinin içinde bulunduğu öğrenildi. Bölgeye sivil savunma ve itfaiye ekipleri sevk edildi.  
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1435629 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=712e78ca-0a93-4b06-9c95-b55f8f3fa9a9 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 12:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+estonya yasta!
+</HEADLINE>
+<TEXT>
+37 çocuğun kaldığı bir yetimhanede çıkan yangında 10 çocuk yaşamını yitirdi.
+
+
+Estonyanın Hapsalu kentinde alevler bir yetimhaneyi sardı.
+
+37 çocuğun kaldığı binada çıkan yangında, 10 çocuk hayatını kaybett.
+
+Yangın Estonya&rsquo;yı yasa boğdu.
+
+Gece geç saatlerde başlayan yangın çok kısa sürede ahşap  binayı sardı.
+
+İtfaiye ekipleri kısa sürede olaya müdahale için geldi fakat çoğu tekerlekli sandalyeye mahkum 10 yetimin hayatını kaybetmesine engel olamadı.
+
+Yangınının çıkış nedeni ise  henüz bilinmiyor.
+
+Olayın hüznünü yaşayan Estonya&rsquo;da bayraklar bugün (21.02.2011) yarıya indirilecek. 
+</TEXT>
+</DOC>

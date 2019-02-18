@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1414817 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=102a7219-e972-434c-8061-bd8eae97f6b2 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 11:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+cebimizdeki tehlike
+</HEADLINE>
+<TEXT>
+Sağlık Bakanlığı cep telefonlarının insan sağlığına etkileri konusunda kamuoyunun doğru bilgilenmesi için bir kurul oluşturdu. 
+
+ Sağlık Bakanlığı tarafından oluşturulan Elektromanyetik Alanların Sağlık Etkilerini Değerlendirme Alt Kurulu, cep telefonlarının kullanılmasıyla ilgili bir rapor hazırladı.
+         Raporda, cep telefonu kullanımı konusunda halka yönelik önerilere yer verildi.
+         Listenin ilk sırasında ise, cep telefonunun, baş bölgesinden uzak tutulması tavsiye edildi.
+      Bunun için de, kablolu kulaklık kullanılması, kulaklığın olmadığı durumlarda ise, hoparlör&rsquo; ile konuşulması tavsiye edildi.
+        Telefon görüşmesi yerine mesajın tercih edilmesi, cep telefonlarının kalp, beyin, böbrek gibi organlardan uzakta tutulması da tavsiye listesinde yer alıyor.
+         Hamilelerin, çocukların cep telefonu kullanmaması, uyurken cep telefonlarının kapatılması, kapatılmayacaksa başucundan en az 1 metre uzağa konulması da öneriliyor.
+         Dikkat edilmesi gereken bir diğer nokta da, hareketli araç içinde cep telefonu kullanımı.
+Cep telefonlarının hareketli araçlar içerisinde kullanılması ve taşınması önerilmiyor.
+	Zira, araç içinde metal çeperlerden içeri yansıyan elektromanyetik alanın şiddeti, açık havadakinden daha fazla elektromanyetik dalgaya yol açıyor. 
+         Görüşmelerin mümkün olduğu kadar kısa tutulması ve daha çok kısa mesajlardan yararlanılması öneriliyor. 
+         Cep telefonuna gelen arama olduğunda ya da arama yapıldığında ise, bağlantı kurulduktan sonra cep telefonunun kulağa tutulması ile elektromanyetik radyasyonun etkisi önemli ölçüde azalıyor. 
+      Son olarak, cep telefonu alınırken SAR değeri düşük telefonların tercih edilmesi öneriliyor.
+        
+   
+         
+       
+
+
+</TEXT>
+</DOC>

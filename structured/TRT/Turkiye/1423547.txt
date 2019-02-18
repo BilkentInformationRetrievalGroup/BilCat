@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1423547 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7fbfd935-df9e-4efd-bbda-a898aecf9554 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 15:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+meclis harekete ge��ti
+</HEADLINE>
+<TEXT>
+Meclis, faili meçhullerin araştırılması için alt komisyon oluşturdu.
+
+Faili meçhullerin araştırılması için Meclis, harekete geçti. 
+
+     Meclis İnsan Haklarını İnceleme Komisyonu, gözaltında kaybedilenleri araştırmak üzere alt komisyon oluşturdu.
+
+     Komisyon Başkan Zafer Üskül, alt komisyon kurulma gerekçesi ve komisyonun çalışma alanıyla ilgili şu bilgileri verdi:
+
+     &quot;Bu alt komisyonumuz da çalışmalarına hemen başlayacak. Başlangıçta Tolga Baykal Ceylan&rsquo;ın kaybolması olayı üzerine komisyonumuz eğilecek. Ondan sonra zaman elverdiği ölçüde, olanaklar elverdiği ölçüde diğer gözaltında kaybolduğu iddia edilen kişilerle ilgili araştırmaları da sürdüreceğiz.&quot;
+
+
+</TEXT>
+</DOC>

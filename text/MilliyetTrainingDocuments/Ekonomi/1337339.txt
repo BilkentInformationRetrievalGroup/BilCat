@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337339 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa8d42a/l/0l0smilliyet0n0btr0cborsada0ehisseler0eyuzde0e0a0e640eoraninda0cekonomi0csondakika0c150b110b20a10a0c13147550cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 15:00:42.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsada hisseler y��zde 0,64 oran��nda
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsasında (İMKB) işlem gören hisse senetleri ortalama yüzde 0,64 oranında değer kazandı.İMKB 100 Endeksi, birinci seansta 444,99 puan artarak 69.998,07 puandan kapandı. Hisse senetleri ortalama yüzde 0,64 değer kazandı.İMKB’de bugün işlemler, resmi tatil olması dolayısıyla tek seans olarak gerçekleştirildi.</TEXT>
+</DOC>

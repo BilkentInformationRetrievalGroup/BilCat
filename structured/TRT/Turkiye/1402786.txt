@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1402786 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7e448d04-ef5d-42ba-a0c6-6547281ef105 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 14:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+����rnak'ta may��n tuza����
+</HEADLINE>
+<TEXT>
+Şırnak'ın Beytüşşebap İlçesi'nde, PKK'lı teröristlerin daha önceden yola döşediği mayın, bir minibüsün geçişi sırasında patladı.
+
+     Şırnak Devlet Hastanesi&rsquo;ne kaldırılan ağır yaralı sürücü, buradan helikopterle Diyarbakır Dicle Üniversitesi Tıp Fakültesi Hastanesi&rsquo;ne sevk edilerek, tedavi altına alındı.
+
+     Olayla ilgili soruşturma başlatıldı.
+
+</TEXT>
+</DOC>

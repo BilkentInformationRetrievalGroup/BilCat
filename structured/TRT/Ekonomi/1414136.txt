@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1414136 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=77e9d114-4f72-495f-9a40-059674fb867b </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 16:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"t��ketim rekor d��zeyde, kaynak azal��yor"
+</HEADLINE>
+<TEXT>
+BM Gıda ve Tarım Örgütünün raporu bir gerçeği göz önüne serdi.
+
+
+Yükselen balık çiftliği endüstrisi sayesinde balığın beslenmedeki payı gittikçe artıyor. Ancak okyanuslardaki balık rezervi, fazla avlanmayı önleme ve avlanmayı düzenleme yönündeki uluslararası çabaya rağmen azalmaya devam ediyor.
+         
+Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü&rsquo;nün (FAO) yayımlanan raporunda, küresel balık rezervinde hiçbir ilerleme olmadığı, aşırı avlanma ve kurumuş rezerv oranlarında ise 2006&rsquo;ya göre bir miktar artış beklendiği kaydedildi.
+         
+FAO, gidişat konusunda kaygılarını dile getirirken, balık üretimi ve tüketimindeki artışın finansal ve besinsel faydalarının gözardı edilmemesi gerektiğine de işaret etti.
+         
+Balıkçılığın ve balık yetiştiriciliğinin dünya nüfusunun yüzde 8&rsquo;ini oluşturan 540 milyon insanın geçimine katkı sağladığı belirtilen FAO raporunda, 2007&rsquo;de balığın dünyada alınan hayvansal proteinin yüzde 15,7&rsquo;sini oluşturduğu kaydedildi.
+         
+Raporda, bu durumun büyük ölçüde balık üretim çiftliklerine dayandığı, balık çiftliklerinde üretimin 1950&rsquo;lerde 1 milyon tondan düşükken, 2008&rsquo;de 52,5 milyon tona kadar ulaştığı belirtildi.
+                 
+Ancak açık denizlerde, balık rezervi düzensiz ve fazla avlanma nedeniyle azalmaya devam ediyor. Balık rezervinin yaklaşık yüzde 32&rsquo;sinin yok olduğu tahmin ediliyor. Bunun bir an önce yenilenmesi gerektiği vurgulanan raporda, &quot;Rezerv miktarında bir ilerleme olmaması en büyük kaygı. Aşırı avlanma oranı düşürülmezse, bize ancak bir plato kalacak&quot; değerlendirmesinde bulunuluyor.
+         
+Balıkçılık sektörüne daha sıkı denetlenmesi yönünde uluslararası çabalar artıyor. Ancak çevreci örgütlerin ana eleştirisi de sektörün şeffaf olmaması.
+         
+Raporda, balığın temel besin maddelerinden biri olduğu Güneydoğu Asya&rsquo;daki su ürünleri politikalarının iyi bir yönetim örneği oluşturduğu kaydedildi.
+</TEXT>
+</DOC>

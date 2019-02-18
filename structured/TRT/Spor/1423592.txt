@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1423592 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=53b8271a-1d5a-4a2f-90ac-d0348181003e </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 17:05:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye belarus'u yine yendi
+</HEADLINE>
+<TEXT>
+A2 Milli Takımımız özel maçta ikinci kez karşılaştığı Belarus'u 1-0 mağlup etti.
+
+Antalya Mardan Stadı&rsquo;nın 2 nolu sahasında oynanan özel karşılaşmada Milli Takımımızın golünü 62. dakikada Tevfik Köse kaydetti.
+
+Millilerimiz, Belarus ile dün oynanan ilk karşılaşmayı Saffet Gurur Yazar ve Murat Duruer&rsquo;in golleri ile 2-0 kazanmıştı.
+</TEXT>
+</DOC>

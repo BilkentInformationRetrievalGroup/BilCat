@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1412133 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4e3bff19-2577-4c48-b9af-0c74b7cad731 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 11:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta�� ile ibb'nin 8. randevusu
+</HEADLINE>
+<TEXT>
+Geride kalan maçlarda iki takım da 2'şer galibiyet alırken, 3 maç da berabere sonuçlandı.
+
+Beşiktaş ile İstanbul Büyükşehir Belediyespor, Süper Lig&rsquo;de yarın (30.01.2011) 8. randevuya çıkacak.
+ İki ekip arasında geride kalan 7 lig maçında taraflar 2&rsquo;şer galibiyet alırken, 3 maç da berabere sonuçlandı. İki ekip de birbirlerine 7&rsquo;şer gol attı.
+ Beşiktaş, maçın oynanacağı Atatürk Olimpiyat Stadı&rsquo;nda İstanbul Büyükşehir Belediyespor&rsquo;u geride kalan 3 maçta da yenemedi. Siyah-beyazlılar, Atatürk Olimpiyat Stadı&rsquo;nda rakibiyle yaptığı maçlardan 2&rsquo;sinde 1-1 berabere kalırken, 1&rsquo;ini ise 2-1 yitirdi
+</TEXT>
+</DOC>

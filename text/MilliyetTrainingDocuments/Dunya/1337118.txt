@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337118 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af6b/l/0l0smilliyet0n0btr0ckedinin0einanilmaz0ecesareti0cdunya0csondakika0c150b110b20a10a0c13147160cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:00:50.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kedinin inan��lmaz cesareti
+</HEADLINE>
+<TEXT>Amerika'nın New Orleans kentinde bulunan bir bataklıkta yaşayan timsaharla bir kedinin restleşmeleri sadece bunu kaydedenleri değil izleyen herkesi şaşırtıyor.Amerika'da günlerdir konuşulan ve Amerikan televizyonlarına haber olan kedi ve timsah restleşmesinde kedini cesareti herkesi şaşarıtıyor.Görüntülerde bataklıktan çıkan timsahın kediye yaklaşması, kedinin ise timsaha pati atması ile timsahı uzaklaştırması görülüyor. Kendisinden onlarca kat daha büyük ve ağır olan timsahdan korkmayan bu kediye Amerikalılar şimdi "Panter yürekli kedi" diyor</TEXT>
+</DOC>

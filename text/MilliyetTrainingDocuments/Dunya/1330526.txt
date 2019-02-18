@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1330526 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f6d02aa/l/0L0Smilliyet0N0Btr0Cgoogle0Edan0Efacebook0Ea0Esansur0Cdunya0Csondakika0C0A70B110B20A10A0C13114160Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:01:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan Facebook'a sansür
+</HEADLINE>
+<TEXT>Bugüne kadar  kullanıcılarının contact (yani bağlantılı olduğu kişiler) bilgilerini diğer web siteleriyle paylaşan , 'a artık  uygulamaya hazırlanıyor.
+Google'ın bu kararının Facebook'un büyümesine ciddi bir darbe vurabileceği belirtiliyor.
+
+Facebook'un inanılmaz bir hızla büyümesinde gmail kullanıcılarına yönelik bağlantı paylaşımlarının büyük bir rolü olduğuna inanan  uzmanları, Google'ın Facebook'un "arkadaş bul" özelliğini gmail için engelleme hazırlığının, sosyal paylaşım devine oldukça ağır bir darbe vurabileceği inancında.
+
+Google'ın Facebook'a yönelik bu kararının sebebi ise şirket tarafından büyütülmek istenen Google'ın kendi sosyal paylaşım ağları. Google yetkilileri bugün 500 milyondan fazla kullanıcısı bulunan Facebook'un kurulduğu tarihten bu yana geçen 6 yılda gmail bağlantıları yoluyla oldukça büyük bir kullanıcı kitlesini network'üne kattığı inancında. 
+
+HEDEF FACEBOOK'A RAKİP SİTE
+Daha önce 'da yer alan bir haberde, Google'ın Playdom Inc, Electronic Arts'a bağlı Playfish ve Zynga Game Network'le birlikte Facebook'a rakip bir sosyal paylaşım ağı oluşturmaya çalıştığı ve bunun için sadece Zynga'ya 100 milyon dolara yakın bir yatırım yaptığı belirtilmişti. Google'ın bu son hamlesi de "sosyal ağ" planının artık yürürlüğe sokulmaya başlandığı şeklinde yorumlanıyor</TEXT>
+</DOC>

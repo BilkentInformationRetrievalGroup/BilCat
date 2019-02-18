@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1400212 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2b2f8631-9b41-4828-9c4f-6f4ae8076087 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 11:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+su�� ��rg��t��ne ��afak operasyonu
+</HEADLINE>
+<TEXT>
+Konya'da organize suç örgütüne yönelik operasyon düzenlendi. Operasyonda 30 kişi gözaltına alındı.
+
+Konya&rsquo;da bir şuç örgütünün kumarhane işletip zorla çek-senet aldığı ve bazı kişileri silah zoruyla haraca bağladığı iddiasıyla çalışma başlatıldı. 
+
+     6 ay süren çalışmanın ardından polis, şafak vakti Konya merkezli olmak üzere Aksaray, İstanbul ve Afyonkarahisar&rsquo;da eş zamanlı operasyon düzenledi.
+
+     Özel Harekat polisinin de katıldığı operasyonda 30 kişi gözaltına alındı.
+
+     Yapılan aramalarda çok sayıda silah ele geçirildi.
+
+</TEXT>
+</DOC>

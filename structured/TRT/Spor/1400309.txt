@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1400309 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3d4a6408-453e-4fb8-a429-9fb21eb84948 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 12:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+k���� oyunlar��nda kar yok
+</HEADLINE>
+<TEXT>
+Oyunların başlamasına 9 gün kalmasına rağmen, halen yeterli miktarda kar yağışının görülmemesi yetkilileri tedirgin ediyor.
+
+Erzurum Dünya Üniversite Oyunları için kentte tüm hazırlıklar tamamlandı.
+27 Ocak-6 Şubat tarihleri arasında yapılacak oyunların başlamasına 9 gün kalmasına rağmen halen yeterli miktarda kar yağışının görülmemesi yetkilileri tedirgin ediyor.
+Palandöken&rsquo;de normal kar kalınlığının 25 santimetre, yapay kar çalışmalarıyla birlikte tesislerdeki kar kalınlığının 60 santimetreye ulaştığı öğrenildi. Pistlerde halen, farklı ülkelerden gelen turistler, oyunlar öncesi kayak yapmanın keyfini yaşıyor.
+Meteoroloji yetkilileri, Erzurum&rsquo;da 25 Ocakta kar yağışı beklendiğini bildirdiler.
+Bu arada, son üç yıldır Erzurum&rsquo;da ocak ayında kar yağışında görülen azalma nedeniyle bölgede özellikle gece hava sıcaklığında düşüş yaşanıyor.
+
+ 
+</TEXT>
+</DOC>

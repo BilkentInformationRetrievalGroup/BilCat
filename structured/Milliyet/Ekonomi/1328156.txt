@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328156 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f638b78/l/0l0smilliyet0n0btr0c0egirisimci0ehaciyatmaz0egibi0eayakta0ekalmali0e0cekonomi0chaberdetay0c0a60b110b20a10a0c1310a8720cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:04.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���giri��imci hac��yatmaz gibi ayakta kalmal�����
+</HEADLINE>
+<TEXT>EKONOMİ SERVİSİHisarcıklıoğlu, TOBB’un himayesinde gerçekleştirilen 5 - 12 Kasım arasındaki Global Girişimcilik Haftası etkinliklerini tanıtmak amacıyla düzenlenen basın toplantısında Türkiye’de 3. kez yapılan ve ana teması ‘güç birliği’ olan hafta boyunca, Türkiye genelinde 200’ün üzerinde etkinlik gerçekleştirileceğini, Girişimcilik Haftası’nın tüm dünyada 102 ülkede benzer etkinliklerle kutlandığını bildirdi.</TEXT>
+</DOC>

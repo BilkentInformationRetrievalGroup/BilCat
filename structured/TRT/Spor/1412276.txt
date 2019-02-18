@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1412276 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7b9660ed-04f5-4feb-a9b5-ab97a0771143 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 13:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+avustralya'n��n krali��esi clijsters
+</HEADLINE>
+<TEXT>
+Belçikalı tenisçi Kim Clijsters, Avustralya Açık Tenis Turnuvası'nın şampiyonu oldu.
+
+Belçikalı tenisçi Kim Clijsters, Avustralya Açık Tenis Turnuvası&rsquo;nın kadınlar finalinde Çinli rakibi Li Na&rsquo;yı 2-1 yendi ve sezonun ilk Grand Slam organizasyonunda şampiyon oldu.
+ Anne olması nedeniyle ara verdiği spora 2 yıl sonra dönen ve bunun ardından geçen yıl ABD Açık&rsquo;ı kazanan Clijsters, 3 numaralı seribaşı olarak katıldığı turnuvada rakibini, 3-6, 6-3 ve 6-3&rsquo;lük setlerle yendi.
+ Avustralya&rsquo;ya turnuvanın en büyük favorisi olarak gelen ve buradaki başarısıyla kariyerindeki 4. Grand Slam şampiyonluğunu kazanan Clijsters, bunun yanı sıra, dünya sıralamasında ikinciliği de garantilemiş oldu.
+ Grand Slam turnuvalarında final oynayan ilk Çinli olarak adını tarihe yazdıran Li Na ise rakibinin oyunu yönlendirmesine izin vermeyen stiliyle finale yakışır bir görüntü çizdi.
+</TEXT>
+</DOC>

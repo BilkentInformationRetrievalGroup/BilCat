@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1415085 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0444cedd-0655-43c3-9ccb-e4beff583013 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 16:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ali ku��ik bucaspor'da
+</HEADLINE>
+<TEXT>
+Beşiktaş Kulübü, genç futbolcusu Ali Kuçik'i sezon sonuna kadar Bucaspor'a kiraladı.
+
+
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.&rsquo;den, İstanbul Menkul Kıymetler Borsası&rsquo;na gönderilen ve Kamuyu Aydınlatma Platformu&rsquo;nda yer alan açıklamada, Ali Kuçik&rsquo;in 2010-2011 sezon sonuna kadar Bucaspor Kulübü&rsquo;ne geçici transfer edildiği bildirildi.
+
+Şirketten yapılan açıklamada, &rsquo;&rsquo;Şirketimizin profesyonel futbolcularından Ali Kuçik&rsquo;in 2010-2011 sezon sonuna kadar Bucaspor Kulübü&rsquo;ne geçici transferi konusunda anlaşma sağlanmıştır&rsquo;&rsquo; denildi.
+</TEXT>
+</DOC>

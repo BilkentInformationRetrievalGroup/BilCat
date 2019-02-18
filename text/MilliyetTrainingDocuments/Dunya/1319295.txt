@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319295 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f3af37d/l/0l0smilliyet0n0btr0ctaliban0ehogyani0eilcesinden0ecekildi0cdunya0csondakika0c0a10b110b20a10a0c130a8630a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 11:02:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+taliban hogyani il��esinden ��ekildi
+</HEADLINE>
+<TEXT>Afganistan’da Gazne vilayetine bağlı Hogyani ilçesinin kontrolünün, yeniden Taliban’dan hükümet güçlerine geçtiği belirtildi.Afganistan İçişleri Bakanlığından yapılan açıklamada, birkaç saat Taliban’ın eline geçen ilçenin kontrolünün tekrar Afgan hükümetinde olduğu bildirildi.Taliban Sözcüsü Zabiullah Mücahid, örgüt militanlarının şiddetli çarpışmaların ardından Hogyani’deki kamu binalarını ele geçirdiğini, binaları koruyan polislerin öldürüldüğünü veya tutsak edildiğini belirtmiş ve bu bilgi, saldırı sırasında ilçede bulunmayan Hogyani polis şefi Muhammed Yasin tarafından doğrulanmıştı.Mücahid tarafından daha sonra yayımlanan açıklamada, Taliban militanlarının hükümet merkezine hasar verdikten sonra çekildiği duyuruldu.Afganistan İçişleri Bakanlığından yapılan yeni açıklamada da Taliban militanlarının binadaki 3 odayı yaktıktan ve bir aracı tahrip ettikten sonra ilçeden çekildikleri belirtildi.</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1416196 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=50038f1c-9469-4c2d-99ae-c2816d73c95c </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 17:00:51.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yok b��yle bir ��ov
+</HEADLINE>
+<TEXT>
+Stüdyodaki direklerin arasından, aracını iki tekerleğinin üzerinde geçirdi.
+
+Almanya&rsquo;da özel bir televizyon kanalda yayınlanan programda otomobiliyle şov yapan sürücü izleyenleri kendine hayran bıraktı. 
+Stüdyoya belirli aralıklarla koyulan elektrik direklerinin arasından otomobilini iki tekerleğinin üzerine kaldırarak geçmeyi başaran ve bunu sanki normal araç kullanıyormuşcasına rahat yapan sürücü, izleyiciler tarafından uzun süre alkışlandı.
+
+</TEXT>
+</DOC>

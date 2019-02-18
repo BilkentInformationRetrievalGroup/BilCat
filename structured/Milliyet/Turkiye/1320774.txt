@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1320774 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f466f43/l/0l0smilliyet0n0btr0cis0eadami0ehamdi0eakin2in0ebosanma0edavasi0ebasladi0cturkiye0csondakika0c0a20b110b20a10a0c130a92790cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:12:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+i�� adam�� hamdi ak��n2��n bo��anma davas�� ba��lad��
+</HEADLINE>
+<TEXT>, Salı|              SON DAKİKAANASAYFAEKONOMİGÜNCELHAVA YOLCADDEBUGÜNKÜ MİLLİYETFİNANSYAŞAMÇİZERLERCUMARTESİYAZARLARDÜNYAMAGAZİNHABER İNDEKSİPAZARSİYASETSPORASTROLOJİEGEKİTAPKültür SanatSinemaTVKadınBebekSağlıkTeknolojiEğitimOtomobilMizahKişisel BakımTatilKonutYorum
+	
+		
+			
+				          MNetBanner("milliyet_yasam_728x90");        
+			
+
+			
+
+			
+		
+			
+				      #ekonomiltable {      border:1px solid #FFF0B7;      margin-bottom:10px;      }      #ekonomiltable td {      background:none repeat scroll 0 0 #FFF0B7;      }</TEXT>
+</DOC>

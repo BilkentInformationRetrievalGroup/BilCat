@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1422762 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7ccd5b29-75da-4e34-8844-49d4fe4fac1d </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 00:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bilecik ve ��anakkale'de kaza: 4 ��l��
+</HEADLINE>
+<TEXT>
+Bilecik ve Çanakkale'de meydana gelen trafik kazalarında 4 kişi öldü, 1'i ağır 3 kişi yaralandı.
+
+
+Bilecik&rsquo;te, Bozüyük -Bursa karayolunun 26&rsquo;ncı kilometresinde otomobil ile tır çarpıştı.
+
+Kazada otomobilde bulunan Muharrem ve Abdullah Küçük ile Haydar Güremi hayatını kaybetti.
+
+Yaralı 2 kişi, Eskişehir Osmangazi Tıp Fakültesi ile Bozüyük Devlet Hastanesinde tedavi altına alındı.
+
+Çanakkale-İzmir karayolunun 25&rsquo;inci kilometresinde ise, Müjdat Bican&rsquo;ın kullandığı araç karşı yönden gelen Muharrem Altın&rsquo;ın kullandığı minibüs ile çarpıştı.
+
+Kazada otomobil sürücüsü Müjdat Bican araçta sıkışarak hayatını kaybetti.
+
+Yaralanan minibüs şoförü Muharrem Altın Çanakkale Devlet Hastanesi&rsquo;nde tedavi altına alındı
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1434818 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5bff0692-896f-4ca4-b5b1-287ce66f1946 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 14:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sinop'ta gemi karaya oturdu
+</HEADLINE>
+<TEXT>
+Sinop'ta şiddetli fırtınanın etkisiyle demirleme sahasına yanaşamayan bir yük gemisi, karaya oturdu.    
+
+    90 metre uzunluğundaki &rsquo;Armarin 3&rsquo; adlı yük gemisi, İstanbul&rsquo;dan yüklediği vinçleri Giresun&rsquo;a götürüyordu.
+
+     Gemi, iki gün önce kötü hava şartları nedeniyle demirleme sahasına yanaşamayınca Sinop&rsquo;ta Kumkapı açıklarında demirledi.
+     
+     Bölgede etkili olan Kuzey rüzgarları nedeniyle zincirleri kopan ve sürüklenmeye başlayan  gemi sahilde karaya oturdu.  
+
+     Yük gemisinin durumu iyi olan 9 mürettebatı karaya çıkarıldı, geminin kurtarılması için çevre illerden romorkör istendi.
+
+
+</TEXT>
+</DOC>

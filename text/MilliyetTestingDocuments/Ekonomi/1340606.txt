@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340606 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fc33ce4/l/0l0smilliyet0n0btr0cturk0etelekom0edan0eayda0e30eliraya0etelefon0cekonomi0csondakika0c180b110b20a10a0c13156560cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 17:00:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rk telekom'dan ayda 3 liraya telefon
+</HEADLINE>
+<TEXT>Türk Telekom, Alcatel’in klasik görünümlü dijital teknolojiye sahip Retro model telefonunu RahaTT kampanyası kapsamında "avantajlı" koşullarda sunuyor.Türk Telekom’un yazılı açıklamasına göre, üç farklı renkteki telefonlara ayda 3 liraya, 24 ay taksitle toplam 72 liraya sahip olunabiliyor.30 Haziran 2011 tarihine kadar devam edecek, stoklarla sınırlı olan kampanyadan yararlanmak için Türk Telekom müşterisi olmak ve 24 ay taahhüt vermek gerekiyor. Başvurular, kampanyadan yararlanacak Türk Telekom müşterilerince Türkiye çapındaki Türk Telekom ofis ve bayilerinden yapılabiliyor.Alcatel Retro kampanyasından, son iki fatura döneminde Türk Telekom müşterisi olan ve Türk Telekom’un halen devam eden dect telefon kampanyasına dahil olmayan müşterileri yararlanabiliyor.</TEXT>
+</DOC>

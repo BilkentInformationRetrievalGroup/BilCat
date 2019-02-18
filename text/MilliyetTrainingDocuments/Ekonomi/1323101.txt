@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323101 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4f7100/l/0l0smilliyet0n0btr0cfreddie0emac0eyine0ezarar0eetti0cekonomi0csondakika0c0a30b110b20a10a0c130a97440cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:00:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+freddie mac yine zarar etti
+</HEADLINE>
+<TEXT>ABD’li tutsat (mortgage) devi Freddie Mac, 4,1 milyar dolar zarar etti.Freddie Mac yetkililerince yapılan açıklamada, Temmuz-Eylül dönemini kapsayan üçüncü çeyrekte şirket hisse başına 1,25 dolar zarar ettiğini belirtilerek, Hazine Bakanlığı’ndan 100 milyon dolar ek yardım talep edeceğini ifade edildi.Şirket, geçen yılın aynı döneminde 6,7 milyar dolar, hisse başına 2,06 dolar zarar açıklamıştı. Freddie Mac, yılın ikinci çeyreğinde 6 milyar dolar zarar etmiş, hükümetten 1,8 milyar dolar daha yardım istemişti.ABD yönetiminin 2008 yılında el koyduğu tutsat devleri Fannie Mae ve Freddie Mac, ABD konut piyasasının sağlıklı işlemesi için kritik öneme sahip bulunuyor.</TEXT>
+</DOC>

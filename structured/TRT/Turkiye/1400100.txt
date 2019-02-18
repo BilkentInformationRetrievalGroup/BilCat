@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1400100 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2d505464-2618-441e-ad9d-c111d7809883 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 10:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+2. ergenekon'da 97. duru��ma
+</HEADLINE>
+<TEXT>
+Duruşmaya Arif Doğan'ın çapraz sorgusuyla devam ediliyor.
+
+İstanbul 13. Ağır Ceza Mahkemesince Silivri Ceza İnfaz Kurumları Yerleşkesi&rsquo;nde oluşturulan salonda görülen davanın bugünkü duruşmasına, gazeteci Tuncay Özkan ve Mustafa Balbay&rsquo;ın da aralarında bulunduğu 20 tutuklu sanık ile tutuksuz yargılanan Muzaffer Öztürk ve Arif Doğan katıldı.
+
+Tutuklu sanıklar eski Başkent Üniversitesi Rektörü Prof. Dr. Mehmet Haberal, eski İnönü Üniversitesi Rektörü Prof. Dr. Fatih Hilmioğlu, emekli Tuğgeneral Levent Ersöz, İbrahim Özcan, İbrahim Şahin, Hasan Atilla Uğur ve Oğuz Bulut ise duruşmaya gelmedi. 
+
+Duruşmaya, doktor nezaretinde ambulansla getirilen ve tekerlekli sandalyede olan Arif Doğan&rsquo;ın çapraz sorgusuyla devam ediyor.
+
+Bu arada, duruşmayı izleyenler arasında Eskişehir&rsquo;in Tepebaşı Belediye Başkanı Ahmet Ataç da bulunuyor.
+
+
+</TEXT>
+</DOC>

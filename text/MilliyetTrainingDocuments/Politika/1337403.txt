@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337403 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa890f8/l/0l0smilliyet0n0btr0cchp0eli0etekin0eden0evergisini0eduzenli0eodeyenele0eindirim0eistegi0csiyaset0csondakika0c150b110b20a10a0c13147460cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 15:07:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+chp'li tekin'den vergisini d��zenli ��deyenele indirim iste��i
+</HEADLINE>
+<TEXT>AACHP Genel Başkan Yardımcısı Gürsel Tekin, Devlet Bakanı ve Başbakan Yardımcısı Ali Babacan’ın bugün açıkladığı borç yapılandırma paketinin, vergisini düzenli ödeyenleri mağdur duruma düşürdüğünü ileri sürdü.Tekin, yaptığı yazılı açıklamada, Bakan Babacan tarafından açıklanan vergi affı ile ilgili düzenlemenin vergi ödeyenler açısından soru işaretleri taşıdığını, vergisini ödemeyenler açısından ise dikkate değer bir düzenleme olduğunu savundu.Yasalara olan saygısı ve sorumlulukları gereği güçlükle de olsa vergisini düzenli ödeyenlerin bu tür uygulamalarla mağdur duruma düşürülmemesi gerektiğini belirten Tekin, şunları kaydetti: "Bu nedenle düzenli vergi ödeyenlerin en azından kamunun ve halkın gözünde değerlendirilmesi için ödedikleri vergiden indirim yapılması ve bu yolla hem özendirilmesi hem de ödüllendirilmesi gerekir.Hükümetin gündeme getirdiği vergi affı kapsamında naylon faturacıların da dahil edildiği anlaşılmaktadır. Hükümet hangi naylon faturacıları kurtarma çabası içindedir? Vergi affı kapsamında alınan naylon faturacılar kimlerdir? Kamuoyu çok iyi bilmektedir ki bu düzenleme hükümete yakın birilerini kurtarmak için yapılmıştır. Düzenleme, işini düzgün yapan, mali kurallara uyan, sorumluluklarını yerine getirenlere hakarettir."</TEXT>
+</DOC>

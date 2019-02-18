@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344535 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd8661e/l/0l0smilliyet0n0btr0ccep0etelefonu0esarj0ecilesi0ebitiyor0cdunya0csondakika0c210b110b20a10a0c13165960cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 17:01:11.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+cep telefonu ��arj ��ilesi bitiyor
+</HEADLINE>
+<TEXT>Uluslararası Cep Telefonu Üreticileri ve Telekom Şirketleri Platformu'nun (OMTP) daha önce kararlaştırdığı tüm cep telefonlarına tek tip şarj cihazı uygulamasının 2011 yılından itibaren hayata geçirilmeye başlanacağı bildirildi.Yeni şarj cihanzının halen Apple tarafından üretilen İ-Phone'larda da kullanılan usb girişli olacağı belirtildi. Bu uygulama ile cep telefonu kullanıcılarına büyük bir kolaylık sağlanmasının yanı sıra çevre için de kirliliğin önüne geçilmesi hedefleniyor. Önümüzdeki yıldan itibaren tek bir şarj cihazı markasına bakılmaksızın bütün cep telefonlarında kullanılabilecek. Ortak şarj cihazı projesi Avrupa Birliği'nin standartlardan sorumlu organizasyonu CENELEG tarafından da onaylandı. Aralarında Samsung, Motorola ve Nokia’nın da bulunduğu 17 büyük telefon üreticisi, yaptıkları açıklamayla 2012 yılına kadar üretilen tüm telefon modelleri için tek tip şarj cihazı kullanımına başlayacaklarını açıklamıştı.</TEXT>
+</DOC>

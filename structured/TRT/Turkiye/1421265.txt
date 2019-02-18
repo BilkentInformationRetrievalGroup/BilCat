@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1421265 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6c2a99c9-f3a4-4350-85a1-d9ed54a5d114 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 16:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ara�� kundaklayanlar yakaland��
+</HEADLINE>
+<TEXT>
+İstanbul'daki kundaklama olaylarıyla ilgili olduğu tespit edilen 5 kişi gözaltında...
+
+
+İstanbul&rsquo;daki kundaklama olaylarında araçları ateşe verdiği tespit edilen 5 kişinin gözaltına alındığı bildirildi. 
+</TEXT>
+</DOC>

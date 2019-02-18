@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1389662 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f9ec8461-a87c-46aa-8695-4c7ded83b7ad </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 17:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��n��rda gerginlik b��y��yor
+</HEADLINE>
+<TEXT>
+     Azerbaycan Savunma Bakanlığı, Ermenistan'ın cephe hattında ateşkesi yine bozduğunu açıkladı.
+
+
+     Savunma Bakanlığı sözcüsü Eldar Sabiroğlu,  bir süredir cephe hattında ateşkesin ihlal edilmediğini ancak son 2 gündür Ermenistan&rsquo;ın ateşkesi bozduğunu belirtti.
+
+     Sabiroğlu, Ermeni saldırılarına cevap vermek zorunda kaldıklarını dile getirdi.
+
+           Son olarak Ermeni güçlerin  açtığı ateş sonucu bir Azerbaycan askeri ağır yaralanmıştı.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325100 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f575472/l/0l0smilliyet0n0btr0cdiscovery0enin0efirlatilisi0eertelendi0cdunya0csondakika0c0a40b110b20a10a0c1310a180a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+discovery'nin f��rlat��l������ ertelendi
+</HEADLINE>
+<TEXT>Uzay mekiği Discovery’nin fırlatılışının, bugün yeniden 24 saat ertelendiği bildirildi.Kennedy uzay üssü sözcüsü, mekiğin üç motorundan birinde bulunan elektronik sistemdeki bir sorun nedeniyle dün ertelenen Discovery’nin fırlatılışının, kötü hava koşulları yüzünden bugün yeniden ertelendiğini, 24 saatten önce fırlatma izni verilemeyeceğini belirtti.Uzay üssünde çok şiddetli yağış olduğu ve havanın fırlatma saatine kadar açmasının beklenmediği kaydedildi.6 astronotla birlikte uzaya fırlatılması beklenen Discovery mekiği, Uluslararası Uzay İstasyonu’na (UUİ) yeni bir depolama modülü ve bir ’insansı’ robot götürecekti. Mekiğin kuyruğuna yakın, ikiz yörünge manevra motorlarına yakıt sağlayan boruda sızıntı tespit edilmesi sonucu, mekiğin fırlatılması daha önce de ertelenmişti.</TEXT>
+</DOC>

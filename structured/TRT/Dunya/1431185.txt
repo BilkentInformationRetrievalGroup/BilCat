@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1431185 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=34b24f8a-b882-4611-9685-5ff6c5ebff3a </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 03:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+arianne f��rlat��ld��
+</HEADLINE>
+<TEXT>
+Uluslararası uzay istasyonuna, yiyecek ve malzeme götüren insansız uzay aracı Johannes Kepler, 4 ay boyunca uzay istasyonuna bağlı kalacak.
+
+
+Uluslararası Uzay İstasyonu&rsquo;na yiyecek ve malzeme götüren Arianne roketi, Fransız Guyanası&rsquo;ndan fırlatıldı.
+
+Roketin taşıdığı Johannes Kepler adlı uzay aracının, istasyona 7 ton ağırlığında yiyecek, su, yakıt ve oksijen taşıdığı bildirildi.
+
+İnsansız araç, 4 ay boyunca uzay istasyonuna bağlı kalacak.
+
+Kepler, kendi roketleri yardımıyla istasyonun bozulan yörüngesini düzeltmeye de yardım edecek.
+
+Araç, 4 ayın sonunda astronotların yükleyeceği atık malzemeyle istasyondan ayrılacak ve atmosfere girerek yanacak.
+
+
+
+</TEXT>
+</DOC>

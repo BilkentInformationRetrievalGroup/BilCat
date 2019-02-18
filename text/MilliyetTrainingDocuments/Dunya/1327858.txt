@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327858 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f6196d0/l/0l0smilliyet0n0btr0crusya0enin0eguneyinde0ebir0eevde0e120eceset0ebulundu0cdunya0csondakika0c0a50b110b20a10a0c1310a7350cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 19:01:20.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+rusya'n��n g��neyinde bir evde 12 ceset bulundu
+</HEADLINE>
+<TEXT>Rusya’nın güneyinde, kundaklanmış bir evde 12 ceset bulunduğu bildirildi.Bölge savlığından yapılan yazılı açıklamada, Krasnodar bölgesindeki Kuçevskaya’da, bazıları kesici aletlerle yaralandığı saptanan cesetler arasında 4 çocuk cesedinin olduğu belirtildi.Açıklamada, ilk belirlemelere göre, çocuklardan birinin karbonmonoksitten zehirlendiği, bir diğerinin de boğulduğu kaydedildi. Diğer 10 kişinin kesici aletlerle öldürüldüğü ifade edildi.</TEXT>
+</DOC>

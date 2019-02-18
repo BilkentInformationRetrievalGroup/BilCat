@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333360 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f8490c0/l/0l0smilliyet0n0btr0cyunanistan0eda0eenflasyon0eyuzde0e50e20cekonomi0csondakika0c10a0b110b20a10a0c13127250cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+yunanistan'da enflasyon y��zde 5,2
+</HEADLINE>
+<TEXT>Yunanistan’da ekim ayı itibariyle yıllık enflasyon oranının yüzde 5,2 olarak belirlendiği bildirildi.Yunanistan İstatistik Kurumu’ndan (ELSTAT) verilen bilgiye göre, indirim sezonunun son bulması ve vergilerden etkilenen hizmet ile mamullerdeki fiyat artışları, geçtiğimiz yılın ekim ayına oranla, gıda ve alkolsüz içkilerde yüzde 1,16, tütün mamulleri ve alkollü içeceklerde yüzde 18,2, giyim eşyalarında yüzde 2,5, barınma harcamalarında yüzde 5,7, sağlık harcamalarında yüzde 0,3, ulaşımda yüzde 18,2, telekomünikasyon giderlerinde yüzde 1,8, kültürel faaliyetlerde yüzde 1,1, eğitim masraflarında yüzde 0,1, otel-kafe-restoran harcamalarında yüzde 3,1 oldu.Yunanistan’da eylül ayı itibariyle yıllık enflasyon yüzde 5,6 olarak saptanmıştı.2010 yılı Eylül ayında geçen yılın aynı ayına kıyasla fiyat artışları, gıda ve alkolsüz içkilerde yüzde 2,1, tütün mamulleri ve alkollü içeceklerde yüzde 17,7, giyim eşyalarında yüzde 2,4, barınma harcamalarında yüzde 8, sağlık harcamalarında yüzde 0,8, ulaşımda yüzde 17,7, telekomünikasyon giderlerinde yüzde 3, kültürel faaliyetlerde yüzde 1,1, eğitim masraflarında yüzde 0,2, otel-kafe-restoran harcamalarında yüzde 3,2 olarak belirlenmişti.Yunanistan’da bütçe açığının kapatılması çalışmaları çerçevesinde, KDV’nin yüzde 21’den yüzde 23’e çıkartılması, sigara ve alkollü içki fiyatlarında yüzde 10 oranında ek vergi uygulanması, lüks harcamalarda ise vergilerin artırılması şeklinde önlemler alınmıştı.Öte yandan, ülkede geçen mart ayında da, KDV’nin yüzde 19’dan yüzde 21’e yükseltilmesi, akaryakıt fiyatlarında 3 ile 8 cent arası zam, alkollü içeceklerde yüzde 20, sigara fiyatlarında ise yüzde 65 oranında ek vergi uygulanması içerikli bir dizi önlemin hayata geçirileceği açıklanmıştı.</TEXT>
+</DOC>

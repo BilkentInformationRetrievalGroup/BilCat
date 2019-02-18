@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323863 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f52cd31/l/0l0smilliyet0n0btr0cniang0ea0etest0esurusu0egunu0cspor0chaberdetay0c0a40b110b20a10a0c130a99830cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:13:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+niang���a test s��r������ g��n��
+</HEADLINE>
+<TEXT>Senegalli golcünün, teknik heyet tarafından bugün teste tabi tutulacağı bildirildi. Kaburga bölgesindeki adale yırtığı nedeniyle dün de çalışmalara katılamayan Niang’ın çok şikayetçi olduğu ağrılarının önemli ölçüde azaldığı ve bugünkü testi geçmesi halinde takımla çalışmalara başlayacağı ifade edildi. Sarı-lacivertli takım, Eskişehirspor mesaisini dün akşam yaptığı antrenmanla sürdürürken Dia, Güiza, Niang, Selçuk ve Uğur sakatlıkları nedeniyle takımdan ayrı çalıştı. Antrenmanın son bölümünde aldığı darbeyle sakatlanan Bekir İrtegün çalışmayı yarıda bıraktı.  </TEXT>
+</DOC>

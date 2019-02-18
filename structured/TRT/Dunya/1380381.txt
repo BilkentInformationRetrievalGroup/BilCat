@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1380381 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c2571d58-1dfa-4896-97ef-a38e75ca6c7a </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 21:52:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abd'de u��ak pani��i
+</HEADLINE>
+<TEXT>
+Amerika Birleşik Devletleri'nin başkenti Washington'da, uçuşa yasak bölgeye giren bir uçak paniğe yol açtı.
+
+Başkent Washington&rsquo;da yeni yılın ilk gününde uçak paniği yaşandı.
+
+Polis, Amerikan Kongresi çalışanlarını yasak bölgeye giren bir uçak nedeniyle elektronik postayla uyardı.
+
+Polis terörist saldırı endişesiyle önlem olarak Kongre binasının tahliyesini istedi.
+
+Bu arada, Andrews Hava üssünden havalanan 2 adet F - 16 savaş uçağı bölgeye hareket etti.
+
+Olay kısa sürede aydınlığa kavuştu.
+
+Paniğin, DC- 9 tipi bir yolcu uçağının Kongre yakınındaki Reagan Havaalanına inişe hazırlandığı sırada uçuş kontrol kulesiyle iletişimi kaybetmesi sonucu yaşandığı anlaşıldı.
+
+ Amerikan polisi, yolcu uçağının daha sonra havaalanına inişinin gerçekleştiğini  ve durumun normale döndüğünü belirtti.
+
+Amerikan Kongresi&rsquo;nin tatilde olması ve yılbaşı tatili nedeniyle Kongre binasında az sayıda çalışan bulunduğu kaydedildi.
+
+</TEXT>
+</DOC>

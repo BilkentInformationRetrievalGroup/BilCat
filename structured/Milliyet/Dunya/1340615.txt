@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340615 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fc3de9d/l/0l0smilliyet0n0btr0cbir0emucize0ede0earjantin0eden0cdunya0csondakika0c180b110b20a10a0c1315680a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 17:00:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bir mucize de arjantin'den
+</HEADLINE>
+<TEXT>Arjantin'de 3 yaşındaki bir kız çocuğu oyun oynarken düştüğü sulama kuyusundan kurtarıldı. 23 metre uzunluğunda ve 35 santimetre genişliğinde bir kuyuya düşen Vanesa, itfaiye ve kurtarma ekiplerinin kısa sürede olay eyrine gelmesiyle kurtarıldı.Vücudunda hafif yaralar bulunan Vanesa hastanede tedavi altına alındı.Arjantin Devlet Başkanı Cristina Kirchner de Vanesa'yı hastanede ziyaret etti.İstanbul'un Şile ilçesinde kaybolan 3 yaşındaki Berat da, mucizevi şekilde 30 saat sonra bulunmuştu.</TEXT>
+</DOC>

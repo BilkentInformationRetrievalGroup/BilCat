@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341212 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fc7a6ae/l/0l0smilliyet0n0btr0ckuslar0eucagi0eboyle0esardi0e0cdunya0csondakika0c190b110b20a10a0c13158940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 03:00:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ku��lar u��a���� b��yle sard��!
+</HEADLINE>
+<TEXT>Bir anda kuşların arasında kaldılar. Ancak usta pilot paniğe kapılmadan uçağı indirmeyi başardı.Pilot, uçakların motoruna zarar vermesiyle bilinen kuşlardan uçağı, yeteneği sayesinde kurtarmayı başardı.88 milyon dolar değerindeki E-6B askeri uçağı, inişe geçtikten birkaç saniye sonra büyük bir kuş sürüsünün ortasında kaldı. Pilot paniğe kapılmadığı için uçağı indirmeyi başardı. Bu fotoğrafları ise o anda havalimanı yakınında aracıyla seyir halinde olan Kaia Larsen çekti.Verilere göre son 20 yıl içinde kuşların sebep olduğu uçak kazalarında 200 kişi hayatını kaybetti.</TEXT>
+</DOC>

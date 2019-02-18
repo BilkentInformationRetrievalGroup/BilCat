@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1423399 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ca2c2e6a-aeac-45fd-b13c-ea7eb0315b34 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 14:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bank asya 1. lig'de haftan��n program��
+</HEADLINE>
+<TEXT>
+Bank Asya 1. Lig'de 21. haftada yapılacak maçları yönetecek hakemler açıklandı.
+
+Futbol Federasyonu Merkez Hakem Kurulu tarafından yapılan açıklamaya göre, 1. Lig&rsquo;de 21. haftada oynanacak maçları yönetecek hakemler şöyle:
+
+12 Şubat Cumartesi
+14.00 Denizlispor-Akhisar Belediyespor: Barış Şimşek
+
+13 Şubat Pazar
+13.30 Orduspor-Gaziantep Büyükşehir Belediyespor: Tolga Özkalfa
+13.30 Giresunspor-Güngören Belediyespor: Özgüç Türkalp
+13.30 Kayseri Erciyesspor-Çaykur Rizespor: Süleyman Abay
+13.30 Diyarbakırspor-Mersin İdmanyurdu: Aytekin Durmaz
+13.30 TKİ Tavşanlı Linyitspor-Boluspor: Abdullah Yılmaz
+19.00 Karşıyaka-Altay: Hüseyin Göçek
+
+14 Şubat Pazartesi
+20.00 Samsunspor-Kartalspor: Taner Gizlenci
+
+
+</TEXT>
+</DOC>

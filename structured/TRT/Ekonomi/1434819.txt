@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1434819 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=391d80ed-bbe1-4290-b148-f16f064edb43 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 14:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+br��c br��cs oldu
+</HEADLINE>
+<TEXT>
+Brezilya, Rusya, Hindistan ve Çin'in oluşturduğu BRIC ülkelerine, Güney Afrika da katıldı. Birlik bundan sonra BRICS larak anılacak.
+
+Benzer ekonomik gelişme hızına sahip olduğu düşünülen, Brezilya, Rusya, Hindistan ve Çin&rsquo;in oluşturduğu BRIC birliğine, Güney Afrika da katıldı.
+
+Üye ülkelerin baş harflerinden oluşan BRIC, yeni katılımı da kapsayacak şekilde BRICS olarak anılacak.
+
+Konuya ilişkin açıklamayı Hindistan Maliye Bakanı Pranab Mkharjee yaptı. Mkharjee, Güney Afrika&rsquo;nın ilk kez temsil edileceği BRICS toplantısının Nisan ayında Çin&rsquo;in ev sahipliğinde gerçekleştirileceğini bildirdi.
+
+BRICS ülkelerinin ekonomik büyüme hızları dışında başka bir ortak noktası bulunmuyor. Üyeler arasında siyasi bir benzerlik ya da coğrafi yakınlık da gözetilmiyor. BRICS ülkelerinin, 2050 yılından önce dünya ekonomisinin öncü aktörlerinden olması bekleniyor.
+</TEXT>
+</DOC>

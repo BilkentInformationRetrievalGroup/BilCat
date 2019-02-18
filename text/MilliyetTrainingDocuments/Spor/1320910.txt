@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320910 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f4455cd/l/0l0smilliyet0n0btr0carsenalli0efabregas0edonetsk0emacinda0eyok0e0cspor0csondakika0c0a20b110b20a10a0c130a91760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:17:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+arsenalli fabregas, donetsk ma����nda yok...
+</HEADLINE>
+<TEXT>Arsenal’in İspanyol futbolcusu Cesc Fabregas’ın, Shakhtar Donetsk ile yarın akşam oynanacak Şampiyonlar Ligi maçında forma giyemeyeceği açıklandı.Arsenal’in teknik direktörü Arsene Wenger, yıldız futbolcunun, dizindeki sakatlık nedeniyle yarın akşam forma giyemeyeceğini, ancak Premier League’de pazar günü Newcastle United ile yapılacak maçta büyük ihtimalle görev alacağını söyledi.Wenger, Fabregas’ın sakatlığının fazla ciddi olmadığını, ancak yarın akşam oynatarak risk alamayacaklarını kaydetti.</TEXT>
+</DOC>

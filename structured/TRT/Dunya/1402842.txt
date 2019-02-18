@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1402842 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7bd4b0bf-0815-48f1-83b6-1fa35fb01af6 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 14:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta ��iddet...
+</HEADLINE>
+<TEXT>
+Irak'ta üç günde üçüncü kez intihar saldırısı düzenlendi.
+
+Yerel yetkililer, Şiiler için kutsal olan Kerbela kenti yolunda bomba yüklü araçlarla düzenlenen saldırıda en az 45 kişinin öldüğünü belirtti.
+
+Saldırılarda 150 kişinin yaralandığı açıklandı.
+
+Ölü sayısının artmasından endişe ediliyor. 
+
+Önceki gün Tikrit&rsquo;te dün de Bakuba&rsquo;da düzenlenen intihar saldırılarında çok sayıda kişi ölmüştü. 
+
+Saldırıları El Kaide ya da El Kaide bağlantılı örgütlerin düzenlediği tahmin ediliyor. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1381991 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a922676d-a877-406d-8fd4-2740fa8917c0 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 11:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ygs'ye ba��vurular ba��lad��
+</HEADLINE>
+<TEXT>
+Üniversiteye girişte uygulanan birinci aşama sınavı Yükseköğretime Geçiş Sınavı'na (YGS) başvurular başladı. Başvurular 19 Ocak'a kadar...
+
+Üniversiteye Giriş Sınavının ilk basamağı olan YGS için başvurular başladı. Adaylar başvuru kılavuzuna ÖSYM&rsquo;nin internet sitesinden ulaşabiliyor.
+
+27 Mart&rsquo;ta yapılacak sınav için başvurular 19 Ocak&rsquo;a kadar devam edecek.
+
+Henüz mezun olmamış son sınıf düzeyindeki adaylar başvurularını okulların bağlı olduğu başvuru merkezlerinde yapacak.
+
+2009 veya 2010&rsquo;da ÖSYS&rsquo;ye başvurmuş adaylar ise bankaya sınav ücreti olan 35 TL&rsquo;yi yatırdıktan sonra başvurularını internetten yapabilecek.
+
+Güvenlik sebebiyle sınavlar öncelikli olarak il merkezlerinde yapılacak.
+
+ÖSYM gerekli olduğu hallerde adayı tercih ettiği sınav merkezlerinden farklı bir sınav merkezine de atayabilecek.
+</TEXT>
+</DOC>

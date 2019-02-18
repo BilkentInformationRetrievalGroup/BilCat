@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1408062 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=55527ebc-9eef-43c6-95ac-4b81b6ecbdb4 </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 15:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+f��rt��na ve hortum deh��et sa��t��
+</HEADLINE>
+<TEXT>
+Muğla'da şiddetli fırtına yüzünden iki caminin minaresi yıkıldı. İzmir'de ise hortum çatıları uçurdu çitleri yıktı.
+
+     Muğla&rsquo;nın Fethiye ilçesinde etkili olan fırtınada 2 caminin minaresi yıkıldı. 
+
+     Minarelerin cemaatin camilerden ayrılmasının ardından yıkılması olası bir faciayı önledi. 
+
+     Saatteki hızı 63 kilometreyi bulun fırtına nedeniyle ilçede bazı ev iş yerlerinin çatısı uçtu, ağaçlar devrildi. 
+
+     İzmir&rsquo;in Kemalpaşa ilçesinde ise hortum, çatıları uçurdu, çitleri yıktı. 
+
+    En büyük zararı Kemalpaşa Sanayi Bölgesi&rsquo;ndeki fabrikalar gördü. 
+
+     Bazı fabrikalar üretimini geçici olarak durdurdu. 
+
+     İlçede hasar tespit çalışmaları sürüyor. 
+
+
+</TEXT>
+</DOC>

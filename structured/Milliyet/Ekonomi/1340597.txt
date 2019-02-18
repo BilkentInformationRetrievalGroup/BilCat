@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1340597 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fc477a8/l/0l0smilliyet0n0btr0cabd0ede0eissizlik0emaasi0ebasvurulari0eartti0cekonomi0csondakika0c180b110b20a10a0c13156940cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/18 </DATE>
+<TIME> 17:00:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+abd���de i��sizlik maa���� ba��vurular�� artt��
+</HEADLINE>
+<TEXT>ABD’de işsizlik maaşı başvuruları arttı.Çalışma Bakanlığının açıkladığı verilere göre, geçen hafta işsizlik maaşı için başvuranların sayısı 2 bin kişi artarak 439 bin oldu.Wall Street analistleri de artışın bu düzeyde olmasını bekliyorlardı.Ancak daha az dalgalı seyir izleyen dört haftalık ortalama işsizlik maaşı başvuruları, beş haftada dört kez düşerek, 443 bine geriledi. Böylece, 2008 yılı Eylül ayından bu yanaki en düşük seviye kaydedilmiş oldu.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321182 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f470d2a/l/0l0smilliyet0n0btr0cborsa0eyuzde0e0a0e80a0edeger0ekaybetti0cekonomi0csondakika0c0a20b110b20a10a0c130a930a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 19:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa y��zde 0,80 de��er kaybetti
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsasında (İMKB) işlem gören hisse senetleri günlük bazda ortalama yüzde 0,80 oranında değer kaybetti.İMKB Ulusal 100 Endeksi, ikinci seansta 500,31 puan azalarak 68.552,21 puandan kapandı. Hisse senetleri ikinci seansta ortalama yüzde 0,72 oranında geriledi.İlk seanstaki 51,80 puanlık azalış dikkate alındığında, borsa endeksi günün tamamında 552,12 puan geriledi.Hisse senetleri günlük bazda ortalama yüzde 0,80 değer kaybetti.</TEXT>
+</DOC>

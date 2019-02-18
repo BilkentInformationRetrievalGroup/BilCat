@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338150 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fb557ac/l/0l0smilliyet0n0btr0c0eeski0eyasamimi0egeri0eistiyorum0e0cdunya0chaberdetay0c170b110b20a10a0c13152430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:02:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���eski ya��am��m�� geri istiyorum���
+</HEADLINE>
+<TEXT> “Çizgilerin Arkasındaki Adam” isimli bir otobiyografi yayımlayan 75 yaşındaki Westergaard, kitabının tanıtımı için önceki gün düzenlenen basın toplantısında, söz konusu karikatürü çizmesinin ardından hayatının “endişe” içinde geçtiğini belirtti. Ancak Westergaard, pişmanlık duymadığını da söyleyerek, “Bu karikatürler, ifade özgürlüğü konusunda gerekli bir tartışmanın başlamasına yardımcı oldu” dedi.</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1415062 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9f977a0d-9111-4e1b-96c2-b6d6fafb6f82 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 15:31:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+d��nyan��n g��z�� bu fuarda...
+</HEADLINE>
+<TEXT>
+Dünyanın en büyük mobilya fuarları arasında yer alan İstanbul Mobilya Fuarı, CNR Fuar merkezinde açıldı. 
+
+
+Dünyanın en büyük mobilya fuarları arasında yer alan İstanbul Mobilya Fuarı, 9 salonda 350 firmayla özellikle klasik tarzdaki mobilyalardaki dönüşümle dikkat çekiyor. 
+
+Yüzlerce çeşit mobilyanın yer aldığı fuarda bir de tasarım yarışması düzenleniyor. 
+
+Cumartasi gününe kadar açık kalacak olan fuarda çocuk mobilyaları da dikkat çekiyor.
+</TEXT>
+</DOC>

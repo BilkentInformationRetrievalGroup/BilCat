@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333383 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f84619d/l/0l0smilliyet0n0btr0cgoogle0edan0etum0ecalisanlarina0emuthis0ekiyak0e0cekonomi0csondakika0c10a0b110b20a10a0c131270a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+google'dan t��m ��al����anlar��na m��thi�� k��yak!
+</HEADLINE>
+<TEXT>Google, tüm çalışanlarına tatil bonusu olarak nakit 1000 dolar verme ve maaşlarına da yüzde 10 zam yapma kararı aldı.Şirketten bugün yapılan açıklamada, şirketin 2011 maaşlarında ise yüzde 10'luk artış yapacağı bildirildi. Yüzde 10'luk artış 1 Ocak 2011 tarihi itibariyle geçerli olacak. Buna ek olarak Google, her bir çalışanına yıllık bonus hedefi kadar ekstra bonus da verecek.Ayrıca iyi performans sergileyen seçkin çalışanlarına da ek olarak liyakat zammı yapacak. Söz konusu 1000 dolarlık rakam küçük görülse de şirketin dünya çapında 20 bin çalışanı olduğu düşünüldüğünde, şirketin maliyeti 20 milyon dolar gibi yüksek bir rakama ulaşılıyor. Bu rakamın ekstra bonuslar ve diğer personel harcamalarıyla birlikte 1 milyar dolara ulaşması bekleniyor.Bu sürpriz açıklama Google'un CEO'su Eric Schmidt'den geldi. Schmidt gönderdiği mailde çalışanlarına "Bu mutlu haberi tüm Google çalışanlarıyla paylaşmaktan çok memnunum. Dünyadaki en iyi çalışanlara sahip olduğumuza inanıyorum. Biz, sizin iyi çalışmalarınızdan dolayı ödüllendirildiğinizden emin olmak istiyoruz ve şirketteki en iyi kişileri etkilemeye devam etmek itiyoruz. Bu kapsamda maaşlarınızın 1 Ocak'tan itibaren yüzde 10 artırılmasına karar verdik. Bu artırım tüm çalışanlara yansıyacak. Ve son bir şey daha! Bugün ayrıca nakit tatil bonusu alacağınızı da ilan etmek istiyorum" dedi.</TEXT>
+</DOC>

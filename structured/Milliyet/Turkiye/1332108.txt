@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332108 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f752679/l/0l0smilliyet0n0btr0cankara0eda0eelektrik0ekesintisi0cturkiye0csondakika0c0a80b110b20a10a0c13118850cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:11:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ankara'da elektrik kesintisi
+</HEADLINE>
+<TEXT>günü yeni tesis çalışması nedeniyle, Çankaya ilçesine bağlı Plevne Mahallesi Sayak Sokak, Şile Sokak, İncek Sokak, Babaharman Sokak, Öğüt Sokak, Tel Sokak ve civarına 09.00-15.00 saatleri arasında elektrik verilemeyecek.Aynı gün şebeke onarım çalışması nedeniyle Yenimahalle ilçesine bağlı Altıağaç Mahallesi 24, 25, 26, 42, 43, 44 ve 45’inci Sokaklar ile Harmanyolu İlköğretim Okulu ve civarına da 09.00-15.00 saatleri arasında elektrik kesintisi uygulanacak.</TEXT>
+</DOC>

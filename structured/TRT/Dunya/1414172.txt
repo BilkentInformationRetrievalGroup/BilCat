@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1414172 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9d719c12-bbbf-4cd9-8bb0-d0e012f12b7f </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 17:00:24.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bu da pervaneli kayak!
+</HEADLINE>
+<TEXT>
+Kışın sert geçtiği Rusya'da, bir Rus vatandaşı karda ulaşımı kolaylaştıracak ilginç bir buluşa imza attı.
+
+     Sergey Hvalin adındaki Rus sırtına taktığı pervane ve ayağındaki kayaklarla karla kaplı sokaklarda alternatif bir ulaşım yöntemi geliştirdi.
+
+     Sergey Hvalin, Rusya&rsquo;nın orta kesimindeki Çerçinsk kasabasında yaşıyor.
+     Kışın sokakların kar ve buzla kaplanması Hvalin&rsquo;i bir ulaşım yöntemi bulmaya itti.
+     Hvalin, sırtına 200 santimetre küplük bir motora bağlı pervane taktı.
+     Sergey Hvalin, ayaklarına kayaklarını geçirerek pervanenin itme gücünden faydalandı.
+     Bu yöntemle karla kaplı sokaklarda rahatlıkla hareket eden Hvalin buluşuyla komşularının da gurur kaynağı oldu.
+</TEXT>
+</DOC>

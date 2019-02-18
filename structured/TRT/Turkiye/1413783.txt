@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1413783 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dca4f7e9-39aa-458c-91a7-bc0ceae4bfeb </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 11:48:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+in��aatta ����kan yang��n 2 can ald��
+</HEADLINE>
+<TEXT>
+İzmir'de bir mağaza inşaatında çıkan yangında 2 kişi öldü, 2 kişi yaralandı.
+
+İzmir&rsquo;deki yangın, yapı malzemeleri mağazası inşaatında sabah saatlerinde başladı.
+
+     Kaynak makinesinden çıkan kıvılcımla izolasyon malzemeleri alev aldı.
+
+     Alevler bir anda inşaatın bodrum katını sardı.
+
+     İçeride çalışan işçilerden İsmail ve İdris Ünver, dumandan zehirlenerek hayatını kaybetti.
+
+     Yaralanan 2 işçi Ege Üniversitesi Tıp Fakültesi Hastanesi&rsquo;nde tedavi altına alındı. 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1439427 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6a44225a-3cb7-4661-9271-a349092ad6be </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 18:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+maradona: ��zil bizi mahvetti
+</HEADLINE>
+<TEXT>
+Maradona, Arjantin-Almanya maçında kendilerine kök söktüren Mesut Özil'e sitem etti.
+
+Hayattaki en büyük isteği olarak defalarca dile getirdiği Arjantin teknik direktörlüğü macerasını içinde ukte kalarak noktamak zorunda kalan Diego Armando Maradona, Marca gazetesine çarpıcı açıklamalarda bulundu. 
+ Dünya Kupası çeyrek finalinde Almanya karşısında aldığı 4-0&rsquo;lık yenilgi sonrası hem kupaya hem de ülkede uzun tartışmalar yaratan teknik direktörlük görevine veda etmek zorunda kalan Maradona, bu maçta kendilerine kök söktüren Mesut Özil&rsquo;e hala kızgın. 
+ Maradona, Marca&rsquo;ya verdiği röportajda, &quot;Özille ilgili kötü anılarım var, Özil bizi mahvetti&quot; sözleriyle Real Madridli oyuncuya sitemlerini dile getirdi.
+</TEXT>
+</DOC>

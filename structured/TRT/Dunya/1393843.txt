@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1393843 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=26a23d0e-c551-4044-b0c9-78c365080b07 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 08:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran: bat�� i��in son ��ans olabilir
+</HEADLINE>
+<TEXT>
+Tahran'dan nükleer müzakerelere ilişkin önemli bir açıklama geldi.
+
+İran, İstanbul&rsquo;daki nükleer müzakerelere ilişkin olarak, &quot;Görüşmeler batı için son şans olabilir&quot; açıklamasında bulundu.
+
+</TEXT>
+</DOC>

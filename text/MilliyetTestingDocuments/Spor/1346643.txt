@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346643 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/ffd66ac/l/0l0smilliyet0n0btr0chamit0ealtintop0eun0ehafta0esonunda0eoynayip0eoynamayacagi0ebelirsiz0cspor0csondakika0c250b110b20a10a0c13184850cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 19:16:40.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hamit alt��ntop'un hafta sonunda oynay��p oynamayaca���� belirsiz
+</HEADLINE>
+<TEXT>Almanya 1. Ligi (Bundesliga) takımlarından Bayern Münih’te forma giyen milli futbolcu Hamit Altıntop’un sırt ağrıları nedeniyle cumartesi günkü Eintracht Frankfurt maçında oynayıp oynayamayacağının belirsiz olduğu bildirildi.Bayern Münih kulübünün internet sayfasında yer alan habere göre, Hamit sırt ağrıları nedeni ile bugün yapılan antrenmana katılmadı.Hamit’in cumartesi günü oynayıp oynayamayacağının yarın yapılacak son antrenmandan sonra kesinlik kazanacağı kaydedildi.Eintracht Frankfurt’ta Hamit’in ikiz kardeşi Halil oynuyor.</TEXT>
+</DOC>

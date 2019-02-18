@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1430215 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=09c4aade-cf65-4b9e-8b06-4c4b2679cc8f </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 08:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+da��dan koptu, can ald��!
+</HEADLINE>
+<TEXT>
+Alanya'da dağdan kopan büyük bir kaya parçası yoldan geçen kamyonetin üzerine düştü. Araçta bulunan 20 yaşındaki genç yaşamını yitirdi.
+
+
+Antalya&rsquo;nın Alanya İlçesinde dağdan kopan büyük bir kaya parçası, yoldan geçen kamyonetin üzerine düştü. Olayda, aracın ön koltuğunda oturan 20 yaşındaki Mustafa Özen yaşamını yitirdi.
+
+Antalya&rsquo;dan kamyonetle yola çıkan taşeron bir firmanın çalışanları Ahmet Özen, Sabri Atalay ve Mustafa Özen, Söğüt Yaylasındaki bir GSM operatörü vericisinin elektrik trafosunu değiştirmek için Alanya&rsquo;nın Kuşyuvası Mevkii&rsquo;ne geldi.
+
+Bu sırada dağdan kopan büyük bir kaya parçası kamyonetin üzerine düştü. Aracın ön koltuğunda oturan Mustafa Özen yaşamını yitirdi.
+
+Ahmet Özen ve Sabri Atalay ise kayanın altında kalan araç içerisinde sıkıştı. Sıkıştıkları kamyonetten kendi çabalarıyla çıkan ve olayı jandarmaya bildiren Özen ve Atalay, ambulansla Alanya Devlet Hastanesi&rsquo;ne götürüldü.
+
+Bölgede toprak kayması devam ediyor ve yoldaki toprak yığınının kaldırılması için çalışmalar sürüyor.
+</TEXT>
+</DOC>

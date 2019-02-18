@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1418404 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=136e12fc-5eb0-48ad-b6ce-bf20f3116628 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 16:08:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da deprem...
+</HEADLINE>
+<TEXT>
+Ülkenin doğusundaki Manipur'da 6 virgül 3 büyüklüğünde deprem meydana geldi. 
+
+
+
+Depremin merkez üssü Myanmar sınırında... Deprem sonucu can ya da mal kaybı olup olmadığı henüz bilinmiyor. 
+
+</TEXT>
+</DOC>

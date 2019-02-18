@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343565 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7f8/l/0l0smilliyet0n0btr0cpolat0esurpriz0eyapti0cspor0chaberdetay0c210b110b20a10a0c13164760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:44:22.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+polat s��rpriz yapt��
+</HEADLINE>
+<TEXT>Teknik Direktör Gheorghe Hagi’nin basına kapalı gerçekleştirilen antrenmanda futbolcularına kritik mücadelenin taktiğini çalıştırdığı bildirildi. Sarı-kırmızılılar akşam Kayseri’ye uçarken Rumen hoca, genç Cumhur’u kadroya dahil etti. Ailesiyle birlikte gittiği yurt dışı tatilinden dönen Başkan Adnan Polat da kafilede yer aldı. Takımı karşılayan bir grup taraftar, oyunculara çiçek verdi. </TEXT>
+</DOC>

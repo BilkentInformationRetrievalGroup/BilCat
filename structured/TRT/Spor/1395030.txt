@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1395030 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e8979893-5fdf-4587-89da-aa04ad10b106 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 09:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i.b. belediyespor havlu att��
+</HEADLINE>
+<TEXT>
+Voleybolda, GM Capital Erkekler Çalenç Kupası 8'li finallerinde İstanbul Büyükşehir Belediyesi, deplasmanda Belçika ekibi Prefaxis'e 3-2 yenildi.
+
+Belçika&rsquo;daki mücadelede ev sahibi ekip 2-0 geriye düştüğü maçta setleri, 
+ 30-32, 21-25, 25-14, 25-16 ve 15-6 kazanmayı başardı.
+
+Türk ekibi sahasındaki ilk maçı 3-0 kazandığı için maçın sonucunu altın 
+ set belirledi.
+
+Altın sette Belçika ekibi Türk temsilcisini 15-11 yenerek, çeyrek finale yükseldi.
+</TEXT>
+</DOC>

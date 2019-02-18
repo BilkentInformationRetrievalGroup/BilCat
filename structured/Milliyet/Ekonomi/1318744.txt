@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318744 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f385f8c/l/0l0smilliyet0n0btr0cgazeteciler0ecemiyeti0ebugun0esilivri0ede0cguncel0chaberdetay0c0a10b110b20a10a0c130a85390cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 01:01:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+gazeteciler cemiyeti bug��n silivri���de
+</HEADLINE>
+<TEXT>RA MilliyetBaşkan Nazmi Bilgin ve beraberindeki yönetim kurulu üyeleri, davanın tutuklu sanıkları arasında yer alan gazeteciler Mustafa Balbay ve Tuncay Özkan’a destek amacıyla duruşmayı izledikten sonra bir açıklama yapacak.</TEXT>
+</DOC>

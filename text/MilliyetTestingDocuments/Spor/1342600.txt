@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342600 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fceea50/l/0l0smilliyet0n0btr0cnerede0eo0eeski0ebayramlar0e0cspor0chaberdetay0c20a0b110b20a10a0c13161520cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/20 </DATE>
+<TIME> 01:13:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+nerede o eski bayramlar!
+</HEADLINE>
+<TEXT>Törene, yönetimden 2. Başkan Metin Keçeli katıldı. Törenin açılış konuşmasını yapan Divan Kurulu üyesi Sedat Piroğlu, “Geçmişte kulüp başkanları, antrenörler, sporcular bayramlaşma törenine katılırlardı. Şimdi ’Nerede o eski bayramlar?’ demeden edemiyoruz” dedi. Keçeli de yönetim kurulu adına katılımcıların bayramlarını tebrik etti.</TEXT>
+</DOC>

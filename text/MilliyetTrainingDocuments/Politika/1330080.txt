@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330080 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f692575/l/0l0smilliyet0n0btr0cergenekon0esavcilarinin0edurumlari0einceleniyor0csiyaset0chaberdetay0c0a70b110b20a10a0c13112540cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:09:45.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ergenekon savc��lar��n��n durumlar�� inceleniyor
+</HEADLINE>
+<TEXT>GÖKÇER TAHİNCİOĞLU AnkaraHSYK üyelerinden Ali Suat Ertosun’un eski kurul döneminde olduğu gibi Ergenekon hâkim ve savcılarının görev yerlerinin değiştirilmesini kararname görüşmeleri sırasında önerdiği, diğer üyelerin ‘inceleyelim’ karşılığı vermesi üzerine de konunun incelemeye alındığı bildirildi. Eski kurul döneminde neredeyse bütün kararname toplantılarına katılan Adalet Bakanı Sadullah Ergin’in ise önceki gün yapılan toplantılarda bulunmadığı öğrenildi. Kurulun Yargıtay ve Danıştay kökenli bazı üyelerinin Cihaner’in düz savcı atanması olmak üzere bazı atamalara şerh koyduğu dile getirildi. HSYK’nın, Ergenekon hâkim ve savcılarının durumunu daha sonra karara bağlayacağı öğrenildi.</TEXT>
+</DOC>

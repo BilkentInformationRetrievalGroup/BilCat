@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337227 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa74d96/l/0l0smilliyet0n0btr0cbesiktas0ea0e20egun0ebayram0eizni0cspor0csondakika0c150b110b20a10a0c131470a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:12:38.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+be��ikta��'a 2 g��n bayram izni
+</HEADLINE>
+<TEXT>Spor Toto Süper Lig’de deplasmanda Gençlerbirliği’ni yenerek haftayı 3 puanla kapayan Beşiktaş’ta, teknik direktör Bernd Schuster futbolculara 2 gün izin verdi.Siyah-beyazlılar, Konyaspor ile 20 Kasım Cumartesi günü Fiyapı İnönü Stadı’nda oynayacağı 13. hafta maçının hazırlıklarına 17 Kasım Çarşamba günü başlayacak.Sabah saatlerinde BJK Nevzat Demir Tesisleri’nde toplanacak siyah-beyazlılar, saat 10.30’da da haftanın ilk antrenmanına çıkacak.</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1430737 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=68603579-537a-400b-8abe-9a17b45bbe67 </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 15:09:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev ma��a dev g��venlik
+</HEADLINE>
+<TEXT>
+Beşiktaş - Fenerbahçe karşılaşmasında Fenerbahçe taraftarından daha fazla polis görev alacak.
+
+Spor Toto Süper Ligi&rsquo;nin 22. haftasında 20 Şubat Pazar günü Fiyapı İnönü Stadı&rsquo;nda oynanacak olan Beşiktaş-Fenerbahçe karşılaşmasının İl Spor Güvenlik Kurulu toplantısı yapıldı.
+ Güvenlik kurulu, derbi mücadele de 2021&rsquo;i emniyet mensubu görev yapacak. Emniyet mensuplarının yanı sıra 870 özel güvenlik görevlisi de güvenliği sağlamak için çalışacak. 
+ İki takım taraftarları saat 15.00&rsquo;den itibaren Fiyapı İnönü Stadı&rsquo;nda alınmaya başlarken, konuk takım Fenerbahçe taraftarına stat kapasitesi oranında bin 600 biletin ayrıldı. Karşılamada ayrıca 15 polis ve 116 stat kamerası ile tespit çalışması yapılacak
+</TEXT>
+</DOC>

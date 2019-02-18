@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318746 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f385df9/l/0l0smilliyet0n0btr0cwashington0eda0ekomedi0emitingi0cdunya0chaberdetay0c0a10b110b20a10a0c130a850a50cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 01:02:07.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+washington���da ���komedi��� mitingi
+</HEADLINE>
+<TEXT>Sağcıların halk hareketi Çay Partisi’nin “sol versiyonu” olarak görülen mitinge on binlerce kişi katıldı. Ozzy Osbourne, Tony Bennett, Sheryl Crow ve Yusuf Islam gibi isimlerin de sahne aldığı etkinlikte, toplumun “korku” aracılığıyla yönlendirilmesine ve bölücülüğe karşı mesajlar verildi. Katılımcılar, “Korkunun kendisinden ve örümceklerden başka korkacak bir şey yok”, “Yeşil Çay Partisi” gibi esprili pankartlar taşıdı. Jon Stewart da mitingde yaptığı konuşmada hem medyayı hem de politikacıları eleştirerek, “Her gün ülkemizin ne kadar kırılgan, felaketin eşiğinde ve kutuplaştırıcı bir nefretle bölünmüş olduğunu duyuyoruz. Ama gerçekte her gün bir şeyler başarmak için birlikte çalışıyoruz” dedi.</TEXT>
+</DOC>

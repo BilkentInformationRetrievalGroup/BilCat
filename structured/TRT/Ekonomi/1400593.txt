@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 1400593 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6dac1874-2189-4113-af30-ef6b764279f9 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 15:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yeni ara�� alana tescil kolayl������
+</HEADLINE>
+<TEXT>
+Emniyet Genel Müdürlüğü, araç tescil işlemlerinin elektronik ortamda yapılmasına olanak sağlayan bir projeyi uygulamaya koydu.
+
+Emniyet Genel Müdürlüğü, sıfır araç alanlara tescil kolaylığı sağlayacak bir projeyi uygulamaya başladı. 
+
+Araç tescil işlemlerinin elektronik ortamda yapılmasına olanak sağlayan projeyle vatandaşlar, tescil şubesine gitmeden veya iş takipçisine vekalet vermeden satın aldığı aracı bayiden tescil ettirebilecek.
+
+Tescil ve trafik belgesi, araç sahibinin adresine posta ile gönderilecek. Ankara&rsquo;da 4 bayide denenen ve yasal düzenlemelerin ardından tüm Türkiye&rsquo;ye yayılması düşünülen proje kapsamında bayiler, yeni araç alan vatandaşlara geçici bir tescil belgesi verecek. 
+ 
+Araç Satın Alındığı Gün Trafiğe Çıkabilecek
+Vatandaşlar bu belgeyle satın aldıkları gün aracı trafiğe çıkarabilecek.
+         
+Yeni projeyle Türkiye&rsquo;de üretilen veya ithal edilen araçların teknik özelliklerini içeren araç uygunluk belgesi bilgileri, üretici veya ithalatçılar tarafından Emniyet Genel Müdürlüğü bünyesinde oluşturulan Araç ve Sürücü Bilgi Sistemi&rsquo;ne (ASBİS) elektronik ortamda, e-imzalı ve zaman damgalı olarak iletilecek.
+         
+Vatandaşlar, yeni bir araç almak için bayiye gittiğinde, bayideki görevliler, satışa ilişkin bilgileri ASBİS sistemine girecek ve alıcı adına tescil belgesi talebinde bulunacak.
+         
+Müşteri ve araca ilişkin bilgilerin sistem üzerinde doğrulanmasının ardından, araca tahakkuk ettirilen vergilerin ödendiği ve zorunlu mali sorumluluk sigortasının yatırıldığına dair bilgiler de ilgili kurumların bilgisayar sisteminden online olarak teyit edilecek.
+         
+Müşteri ve araca ilişkin tescile mani bir durum olmadığının tespiti halinde alıcı adına tescil işlemi gerçekleştirilecek, bayi görevlisi de müşteriye aracın tescil edildiğine ilişkin geçici bir tescil belgesi verecek.         
+
+Müşteri geçici belge ile satın aldığı gün aracını trafiğe çıkarabilecek, asıl tescil belgesi ile trafik belgesi ise araç sahibinin adresine posta ile gönderilecek.
+         
+Trafiğe Çıkmak İçin Günlerce Bekleme Bitiyor
+Yasal düzenlemelerin ardından tüm Türkiye&rsquo;de uygulanması planlanan projeyle vatandaşlar, tescil şubesine gitmeden veya iş takipçisine vekalet vermeden aracını tescil ettirebilecek. Bayi tarafından yaklaşık 15 dakikada hazırlanacak geçici tescil belgesini alan vatandaşlar, satın aldıkları aracı bu belgeyle kullanabilecek. Böylece müşteri, trafiğe çıkmak için günlerce aracın tescil edilmesini beklemek zorunda kalmayacak.
+         
+Projeyle bütün işlemler ilk müracaat noktasında ve tamamen elektronik ortamda sonuçlandırılacak. Sisteme erişim, e-devlet üzerinden yapılacak. Sistemi kullanacak bayilerin, güvenlik açısından mutlaka elektronik imza sahibi olmaları gerekecek.
+         
+Bilgi ve belgelerin elektronik ortamda kaynağından temin edilmesiyle sahtecilik ortadan kalkacak, çalıntı araçların tescili de önlenecek.
+         
+Personelden de Tasarruf Sağlanacak
+Projeyle 568 trafik tescil şubesinde çalışan yaklaşık 4 bin 600 personelin büyük bölümü trafiğin denetimi ve düzenlenmesinde görevlendirilecek. Araç veri giriş işlemlerini yürüten Maliye Bakanlığı personelinden de tasarruf sağlanacak.
+                 
+Projenin ikinci el araçların satış, devir ve tescil işlemlerinin noterlerde elektronik ortamda yapılmasını düzenleyen kısmı, 1 Mayıs 2010 tarihinden itibaren uygulanmaya başlanmıştı. Yeni araçların tescili aşamasının ise tüm Türkiye&rsquo;de uygulanması için TBMM Plan ve Bütçe Komisyonunda kabul edilen Torba Tasarı&rsquo;nın Resmi Gazete&rsquo;de yayımlanarak yürürlüğe girmesi bekleniyor. Bu  arada ortaya çıkabilecek aksaklıkların görülerek altyapının iyileştirilmesi amacıyla 29 Şubat&rsquo;a kadar Ankara&rsquo;da 4 yetkili bayinin katılımıyla pilot uygulamaya başlandı.
+         
+Pilot uygulama kapsamında şu anda sadece otomobiller için geçici tescil veriliyor. Projenin tüm Türkiye&rsquo;de uygulanmasıyla diğer araç türleri için de elektronik ortamda tescil belgesi hazırlanacak. İlerleyen dönemde araç üzerinde yapılan teknik değişikliklerin ruhsatlandırılması işinin de elektronik ortamda yapılması planlanıyor.
+
+</TEXT>
+</DOC>

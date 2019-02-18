@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346550 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/ffd665f/l/0l0smilliyet0n0btr0chazine0enet0e520emilyon0eliralik0ealim0eyapti0cekonomi0csondakika0c250b110b20a10a0c13184740cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 19:00:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hazine net 52 milyon liral��k al��m yapt��
+</HEADLINE>
+<TEXT>Hazine 12 Ocak 2011 itfali tahvilin geri alım ihalesinde net 52 milyon liralık alım yaptı.Hazine Müsteşarlığından yapılan açıklamaya göre, ihalede oluşan maksimum ve ortalama fiyat 104,000 lira oldu. İhalede nominal teklif tutarı 215 milyon lira, nominal geri alım tutarı 50 milyon lira olarak gerçekleşti.Hazine, ihalede geri alınacak haftalık azami tutarı 200 milyon lira olarak açıklamıştı.</TEXT>
+</DOC>

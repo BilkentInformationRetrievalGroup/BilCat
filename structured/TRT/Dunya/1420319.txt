@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1420319 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=07c86626-0b95-4a34-bf3c-e51c20ed3347 </URL>
+<DATE> 2011/02/06 </DATE>
+<TIME> 17:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak,kuzeyin petrol anla��malar��n�� tan��d��
+</HEADLINE>
+<TEXT>
+Irak'ta Bağdat yönetimi, kuzeydeki bölgesel yönetimin petrol anlaşmalarını tanıdı. 
+
+
+Irak Başbakanı Nuri El Maliki, Irak&rsquo;ın kuzeyindeki bölgesel yönetimin yaptığı petrol anlaşmalarının geçerliliğini tanıdıklarını duyurdu.
+
+El Maliki, güneydeki petrolün yüzeye daha yakın olduğunu, kuzeydeki petrolün çıkarılmasının &quot;özel çaba&quot; gerektireceğini söyledi.
+
+Bölgesel yönetim, Bağdat ile anlaşmazlıkları yüzünden petrol yataklarını işleten yabancı şirketlere ödeme yapamıyor.
+
+Ekim 2009&rsquo;dan beri petrol ihracatı yapamayan bölgesel yönetim, ihracata yönelik petrolü Çarşamba günü pompalamaya başlamıştı.
+
+Uzmanlar, Maliki&rsquo;nin açıklamalarının tarihi öneme sahip olduğunu, gelecekte yeni petrol sahalarına da uygulanabilecek bir emsal oluşturduğunu belirtiyor.
+</TEXT>
+</DOC>

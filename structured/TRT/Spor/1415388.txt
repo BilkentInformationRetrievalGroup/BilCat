@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1415388 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c31e716f-5ecc-4b03-a322-60d0d70534b8 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 21:06:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta��'tan son dakika transferi
+</HEADLINE>
+<TEXT>
+Transferde yıldız isimleri kadrosuna katan Beşiktaş son dakikada kadrosuna bir oyuncu daha kattı.
+
+ 
+Beşiktaş Kulübü, Malatyasporlu Güven Gürsoy&rsquo;un transferini İstanbul Menkul Kıymetler Borsası&rsquo;na bildirdi.
+ 
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.&rsquo;den İstanbul Menkul Kıymetler Borsası&rsquo;na gönderilen ve Kamuyu Aydınlatma Platformu&rsquo;nda yer alan açıklamada, Güven Gürsoy ile 4,5 yıllık sözleşme imzalandığı bildirildi.
+ 
+Şirketten yapılan açıklamada, &quot;Malatyaspor Kulübü profesyonel futbolcularından Güven Gürsoy ile 4,5 yıllık (2014-2015 sezon sonuna kadar) sözleşme imzalanmıştır. Sözleşme bedeli olarak oyuncuya aylık 2.000 TL ücret ve 5.000 TL maç başı ücreti ödenecektir&quot; denildi.
+</TEXT>
+</DOC>

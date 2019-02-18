@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326349 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bc843/l/0l0smilliyet0n0btr0ckartal0ekotu0ebasladi0cspor0chaberdetay0c0a50b110b20a10a0c1310a4770cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:30.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kartal k��t�� ba��lad��
+</HEADLINE>
+<TEXT>Belgrad’da Vizura Salonu’nda yapılan karşılaşmada, Beşiktaş ilk çeyreği 16-12, devreyi de 36-26 geride tamamladı. 54-43 biten üçüncü çeyrekte de toparlanamayan siyah-beyazlı ekip, sahadan da 73-61 mağlup ayrıldı. Siyah-beyazlılar, 11 Kasım’daki ikinci maçında Yunanistan’ın Aris takımını ağırlayacak.</TEXT>
+</DOC>

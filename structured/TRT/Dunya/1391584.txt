@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1391584 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7855365d-41c1-4f66-99f1-01b6f57a1517 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 10:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da dondurucu so��uk can al��yor
+</HEADLINE>
+<TEXT>
+Ülkede etkisini sürdüren soğuk hava, aralarında daha çok fakir ve evsiz kişilerin bulunduğu 100 kişinin ölümüne neden oldu.
+
+
+Hindistan&rsquo;ın kuzeyindeki soğuklarda 
+ ölenlerin sayısının 100&rsquo;e yaklaştığı bildirildi.
+
+         Yetkililer, ülkenin kuzeyinde 3 haftadır etkili olan soğuk havanın en 
+ fazla Uttar Pradeş eyaletini vurduğunu, eyalette çoğu fakir ve evsiz 81 kişinin 
+ hayatını kaybettiğini söyledi.
+         Uttar Pradeş polis sözcüsü Surendra Srivastav, eyalette sadece dün (09.01.2011) gece 
+ soğuktan 13 kişinin öldüğünü açıkladı.
+         Başkent Yeni Delhi&rsquo;de ise soğuklardan iki haftada 10 kişinin, Carkland&rsquo;da 
+ ise 6 kişinin öldüğü kaydedildi.
+
+</TEXT>
+</DOC>

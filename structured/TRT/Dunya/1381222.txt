@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1381222 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e608ea77-ab38-40ce-afc2-736c5fbde3ce </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 04:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+m��s��r'da ��at����ma: 42 yaral��
+</HEADLINE>
+<TEXT>
+Kahire'de İskenderiye'deki patlamayı protesto etmek için toplanan Hristiyan göstericiler, polis ve askerlerle çatıştı, 42 kişi yaralandı.
+
+         Mısır&rsquo;da Arapça yayımlanan Youm El Seba Gazetesi&rsquo;nin internet sitesinde yer alan habere göre, akşam saatlerinde Abbasiye semtindeki kilise önünde toplanan öfkeli göstericiler, polis ve askerlere şişe ve taşlarla saldırdı. 
+ 
+          Polisin olaya  müdahale etmesiyle birlikte çatışma çıktı. Aralarında polis ve askerlerin de  bulunduğu 42 kişi yaralanarak hastanelere kaldırıldı.
+ 
+         Haberde yaralılardan 6&rsquo;sının durumunun kritik olduğu belirtildi.
+         
+
+
+</TEXT>
+</DOC>

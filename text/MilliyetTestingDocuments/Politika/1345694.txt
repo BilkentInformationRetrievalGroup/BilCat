@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1345694 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/ff624e3/l/0L0Smilliyet0N0Btr0Cmadimak0Eotel0Ei0Ebosaltiliyor0Csiyaset0Chaberdetay0C250B110B20A10A0C131810A30Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:04:55.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Madımak Otel’i boşaltılıyor
+</HEADLINE>
+<TEXT>2 Temmuz 1993’te 37 kişinin ölümüyle sonuçlanan  Olayları’nın meydana geldiği ’nin kütüphaneye dönüştürülmek üzere kamulaştırılmasında taraflar anlaşamadı. Bunun üzerine Sivas 2’nci Asliye Hukuk Mahkemesi’nde açılan tespit davasında 5 milyon 601 bin TL ile İl Özel İdare Müdürlüğü’ne satışına onay verildi. Bu gelişmenin ardından ücret konusunda alınan kararı temyize götürecek olan otel sahipleri, mahkemenin gerekçeli kararının İl Özel İdaresi’ne gitmesini beklemeden bazı eşyaların tahliye işlemini gerçekleştiriyor. </TEXT>
+</DOC>

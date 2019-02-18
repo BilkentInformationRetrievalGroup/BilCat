@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1422277 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=17b3c3c2-a664-466b-96b4-645bb8950f86 </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 14:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+atalay'dan yalanlama
+</HEADLINE>
+<TEXT>
+Beşir Atalay, Hrant Dink davası kapsamında dönemin İstanbul Valisi ve İstanbul Emniyet Müdürü hakkında soruşturma açıldığı iddialarını yalanladı.
+
+İçişleri Bakanı Beşir Atalay, Avrupa İnsan Hakları Mahkemesi&rsquo;nin verdiği karar ve ailenin avukatlarının tekrar savcılığa başvurusu olduğunu belirtti.
+
+     Atalay, &quot;Savcılığa başvurudur bu, henüz soruşturma başlatılmış değildir.&quot; dedi.
+
+Beşir Atalay, şunları kaydetti: &quot;Bu konuda epey bir bilgi kirliliği var ve karışıklık var. Bize gelen şu anda idari olarak herhangi birşey yok. Bu konunun yeniden gündeme gelmesinde biliyorsunuz Avrupa İnsan Hakları Mahkemesi&rsquo;nin verdiği karar ve ailenin avukatlarının tekrar savcılığa başvurusu vardır. Savcılığa başvurudur bu, henüz soruşturma başlatılmış da değildir. Savcılık bundan sonra ne yapacak onu beklemek lazım&quot;
+</TEXT>
+</DOC>

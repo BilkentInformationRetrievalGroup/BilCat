@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1415872 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2197ae0e-12d3-4f91-847f-9b8897b2c259 </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 11:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kanada'y�� aya��a kald��ran katliam
+</HEADLINE>
+<TEXT>
+Fok balıklarının katliamı ile gündeme gelen Kanada bu kez masraf kısmak için 100 husky köpeğini acımasızca katletmesiyle gündemde.
+
+Kanada&rsquo;da bir turizm firmasının turist çekmek için satın aldığı 100 husky cinsi köpeğin, beklenen ilgiyi göremeyince masraf kısmak için katlettirilmesi ülkeyi ayağa kaldırdı.
+
+Bir hayvan hakları derneğinin şikâyeti üzerine soruşturma başlatılırken, şirketin bir çalışanına köpekleri öldürmesi yönünde talimat verdiği söyleniyor. 
+
+Vancouver’da düzenlenen 2010 Kış Olimpiyatı&rsquo;ndan sonra yaşanan katliamda, köpeklerin bir kısmının ateşli silahla vurulmuş, diğerleri de boğazları kesilerek öldürülmüş.
+
+Olay, katliamı yapan şirket çalışanının travma sonrası stres bozukluğu nedeniyle tazminat talep etmesi üzerine açığa çıktı.
+</TEXT>
+</DOC>

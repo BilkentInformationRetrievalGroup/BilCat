@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1417965 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9feb118e-451c-41be-a679-e47c8f50d4e5 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 10:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta�� ile karab��kspor'un 8. s��nav��
+</HEADLINE>
+<TEXT>
+İki takım arasında geride kalan 7 maçtan 5'ini Beşiktaş, 1'ini Kardemir Karabükspor kazandı.
+
+Beşiktaş ile Kardemir Karabükspor lig tarihinde yarın (05.02.2011) 8. kez karşı karşıya gelecek. 
+ İki takım arasında geride kalan 7 maçtan 5&rsquo;ini Beşiktaş, 1&rsquo;ini Kardemir Karabükspor kazanırken, 1 maç da berabere sonuçlandı.
+ Beşiktaş&rsquo;ın toplam 18 golüne, Kardemir Karabükspor 6 golle yanıt verdi.
+ Siyah Beyazlı takımda sakatlıkları bulunan Nihat, Ersan, Guti ve Cenk forma giyemecek. Mehmet Aurelio ise kart cezası nedeniyle karşılaşmada oynayamayacak. Tedavisi tamamlanan Nobre takımdaki yerini alabilecek. 
+ Fi Yapı İnönü Stadı&rsquo;nda saat 16:00&rsquo;da başlayacak karşılaşmayı Mustafa Kamil Abitoğlu yönetecek.
+</TEXT>
+</DOC>

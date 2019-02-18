@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337853 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fac68ac/l/0l0smilliyet0n0btr0cbolgenin0eihtiyaci0eiyi0ebelirlenmeli0emulk0esahibi0ekorunmali0cekonomi0chaberdetay0c160b110b20a10a0c131490a20cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/16 </DATE>
+<TIME> 01:01:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+b��lgenin ihtiyac�� iyi belirlenmeli, m��lk sahibi korunmal��
+</HEADLINE>
+<TEXT>tarihinde yine  İngiltere’nin başkenti Londra’da gerçekleştirilecek olan Uluslararası Gayrimenkul Ödülleri gala ve ödül töreninde bu kez tüm dünyada finallere kalmaya hak kazanan en iyi projeler ile yarışacak olan Autopia, ‘Dünyanının En İyi Projesi’ olarak seçilmede kendine oldukça büyük şans tanıyor. Tüm gayrimenkul ilanlarını görmek için tıklayınız Yorum yaz Arkadaşına gönderSitene ekleSayfayı yazdırRSSAA+-</TEXT>
+</DOC>

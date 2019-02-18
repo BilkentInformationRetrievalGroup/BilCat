@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337018 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa6a589/l/0l0smilliyet0n0btr0cvalencia0egetafe0eyi0e20e0a0eyendi0cspor0csondakika0c150b110b20a10a0c13146460cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:11:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+valencia, getafe'yi 2-0 yendi
+</HEADLINE>
+<TEXT>İspanya 1. Futbol Ligi’nin (La Liga) 11. haftasında Valencia sahasında oynadığı maçta Getafe’yi 2-0 yendi.La Liga’daki Türk futbolcuların oynadığı takımlarının karşı karşıya geldiği maçta, Valencia’da Mehmet Topal hafif sakatlık nedeniyle kadroya alınmamasından, Getafe’deki İbrahim Kaş ise kadroda olmasına rağmen teknik direktör tarafından şans verilmemesinden dolayı oynamadı. Valencia’nın baştan sona üstün götürdüğü maçta golleri Tino Costa (8 dk.) ve David Navarro (63 dk.) attı.Son 5 maçtır ilk galibiyetini alan Valencia puanını 20’ye çıkarıp 4.lüğe yükselirken, Getafe 13 puanla 11. sırada kaldı.Öte yandan La Liga’nın lideri Real Madrid zorlu Sporting Gijon deplasmanını 82. dakikada Arjantinli Higuain’in ayağından bulduğu golle geçti.Real Madrid’in Türk kökenli Alman futbolcusu Mesut Özil ilk 11’de çıktığı maçta 89. dakikada yerini Arbeloa’ya bıraktı.11. hafta toplu sonuçlar şöyle: Zaragoza-Sevilla:1-2, Hercules-Real Sociedad:2-1, Racing-Espanyol:0-0, Mallorca-Deportivo:0-0, Malaga-Levante:1-0, Sporting-Real Madrid:0-1, Athletic Bilbao-Almeria:1-0, Atletico Madrid-Osasuna:3-0, Valencia-Getafe:2-0, Barcelona-Villarreal:3-1.La Liga’da puan durumu: Real Madrid 29, Barcelona 28, Villarreal 23, Valencia 20, Sevilla 20, Espanyol 19, Atletico Madrid 17, Athletic Bilbao 16, Real Sociedad 16, Mallorca 15, Getafe 13, Osasuna 12, Hercules 12, Racing 11, Deportivo 11, Malaga 10, Sporting 10, Almeria 9, Levante 8, Zaragoza 7.</TEXT>
+</DOC>

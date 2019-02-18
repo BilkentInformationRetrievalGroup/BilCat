@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323103 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4f7102/l/0l0smilliyet0n0btr0cizlanda0emerkez0ebankasi0efaiz0eoranlarini0edusurdu0cekonomi0csondakika0c0a30b110b20a10a0c130a97430cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:00:14.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+izlanda merkez bankas�� faiz oranlar��n�� d������rd��
+</HEADLINE>
+<TEXT>İzlanda Merkez Bankası (Sedlabanki), faiz oranlarını düşürdü.Banka yönetim kurulu, yüzde 6,25 olan gösterge niteliğindeki yedi günlük faiz oranını yüzde 5,5’e düşürdüğünü açıkladı.Küresel kredi krizi sırasında bankacılık sistemi çöken İzlanda’da, faiz oranları 2008 yılı Ekim ayında yüzde 18’e kadar çıkmıştı.Sedlabanki, ayrıca, mevduat faiz oranını yüzde 4,75’den yüzde 4’e, gecelik faiz oranını da yüzde 7,75’den yüzde 7’ye düşürdü.</TEXT>
+</DOC>

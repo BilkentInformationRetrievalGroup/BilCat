@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337009 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa6b507/l/0l0smilliyet0n0btr0cphoenix0ehidayet0ele0eguzel0e0cspor0csondakika0c150b110b20a10a0c13146680cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:11:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+phoenix hidayet'le g��zel...
+</HEADLINE>
+<TEXT>NBA'de heyecan dün gece oynanan beş karşılaşma ile devam etti.Hidayet Türkoğlu'nun takımı Phoenix Suns'ın deplasmanda Los Angeles Lakers'ı 121-116'lık skorla mağlup etti.Suns'ta Jason Richardson 35 sayı, 8 ribaund, Steve Nash 21 sayı, 13 asist, Channing Frye 20 sayı, 6 ribaund ile oynadı. Hidayet Türkoğlu ise maçı 17 sayı, 5 asist ile tamamladı. Lakers'ta ise Pau Gasol 28 sayı, 17 ribaund, Kobe Bryant 25 sayı, 9 ribaund, 14 asist, 8 top kaybı ve Lamar Odom 22 sayı, 11 ribaundluk performans sergiledi.NBA'de dün gece oynanan maçların sonuçları şöyle;Minnesota 105 - Atlanta 111Detroit 100 - Sacramento 94San Antonio 117 - Oklahoma City 104Houston 104 - New York 96Phoenix 121 - LA Lakers 116</TEXT>
+</DOC>

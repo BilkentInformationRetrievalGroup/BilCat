@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1436281 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0019c411-3bc0-43b3-9033-928386903113 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 22:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+petrol fiyat�� libya'yla ayakland��
+</HEADLINE>
+<TEXT>
+Libya'daki ayaklanma petrolün fiyatını bir günde öyle bir arttırdı ki..!
+
+Libya&rsquo;daki ayaklanma petrolün varil fiyatını bir günde 5 dolarlık artışla 108 dolara çıkardı.
+</TEXT>
+</DOC>

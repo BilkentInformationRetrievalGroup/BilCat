@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336442 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fa3e0f9/l/0l0smilliyet0n0btr0ccumhuriyeti0ekaptirdik0eartik0csiyaset0chaberdetay0c150b110b20a10a0c13145280cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:09:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+cumhuriyeti kapt��rd��k art��k
+</HEADLINE>
+<TEXT>ANTALYA AACindoruk, partisinin Antalya il kongresinde yaptığı konuşmada, DP’yi Türkiye’de huzur bittiği için canlandırdıklarını söyledi.Cindoruk, şunları belirtti: “Ergenekon adı altında uydurma bir dava ile devletimizin en değerli paşalarını, sevgili bilim adamlarını, gazetecilerini hapishanede süründüren, 3 senedir tutukluluk hallerini sürdüren, HSYK’yı kendisine bağlayan bir iktidar, Anayasa Mahkemesini karar veremez hale getirecek atamalar yapan bir Cumhurbaşkanı... Bu Cumhuriyeti geri almak zorundayız. Bu Cumhuriyeti kaptırdık, bu Cumhuriyet, bizim ortak kurduğumuz 1923’teki Cumhuriyet değil artık.”</TEXT>
+</DOC>

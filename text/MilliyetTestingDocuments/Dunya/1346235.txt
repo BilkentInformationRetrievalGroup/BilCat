@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346235 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/ffbcda3/l/0l0smilliyet0n0btr0cpakistan0eda0e50esiddetinde0edeprem0cdunya0csondakika0c250b110b20a10a0c13184280cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 17:01:36.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+pakistan'da 5 ��iddetinde deprem
+</HEADLINE>
+<TEXT>Pakistan’ın Afganistan sınırında 5,0 büyüklüğünde bir deprem meydana geldiği bildirildi.Pakistan Meteoroloji Merkezi, merkez üssü Hindikuş Dağları olan yer sarsıntısının, kuzeydeki Hayber Paktunva eyaletinin Peşaver, Manşehra, Balakot kentleri ve Svat bölgesinde hissedildiği açıkladı.Açıklamada, depremde ölü ya da yaralı olup olmadığı ile maddi hasar konusunda henüz bilgi alınamadığı kaydedildi.</TEXT>
+</DOC>

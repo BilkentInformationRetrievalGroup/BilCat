@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321904 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f49d7da/l/0l0smilliyet0n0btr0c0eumarim0esilah0ebirakma0esurekli0eolur0e0csiyaset0chaberdetay0c0a30b110b20a10a0c130a9530a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:09:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���umar��m silah b��rakma s��rekli olur���
+</HEADLINE>
+<TEXT>Osmaniye Belediyesi ekipleri tarafından gül suyu sıkılan Osmaniye Valiliği önünde karşılanan Gül, Vali Celalettin Cerrah’ı makamında ziyaret etti. Burada terörle ilgili açıklama yapan Gül, PKK’nın silah bırakmasını, “Ümit ederim ki sürekli olur. Herkes bu yanlışlıktan vazgeçer. Meseleler konuşarak, tartışarak büyük bir olgunluk içerisinde çözülür. Terörle asla bir yere varılmaz. Teröre de asla taviz verilmez, bunun da muhakkak bilinmesini isterim” dedi.Gül, devletin silahlı güçlerinin dışında hiç kimsenin Türkiye Cumhuriyeti toprakları üzerinde kanunsuz bir şekilde silah taşımasına müsaade edilemeyeceğini de belirtti.</TEXT>
+</DOC>

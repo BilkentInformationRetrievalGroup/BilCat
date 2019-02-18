@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1434201 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=22166d27-2bb1-4999-b550-49f1379b10a9 </URL>
+<DATE> 2011/02/19 </DATE>
+<TIME> 19:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hedefimiz avrupa kupalar��, ama...
+</HEADLINE>
+<TEXT>
+Gaziantepspor Tekink Direktörü Tolunay Kafkas, "hedefimiz Avrupa Kupaları ama, böyle devam ederse adı farklı olur" dedi.
+
+Tolunay Kafkas, farklı Bursaspor galibiyetinin ardından sonra düzenlediği basın toplantısında, &quot;Maçtan önce çok iyi karşılaşma olacağını söylemiştim. Bu yılın en büyük şampiyonluk adayına karşı oynamak kolay değildi. Orta sahada istediğimiz üstünlüğü kurma çabası bize olumlu yansıdı. Girdiğimiz pozisyonları değerlendirdik. Önemli bir galibiyet aldık. Şimdi biz de başka şeyleri konuşacak duruma geldik. Hedefimiz Avrupa Kupalarıydı, ama böyle devam ederse adını farklı birşey koyabiliriz. Bursaspor&rsquo;a 4 gol atmak kolay bir iş değil. Kazandığımız için mutluyuz&quot; dedi.
+
+</TEXT>
+</DOC>

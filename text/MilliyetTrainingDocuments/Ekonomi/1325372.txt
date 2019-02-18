@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325372 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f57ae9d/l/0l0smilliyet0n0btr0cingiltere0emerkez0ebankasi0efaiz0eoranlarini0edegistirmedi0cekonomi0csondakika0c0a40b110b20a10a0c1310a20a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:00:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ingiltere merkez bankas�� faiz oranlar��n�� de��i��tirmedi
+</HEADLINE>
+<TEXT>İngiltere Merkez Bankası, faiz oranlarını değiştirmedi.Banka Yönetim Kurulu, bugün yaptığı toplantıda, yüzde 0,5 olan faiz oranlarını sabit tutma kararı verdi. Böylece, faiz oranları 20 aydır üst üste değiştirilmemiş oldu.Öte yandan, banka, 200 milyar sterlin (323 milyar dolar) büyüklüğündeki varlık satın alma programının büyüklüğünü de değiştirmedi. Ancak birçok ekonomist hala para arzının artırılması için parasal genişleme programının yeniden başlatılacağına inanıyor.</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1346007 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/ff66223/l/0L0Smilliyet0N0Btr0Cdunyanin0Een0Ehizli0Esensoru0Eizmir0Eden0Cselim0Etursen0Cege0Cyazardetay0C250B110B20A10A0C13180A990Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:16:59.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en hızlı sensörü İzmir’den
+</HEADLINE>
+<TEXT>PROF. KAYHAN ERCİYEŞ’le 40 yıl kadar sonra bir tesadüf sonucu haberleştik. Eğer telefonla görüşmeseydik, ’nın ikinci en büyük ‘Sensör Ağları Araştırma Grubu’nun ’de olduğundan haberim olmayacaktı.
+Bornova ’ndeki çocukluk yıllarından tanışırız Kayhan Erciyeş’le. Hatta okula ilk başladığım gün, ilk tanıştığım kişi olarak da bende özel bir anısı vardır. 
+Bir süre önce Erciyeş’in danışmanlığında dünyanın en hızlı sensörlerinin yazılımı geliştirildi. Halbuki 1967 yılı sonbaharında yatılı okuldaki o ilk pazar akşamı biz konuşurken,  daha televizyonla bile tanışmamıştı. Bilim ve teknolojide insanlığın bugün ulaştığı noktayı ve Erciyeş’in de kendi alanında buna katkısı olacağı aklımıza bile gelmezdi.
+Aslında İzmir’e uluslararası bilim dünyasında büyük prestij kazandıracak çok önemli gelişmeler oluyor. Ama kısır çekişme ve kavgalardan çoğunu ıskalıyoruz. Hareketli cisimleri takip eden sensörleri dünyada en yüksek hıza ulaştıran  İzmir’de geliştirildi. Halen dünyada en gelişmiş sensörler saniyede 30 metre/hız ile cisimleri takip edebiliyor. İzmir’de geliştirilen yazılım ise bu hızı üç buçuk katına çıkarıp saniyede 100 metre/hıza ulaşıyor.  
+Mutlaka “Bunun bizim günlük hayatımıza ne yararı var?” diyenler olacaktır. 
+Bu sensörlerden; askeri alandan teröre, depremden sağlığa kadar her yerde yararlanılıyor. İzmir  Üniversitesi Rektörü Prof. Kayhan Erciyeş’in danışmanlığında yazılımı geliştiren Celal Bayar Üniversitesi araştırma görevlisi Dr. Ayşegül Alaybeyoğlu, bakın neler diyor:
+“Askeri alana bakacak olursak, 1 TL’lik metal para büyüklüğünde sensörler dağlık alanda 200 ile 400 metre aralıklarla yerleştirilerek sensör ağı kuruluyor. Sınır bölgelerine yaklaşan yabancı cisimler, kişi ve araçlar sensörler aracılığı ile merkeze iletiliyor. Sensör ağları savaş alanı ve düşman askerini izleme, terörist ve bomba tespitlerinin yanı sıra, , sel, depremi erken algılama, biyolojik ve kimyasal tespitler, uzaktaki hastanın sağlık durumu takibi, doğal yaşam izleme akıllı binalar gibi birçok alanda kullanılabiliyor.”  
+Prof. Erciyeş ise 100 metre/saniye hızının dünyada  bugüne kadar yapılan araştırma-geliştirme çalışlarında ulaşılan en yüksek hızın çok üstünde olduğunu söylüyor. Bu hızın, çok hızlı hareket eden modern bir helikopterin hızına denk olduğunu  söyleyen Erciyeş “İki kilometre uzaklıktaki bir cismi göremezsiniz ama sensörlerle takip edebilirsiniz” diyerek gelişmenin mükemmelliğine dikkat çekiyor.
+Prof. Erciyeş, çalışmanın en büyük avantajının ise  olduğunu belirterek, “Bugün bir sensörün fiyatı 30-40  civarında. 200-400 metre arasında algılama yapıyor. 25-30 tanesi 1 kilometrekarelik bir alanda inceleme yapabiliyor” diyor. 
+Hep söylüyorum Türkiye bundan sonraki sıçramasını ancak bilim ve teknolojiye yatırımla yapabilir. Eğer önü açılırsa bunun için yeterli beyin gücüne de fazlasıyla sahip...
+Emlak TipiİlMarkaModelİlİlçeİlİlçe© Copyright 2010 Milliyet
+Kampanya Sözleşmesi          Milliyet Birinci Sayfa</TEXT>
+</DOC>

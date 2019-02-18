@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1410679 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e4f6e043-b79b-440f-a83e-52afa7b5fdbc </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 20:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+500 okulu tatil ettirdi...
+</HEADLINE>
+<TEXT>
+Domuz gribi kabusunun dehşet saçtığı Bulgaristan'da 500'den fazla okul tatil edildi...
+
+
+Bulgaristan&rsquo;da domuz gribi salgını dehşet saçıyor...
+
+Nüfusun yüzde 7&rsquo;sinin öldürücü virüse yakalandığı ülkede 500&rsquo;den fazla okul tatil edildi.
+
+Bulgaristan Sağlık Bakanlığı yetkilileri, ülkedeki grip vakalarının yüzde 90&rsquo;ının domuz gribi olduğunu açıkladı.
+
+Şimdiye kadar Domuz Gribi virüsü tespit edilen 1 kişi hayatını kaybettiği Bulgaristan&rsquo;da, halk, gribe karşı aşılanmaya başlandı.
+
+Sırbistan ve Bosna Hersek gibi ülkelerde de domuz gribi yüzünden ölümlerin yaşandığı bildirildi
+</TEXT>
+</DOC>

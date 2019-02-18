@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 1322674 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4cd51c/l/0L0Smilliyet0N0Btr0C0Egocuk0Ealtindaki0Ecanlilarin0Eyer0Etayini0Ebulusuna0Ealmanya0Edan0Eodul0Cekonomi0Csondakika0C0A30B110B20A10A0C130A96110Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:01:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+‘Göçük altındaki canlıların yer tayini’ buluşuna Almanya’dan ödül
+</HEADLINE>
+<TEXT>’nın Nürnberg kentinde, 28-31 Ekim 2010 tarihleri arasında düzenlenen "IENA 2010 Fuarı"nda sergilenen 3 Türk buluşundan ikisi altın, biri de gümüş madalyaya layık görüldü.
+
+AA muhabirinin edindiği bilgiye göre, 1948 yılından beri düzenlenen ve buluşların, yenilikçi ürünlerin küresel pazarlara tanıtıldığı fuarda, çeşitli ülkelerden çok sayıda buluş ve yenilik sergilendi.
+
+ (TPE) de dünyanın en prestijli fuarlarından olan IENA 2010’a katılım sağlayarak, 3 Türk buluşunun küresel pazarlara tanıtımını sağladı.
+
+Gençler, serbest ve üniversite buluşları olmak üzere 3 dalda ödülün verildiği fuarda, "Taşınabilir RF vericiler aracılığıyla göçük altındaki canlıların yer tayini" buluşu ile patent sahibi  adına buluşçu Başuzmanlar Levent Şenyürek ve Adnan Lana, Altın  ile ödüllendirildi.
+
+Söz konusu icat; göçük altında kalan canlıların yer tayininde kullanılan aygıtlar canlı bedenlerin ses ve hareket gibi belirtilerini aramak yoluyla çalıştıklarından ve enkazın yapısı, yüksek gürültü düzeyi nedeniyle bu belirtilerin algılamasının güçlüğünden hareketle geliştirildi.
+
+Enkaz altındaki kişilerin RF vericiler taşımaları durumunda bu vericilerin yaydıkları sinyallere duyarlı bir arama aygıtı tarafından tespit edilmelerinin çok daha kolaylaşacağı tespitiyle geliştirilen sistem, verici ve arama aygıtı olmak üzere iki ayrı birimden oluşuyor. Sözü geçen RF vericiler, sıcaklığa duyarlı oldukları için deriyle temas halinde oldukları sürece taşıyıcılarının canlı olup olmadıkları konusunda da bilgi sağlıyorlar.
+
+-PROFESÖRE ALTIN MADALYA- 
+"Parmak izinden yüz, yüzden parmak izi tanıyan biometrik sistem" buluşu da patent ve buluş sahibi  Bilgisayar Mühendisliği Bölüm Başkanı Prof. Dr. Şeref Sağıroğlu’na altın madalya kazandırdı.
+
+Söz konusu sistem biometrik bilim temelli olarak geliştirildi. Parmak izinden yüz ya da yüzden parmak izi tanımayla ilgili bu buluşda, parmak izini okuyucu modül veya yüz resim algılayıcı modülle elde edilen veri, parmak izi veya yüze ait özellik çıkarıcı modül tarafından işleniyor. Elde edilen veri yüzün veya parmak izinin belirli noktalarını işaretleyici, yüzün veya parmak izinin ana şeklini oluşturucu parmak izi veya yüz şablonlarını oluşturan modül tarafından da işlenerek parmak izi-yüz, yüz-parmak izi arasındaki ilişkiyi tespit edici parmak izi veya yüz dönüştürücü zeki sistem modülüne geliyor ve parmak izine göre yüz resmi, yüz resmine göre de parmak izi oluşturuluyor.
+
+Bu buluş aynı zamanda  Buluşçular Birliği Özel Ödülü’ne layık görüldü.
+
+-HEM GÜMÜŞ MADALYA HEM ÖZEL ÖDÜL- 
+"Patinaj önleme düzenekleri için bir merkezi sıkma sistemi ve buna sahip patinaj önleme düzeneği" buluşu da patent ve buluş sahipleri Murat Yerlikaya, Ender Bozkurt ve Emrah Bozkurt’a, hem gümüş madalya hem de  Patent Ofisi Özel Ödülü’nü kazandırdı.
+
+Söz konusu buluşta patinaj önleme ve çekiş arttırma düzeneklerinde kullanılmak üzere kayışlara sahip bir sıkma sistemi tarif ediliyor. Sıkma sistemi bir tekerlek aksının ana ekseninde konumlandırılmış olan ve çevresi boyunca bir dizi merkez doğrultusunda uzanan kayışları bağlayacak şekilde uyarlanmış uzantılara sahip bulunan bir merkezi bağlantı alanını ihtiva ediyor.
+
+İlk uçlarından bir yüzey temas elemanına bağlı olan ve ikinci uçlarından merkezi bağlantı alanına bağlı olan bir dizi merkez doğrultusunda uzanan esnek kayış, patinaj önleme düzeneğini sıkmak üzere kullanılıyor. Söz konusu esnek kayışlar, yüzey temas elemanları üzerindeki dışa doğru belvermeyi elimine etmenin yanında kayış sisteminde eksen kaçıklığını önlemek üzere yüzey temas elemanlarını merkez doğrultusu yönünde sıkmak için bir tokanın içinden geçiriliyor.</TEXT>
+</DOC>

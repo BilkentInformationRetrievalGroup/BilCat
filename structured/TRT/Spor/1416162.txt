@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1416162 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=397668fa-3247-42f8-88e3-84ececf3094e </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 14:41:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+filede kupa ma��lar�� internette
+</HEADLINE>
+<TEXT>
+Teledünya Türkiye Kupası voleybol maçları internetten yayınlanacak.
+
+Türksat A.Ş. ve Türkiye Voleybol Federasyonu (TVF) arasında imzalanan sponsorluk anlaşmasıyla &quot;Teledünya Türkiye Kupası&quot; karşılaşmaları, internetten canlı yayınlanacak.
+ TÜRKSAT A.Ş&rsquo;den yapılan açıklamaya göre, İstanbul, Ankara ve İzmir&rsquo;deki 5 büyük kapalı spor salonunda gerçekleşecek &quot;Teledünya Türkiye Kupası&quot; bayanlar ve erkekler voleybol karşılaşmaları, &quot;www.voleybol.uydunet.net&quot; adresinden izlenebilecek. 
+ Söz konusu maçların, internet üzerinden hem canlı hem de geriye dönük arşiv kayıtlarından izlenebilmesi mümkün olacak.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337223 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa73615/l/0l0smilliyet0n0btr0cbu0ekadari0eda0eolmaz0e0cspor0csondakika0c150b110b20a10a0c13147140cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:12:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bu kadar�� da olmaz!
+</HEADLINE>
+<TEXT>Fenerbahçe'nin Brezilyalı oyuncusu öyle bir açıklama yaptı ki...Andre Santos Arjantin maçının daha önemli olduğunu belirterek, “Bunun için Aykut Kocaman’dan Gaziantep maçına çıkmamak için izin aldım” dedi.Hürriyet'in haberine göre; Sakat ve cezalılar nedeniyle kadro kurmakta zorlanan Fenerbahçe’de Andre Santos’un açıklamaları şok etkisi yarattı...Brezilyalı yıldız ülkesinde yayın yapan Bandeirantes radyosuna yaptığı açıklamada aslında durumunun çok kötü olmadığını Gaziantepspor karşısına sakatlığı nedeniyle değil çarşamba günü Brezilya’nın Arjantin’le oynayacağı hazırlık maçı nedeniyle çıkmadığını itiraf etti.Santos, Arjantin maçına tam olarak hazır olabilmek için hocası Aykut Kocaman’dan Gaziantepspor maçına çıkmamak üzere izin aldığını da açıkladı. Katar’da oynanacak Arjantin maçını çok fazla önemsediğini kaydeden yıldız oyuncu kariyerinin en önemli noktasının 2014 Dünya Kupası’nda oynamak olacağını ifade etti.</TEXT>
+</DOC>

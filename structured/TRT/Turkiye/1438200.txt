@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1438200 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0c368f74-5297-432c-8975-83050bdb5a36 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 15:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erdo��an'a "��izik" tazminat��
+</HEADLINE>
+<TEXT>
+Başbakan Erdoğan, hakkında yazılan bir yazı nedeniyle MHP'li Gürcan Dağdaş ve Ortadoğu gazetesi aleyhine dava açmıştı.
+
+
+Başbakan Recep Tayyip Erdoğan, &quot;Kasımpaşalı çizik...&quot; başlığıyla yayımlanan bir köşe yazısında kişilik haklarına saldırıda bulunulduğu gerekçesiyle, yazıyı kaleme alan MHP’li Gürcan Dağdaş ile Ortadoğu gazetesi aleyhinde açtığı davada 2 bin lira manevi tazminat kazandı.
+
+Yazı Ortadoğu gazetesinde 13 Nisan 2010’da yayınlanmıştı.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> 1335642 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa0c98b/l/0L0Smilliyet0N0Btr0Cturkcell0Ecepten0Einterneti0Eyeni0Eiki0Ekampanyasiyla0Eyayginlastiriyor0Cekonomi0Csondakika0C140B110B20A10A0C13143350Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 13:00:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, cepten interneti yeni iki kampanyasıyla yaygınlaştırıyor
+</HEADLINE>
+<TEXT>’den yapılan açıklamada, "Herkes için " anlayışıyla bilgi toplumu ideali doğrultusunda adım atan Turkcell’in, yeni "Günlük İnternet Paketi"nin faturalı ya da ön ödemeli hat sahibi tüm Turkcell’lilere 1 liraya sunulduğu bildirildi. Açıklamada, ihtiyaç duyulan günde, saat 23.59’a kadar kullanılabilecek pakete sahip olmak için MINI yazıp 2222’ye ücretsiz kısa mesaj göndermenin yeterli olduğu kaydedildi.
+
+İnternet keyfini üç aya yaymak isteyen Turkcell’lilerin ise 31 Aralık’a kadar sürecek indirimli "Aylık İnternet Paketi" kampanyası ile de daha önce 10 liraya sunulan aylık 100 MB internet paketi fiyatının 5 liraya indiği belirtildi. Turkcell’lilerin 3AY yazıp 2222’ye ücretsiz kısa mesaj göndererek kampanyaya katıldıktan sonra ilk üç ay 5 liraya indirimli paketten faydalanabildikleri ifade edildi.</TEXT>
+</DOC>

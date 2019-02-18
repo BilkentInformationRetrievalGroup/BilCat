@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1421123 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=85cfc562-fbff-415b-998d-c5c251b36663 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 14:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+k���� abd'de u��aklar�� dondurdu
+</HEADLINE>
+<TEXT>
+ABD'de, uçakların kanadı hava muhalefetine takıldı. Havayolu şirketleri kötü hava koşulları nedeniyle rekor sayıda uçuş iptal etti.  
+
+Mali kaybın 600 milyon dolara ulaştığı tahmin ediliyor.
+
+20 Bin Uçuş İptal Edildi
+Uçuş istatistiklerine göre bu dönemdeki iptaller 1987&rsquo;den sonraki rekor seviyesine ulaştı. Geçen hafta kar yağışı yüzünden yaklaşık 20 bin uçuş iptal edildi. 
+
+Kasımdan sonraki iptallerin de toplamda 90 bine ulaştığı ifade ediliyor. AirlineForecasts LLC&rsquo;den Vaughn Cordle&rsquo;ın yaptığı hesaplamalara göre, iptal edilen her uçuşun maliyeti yaklaşık 7 bin dolar ve bu hesaba göre toplamda 630 milyon dolarlık bir kayıp söz konusu. 
+
+Öte zaten yüzde 8.8 yükselen jet yakıtıyla maliyetleri artan havayolu şirketleri söz konusu iptallerle zor günler yaşıyor.
+
+Şu ana kadar birinci çeyrek gelirlerini aktaran firmalardan Delta Air Lines Inc, geliri 30 milyon dolar düştü. 4 bin uçuşu iptal edilen şirkeitin uçuş başına kaybı ise yaklaşık 7 bin 500 dolar.
+
+Daha önceki en büyük uçuş iptallari ise Kasım 2000 ile Şubat 2001 tarihleri arasında meydana gelmişti. ABD Ulaşım İstatistik Bürosu&rsquo;na göre, bu zaman diliminde 76 bin 851 uçuş iptal edilmişti.
+
+</TEXT>
+</DOC>

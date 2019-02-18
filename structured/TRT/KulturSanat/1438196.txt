@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1438196 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=809ce000-812e-48a6-b885-227f63e4295f </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 15:29:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+5 bin y��ll��k sergi
+</HEADLINE>
+<TEXT>
+Çin medeniyetinin ortaya çıkardığı el sanatları, başkent Pekin'deki sanat merkezlerinde sergileniyor.
+
+     Ateşte hayat bulan cam figürler, sabrı sanatla buluşturan ahşap oymacılığı, Pekin Operası&rsquo;nın olmazsa olmazı yüz boyama sanatı. 
+
+Hepsi başkentteki müze-atölyelerde meraklıları ile buluşuyor.
+
+Baigongfang adı verilen merkezlerde, değerine paha biçilmez tarihi sanat eserleri sergileniyor.
+
+     Merkezin atölye kısmında ise, geleneksel sanatların icrası sürüyor.
+
+     Kabak yakma, ip düğümleme, ve iç kısmından vazo boyama sanatı, hünerli ellerde vücuda geliyor.
+
+     Ziyaretçilerin diledikleri sanat dalı hakkında uygulamalara katılması da mümkün.
+
+     Her yıl on binlerce yerli ve yabancı turist çeken Baigongfang atölyeleri, geleneksel sanat ile buluşmak isteyen yeni ziyaretçilerini bekliyor
+</TEXT>
+</DOC>

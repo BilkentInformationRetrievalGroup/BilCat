@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1423692 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b4f860bc-858f-4609-b95f-2524b3ed9ce7 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 17:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fast food zekay�� da d������r��yor
+</HEADLINE>
+<TEXT>
+Sebze-meyve yiyen çocukların zeka seviyesi yükseliyor.
+
+İngiltere’de Bristol Üniversitesi’nde yapılan bir araştırmada, 3 yaşına kadar geliştirilen beslenme alışkanlığının, çocuğun IQ seviyesini etkilediği ortaya çıktı. 
+
+Araştırmaya göre, 3 yaşına kadar fazla cips, patates kızartması ve pizza gibi fast food yiyecekler tüketen çocukların IQ’larının, sebze, meyve, pilav ve makarna tüketen çocukların zeka seviyelerine göre yaklaşık 5 puan daha düşük olduğu görüldü. 
+
+Öğünlerinden sebze-meyveyi eksik etmeyen çocukların ise zeka seviyesinde yükselme olduğu gözlemlendi. 
+
+Fast food beslenme, obezitenin de en büyük nedenlerinden biri.
+
+</TEXT>
+</DOC>

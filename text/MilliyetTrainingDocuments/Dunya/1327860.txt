@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327860 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f616c70/l/0l0smilliyet0n0btr0cqantas0ehavayolu0ena0eait0ebir0eucak0edaha0eacil0einis0eyapti0cdunya0csondakika0c0a50b110b20a10a0c1310a7220cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 19:01:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+qantas havayolu'na ait bir u��ak daha acil ini�� yapt��
+</HEADLINE>
+<TEXT>Avustralya’nın Qantas Havayolu şirketine ait bir yolcu uçağının daha motor arızası nedeniyle Singapur’a acil iniş yaptığı bildirildi.Yerel bir televizyon kanalı olan Channel 5, Boeing 747’nin kalkışından kısa bir süre sonra Singapur’a dönmek zorunda kaldığını duyurdu.Motorlardan birinin arızalandığı belirtilen haberde, olaya ilişkin başka bilgi verilmedi.Şirkete ait bir Airbus A380 uçağı da dün motorlarından birindeki arıza nedeniyle Singapur’a zorunlu iniş yapmıştı.</TEXT>
+</DOC>

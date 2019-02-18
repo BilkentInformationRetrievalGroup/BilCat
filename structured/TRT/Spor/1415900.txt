@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1415900 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b3f8efbc-0138-43e2-8deb-5042fed3b6af </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 12:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+milli ma����n biletleri sat����ta
+</HEADLINE>
+<TEXT>
+A Milli Futbol Takımı'nın, Güney Kore ile 9 Şubat'ta Trabzon Hüseyin Avni Aker Stadyumu'nda oynayacağı özel maçın biletleri satışa sunuldu.
+
+Futbol Federasyonu&rsquo;ndan yapılan açıklamaya göre biletler www.biletix.com web sitesinde ve Biletix gişelerinde satışa sunuldu.
+
+Ayrıca futbolseverler maçın biletlerine, Biletix&rsquo;in (0216 5569800) numaralı çağrı merkezinden de ulaşılabilecek. 
+
+Biletlerini, www.biletix.com web sitesi ve Biletix çağrı merkezinden satın alacak futbolseverlere teslimat Biletix satış noktalarından yapılıyor. 
+
+Trabzon Hüseyin Avni Aker Stadyumu&rsquo;nda saat 20.00&rsquo;de oynanacak karşılaşma, Milli Takımımızın 2011 yılında oynayacağı ilk maç olması nedeniyle büyük önem taşıyor.
+
+Milli maçın bilet fiyatları şöyle: 
+Kapalı : 30,00 TL
+Maraton : 20,00 TL
+Kale Arkası : 10,00 TL
+</TEXT>
+</DOC>

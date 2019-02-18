@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1396434 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8a8d45f9-98dc-4dd6-9f8f-e3ea9045b64d </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 11:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��elik, yabanc�� gazetecilerle g��r����t��
+</HEADLINE>
+<TEXT>
+Devlet Bakanı Faruk Çelik, Türkiye'de görev yapan yabancı medya kuruluşlarının temsilcileriyle bir araya geldi.
+
+Dolmabahçe&rsquo;deki Başbakanlık Çalışma Ofisi&rsquo;nde gerçekleşen toplantı devam ediyor.
+
+     Toplantıda, Faruk Çelik yabancı gazetecilerin sorunlarını dinleyecek.
+
+
+</TEXT>
+</DOC>

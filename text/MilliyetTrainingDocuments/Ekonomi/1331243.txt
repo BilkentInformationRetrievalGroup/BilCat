@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331243 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f718ce5/l/0l0smilliyet0n0btr0cfaiz0eyukseldi0cekonomi0csondakika0c0a80b110b20a10a0c13116640cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 13:04:23.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+faiz y��kseldi
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsası Tahvil ve Bono Piyasası Kesin Alım Satım Pazarında işlem gören gösterge kağıdı 8 Ağustos 2012 vadeli tahvilin, bugün valörlü işlemlerinin saat 10.40 itibarıyla basit getirisi yüzde 7,86’ya, bileşik getirisi yüzde 7,64’e yükseldi.Bu tahvilin, aynı gün valörlü işlemlerinin cuma günkü kapanışında basit getirisi yüzde 7,85, bileşik getirisi yüzde 7,63 olmuştu.-DOLAR KOTASYONLARI- Bankalararası piyasada dolar kotasyonlarında alışta en düşük fiyat 1,4000 lira, en yüksek fiyat 1,4010 lira, satışta en düşük fiyat 1,4040 lira, en yüksek fiyat 1,4070 lira düzeyinde bulunuyor.-PARİTE- Uluslararası piyasalarda avro-dolar paritesi 1,3959, sterlin-dolar paritesi 1,6157, yen-dolar paritesi ise 81,18 düzeyinde seyrediyor.</TEXT>
+</DOC>

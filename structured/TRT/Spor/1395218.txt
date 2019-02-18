@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1395218 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=10e2e3fa-e72c-44cf-959d-26fafc877780 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 11:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+potada ilk yar�� tamamlan��yor
+</HEADLINE>
+<TEXT>
+Ligin ilk yarısı 15. hafta maçlarıyla sona ererken, ikinci yarıya ara verilmeden başlanacak. 
+
+Beko Basketbol Ligi&rsquo;nde 2010-2011 sezonunun ilk yarısının 15. ve son hafta maçlarının perdesi yarın (14.01.2011) İstanbul&rsquo;da yapılacak Fenerbahçe Ülker-Türk Telekom maçıyla açılıyor.
+ Lider Fenerbahçe Ülker ile Türk Telekom arasındaki karşılaşma Sinan Erdem Spor Salonu&rsquo;nda saat 19.00&rsquo;da başlayacak.
+ Ligin ilk yarısı 15. hafta maçlarıyla sona ererken, ikinci yarıya ara verilmeden, gelecek hafta yapılacak karşılaşmalarla başlanacak. 
+ Beko Basketbol Ligi&rsquo;nde 15. hafta maçlarının programı şöyle:
+ 14 Ocak Cuma:
+ 19.00 Fenerbahçe Ülker–Türk Telekom (Sinan Erdem)
+ 15 Ocak Cumartesi:
+ 13.00 Antalya Büyükşehir Belediyesi–Galatasaray Cafe Crown (Antalya Atatürk)
+ 15.00 Olin Edirne–Efes Pilsen (Mimar Sinan)
+ 16.00 Bornova Belediyesi–Aliağa Petkim (Halkapınar)
+ 16.00 Medical Park Trabzonspor–Pınar Karşıyaka (Trabzon 19 Mayıs)
+ 17.00 OYAK Renault–Banvit (Bursa Atatürk)
+ 17.30 Erdemir–TOFAŞ (Erdemir)
+ 17 Ocak Pazartesi:
+ 19.00 Beşiktaş Cola Turka–Mersin Büyükşehir Belediyesi (BJK Cola Turka)
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1423074 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=62382192-872c-4fa7-a295-1969c1befffd </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 10:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+her gece kaplanla uyuyor
+</HEADLINE>
+<TEXT>
+ABD Florida'da yaşayan Felicia Frisco'nun ilginç bir alışkanlığı var.
+
+Felicia Frisco her gece yatağını bir kaplanla paylaşıyor.
+
+Will adındaki 6 aylık Bengal kaplanı ile uyuyan Felicia Frisco, bu alışkanlığını kaplan bir yaşına gelinceye kadar sürdüreceğini söylüyor.
+
+Felicia &quot;Aynen köpek yetiştirmek gibi. Eğer kaplan büyütüyorsanız bu size normal gelmeye başlıyor&quot; diyor.
+</TEXT>
+</DOC>

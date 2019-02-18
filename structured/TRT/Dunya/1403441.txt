@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1403441 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7ca245cb-2014-4064-a7eb-0b86bc54ccd0 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 06:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"intihar etmek haramd��r"
+</HEADLINE>
+<TEXT>
+Kendini yakarak protesto yöntemi,önce Tunus'taki devrimi ateşledi,ardından Mısır'a da sıçradı. Mısır'ın dini otoritesi açıklama yaptı: "İntihar haram.
+
+Tunus&rsquo;ta koca bir devrimin fitilini işsiz bir gencin kendini yakarak yaptığı protesto eylemi ateşledi.
+
+Tunuslu gencin eylemi öylesine etkili oldu ki, Mısır&rsquo;da da bir genç, parlamento önünde aynı şekilde protesto için kendini yaktı.
+
+Ses getirmesi bir yana, böylesi feci bir ölümle protestonun uygun olmadığına dair Mısır&rsquo;ın en üst dini otoritesinden açıklama geldi.
+
+Ezher Şeyhi Ali Tayyib başkanlığındaki 25 kişilik heyet, kendini yakmak dahil herhangi bir şekilde intihar etmenin haram olduğunu açıkladı
+</TEXT>
+</DOC>

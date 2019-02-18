@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 1413803 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=026bbd3c-755e-4f5c-9d0f-69d84c668a88 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 12:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+vekilin "ki��isel bak��m"�� b��t��eden
+</HEADLINE>
+<TEXT>
+Habertürk; tıraş sabunu, tıraş köpüğü, diş fırçası gibi kişisel harcamaların parti kasasından karşılanacağını yazdı.
+
+Anayasa Mahkemesinin son zamanlarda siyasi partilere ilişkin mali denetimlerde parti adına görevli kişilerin seyahatlerdeki tıraş sabunu, tıraş köpüğü, diş fırçası gibi kişisel harcamalarını gider olarak kabul etmemesinin ardından; seçim öncesi siyasi partilere bir harcama kolaylığı daha getiriliyor. 
+
+Habertürk&rsquo;ün haberine göre; parti adına görevli kişilerin seyahat sırasındaki zorunlu harcamaları ile bu görevliler adına kesilen seyahat biletleri parti kasasından karşılanabilecek. Partilerin mal ve hizmet alımları ile yapım işlerinde ihale kolaylığı sağlanacak. 
+
+Anayasa Mahkemesi daha önce parti görevlilerinin seyahat sırasındaki tıraş bıçağı, tıraş köpüğü gibi kişisel ihtiyaçlarına yönelik malzemeler ile kişiler adına kesilen biletleri gider olarak kabul etmemişti. 
+
+Partiler, yaptıkları harcamalarını faturanın yanısıra fatura yerine geçen bilet, tahsilat makbuzu gibi belgelerle de kanıtlayabilecekler.
+
+Kaybolma, yırtılma ve yanma gibi durumlarda aslının temin edilemediği hallerde fatura veya fatura yerine geçen belgeler yerine bu belgeleri düzenleyenlerden alınacak tasdikli örnekler de kullanılabilecek.
+
+Anayasa Mahkemesi, daha önceki denetimlerinde, parti tarafından görevlendirilen kişiler adına kesilen seyahat biletlerini gider olarak kabul etmemiş, bilet üzerinde parti adının yer alması gerektiğini savunmuştu. 
+
+Seyahat Gideri Parti Kasasından...
+Anayasa Mahkemesi, geçen yıl yaptığı mali denetimlerde partili bazı kişilerin yurtiçi ve yurtdışı seyahat giderlerini de parti harcaması olarak kabul etmemişti. 
+
+Yeni düzenlemeyle, partiler ücret mukabili geçici veya sürekli olarak çalıştırdıkları kişilere ödedikleri ayni ve nakdi sağlık ve sosyal yardım giderleri ile görevlendirdikleri kişiler tarafından yapılan yurtiçi ve yurtdışı seyahatlere ilişkin konaklama, yol masrafları ve diğer zorunlu harcamaları gider kaydedebilecek. 
+
+Mevcut yasaya göre siyasi partiler, dava konusu olan mal ve hizmet alımlarıyla ilgili olarak mahkeme kararlarıyla ödedikleri tutarlar ile avukat parası ve mahkeme masraflarını gider olarak gösteremiyor.
+</TEXT>
+</DOC>

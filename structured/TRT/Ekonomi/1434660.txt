@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> 1434660 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=65be2f46-7731-4f72-9c78-f63cfef37b16 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 11:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"torba yasa"dan nas��l yararlan��l��r?
+</HEADLINE>
+<TEXT>
+Habertürk; dava, inceleme, uzlaşma safhasındaki işlemleri okuyucularıyla paylaştı. İşte Torba Yasa'dan yararlanmak için kritik ipuçları...
+
+
+  1-Vazgeçmemek Daha Pahalı
+Torba Yasa, yargıdaki vergi ihtilaflarını büyük ölçüde sonlandıracak. Çünkü davanın bulunduğu aşamaya göre toplam yük (vergi aslı, ceza, gecikme faizi, gecikme zammı) %90 oranında azalabiliyor. 
+
+İşte ihtilaflı işlemlerle ilgili aşamalar...
+
+Henüz Dava Açılmamış 
+-Dava açma hakkından vazgeçerek vergi aslında % 50 indirim sağlanıyor, cezanın tamamı ortadan kalkıyor, gecikme faizi ve zammı yerine TEFE/ÜFE’ye göre hesaplanan faiz ödeniyor. Ayrıca bu tutara yıllık % 5 faizle 36 aya kadar taksit imkanı var.
+
+-Dosya Vergi Mahkemesi’nde yukarıdaki ile aynı.
+
+-Bölge İdare Mahkemesi ve Danıştay’da davası devam eden ihtilaflar... 
+-Bu durumda daha önceki vergi mahkemesi kararı mükellef lehine ise vergi aslının % 20’si ödenecek, karar aleyhte ise vergi aslının tamamı ödenecek. Ceza ve faizler yine sıfırlanıyor, bunun yerine kalan vergi aslına TEFE/ÜFE var.
+
+-Bölge İdare Mahkemesi Ve Danıştay’da karara bağlanan iİhtilaflar, yasadaki ifadelerin çok açık olmamasına rağmen daha önceki af uygulamalarından şu pratik özete varılabilir (Yasada bozma ve onama kavramları kullanılmamış, bunun yerine en son yargı kararındaki terkin veya tasdik durumuna göre hüküm konulmuş)
+
+-Eğer tüm yargı kararları aynı yönde ise örneğin hepsi mükellef lehine ise vergi aslı % 20’ye inecek. Aksine tüm kararlar mükellef aleyhine ise vergi aslına indirim yok. Yargı kararları birbirinin aksine ise vergi aslında % 50 indirim uygulanıyor. 
+
+İleri yargı aşamaları ile ilgili işlemlerin de (yasada yer almamakla birlikte) burada açıklandığı şekilde uygulanacağı anlaşılıyor. Yasa metninde görebildiğimiz en son yargı aşaması Danıştay karar düzeltme...
+
+-Cezanın sıfırlanması, kalan borç aslına TEFE/ÜFE uygulanması ve taksit diğerleri ile aynı. Asla Bağlı Olmadan Kesilen Cezalar / Gümrük İdari Para Cezalarında İhtilaflar. Vergi mahkemesinde devam eden ihtilaflarda cezanın %75’i, mahkeme sonuçlanmış ve karar mükellef lehine ise % 90’ı, tasdiklerde ise yine %75’i siliniyor. Faiz ve gecikme zammı alınmıyor. Taksit imkanı var. 
+
+2-İncelemesi Devam Edenler 
+Vergi İncelemesi sonuçlandığı anda İdareye başvurarak yasadan yararlanmak mümkün. Bu durum yukarıda açıklanan vergi mahkemesindeki ihtilaflar gibi değerlendirilecek. Ancak burada 6 eşit taksitlik özel bir ödeme süresi var. 
+
+Öte yandan vergi incelemesi devam ederken geçmiş yıllar ile ilgili matrah ve vergi artırımı hükümlerinden yararlanılabilir. Bu durumda incelemenin bir ay içerisinde sonuçlanamaması halinde artık tarhiyat yapılamıyor. 
+
+3-Bir İşlem Yapılmamışsa
+Yasanın yayımlandığı tarihte henüz dava açma süresi veya uzlaşma talebinde bulunma süresi dolmamış ise bu durum yukarıdaki açıklanan vergi mahkemesindeki ihtilaflar ile aynı.  
+
+4-Uzlaşmamak Avantajlı 
+Yasanın yayımlandığı tarihte vergi ve ceza ihbarnamesine karşı uzlaşma talebi mevcut. 
+
+-Uzlaşma günü verilmemiş veya uzlaşma günü henüz dolmamış, 
+
+-Ya da uzlaşma vaki olmamış ancak dava süresi henüz geçmemiş, işlemler için vergi aslının % 50’si, vergi cezasının ve gecikme faizinin ise tamamı kalkıyor. Tarhiyat öncesi uzlaşma da aynen inceleme aşaması gibi değerlendiriliyor.
+
+5-İkiden Fazla Aksatmayın 
+Yukarıdaki durumlarda kalan vergi aslına TEFE/ÜFE uygulanarak yeni borç tutarı ortaya çıkacak. 
+
+Bu tutarı ikişer aylık vadelerle 18 eşit taksitte ödemek mümkün. Bu durumda yıllık % 5 faiz söz konusu. Ancak bir takvim yılı içinde 3 taksit ödenmezse ödenmeyen bölümler için artık af hükümlerinden yararlanmak mümkün olmayacak. 
+
+Üstelik dava hakkından da vazgeçilmiş oluyor. Ayrıca 2011 ve daha sonraki taksit yıllarında yeni doğacak gelir, kurumlar, gelir stopaj, kurum stopaj, KDV ve ÖTV nedeniyle borçlara dikkat etmek gerekiyor. 
+
+Bunlardan bir takvim yılı içinde ayrı ayrı 3 defa vadesinde ödenmeyen borç bulunursa; ilk tarhiyata/tahakkuka göre belirlenen alacaklar başka bir işleme gerek olmaksızın takip ediliyor. Yani af hakkı ortadan kalkıyor. Bu hüküm yukarıda anlatılanlardan birinci bölüm için geçerli...
+</TEXT>
+</DOC>

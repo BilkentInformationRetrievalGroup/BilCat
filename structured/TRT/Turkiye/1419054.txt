@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1419054 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8f9541ae-36eb-4459-b5f2-45cff85b6f88 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 09:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��lenlerin yak��nlar��na ev verilecek
+</HEADLINE>
+<TEXT>
+Ostim ve İvedik'te meydana gelen patlamalarda hayatını kaybedenlerin yakınlarına Ankara Büyükşehir Belediyesi sahip çıktı.
+
+Belediye hayatını kaybeden ve evli olan işçilerin ailelerine ev verileceğini açıkladı.
+
+Ostim ve İvedik&rsquo;te meydana gelen patlamalarda hayatını kaybeden işçilerin birçoğu asgari ücret alıyordu.
+
+       Patlamada yaşamını yitiren işçiler arkasından gözüyaşlı çocuklar ve eşler bıraktı.
+
+       Patlamanın ardından Ankara Büyükşehir Belediyesi ailelerin yaralarını sarmak için devreye girdi.
+
+       Büyükşehir Belediye Başkanı Melih Gökçek önceki gün patlamalarda yaşamını yitiren ve evli olan işçilerin ailelerine belediye meclis üyelerinin onayı ile ev verileceğini açıkladı.
+  Belediye Meclisi şubat ayı olağan toplantısında konuyu görüşecek.
+
+</TEXT>
+</DOC>

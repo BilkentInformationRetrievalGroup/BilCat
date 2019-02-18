@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336276 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa3247e/l/0l0smilliyet0n0btr0ccagla0ebuyukakcay0eavustralya0eda0eikinci0eoldu0e0cspor0csondakika0c140b110b20a10a0c131440a80cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/14 </DATE>
+<TIME> 21:12:25.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��a��la b��y��kak��ay, avustralya'da ikinci oldu...
+</HEADLINE>
+<TEXT>Milli tenisçi Çağla Büyükakçay, Avustralya’da düzenlenen 25 bin dolar ödüllü ITF Uluslararası Bayanlar Turnuvası’nın finalinde Yeni Zelandalı Sacha Jones’e 2-0 yenilerek ikinci oldu.Melbourne kentinde düzenlenen Esperance Turnuvası’nın finalinde Sacha Jones ile karşılaşan Çağla, rakibine 6-2 ve 6-3’lük setlerle 2-0 yenildi.Kariyerinde dördüncü kez 25 bin dolarlık bir turnuvada final oynayan Çağla Büyükakçay, Kharkiv ve Valencia’daki turnuvalarda şampiyon olmuş, bu yıl Kültürpark Turnuvası’nda ise finalde Tamira Paszeck’e yenilmişti.</TEXT>
+</DOC>

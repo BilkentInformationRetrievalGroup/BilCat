@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1399016 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=41dea2fe-f8fe-4663-a494-28521c66b4d2 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 10:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��sizlik azal��yor
+</HEADLINE>
+<TEXT>
+Türkiye İstatistik Kurumu, Ekim Ayı işsizlik rakamlarını açıkladı.
+
+İşsizlik oranları düşmeye devam ediyor. Türkiye İstatistik Kurumunun (TÜİK) verilerine göre işsizlik bir önceki dönem bazında yüzde 1,8 azaldı.
+
+Eylül-Ekim-Kasım aylarını da kapsayan dönemde işsizlik yüzde 11,2&rsquo;ye geriledi.
+
+2010 yılı Ekim döneminde, Türkiye genelinde işgücüne katılma oranı, bir önceki yılın aynı dönemine göre 0,2 puanlık artışla yüzde 49 olarak gerçekleşti.
+ 
+Türkiye genelinde işsiz sayısı geçen yılın aynı dönemine göre 398 bin kişi azalarak 2 milyon 901 bin kişiye düştü.
+
+Genç nüfusta işsizlik oranları da bir önceki yıla göre yüzde 2,7 azalarak düşüş gösterdi.
+
+
+
+
+</TEXT>
+</DOC>

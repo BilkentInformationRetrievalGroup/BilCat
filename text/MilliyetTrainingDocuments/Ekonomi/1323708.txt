@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323708 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298f9/l/0l0smilliyet0n0btr0c0eyesil0ekartli0esayisi0eazaltilacak0e0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99530cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:00:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���ye��il kartl�� say��s�� azalt��lacak���
+</HEADLINE>
+<TEXT>MİTHAT YURDAKUL Ankara Bazı sanayicilerin, yeşil kartın avantajından vazgeçmek istemeyen işçilerin sigortalı olmamak için işlerinden ayrıldığı söylemesi üzerine Erdoğan, yeşil kartlı sayısının azaltılacağını bu sorunun istihdam paketinde çözüleceğini söyledi. Erdoğan yeşil kartlıların sayısının 9 milyon civarında olduğunu bu sayıyı yüksek bulduklarını belirterek, çalışmaların devam ettiğini, yeşil kartlı sayısının düşürüleceğini dile getirdi.Hamallar işi bıraktıTOBB Yönetim Kurulu üyesi ve sanayici Mustafa Yardımcı, Erdoğan’a yeşil kartlı işçilerle yaşadığı sorunları aktardı. Süt ve yağ fabrikalarında çalışan yeşil kartlı hamalları SGK’lı yaptıklarını aktaran Yardımcı, işçilerin yeşil kartı bırakmak istemediklerini söyledi. Yardımcı, “Yaktın bizi patron” diyen işçilerin yeşil karta devam edebilmek için işi bıraktıklarını anlattı. Yardımcı, sektörlerinde çalışma şartlarının tehlikeli olabildiğine işaret ederek, sigortasız işçi çalıştırmasının mümkün olmadığını dile getirdi.</TEXT>
+</DOC>

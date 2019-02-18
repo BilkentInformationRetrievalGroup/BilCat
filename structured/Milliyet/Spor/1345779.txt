@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> 1345779 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/ff902c7/l/0L0Smilliyet0N0Btr0Csampiyonlar0Eligi0Ende0Egecenin0Esonuclari0Cspor0Csondakika0C250B110B20A10A0C13182860Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 15:08:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şampiyonlar Ligi'nde gecenin sonuçları
+</HEADLINE>
+<TEXT>Futbolda,   A, B, C ve D gruplarında 5. hafta maçları tamamlandı.
+     A Grubu'nda  ve İnter, B Grubu'nda  04 ve , C Grubu'nda 
+ ve , D Grubu'nda  gruplardan çıkmayı garantiledi.
+     Gruplarda alınan sonuçlar ve puan durumları şöyle:
+     
+     -SONUÇLAR-
+     
+     -A GRUBU-
+     
+     İnter - Twente........................: 1-0
+     Tottenham - .............: 3-0
+İNTER - TWENTE:
+
+TOTTENHAM - WERDER BREMEN:
+
+     
+     -B GRUBU-
+     
+     Shalke 04 - Lyon......................: 3-0
+     Hapoel  - Benfica.............: 3-0
+SCHALKE - LYON:
+
+HAPOEL TEL AVİV - BENFİCA:
+
+
+     -C GRUBU-
+     
+     Rangers - Manchester United...........: 0-1
+     Valencia - ..................: 6-1
+VALENCİA - BURSASPOR:
+
+RANGERS - MANCHESTER UNİTED:
+
+     
+     -D GRUBU-
+     
+     Rubin Kazan - Copenhagen..............: 1-0
+      - Barcelona.............: 0-3
+RUBİN KAZAN - COPENHAGEN:
+
+PANATHİNAİKOS - BARCELONA: 
+
+
+     
+     -PUAN DURUMLARI-
+     
+     -A GRUBU-
+     
+     TAKIMLAR                O    G    B    M    A    Y    P
+     --------------------------------------------------------
+     1. *   5    3    1    1   15    8   10
+     2. İnter*               5    3    1    1   12    8   10
+     3. Twente               5    1    2    2    6    8    5
+     4. Werder Bremen        5    0    2    3    3   12    2
+     
+     -B GRUBU-
+     
+     TAKIMLAR                O    G    B    M    A    Y    P
+     --------------------------------------------------------
+     1. Schalke 04*          5    3    1    1    8    2   10
+     2. Lyon*                5    3    0    2    9    8    9
+     3. Benfica              5    2    0    3    6   10    6
+     4. Hapoel Tel Aviv      5    1    1    3    5    8    4
+     
+     -C GRUBU-
+     
+     TAKIMLAR                O    G    B    M    A    Y    P
+     --------------------------------------------------------
+     1. Manchester United*   5    4    1    0    6    0    13
+     2. Valencia*            5    3    1    1   14    3    10
+     3. Rangers              5    1    2    2    2    5     5
+     4. Bursaspor            5    0    0    5    1   15     0
+     
+     -D GRUBU-
+     
+     TAKIMLAR                O    G    B    M    A    Y    P
+     --------------------------------------------------------
+     1. Barcelona*           5    3    2    0    12   3   11
+     2. Copenhagen           5    2    1    2     4   4    7
+     3. Rubin Kazan          5    1    3    1     2   2    6
+     4. Panathinaikos        5    0    2    3     1  10    2
+     (Not: * işareti, takımın gruplardan çıkmayı garantilediğini gösteriyor.)
+
+ </TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1429302 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=92852dbb-2568-4521-acca-43baedbc2cad </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 12:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pe��inats��z 100 tl taksitle konut
+</HEADLINE>
+<TEXT>
+TOKİ, dar gelirli vatandaşa peşinatsız 100 TL taksitle ev yapacak. Bu konudaki müjdeyi Başbakan Erdoğan verdi.
+
+Başbakan Recep tayyip Erdoğan, partisinin grup toplantısında dar gelirli vatandaşa konut müjdesi verdi.
+
+Toplu Konut İdaresi TOKİ&rsquo;nin, dar gelirli vatandaşa peşinatsız 100 TL taksitle konut yapacağını belirten Erdoğan, &quot;Sosyal devletin gereğini yapıyoruz. Bunu sadaka diye niteleyenler önce sadakanın tanımını öğrensin&quot; diye konuştu.
+
+</TEXT>
+</DOC>

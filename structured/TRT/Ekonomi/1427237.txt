@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1427237 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f7052e39-cf66-4401-8c21-54833ec522a9 </URL>
+<DATE> 2011/02/13 </DATE>
+<TIME> 12:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"helal g��da"n��n al��c��s�� ab ��lkeleri
+</HEADLINE>
+<TEXT>
+Dünyada helal gıda pazarı dünyada giderek büyüyor. 2009 yılında 632 milyar dolar olan pazar,  geçen yıl 850 milyar dolara ulaştı.
+
+     Helal gıda, müslümanlar için tüketilebilir ürünler anlamına geliyor.
+
+     Dünya genelinde yaklaşık 2 milyara yakın bir müşterisi var.
+
+     Sektör her geçen yıl pazar payını arttırıyor.
+
+     2 yıl önce 632 milyar dolar iken 2010 yılında bu rakam 850 milyar doları buldu.
+
+     Finanstan, kozmetiğe yelpazenin diğer dallarını da ekleyince pazarın 2 trilyon dolara ulaştığı tahmin ediliyor.
+
+     Bu ürünlerin en çok ilgi gördüğü ülkeler ise Avrupa Birliği ülkeleri.
+
+Helal gıda satan firmaların yetkilileri, &quot;Yurtdışında müslüman kesim çok. Diyelim ki İngiltere, Almanya orada müslüman olan halk, helal belgeli olan veya helal olan ürünleri tüketmek istiyor&quot; diye konuşuyor.	
+
+
+     Sektör temsilcileri giderek büyüyen bu pazarda Türkiye&rsquo;nin gelecekte büyük pay sahibi olacağını düşünüyor.
+</TEXT>
+</DOC>

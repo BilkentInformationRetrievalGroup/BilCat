@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1405208 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eb9258d4-9ef5-4ad0-8d01-2b02694dda50 </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 01:47:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+rusya'da al����veri�� merkezinde yang��n
+</HEADLINE>
+<TEXT>
+Rusya'ya bağlı özerk Başkurdistan Cumhuriyeti'nin başkenti Ufa'da, bir alışveriş merkezindeki yangın can aldı.
+
+
+
+    Volga Nehri kıyısındaki Ufa kentinde, 5 katlı bir alışveriş merkezinde yangın çıktı.
+
+    Yetkililer yangının alışveriş merkezindeki bir inşaat çalışması sırasında başladığını açıkladı.
+
+    Görgü tanıkları ise yangından önce binada şiddetli bir patlama sesi duyulduğunu ifade etti.
+
+   Yangında 2 kişi öldü, 5 kişi yaralandı. 
+
+   Yangına yol açan inşaat çalışmasında güvenlik ihmali bulunma olasılığı soruşturuluyor.
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325370 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f57df0b/l/0l0smilliyet0n0btr0cavrupa0emerkez0ebankasi0efaiz0eoranlarini0edegistirmedi0cekonomi0csondakika0c0a40b110b20a10a0c1310a2180cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:00:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+avrupa merkez bankas�� faiz oranlar��n�� de��i��tirmedi
+</HEADLINE>
+<TEXT>Avrupa Merkez Bankası, faiz oranlarını değiştirmedi.Banka Yönetim Kurulu, bugün yaptığı toplantıda, beklentiler dahilinde yüzde 1 olan faiz oranlarının sabit tutulmasına karar verdi. Böylece, banka 18 aydır üst üste faiz oranlarını sabit tutmuş oldu.Doların avro karşısında değer kaybetmeyi sürdürmesi, Avrupa’nın ihracatına olası etkileri konusundaki kaygıların artmasına neden olacak. Geçen ay Avrupa Merkez Bankası Başkanı Jean-Claude Trichet, aşırı likidite konusundaki kaygılarını dile getirmişti.Avro Bölgesi’ndeki ekonomik toparlanmanın beklentilerden daha güçlü olduğunu her ay yaptığı toplantılarda dile getiren Trichet, "normalleşme sürecinin" işareti olarak bankalardaki likidite talebindeki düşüşe işaret etti.ABD ekonomisinin toparlanmasındaki yavaşlığa karşılık, Yunanistan, İrlanda ve Portekiz gibi ülkelerde devam eden bütçe açığı sorunlarına rağmen Avro Bölgesi ekonomisi beklentilerin üzerinde bir performans sergiliyor.</TEXT>
+</DOC>

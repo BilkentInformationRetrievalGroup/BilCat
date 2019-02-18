@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1420994 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=578b4714-24e3-4fd6-b179-0ce6ee6ac016 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 13:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��sym ba��kanvekilinden a����klama
+</HEADLINE>
+<TEXT>
+KPSS'de yaşanan kopya iddialarına ilişkin açıklamalarda bulunan Ali Demir, "Savcı olayı çözecektir" dedi.
+
+&quot;Savcının KPSS&rsquo;de yaşanan kopya konusuna net bir açıklama getireceğine inanıyorum.&quot;
+
+Bu açıklama ÖSYM Başkan Vekili Prof. Dr. Ali Demir&rsquo;e ait.
+
+Ali Demir basın mensuplarıyla biraraya geldi ve ÖSYM&rsquo;deki yapılanma, KPSS&rsquo;de yaşanan kopya iddiaları hakkında açıklamalarda bulundu.
+
+Demir, &quot;KPSS sınavında oluşan olaylar savcılığa aksetmiş durumda. Savcı beyle zaman zaman görüştüğümüz doğrudur. Bizden zaman zaman bilgi istemekte, biz de o bilgileri geciktirmeden en sağlıklı biçimde vermeye çalışıyoruz. Ama edinilen bir sonuç var mıdır, bana resmi olarak iletilen ya da gayrı resmi olarak iletilen bir sonuç yoktur. Ben savcı beyin bu konuya zaman içinde çok net bir açıklık getireceğine inanıyorum. O sonuç belli oluncaya kadar da kaynakları kimlerdir, suçluları kimlerdir, bir açıklama yapmak taraftarı değilim.&quot; dedi
+</TEXT>
+</DOC>

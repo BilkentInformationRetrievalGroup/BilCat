@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1432817 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fd56f2cd-cec3-4f52-b533-54376914e1da </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 11:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+gap'a yeni sulama kanallar��
+</HEADLINE>
+<TEXT>
+Türkiye'nin en önemli bölgesel kalkınma projesi GAP'a yeni barajlar ve sulama kanalları ekleniyor.
+
+
+ GAP Eylem Planı kapsamında Diyarbakır, cazibe merkezi oluyor.
+ 
+  
+     Projenin en önemli ayaklarından biri de sulama kanalları.     
+          
+     Tarım alanlarına hayat verecek tam 160 kilometrelik sulama kanalı yapılıyor.
+   
+     315 milyon liraya mal olacak proje tamamlandığında, 245 bin hektarlık tarım arazisi suya kavuşacak.
+ 
+     GAP Silvan Projesi ekonomik ve toplumsal gelişim açısından da büyük önem taşıyor.
+     
+     Tesisler tamalandığında, yıllık 130 milyon liralık milli gelir artışı ile birlikte 73 bin kişiye de istihdam sağlanacak. 
+  
+     Pamukçay Barajı ve sulama kanallarının temel atma töreni, Çevre ve Orman Bakanı Veysel Eroğlu&rsquo;nun katılımı ile gerçekleşecek.
+</TEXT>
+</DOC>

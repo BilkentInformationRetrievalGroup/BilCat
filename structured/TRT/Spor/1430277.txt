@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1430277 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7edb00cc-4a7a-4a43-a7b6-be6b487c371a </URL>
+<DATE> 2011/02/16 </DATE>
+<TIME> 10:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+be��ikta�� avantaj pe��inde
+</HEADLINE>
+<TEXT>
+Beşiktaş, UEFA Avrupa ikinci tur ilk maçında Dinamo Kiev'i konuk edecek.
+
+UEFA Avrupa Ligi&rsquo;nde 2. tur ilk maçında temsilcimiz Beşiktaş, Fiyapı İnönü Stadı&rsquo;nda Ukrayna&rsquo;nın Dinamo Kiev takımını ağırlayacak. 
+ Saat 20.00&rsquo;de başlayacak mücadeleyi Portekizli hakem Pedro Proenca Oliveira Alves Garcia yönetecek. 
+ Proenca&rsquo;nın yardımcılıklarını ise Venancio Manuel Raposo Batista Tome ve Ricardo Jorge Ferreira Santos yapacak. Karşılaşmanın 4. hakemi de Paulo Jorge Lourenço Batista olacak. 
+ Bu karşılaşmanın rövanşı ise 24 Şubat tarihinde oynanacak.
+ Beşiktaş&rsquo;ın bu turu geçmesi halinde çeyrek finaldeki rakibi Aris Saloniki - Manchester City eşleşmesinde tur atlayan takım olacak. Yunanistan temsilcisi Aris Saloniki, sahasında İngiltere&rsquo;nin güçlü ekibi Manchester City ile golsüz berabere kaldı.
+
+</TEXT>
+</DOC>

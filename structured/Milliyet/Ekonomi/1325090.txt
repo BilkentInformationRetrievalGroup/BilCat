@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325090 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f57676b/l/0l0smilliyet0n0btr0cborsa0eikinci0eseansa0eyukselisle0ebasladi0cekonomi0csondakika0c0a40b110b20a10a0c1310a1960cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 15:00:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa ikinci seansa y��kseli��le ba��lad��
+</HEADLINE>
+<TEXT>İMKB 100 Endeksi ikinci seansta, önceki kapanışa göre 116,78 puan artarak 69.805,89 puandan açıldı.Hisse senetleri, bu seviyede ortalama yüzde 0,17 oranında değer kazandı.</TEXT>
+</DOC>

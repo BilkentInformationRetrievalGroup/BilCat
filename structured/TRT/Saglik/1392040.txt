@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1392040 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7f7d3cba-a5cc-49f3-aabd-25ae327ec992 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 15:30:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hap yerine sprey vitamin
+</HEADLINE>
+<TEXT>
+Harvard Üniversitesi'nde geliştirilen sprey vitaminle, sindirim sistemini yormadan vücudun ihtiyacı tamamen karşılanabilecek.
+
+
+Harvard Üniversitesi bilim adamları bir anda bilim dünyasının ilgi odağı olan bir yeni ürün geliştirdi.
+
+Tablet vitaminlere alternatif olarak ortaya çıkan vitamin spreyi ağızdan solunarak vücudun günlük  ihtiyacını karşılamaya yetiyor.
+
+Kalori barındırmayan tüplerin günde 8 defa solunması gerekiyor.
+
+Vitamin tüplerinin, hapların kana karışma hızından daha hızlı şekilde bünyeye nüfuz ettiği belirtiliyor.
+
+Sprey vitaminlerde, tablet  vitaminlerin bağırsaklarda kasılma, böbrekte yavaşlama ve geç sindirilme dolayısıyla sindirim sistemini yorma gibi yan etkileri görülmüyor.
+
+Çünkü solunum yoluyla alınan vitaminler, sindirim sistemini hiç yormadan kana karışarak dokularda çözülebiliyor. 
+
+
+
+</TEXT>
+</DOC>

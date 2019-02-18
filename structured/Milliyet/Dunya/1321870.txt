@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321870 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f49d76e/l/0l0smilliyet0n0btr0cbagdat0eta0eyine0ebomba0e760eolu0cdunya0chaberdetay0c0a30b110b20a10a0c130a95240cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ba��dat���ta yine bomba: 76 ��l��
+</HEADLINE>
+<TEXT>Güvenlik kaynakları, aralarında Kazımiyye, Sadr, Hay El Cihad, Hay El Amil, Bağdat El Cedide, Kemaliye, Rahmaniye, Şaab, Kıriat, Hüseyniyye, Ebu Çir’in bulunduğu 20 semtte bomba yüklü araçlarla, yola yerleştirilen bombalarla ve havan toplarıyla düzenlenen saldırılarda en az 320 kişinin de yaralandığını belirtti. Yetkililer, ölü sayısının artmasından endişe ediyor. Bağdat’ta pazar akşamı bir kiliseye düzenlenen saldırıda 53 kişi hayatını kaybetmişti. </TEXT>
+</DOC>

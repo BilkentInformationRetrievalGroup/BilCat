@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327733 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f610323/l/0l0smilliyet0n0btr0chilvan0eda0e20e60ebuyuklugunde0edeprem0cturkiye0csondakika0c0a50b110b20a10a0c1310a7120cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:16:48.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hilvan'da 2.6 b��y��kl������nde deprem
+</HEADLINE>
+<TEXT>ŞANLIURFA'nın Hilvan İlçesi'nde, Richter ölçeğine göre 2.6 büyüklüğünde deprem meydana geldi. İlçe merkezi ve bazı köylerde hissedilen hafif şiddetteki depremde can ve mal kaybı yaşanmadı.Boğaziçi Üniversitesi Kandilli Rasathanesi Deprem Araştırma Enstitüsü'nden alınan bilgiye göre, bugün saat 13.36'da merkez üssü Hilvan İlçesi'nin Ovacık Köyü olan 2.6 büyüklüğünde deprem kaydedildi. Yerin 5 kilometre altında meydana gelen kısa süreli sarsıntı, hissedildiği köylerde ve ilçe merkezinde kısa süreli panik yaşanmasına neden oldu.</TEXT>
+</DOC>

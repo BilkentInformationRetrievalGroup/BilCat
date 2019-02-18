@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1382766 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7c0657be-933c-44b3-a8fc-a1ef6e12c01a </URL>
+<DATE> 2011/01/04 </DATE>
+<TIME> 08:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��rbistan'da zorunlu askerlik kalkt��
+</HEADLINE>
+<TEXT>
+Profesyonel ordu sistemine geçecek olan Sırbistan zorunlu askerliği kaldırdı.  
+
+
+Sırbistan meclisinde üç ay önce onaylanan yasanın yürürlüğe girmesiyle zorunlu askerliğe son verildi. 
+
+1 Ocak 2011&rsquo;den itibaren yürürlüğe giren yasa ile ilgili olarak açıklama yapan Savunma Bakanlığı, Sırbistan&rsquo;ın bundan böyle profesyonel ordu sistemine geçeceğini bildirdi.
+
+Bu arada, Sırbistan medyasında yayınlanan haberlerde, profesyonel orduya geçişin, Sırbistan&rsquo;ın savunma sistemini zayıflatacağı iddia edildi.
+
+Savunma Bakanı Dragan Şutanoviç iddiaları reddederken, Sırbistan Başkanı Boris Tadiç de, zorunlu askerliği kaldırmakla Avrupa Birliği yolunda bir engeli daha ortadan kaldırmış olduklarını kaydetti.
+
+</TEXT>
+</DOC>

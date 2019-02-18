@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1403995 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1312f8fe-a402-444a-8de8-0dcc337d99ca </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+u��aklar daha az yak��t t��ketecek
+</HEADLINE>
+<TEXT>
+Türk bilim insanları, tüm dünyada ses getirecek bir çalışmaya imza attı.
+
+Uçakların rüzgar girdapları kontrol altına alınarak daha az yakıt tüketmeleri ve helikopterlerin de daha sessiz çalışması sağlandı. Bu sayede kaza riski de azalacak.
+
+ODTÜ Havacılık ve Uzay Mühendisliği Bölümü araştırmacıları uçak sektöründe devrim niteliği taşıyan çalışmalarını ABD&rsquo;de düzenlenen havacılık ve uzay konferansında bilim dünyasına duyurdular.
+
+Bilim Dünyasına Duyuruldu
+
+Yrd. Doç. Dr. Oğuz Uzol, projelerinde ise uçakları, helikopterleri ve rüzgar türbinlerini etkileyen uç girdapların daha etkin bir şekilde kontrol altına alınmasını araştırdıklarını bildirdi. 
+Çalışmalarında elde ettikleri verileri içeren sonuçları ABD&rsquo;de düzenlenen havacılık ve uzay konferansında bilim dünyasına duyurduklarını açıklayan Uzol, geliştirdikleri sistemin daha az yakıt harcanmasını ve uçakların daha hızlı uçmasını da sağlayacağını sözlerine ekledi.
+
+
+</TEXT>
+</DOC>

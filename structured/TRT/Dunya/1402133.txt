@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1402133 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=34395a95-5fb4-4e1f-8fc8-bc23f46578d2 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 01:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hesaplar�� wikileaks'a veren bankac��
+</HEADLINE>
+<TEXT>
+İsviçre'de gizli hesap bulunduran 2 bin kişiye ilişkin bilgileri Wikileaks'ın  kurucusu Assange'a veren İsviçreli bankacı, para cezasına çarptırıldı.
+
+ 
+      Zürih Bölge Mahkemesi, bir günlük yargılama sonucunda bankacı Rudolf Elmer&rsquo;i, ülkenin oldukça sıkı banka sırları yasalarını ihlal ettiğine hükmederek, 6.000 İsviçre Frangı para cezasına mahkum etti.
+ 
+    Yargıç, iddia makamının 8 aylık hapis istemini ise reddetti.
+ 
+      Elmer duruşma sırasında, eski işvereni Julius Baer&rsquo;in kendisine eziyet etmesi nedeniyle bunu yaptığını belirtti.
+ 
+      Elmer, bir başka amacının da, zengin işadamları ve politikacıların büyük çaplı vergi kaçakçılıklarını deşifre etmek olduğunu ileri sürdü.
+ 
+          Bu arada Rudolf Elmer, polis tarafından tekrar gözaltına alındı.
+ 
+         Elmer&rsquo;in, elindeki verileri pazartesi günü Wikileaks&rsquo;e vermesiyle ilgili yeni bir suçlamayla karşı karşıya olduğu bildirildi.
+
+
+         
+
+
+</TEXT>
+</DOC>

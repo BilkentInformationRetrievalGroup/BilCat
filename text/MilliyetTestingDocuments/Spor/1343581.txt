@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1343581 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fd4b7e6/l/0l0smilliyet0n0btr0ctahkim0ede0eonayladi0cspor0chaberdetay0c210b110b20a10a0c13164930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 03:47:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tahkim de onaylad��
+</HEADLINE>
+<TEXT>Kurul’un dün yaptığı toplantıda, yetkisiz menajerlik soruşturması kapsamında PFDK’nın Eskişehirspor Teknik Direktörü Bülent Uygun’a verdiği 8 maçlık ceza ile Eskişehirsporlu Ümit Karan, Çaykur Rizesporlu Koray Avcı, Ordusporlu Volkan Arslan, Konyasporlu Mehmet Sedef ve Elazığsporlu Mehmet Ozan Tahtaişleyen’in 4’er maçlık cezalarını oy çokluğuyla onadığı açıklandı. Bu arada, Koray Avcı için duruşmalı toplantı yapıldığı bildirildi. </TEXT>
+</DOC>

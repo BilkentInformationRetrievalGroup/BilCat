@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346956 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fff90e7/l/0l0smilliyet0n0btr0cilk0ebilet0ebasbakan0ea0cspor0chaberdetay0c260b110b20a10a0c13186910cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:13:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ilk bilet ba������bakan���������a
+</HEADLINE>
+<TEXT>15 Ocak'ta Başbakan Tayyip Erdoğan'ın katılımıyla açılışı yapılacak statta, ilk maçın Hollanda'nın ünlü kulübü Ajax'la oynanmasına karar verildi. Hollanda ekibi ile yapılan görüşmelerin olumlu sonuçlandığı ve Başbakan Erdoğan'ın da karşılaşmayı izleyeceği belirtildi. Sarı-kırmızılılar açılış organizasyonu için THY'nin sponsorluğunu yaptığı Barcelona ve Manchester United'la temasa geçmiş, ancak iki ekibin de yoğun programı yüzünden Ajax'ta karar kılmıştı</TEXT>
+</DOC>

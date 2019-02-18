@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1336411 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa3d3c2/l/0l0smilliyet0n0btr0cbaskana0enukleeri0edurdur0eyatalim0eteklifi0cdunya0chaberdetay0c150b110b20a10a0c13145130cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 01:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ba��kana ���n��kleeri durdur yatal��m��� teklifi
+</HEADLINE>
+<TEXT>Der Spiegel dergisine konuşan Roche, başkana “Alman hükümetinin nükleer santralların kapatılmasını 2035 yılına ertelemek için aldığı kararı engellersen seninle birlikte olurum” dediğini söyledi. Alman hükümeti, ülkedeki 13 nükleer santralin kapatılmasını 2035 yılına kadar ertelemişti.</TEXT>
+</DOC>

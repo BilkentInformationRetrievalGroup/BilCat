@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1391684 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=de70876d-899e-4c8b-a195-33b54046c4f6 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 11:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+assange yar��n hakim kar����s��nda
+</HEADLINE>
+<TEXT>
+İngiltere'deki mahkemede, Assange'ın İsveç'e iade edilip edilmeyeceği görüşülecek. 
+
+
+Wikileaks&rsquo;in kurucusu Julian Assange&rsquo;ın 
+ İsveç&rsquo;e iadesinin görüşüleceği dava süreci yarın (11.01.2011) İngiltere&rsquo;nin başkenti Londra&rsquo;da 
+ başlıyor.
+         İsveç, Assange&rsquo;ı geçen yaz iki kadına tecavüz etmekle suçluyor ve 
+ iadesini istiyor. 
+Assange bu iddiaları reddederken, avukatları ve destekçileri 
+ İsveç&rsquo;in suçlamalarının &quot;siyasi&quot; olduğunu ve bu suçlamaların Wikileaks&rsquo; kuruluşu BBC&rsquo;ye yaptığı açıklamada, İsveç&rsquo;e iade edilmesi durumunda kendisi 
+ hakkında yürütülecek yargı sürecinden endişeli olduğunu ifade etmişti.
+</TEXT>
+</DOC>

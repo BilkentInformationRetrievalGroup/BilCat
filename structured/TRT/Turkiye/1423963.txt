@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1423963 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=025d6520-7e86-4d00-9429-62288bb65414 </URL>
+<DATE> 2011/02/10 </DATE>
+<TIME> 04:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+istanbul'da zincirleme kaza
+</HEADLINE>
+<TEXT>
+Kartal'daki zincirleme kazada bir kişi öldü, dört kişi yaralandı.
+
+
+     Yusuf Sevindik yönetimindeki minibüs ile Güner Yılmaz yönetimindeki kamyon çarpıştı.
+     
+Çarpışmanın etkisiyle savrulan minübüs Murat Karabulut&rsquo;un kulandığı otomobile çarparak devrildi. 
+    
+   Devrilen minibüste bulunan Tekirdağ Namık Kemal Üniversitesi&rsquo;nde Muhasebe Bölümü İkinci sınıf öğrencisi Emre Kılıç  olay yerinde öldü.
+   
+  Minübüste bulunanlardan yaralanan üç kişi hastaneye kaldırıldı. 
+
+  
+
+</TEXT>
+</DOC>

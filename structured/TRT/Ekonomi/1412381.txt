@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1412381 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b92a8e1a-6191-4e76-9bb7-13685d90d041 </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 16:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"ekonomi politikam��z yak��ndan izleniyor"
+</HEADLINE>
+<TEXT>
+Maliye Bakanı Şimşek, Türkiye'ye önümüzdeki dönemde çok önemli miktarda doğrudan yabancı sermaye girişi beklediğini söyledi.
+
+      Maliye Bakanı Mehmet Şimşek, Davos Zirvesini Anadolu Ajansı&rsquo;na değerlendirdi. 
+      Şimşek, Davos&rsquo;ta Türkiye&rsquo;ye ilişkin çok olumlu beklentilerin olduğunu belirterek, Türkiye&rsquo;nin uyguladığı ekonomi politikasının yakından takip edildiğini söyledi.
+     Bakan Şimşek, Avrupa&rsquo;daki krizin Türkiye&rsquo;ye etkileri konusunda bir soru üzerine, bununla ilgili ekonomik tedbirler aldıklarını, ayrıca ihracat pazarlarını çeşitlendirme yoluna gittiklerini, örneğin Afrika ve Arap ülkelerine yönelik ihracatın arttığını kaydetti.
+     Bu arada İsveç Maliye Bakanının, maliye bakanları ile merkez bankası başkanlarının bulunduğu bir panelde, Şimşek&rsquo;e, &rsquo;&rsquo;Avrupa&rsquo;da, bir siz bizi büyümede geçtiniz&rsquo;&rsquo; dediği, bunun üzerine Şimşek&rsquo;in de kendi seçim bölgesinin yüzde 15 oranıyla Türkiye&rsquo;den daha hızlı büyüdüğünü anlattığı öğrenildi.
+</TEXT>
+</DOC>

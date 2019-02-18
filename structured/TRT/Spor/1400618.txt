@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1400618 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8343ded4-f539-4a2f-a69c-26dbab02d8e1 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 16:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+fenerbah��e kan kaybediyor
+</HEADLINE>
+<TEXT>
+Fenerbahçe Bayan Basketbol Takımı'nda yaprak dökümü sürüyor.
+
+Sarı lacivertli ekip, doping yaptığı kesinleşen Diana Taurasi ile yollarını ayırmıştı.
+
+Öyle ki, ayrılık kararı için Taurasi&rsquo;ye verilecek ceza dahi beklenmemişti.
+
+Bu hız, özellikle, Birleşik Amerikalı&rsquo;nın yakın arkadaşı Penny Taylor&rsquo;ı rahatsız etti.
+
+Taurasi&rsquo;nin cezası kesinleşmeden gönderilmesine tepki gösteren Taylor, takımla yollarını ayırma noktasına kadar geldi. 
+
+İddialara göre de Avustralyalı oyuncu geçtiğimiz günlerde takıma veda ederek apar topar ülkesine döndü.
+
+Konuyla ilgili henüz açıklama yapmayan Fenerbahçe kulübünün, Avustralyalı yıldız basketbolcuyu ikna çabalarını sürdürdüğü sanılıyor.
+
+</TEXT>
+</DOC>

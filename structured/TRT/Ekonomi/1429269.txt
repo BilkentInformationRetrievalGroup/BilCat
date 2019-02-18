@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1429269 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0d652417-af33-4dad-978d-6c9dc9e5cc8a </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 11:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+500 milyar euroluk kurtarma fonu
+</HEADLINE>
+<TEXT>
+Euro Bölgesi ekonomi ve maliye bakanları, 2013 yılında 500 milyar euroluk bir kurtarma fonunun kalıcı olarak devreye girmesini kararlaştırdı. 
+
+Euro Bölgesi Başkanı ve Lüksemburg Başbakanı Jean - Claude Juncker, kurtarma fonunun ilk aşamada 500 milyar euro olacağını ve miktarın her yıl gözden geçirileceğini söyledi. 
+
+Planlanan kurtarma fonu, zor durumdaki euro bölgesi ülkelerine 440 milyar euroya kadar kredi sağlama garantisi veriyor. 
+
+</TEXT>
+</DOC>

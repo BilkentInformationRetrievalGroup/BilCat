@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1338563 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/fb59dfb/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c170cyazardetay0c13151310cbayramda0esakatat0etuketimine0edikkat/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 04:10:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bayramda sakatat t��ketimine dikkat
+</HEADLINE>
+<TEXT>ÇarşambaAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Dilara Koçak          bilgi@mezurasaglik.com.tr                                            İyi Yaşam                                BAYRAMDA SAKATAT TÜKETiMiNE DiKKAT      Bu besinlerin 100 gramındaki kalori ve yağdan gelen kalori oranlarını aşağıdaki tabloda bulabilirsiniz. Karaciğer, böbrek, yürek gibi sakatatlar yüksek miktarda yağ ve kolesterol içerir. Özellikle kurban bayramında bolca yenen bu besinlerin dikkatli tüketilmesi gerekiyorBirkaç tavsiye -Eti pişirme yöntemi olarak kavurma ve kızartma gibi sindirimi zor, mide asidesini artıracak yöntemleri tercih etmeyin.  - C vitamini, demirin emilimini artırır. Uygun pişirme teknikleriyle yapılan eti, bol yeşil salatayla birlikte tüketin.  -Et, lif içeren bir yiyecek değildir. Aşırı miktarlarda tüketimi kabızlığa yol açabilir. Etin yanında en iyi posa kaynakları olan sebze ve meyveyi tercih edin. -Etle yapılan yemeklerin hafif olması için kendi yağıyla    pişirin, ilave yağ eklemeyin.-Kuyruk yağını kavurma içinde kullanmayın. -Kızartmadan kaçının, haşlama ve ızgarayı tercih edin. Sakatatların çok yüksek miktarda kolesterol içerdiğini unutmayın.-Aşırı et ve şeker tüketip sebze ile meyveyi unutmayın. -Izgarada etle ateş arasındaki uzaklık eti yakmayacak, kömürleşme sağlamayacak şekilde ayarlanmalı. Yüksek ateş, yüzeydeki proteinleri birdenbire katılaştıracak ve ısı etin iç kısmına ulaşamayacaktır. Etler, kesinlikle çiğ veya az pişmiş tüketilmemeli.Kurban kesiminde   hijyen sorunları Kesim yapılacak yerlerin zemininde su ve kanın birikmemesi sağlanmalı, aksi takdirde bakteri bulaşma riski artar.   Ete temas eden bıçak ve satır gibi aletler temiz olmalı, kesim işini yapacak olan görevliler mutlaka kişisel temizliklerine özen göstermeli. Gıdaları hazırlamaya başlamadan önce ellerinizi sıcak su   ve sabunla yıkayın. Çiğ gıdaları hazırladıktan sonra pişmiş gıdalara dokunmadan önce ellerinizi yıkamalısınız. Gıdalar kolayca kontamine olabildikleri için hazırlama aşamasında kullanılan bütün yüzeyler temiz tutulmalıdır. Zemin temizliğinde kullanılan bezler, el havlusu veya bulaşık kurulama havlusundan ayrı tutulmalıdır.  Yemek pişirmeden önce mutfakta kullandığınız aletleri, kapları, kesme tahtasını ve mutfak tezgahını sıcak sabunlu suyla yıkayıp durulayın. Gıdaları hazırlamak içinde temiz su kullanmak, içmek kadar önemlidir.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      13 Kasım 2010YEŞiL ÇAY MEME KANSERiNDEN10 Kasım 2010TAM TAHILLAR KARIN YAĞLARINDAN KURTARIYOR07 Kasım 2010HAREKETSiZ YAŞAM KiLO ALDIRIR</TEXT>
+</DOC>

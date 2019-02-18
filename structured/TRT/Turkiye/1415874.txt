@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1415874 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c1e0fb7e-b0da-4028-ac08-2c5b078bc16e </URL>
+<DATE> 2011/02/02 </DATE>
+<TIME> 11:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+s��n��r kap��lar��nda sorun!
+</HEADLINE>
+<TEXT>
+Gümrük Müsteşarlığı'nın ağ bağlantısında meydana arıza sebebi ile, Türkiye genelindeki sınır kapılarından ülkeye giriş ve çıkış yapılamıyor.
+
+   Müsteşarlığın, Merkezi Bilge Sistemi olarak adlandırılan veri tabanındaki arıza dün gece saatlerinde başladı.
+
+
+     Gümrük Müsteşarlığı&rsquo;nın internet sitesinde; sınır kapılarından giriş ve çıkışı engelleyen arıza giderilene kadar sistemin kullanılamayacağı ve arıza giderildiğinde yine internet sitesinden duyurulacağı bildirildi. 
+
+
+
+</TEXT>
+</DOC>

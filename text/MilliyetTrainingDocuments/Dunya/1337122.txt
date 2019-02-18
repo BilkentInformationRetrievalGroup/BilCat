@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337122 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af67/l/0l0smilliyet0n0btr0c0eturkiye0enin0eteror0eriski0edususte0e0cdunya0csondakika0c150b110b20a10a0c13147240cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:01:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"t��rkiye'nin ter��r riski d��������te"
+</HEADLINE>
+<TEXT>Türkiye, terör riski bulunan ülkeler sıralamasında 14’üncü sıradan 22’inci sıraya düştü.Doğal ve insani riskleri inceleme alanında uzmanlaşmış Maplecroft adlı analiz şirketi, terör riskinin bulunduğu ülkeleri sıraladığı "terör riski endeksi" yayımladı.Kuruluşun bir önceki raporunda 14’üncü sırada gösterilen Türkiye, 22’nci sıraya gerilerken, Yunanistan 57’nci sıradan 24’e yükseldi. Yunanistan’ın yükselişinde, ülkedeki sol grupların artan saldırılarının etkili olduğuna dikkat çekildi.Listede 196 ülke yer alırken, listenin başında sırasıyla Somali, Pakistan, Irak, Afganistan, Filistin, Kolombiya, Tayland, Filipinler, Yemen ve Rusya geldi. Geçen yılın Haziran ayından bu yılın Haziran ayına kadar Somali’de 556 terör eylemi düzenlendiği ve bu saldırılarda bin 437 kişinin öldüğü belirtildi. Kuruluşun bir önceki endeksinde terör riski en yüksek ülke Irak’tı ve Somali 4’üncü sırada geliyordu.Ülkelerdeki terör saldırılarının sıklığı ve saldırılar sonucu ölen insan sayısı gibi kriterlere göre her altı ayda bir yenilenen endekste İngiltere; Fransa ve ABD’ye göre "daha az terör riskli" ülkeler arasında yer aldı.Endekse göre bazı ülkelerin sıralamaları şöyle: İngiltere (46), ABD (33), Fransa (44), Kanada (67), Almanya (70), İspanya (27), Cezayir (36), Hindistan (15).</TEXT>
+</DOC>

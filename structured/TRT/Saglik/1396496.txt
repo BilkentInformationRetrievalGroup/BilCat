@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1396496 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0a4b963d-eced-4a71-a002-5ae66b5fa739 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 12:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+soya kanserin yay��lmas��n�� engelliyor mu?
+</HEADLINE>
+<TEXT>
+ABD'de yapılan araştırmalar, soyada bulunan bir kimyasalın, iki kanser türünün yayılmasını engellediğini ortaya koydu.
+
+Bu konuda yapılmış iki ayrı araştırma bulunuyor.
+
+ABD ­Chicago&rsquo;daki Northwestern Üniversitesi&rsquo;nde yapılan araştırma, soyada bulunan isoflavone adlı kimyasal maddeden yapılan ilacın, prostat kanserinin gelişimini durdurduğunu ya da yavaşlattığını ortaya koydu.
+
+Her ne kadar araştırma sadece 38 erkek üzerinde yapılmış olsa da, biliminsanları, elde edilen bulguların bu konuda bir karar vermek için yeterli olduğunu düşünüyor.
+
+Profesör Raymond Bergan, soyada bulunan ­isoflavone kimyasalından yapılan ilacın prostat kanserinin büyümesini durdurduğunu dile getiriyor. 
+
+Bergan, &quot;Teorik olarak bunun diğer kanser türlerinde de uygulanması mümkün, diğer kanser türlerinde de aynı etkiyi yapabilir&quot; diye konuşuyor.
+
+Bir diğer araştırma ise New York&rsquo;taki Buffalo Üniversitesi&rsquo;nde yapıldı. 1300 kadın üzerinde yapılan bu araştırmada da, isoflavone&rsquo;in göğüs kanserinin büyüme riskini azalttığı kanıtlandı.
+
+Araştırmacı Anne Weaver, yüksek oranda isoflavone alımının, yayılımcı tümör cinsinde yüzde 30, diğer tümörlerde ise yüzde 60 büyümenin azaldığını belirledi.  
+
+Anne Weaver, bulguların ilk sonuçlar olduğuna ve bu bulguların geliştirilmeye ihtiyacı bulunduğuna dikkat çekiyor.
+</TEXT>
+</DOC>

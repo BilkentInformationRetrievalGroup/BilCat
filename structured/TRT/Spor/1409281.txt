@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1409281 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d992154b-adff-4e6a-8cd0-ee2b8318b891 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 15:59:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kupada d grubu
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası D Grubu'nda son hafta maçları tamamlandı, çeyrek finalistler belli oldu.
+
+Ziraat Türkiye Kupası D Grubu son hafta maçlarında Kasımpaşa evinde Bursaspor&rsquo;u 3-1, Karşıyaka ise deplasmanda Kırıkhanspor&rsquo;u 5-2 yendi.
+ Bu sonuçların ardından D Grubu&rsquo;nda Kasımpaşa 12 puanla grup lideri olurken, İstanbul Büyükşehir Belediyespor 9 puanla grup ikincisi oldu ve adlarını çeyrek finale yazdırdılar.
+ D Grubu&rsquo;nda Karşıyaka (3 puan), Bursaspor (4 puan) ve Kırıkhanspor (1 puan) ise kupaya veda etti.
+
+</TEXT>
+</DOC>

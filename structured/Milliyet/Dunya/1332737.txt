@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1332737 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f7f0caf/l/0L0Smilliyet0N0Btr0Ccarla0Ebruni0Eoldurulebilir0Cdunya0Chaberdetay0C10A0B110B20A10A0C131240A20Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:06:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Carla Bruni öldürülebilir
+</HEADLINE>
+<TEXT>Bruni’nin dost ve akraba ziyaretleri yakınlarına bile haber vermeden gerçekleştiriliyor. Güvenlik güçleri sürekli olarak ’nin aracını değiştirerek olası saldırılara karşı hedef şaşırtmaya çalışıyor ve Bruni’nin yanı sıra kızkardeşi ve onun ailesi de her yere korumalarla gidiyor.</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1427563 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8a10db0b-bcdb-4b2d-9702-b0f797b26a9a </URL>
+<DATE> 2011/02/13 </DATE>
+<TIME> 17:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+mardin m��zesi soyuldu
+</HEADLINE>
+<TEXT>
+Mardin Müzesi'nden 2 altın kemer ve 1 altın sikke çalındı.
+
+     Mardin&rsquo;de geçen yıl Sürekli Köyünde yapılan kanalizasyon kazısında ortaya çıkarılan Kırk Haramilere ait hazine hırsızların hedefi oldu.
+ 
+     Değerli eşyaların sergilendiği özel bölmeyi kıran hırsız, 2 altın kemer ve bir altın sikkeyi alarak kaçtı. 
+
+     Alarmın çalması üzerine müze yetkilileri durumu polise bildirdi.
+
+     Emniyet güçleri eşkali belirlenen hırsızı yakalamak için kapsamlı çalışma başlattı.
+</TEXT>
+</DOC>

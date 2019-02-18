@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1420766 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=412fbea4-3b63-4783-91dc-37650abf25fd </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 09:44:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"levha" asma zorunlulu��u kalk��yor
+</HEADLINE>
+<TEXT>
+TBMM'de görüşülen "torba yasa" tasarıyla vergi levhası asma mecburiyeti kaldırılıyor.
+
+TBMM&rsquo;de görüşülen tasarının 4. bölümünün 85. maddesindeki, işyerlerinde vergi levhalarının kolayca görülebilen yerlere asılması mecburiyeti kaldırıldı. 
+
+Gizli oturum kapsamında yapılan değişiklikte, 4/1/1961 tarih ve 213 sayılı Vergi Usul Kanunu&rsquo;nun 5. maddesinin 5. fıkrasındaki, &quot;Levhayı merkezlerine, şubelerine, satış mağazalarına iş sahipleri ile mükellefler tarafından kolayca okunup görünecek şekilde asmak zorundadırlar&quot; ibaresi, &quot;Levhayı almak zorundadırlar&quot; şeklinde değiştirildi.
+
+
+</TEXT>
+</DOC>

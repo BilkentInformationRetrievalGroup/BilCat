@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1414221 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ef31c9ba-a407-4eb5-800f-7aaf1469aaff </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 17:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��niversite hastanelerine m��jde
+</HEADLINE>
+<TEXT>
+Üniversite hastanelerinde yapılan Hazine kesintisi yüzde 1'e düştü.Daha önce yüzde 15 olarak belirlenen oran, önce yüzde 5, 2010'da yüzde 3'e düşmüştü
+
+    
+Sağlık Bakanı Recep Akdağ&rsquo;ın girişimiyle, üniversite hastanelerinde yapılan Hazine kesintisi yüzde 1&rsquo;e indi.
+
+Konuyla ilgili karar Maliye Bakanlığından bugün (31.01.2011) çıktı.
+ 
+Daha önce yüzde 15 olarak belirlenmiş olan oran, önce yüzde 5&rsquo;e,  2010 yılında da yüzde 3&rsquo;e düşürülmüştü. 
+
+Giderleri 100 Milyon TL Azalacak
+Yeni düzenlemeyle, üniversite hastanelerinin giderlerinin yaklaşık 100 milyon TL azalması bekleniyor.
+     
+Kararla ayrıca üniversite hastanelerinde çalışan hekimlerin ek ödemesinde artış sağlanmasının da yolu açılıyor.
+
+Daha önce üniversite hastanelerine 380 TL Hazine yardımı yapılmasına dair de kanun çıkarılmıştı. 
+
+Bu yeni düzenlemeyle, 2010 yılında üniversite hastanelerine 210 milyon TL Hazine yardımı yapılmış oldu.
+</TEXT>
+</DOC>

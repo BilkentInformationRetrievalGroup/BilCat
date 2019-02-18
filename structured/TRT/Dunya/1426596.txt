@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1426596 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=be84939e-453d-4193-832f-2adc2561fdc0 </URL>
+<DATE> 2011/02/12 </DATE>
+<TIME> 15:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+abbas da mesaj�� ald��
+</HEADLINE>
+<TEXT>
+Mısır'daki tarihi gelişmeler Filistin Yönetimi'ni de hareketlendirdi. 
+
+
+Filistin Devlet Başkanı Mahmud Abbas, Eylül ayından önce genel seçim ve başkanlık seçimi yapılacağını açıkladı. 
+
+</TEXT>
+</DOC>

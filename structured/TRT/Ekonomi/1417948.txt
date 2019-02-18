@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1417948 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=be28b802-2ff1-47ee-9b8b-831e16a42cac </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 10:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yerli cebe b��y��k destek
+</HEADLINE>
+<TEXT>
+Ulaştırma Bakanlığı, iç piyasadaki üretimin desteklenmesi amacıyla cep telefonu sektöründe iki önemli yasal düzenleme için kolları sıvadı. 
+
+Ulaştırma Bakanlığı’nın, Meclis’te bulunan e-devlet uygulamalarına ilişkin yasa tasarısına eklemeyi düşündüğü iki madde şöyle: 
+
+Yerli cep telefonu üretiminin önündeki vergi engelinin kaldırılması ve ilk abonelikte vergi, pay gibi adlarla tahsil edilen 56 TL’nin kısmen ya da tamamen kaldırılması. 
+
+Şirketler Ödüyor 
+Devlet, ithal edilen fiyatı 250 TL’nin altındaki her cep telefonu için 50 TL sabit vergi alıyor. Haber Türk’ün haberine göre bu vergi, Türkiye’de üretilen yerli telefonlar için de aynen uygulanıyor. 
+
+Ulaştırma Bakanlığı, yerli üretimde bu verginin sıfırlanmasını ya da ciddi biçimde düşürülmesini öngörüyor. Ön ödemeli (faturasız) aboneliklerde teşvik amaçlı olarak cep telefonu operatörlerinin ödediği 56 liralık ilk abonelik vergisi de cep telefonu operatörleri üzerinde ciddi bir maliyet oluşturuyor. 
+
+Bilgi Teknolojileri ve İletişim Kurumu’nun (BTK) verilerine göre Türkiye’de 63-64 milyon cep telefonu abonesi var. Bunların yüzde 75’i ön ödemeli abonelerden oluşuyor.
+
+</TEXT>
+</DOC>

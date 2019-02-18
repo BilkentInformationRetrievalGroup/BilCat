@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321960 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f49be68/l/0l0smilliyet0n0btr0chdi0eile0eimza0egunu0cspor0chaberdetay0c0a30b110b20a10a0c130a95170cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 03:13:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hd�� ile imza g��n��
+</HEADLINE>
+<TEXT>Proje kapsamında HDI Sigorta bünyesinde oluşturulan GSSİGORTA HDI markası bugün düzenlenecek basın toplantısıyla kamuoyuna duyurulacak. Başkan Adnan Polat, Başkan Yardımcısı Yiğit Şardan ve HDI Gerling Yönetim Kurulu Üyesi Matthias Maak’ın da katılacağı toplantı saat 11.00’de başlayacak.</TEXT>
+</DOC>

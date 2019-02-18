@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1410557 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b91775bd-f14a-440b-a18e-aeb2c93eb8c4 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 17:16:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kanseri k��pekler te��his edecek
+</HEADLINE>
+<TEXT>
+Patlayıcı ve uyuşturucu yakalamakta kullanılan özel eğitimli köpeklerin koku almadaki yeteneği bambaşka bir alanda kullanılabilecek.
+
+Özel eğitimli köpeklerin kokuya karşı son derece duyarlı olmaları sayesinde basit bir idrar testiyle en tehlikeli kanser türlerinden biri olan prostat kanserinin teşhis edilebileceği düşünülüyor.
+
+Bu girişimin öncüsü Paris Tenon hastanesinden ürolog ve kanser uzmanı Prof. Dr. Olivier Cussenot, Fransız hava kuvvetleri için yetiştirilen bir köpeğin prostat kanserini koklayarak anlayabildiğini ve ikinci bir köpeğin de yetiştirilmekte olduğunu belirterek, bu köpeklerin kanser tespit etmek için Fransa&rsquo;da yetiştirilen ilk köpekler olduğuna işaret etti.
+
+Avrupa&rsquo;da ilk kez bir köpeğin prostat kanserinin teşhisinde kullanıldığını belirten Fransız uzman, köpeklerin bu yeteneğine hayran kaldıklarını, hiçbir testin bu kadar başarılı olmadığının altını çizdi.
+
+Bu konudaki araştırması European Urology dergisinde yayınlanan Profesör Cussenot, köpeklerin koku almadaki uzmanlık ve hassasiyetinin yüzde 91&rsquo;e ulaştığını belirterek, kanserin kokusunu tespit etmek için köpeklerin özel olarak yetiştirilmesinin çok şaşırtıcı olmayacağını kaydetti.
+
+Tıp dergisi Lancet&rsquo;te 1989&rsquo;da yayınlanan bir makalede de, köpeklerin bir deri kanseri olan melanomu koklayarak anlayabildikleri belirtilmiş, ayrıca köpeklerin özellikle nefes yoluyla akciğer kanserini veya idrar kokusundan mesane kanserini tespit edebildikleri gözlenmişti.
+</TEXT>
+</DOC>

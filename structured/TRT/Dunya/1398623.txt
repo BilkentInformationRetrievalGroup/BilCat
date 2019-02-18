@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1398623 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2bfdfde0-5db5-43b5-9628-d8cad10f1438 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 19:00:17.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+tunus'ta kaos s��r��yor
+</HEADLINE>
+<TEXT>
+Güvenlik güçleri, çatılara mevzilenen silahlı saldırganlarla çatıştı. 
+
+Tunus&rsquo;ta Devlet Başkanı Bin Ali&rsquo;nin istifasıyla sonuçlanan &quot;Yasemin Devrimi&quot;nin ardından kargaşa sürüyor.
+Güvenlik güçleri, çatılara mevzilenen silahlı saldırganlarla çatıştı. 
+
+
+
+
+Olağanüstü hal ilanı ve sokağa çıkma yasağıyla nispeten yatışan sokaklar, yine silah ve patlama sesleriyle yankılanıyor. 
+
+Başkent sokaklarında rastgele sivillerin üzerine ateş açan araçlar, gerginliği tırmandırıyor. 
+
+Ana yollarda ve başkanlık sarayı etrafında konuşlanan tanklar ve sürekli devriye gezen askeri helikopterler güvenliği sağlama telaşında...
+Sokaklarda ölen sivillerin sayısı bağımsız kaynaklara göre, 100&rsquo;ü aştı. 
+
+Kurbanların çoğunun tek kurşunla öldürülmesi, şüpheleri devrik lider Bin Ali&rsquo;ye yakın asker ve polislere çevirdi. 
+
+Yüzlerce asker ve polis, görevden alınmalarına rağmen silahlarını teslim etmedi. 
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1417674 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=813389c7-d6c8-414d-acba-d0726ebd7c69 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 00:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+efes pilsen uzatmada kaybetti
+</HEADLINE>
+<TEXT>
+Türk Hava Yolları Avrupa Liginde Efes Pilsen, deplasmanda Real Madrid'le karşılaştı. 
+
+G grubunda yenilgisiz iki takımın mücadelesinde normal süre 79-79 eşitlikle tamamlandı. 
+
+Uzatma periotunda daha az hata yapan İspanya temsilcisi Real Madrid maçtan 89-86 galip ayrıldı.
+
+Gruptaki dördüncü maçta iki takım 17 Şubat&rsquo;ta istanbulda karşılaşacak. 
+</TEXT>
+</DOC>

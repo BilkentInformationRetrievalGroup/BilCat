@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346906 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fff54e6/l/0l0smilliyet0n0btr0cdevlet0edenetleme0ekurulu0endan0edavet0csiyaset0chaberdetay0c260b110b20a10a0c1318610a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:09:51.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+devlet denetleme kurulu���������ndan davet
+</HEADLINE>
+<TEXT>Daveti kabul eden Özal’ın bugün saat 13.00’te Cumhurbaşkanlığı’na gideceği belirtiliyor. Ahmet Özal’ın, babasının ölümüne ve babasına yönelik suikast girişimiyle ilgili açıklamalarının ardından soruşturma başlatılmıştı.</TEXT>
+</DOC>

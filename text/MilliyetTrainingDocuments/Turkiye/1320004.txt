@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1320004 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f3c6f5b/l/0L0Smilliyet0N0Btr0Ckayseri0Erayli0Esistemde0Ecep0Etelefonu0Ebilet0Eolacak0Cturkiye0Csondakika0C0A10B110B20A10A0C130A87240Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 15:19:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayseri raylı sistemde cep telefonu ‘bilet' olacak
+</HEADLINE>
+<TEXT> 'de raylı sistemde yapılacak düzenleme ile ’de ilk kez cep telefonu operatörleriyle yapılacak anlaşmayla elektronik ortamda gelecek mesaj, turnikelerde okutularak bilet yerine geçecek.
+
+Büyükşehir Belediyesi Ulaştırma Daire Başkanı Arif Emecen, 17.3 kilometrelik güzergahta 22 araçla günde 70 bin yolcu taşıdıklarını söyledi. Emecen, kentte oturanların raylı sistem hattındaki istasyonlarda bilet bulunmamasından yakındığını anlatırken, “O nedenle öncelikle istasyonlara otomatik bilet makinaları koyacağız. Türkiye’de ilk kez olmak üzere tüm cep telefonu operatörleriyle anlaşma yapacağız. 4 haneli numara ile vatandaş operatörünü arayacak ve buradan gelecek mesajı, istasyonlardaki turnikeye elektronik ortamda okutarak bilet yerine kullanacak. Bilet ücreti telefon operatörü tarafından tahsil edilerek bize ulaşacak” dedi.
+
+Arif Emecen, Türkiye'de ilk kez Kayseri'deki raylı sistemde kullanılacak uygulamanın halen ,  ve  gibi ülkevlerde kullanıldığını ve bir sorun yaşanmadığını ekledi.</TEXT>
+</DOC>

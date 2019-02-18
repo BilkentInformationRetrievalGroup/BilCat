@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331425 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f71d5a3/l/0l0smilliyet0n0btr0clados0emarmara0eda0esicakligi0eartiracak0csiyaset0csondakika0c0a80b110b20a10a0c13116840cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 14:21:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+lados marmara'da s��cakl������ art��racak
+</HEADLINE>
+<TEXT>Marmara’da hafta boyunca etkili olacak lodosun sisi dağıtacağı ve sıcaklıkları mevsim normallerinin oldukça üzerine çıkaracağı bildirildi.AA muhabirinin Devlet Meteoroloji İşleri Genel Müdürlüğünden aldığı bilgiye göre, Marmara’da günlerdir etkisini sürdüren sis, lodosla birlikte dağılacak.Hızı saatte 70 kilometreye kadar ulaşması beklenen lodos, hava sıcaklıklarını mevsim normallerinin üzerine taşıyacak.Kasım ayı uzun yıllar ortalaması 10,3 derece olan Bursa’nın hava sıcaklığı bu hafta 26 dereceye kadar ulaşacak. Sıcaklık mevsim normallerinin 2,5 katından fazla bir değere ulaşmış olacak.Balıkesir’de hava sıcaklığı ise mevsim normallerinin 15 derece üzerinde çıkarak, 25 dereceye kadar ulaşacak.Uzun yıllar ortalaması 11,4 derece olan Çanakkale ise haftayı 21-24 derece arasında geçirecek.Yetkililer, cuma gününe kadar etkisini sürdürecek olan lodosun zaman zaman kuvvetli eseceğini belirterek vatandaşların dikkatli olmasını istedi.</TEXT>
+</DOC>

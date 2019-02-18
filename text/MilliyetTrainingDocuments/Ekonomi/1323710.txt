@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323710 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298f3/l/0l0smilliyet0n0btr0cturkiye0edisa0ebagimli0ehes0emecburiyet0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99570cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:01:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rkiye d����a ba����ml�� ���hes��� mecburiyet
+</HEADLINE>
+<TEXT>TBMM Plan ve Bütçe Komisyonu’nda sunum yapan Eroğlu, yaptığı hesaplara göre Türkiye’de değerlendirilebilir potansiyelin 186 milyar kWh olduğunu ifade ederken, “Türkiye’de barajlarin, göletlerin yapılması keyfilikten kaynaklanmıyor, coğrafi ve iklim durumunun getirdiği mecburiyetten kaynaklanıyor. İstanbul’a baraj yapmasaydık, İstanbul’a su veremezdik.  Baraj, gölet yapınca bunun potansiyelinden istifade etmek gerekir. HES’ler de temiz, yenilenebilir, ucuz enerji kaynağıdır” dedi. Eroğlu HES’ler tamamlandığında Hazine’ye yılda yaklaşık 1 milyar TL’lik katkı payı geleceğini ifade etti. </TEXT>
+</DOC>

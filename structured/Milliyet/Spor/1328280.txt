@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328280 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f639fd0/l/0l0smilliyet0n0btr0cpotada0eyogun0egun0cspor0chaberdetay0c0a60b110b20a10a0c1310a90a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:14:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+potada yo��un g��n
+</HEADLINE>
+<TEXT> Euroleague'de Barcelona'yı devirerek büyük sükse yapan Fenerbahçe Ülker, Sinan Erdem Spor Salonu'nda saat 15.00'te Oyak Renault'yu ağırlayacak.GÜNÜN PROGRAMIBEKO BASKETBOL LİGİAntalya Atatürk16.00 Antalya Bşb.-BanvitEdirne Mimar Sinan17.00 E. Olin-Aliağa PetkimErdemir S.S.17.30 Erdemir-Türk TelekomKarşıyaka S.S.18.00 P.Karşıyaka-Mersin B.Cola Turka Arena20.00 Beşiktaş-Bornova B.Kadınlar Birinci LigiTarsus S.S.15.00 Tarsus Bld.-Panküp K.Abdi İpekçi S.S.15.00 G.Saray-BurhaniyeAvcılar S.S16.00 İstanbul Ünv.-Botaş</TEXT>
+</DOC>

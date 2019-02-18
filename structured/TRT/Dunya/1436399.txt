@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1436399 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1b9965d7-7774-40d1-a741-964d2d1d2aaa </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 04:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yeni zelanda'da deprem
+</HEADLINE>
+<TEXT>
+Christchurch kentinde meydana gelen 6,3 şiddetindeki depremde, enkaz altında kalanlar bulunduğu ve yaralı sayısının yüksek olduğu bildiriliyor. 
+
+
+Yeni Zelanda&rsquo;nın güneyindeki Christchurch kentinde 6,3 büyüklüğünde şiddetli bir deprem meydana geldi.
+
+Kente çok yakın bir mesafede ve yüzeye yakın gelen deprem kentte büyük hasara yol açtı.
+Çok sayıda yaralı olduğu ve enkaz altında kalanların bulunduğu bildiriliyor.
+
+Polis, birden fazla ölüm vakası bildirildiğini açıklarken, Başbakan John Key, henüz yeterli bilgi bulunmadığını söyledi.
+
+Depremden sonra kaydedilen görüntüler, binaların ve altyapının ağır hasar gördüğünü, yolların çöktüğünü gösteriyor.
+
+Elektrik ve telefon hatlarının da kesildiği kaydedildi.
+
+Depremin merkez üssünün kente 5 kilometre uzaklıkta ve sadece 4 kilometre derinlikte olduğu bildirildi.
+
+350 bin kişilik Christchurch, Yeni Zelanda&rsquo;nın 2&rsquo;nci en büyük kenti.
+Deprem bölgesinde bulunan kent, geçen yıl Eylül ayında meydana gelen 7,1 büyüklüğündeki depremde ağır hasar görmüştü.
+</TEXT>
+</DOC>

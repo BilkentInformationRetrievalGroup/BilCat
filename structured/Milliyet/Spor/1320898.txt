@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320898 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f4567c6/l/0l0smilliyet0n0btr0cbayern0emunih0eromanya0eya0e150efutbolcu0egitti0cspor0csondakika0c0a20b110b20a10a0c130a92260cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:16:46.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+bayern m��nih, romanya'ya 15 futbolcu gitti
+</HEADLINE>
+<TEXT>Avrupa Şampiyonlar Ligi’nde yarın Cluj ile karşılaşmaya hazırlanan Bayern Münih, Romanya’ya 15 futbolcudan oluşan bir kadroyla gitti.Kulüp yetkilileri, Romanya’ya hareket etmeden önce yaptıkları açıklamada, savunmada oynayan Holger Badstuber’in de sakatlığı nedeniyle maç kadrosunda yer almadığını söylediler.Badstuber, Freiburg ile oynanan Bundesliga maçından önce ısınırken sakatlanmıştı.Sakatlar ordusuna dönen Bayern Münih’te İvica Oliç, Arjen Robben, Franck Ribery, Miroslav Klose ve Mark van Bommel yarın oynanacak maçta forma giyemeyecek.</TEXT>
+</DOC>

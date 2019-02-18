@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1397419 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9cb8d719-d64d-44c2-bc04-782384f45614 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 11:02:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+165 y��ll��k te��kilat yap��land��r��l��yor
+</HEADLINE>
+<TEXT>
+Polis teşkilatı yeni yapılanmaya gidiyor. Yeni düzenlemelerde mesai saatleri, boş kadrolar, lojman sayısı, tatil hediyesi gibi başlıklar bulunuyor.
+
+165 yıllık Türk Polis Teşkilatı yeni yapılanmaya gidiyor. Düzenleme ile polisler için Avrupa standartlarına uygun çalışma sistemi getirilecek. Polisler haftada 40 saatten fazla çalıştırılmayacak. 
+
+Mesai saatleri dışında yapılan görevlendirmeler için fazla mesai ücreti verilecek. Polisin fazla mesai ve tazminatlarının yeniden belirlenmesi için kanun tasarısı hazırlanacak.
+
+Ayrıca polisin asli görevi dışında çalıştırılmaması için yasal ve idari düzenlemeler yapılacak. Yıllardır &quot;angarya&quot; olarak görülen yeşil kart soruşturmaları, tebligat, maç, sınav ve özel koruma gibi görevlerde polisler çalıştırılmayacak. Görev süresi kadar mesai, zorunlu görevlerde ise polislere görev süresi kadar mesai ücreti ödenecek.
+
+Emniyet Genel Müdürlüğünce düzenlenen &quot;Personel Sorunları Çalışma Toplantısı&quot;nda alınan kararlar kısa, orta ve uzun vadede hayata geçirilecek. 
+
+220 bin 953 kişilik teşkilatta; görev tanımları, atama, istihdam, motivasyon, ödüllendirme, rütbe terfi, branşlaşma, çalışma şartları, sicil, disiplin, denetim ve performans değerlendirme sistemi gibi konularda önemli düzenlemeler yapılacak. 
+</TEXT>
+</DOC>

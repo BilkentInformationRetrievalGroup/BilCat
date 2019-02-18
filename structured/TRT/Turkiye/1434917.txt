@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1434917 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=03bcb2c2-19a4-499d-8073-bcfe7442bd75 </URL>
+<DATE> 2011/02/20 </DATE>
+<TIME> 16:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bu hafta ��emsiyesiz ����kmay��n!
+</HEADLINE>
+<TEXT>
+Türkiye bol yağışlı bir haftaya giriyor. Hafta boyunca yurt genelinde yağmur hakim olacak.
+
+
+
+Türkiye yeni bir yağışlı havanının etkisine girecek. Yağışlar, ülke genelinde sağanak yağmur şeklinde olacak.
+
+Doğu Anadolu&rsquo;nun kuzeyi ve İç Anadolu&rsquo;nun doğusunda ise karla karışık yağmur ve kar görülecek.
+
+Marmara, Kıyı Ege ve Akdeniz&rsquo;de kuvvetli yağışa karşı sel uyarısı yapılıyor.
+
+Hava sıcaklığı ise yurdun dogusunda düşecek, diğer yerlerde de mevsim normallerinde seyredecek.
+
+</TEXT>
+</DOC>

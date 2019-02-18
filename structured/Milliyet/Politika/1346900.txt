@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346900 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/fff54ec/l/0l0smilliyet0n0btr0cdavayi0eactilar0eaciga0ealindilar0csiyaset0chaberdetay0c260b110b20a10a0c13185860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:09:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+davay������ a������t������lar a������������������a al������nd������lar
+</HEADLINE>
+<TEXT>’da yürütmeyi durdurma kararının kaldırılması yönünde ikinci kez AYİM ’e başvurmuştur. AYİM, itiraz talebini 5 Kasım 2010’da reddetmiştir. Adı geçen generaller ve amiral tarafından yürütmeyi durdurma istemli olarak açığa çıkarılma işleminin iptali için 23 Kasım 2010’da AYİM’e dava açıldığı öğrenilmiştir. Yargı süreci halen devam etmektedir.” </TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1436234 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=001511a8-e7ce-4b38-8895-aebacb777841 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 20:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ferrari'nin cezas�� kiev'de belli olacak
+</HEADLINE>
+<TEXT>
+Derbi maçta kırmızı kart görerk takımını 10 kişi bırakan Ferrari'nin cezası Kiev'de kesilecek.
+
+Beşiktaş&rsquo;ın derbide Fenerbahçe&rsquo;ye 4-2 yenildiği maçın 63. dakikasında kırmızı kart görerek takımını 10 kişi bırakan Matteo Ferrari&rsquo;ye Siyah-Beyazlı kulübün vereceği cezının çarşamba günü belli olacağı öğrenildi.
+ Beşiktaş Kulübü Basın Sözcüsü Mete Düren, maçın ardından yaptığı açıklamada Ferrari&rsquo;ye gereken cezayı yönetim kurulu olarak vereceklerini belirtmişti. Ancak Beşiktaş Kulübü Başkanı Yıldırım Demirören&rsquo;in yurt dışında olması sebebiyle Siyah-Beyazlı yönetimin Ferrari ile ilgili kararı, Dinamo Kiev maçı için çarşamba günü gidilecek Kiev&rsquo;de vereceği öğrenildi. 
+</TEXT>
+</DOC>

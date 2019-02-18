@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1396273 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3e9db66-f342-44c9-86c9-e88a8c42f8ce </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 09:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��a��la b��y��kak��ay ikinci eleme turunda
+</HEADLINE>
+<TEXT>
+Çağla Büyükakçay, Avustralya Açık tenis turnuvasının ilk eleme turunda Rus rakibi Alexandra Panova'yı 2-1 yendi ve ikinci eleme turuna kaldı.
+
+ 
+Dünya sıralamasının 190. sırasında bulunan Büyükakçay, 150. sırada yer alan rakibini 4-6, 6-4 ve 6-3&rsquo;lük setlerle yendi. 21 yaşındaki tenisçi, ikinci eleme turunda 154. sıradaki İtalyan Corrina Dentoni ile karşılaşacak.
+</TEXT>
+</DOC>

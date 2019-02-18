@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1334158 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/f878dd2/l/0lcadde0bmilliyet0n0btr0c20a10a0c110c110cyazardetay0c13119980cengelleri0egeride0ebirakacagiz/story01.htm </URL>
+<DATE> 2010/11/11 </DATE>
+<TIME> 02:07:54.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+engelleri geride b��rakaca����z
+</HEADLINE>
+<TEXT>PerşembeAna Sayfam YapFavorilerime EkleBize Ulaşın          var elmdate = document.getElementById('elmDate');          setToday();          function sendDate()          {          if(moveDate(0)>(new Date('11/15/2009'))&&moveDate(0)
+	
+		
+			
+				                                                                              Hakan Kırkoğlu          hkirkoglu@ttmail.com                                            Müneccimbaşı                                Engelleri geride bırakacağız      Bugün ne yapılabilir ? Bugün zorlu koşullarla karşılaşsak da, engelleri aşabileceğiz. Daha kararlı ve disiplinli bir yaklaşım içinde olmalıyız. İşe ait konuları önemli göreceğiz. Kısıtlamalara karşı direnç gösterebilmek için akılcı ve kontrollü davranabiliriz. Uzun vadeli ve gerçekçi bir yaklaşım çok işe yarayacak. Nelerden kaçınmalı? Olumsuz düşüncelere odaklanmak ve eksiklerimizi vurgulamak yerine daha pozitif bir bakış açısı edinmeyiz. Bugün kimi güven vermeyen tutumlara karşı uyanık olmamız gerekiyor ancak endişe yerine daha dikkatli bir tutum ortaya koyabilmeliyiz. Akşam saatlerinde hızlı hareket ederek, işleri yoluna koyabiliriz.          facebook      Google      Yahoo      Del.icio.us      reddit      Twitter      Mixx      Digg      StumpleUpon      Myscape      friend feed      11 Kasım 2010SEBAT GEREK10 Kasım 2010ÇABA iÇERiSiNDEYiZ08 Kasım 2010AŞK HAYATINIZA YENi BAKIŞ</TEXT>
+</DOC>

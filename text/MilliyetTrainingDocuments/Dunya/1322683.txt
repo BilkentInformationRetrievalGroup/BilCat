@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322683 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4dcaa1/l/0l0smilliyet0n0btr0cirak0eta0emeclis0e80ekasim0eda0etoplaniyor0cdunya0csondakika0c0a30b110b20a10a0c130a96620cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:01:32.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��rak'ta meclis 8 kas��m'da toplan��yor
+</HEADLINE>
+<TEXT>Irak meclisi, yeni meclis başkanının seçilmesi için pazartesi günü oturum yapacak.Martta yapılan genel seçimlerinin ardından hala hükümetin kurulamadığı Irak’ta, yeni meclis başkanının seçimiyle siyasi tıkanıklığın giderilmesi hedefleniyor.Geçici Meclis Başkanı Fuad Masum, meclisin internet sitesinde yayımladığı açıklamada, "bütün milletvekillerini 8 Kasım Pazartesi günü meclise gelerek, bir başkan ve iki yardımcısını seçmeye çağırdığını" bildirdi.Irak Yüksek Mahkemesi on gün önce, 8 aydır faaliyet göstermeyen parlamentonun çalışmaya başlamasını istemişti.Mahkeme, en son 14 Haziranda toplanan milletvekillerinin, yeni hükümetin kurulamaması yüzünden meclisi açık tutma, ancak oturumlara katılmama kararının yasadışı olduğuna hükmetmişti. Mahkemenin kararında, bu durumun anayasayı ihlal anlamına geldiği belirtilmişti.Irak’ta 7 Martta yapılan seçimlerde belirlenen 325 milletvekili, seçimden sonra bir kez toplanarak yemin etmişti. Meclisin 20 dakika süren bu oturumda Kuran-ı Kerim okunmuş, milli marş çalınmıştı.</TEXT>
+</DOC>

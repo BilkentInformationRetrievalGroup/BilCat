@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341783 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fca052f/l/0l0smilliyet0n0btr0cavustralyali0eikizleri0eolum0eayirdi0cdunya0csondakika0c190b110b20a10a0c131590a40cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 13:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+avustralyal�� ikizleri ��l��m ay��rd��
+</HEADLINE>
+<TEXT>Birlikte intihar etmeye karar veren Avustralyalı ikizlerden biri ölmedi.Yerel polis, 5 hafta kadar önce ABD’nin batısındaki Colorado eyaletine gelen 29 yaşındaki ikiz kızkardeşlerin bir kulüpte küçük kalibreli silahlarla karşılıklı birbirlerine aynı anda ateş ettiklerini belirtti.Polis, ikisi de kafasından vurulan kardeşlerden birinin öldüğünü, yaralı olarak hastaneye kaldırılan diğerinin hayatta kaldığını aktardı.</TEXT>
+</DOC>

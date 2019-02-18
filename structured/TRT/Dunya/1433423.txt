@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1433423 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3a13ed24-66ea-4f35-8804-15d065b454b6 </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 21:36:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+iran ticaretinde yapt��r��m s��k��nt��s��
+</HEADLINE>
+<TEXT>
+İran'ın petrol taşıma şirketi, tankerlerini sigortalatamıyor...
+
+
+İran&rsquo;a uygulanan uluslararası yaptırımlar, ülkenin ticari faliyetlerinde kendini gösteriyor.
+
+İran&rsquo;ın en büyük petrol taşıma şirketi, gemilerini sigortalayan şirketin poliçe yenileyemeyeceğini açıkladığını bildirdi.
+
+Avrupa Birliği&rsquo;nin uyguladığı yaptırımların, sigorta şirketininin İran ile iş yapmasını engellediği belirtildi.
+
+İranlı şirket yetkilileri, uluslararası sorunlardan dolayı kendilerinin mağdur olduğunu ve sorunun bir an önce giderileceğini umduklarını açıkladı.
+
+Nükleer silah geliştirmeye çalışmakla itham edilen İran, çalışmalarının barışçıl amaçlı olduğunu savunuyor.
+</TEXT>
+</DOC>

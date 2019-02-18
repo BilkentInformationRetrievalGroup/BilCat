@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323843 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f52d3ca/l/0l0smilliyet0n0btr0cfener0efark0eatti0cspor0chaberdetay0c0a40b110b20a10a0c130a99910cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:13:04.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+fener fark att��
+</HEADLINE>
+<TEXT>Taurasi’nin 34, Nevriye’nin ise 22 sayıyla oynadığı karşılaşmada sarı-lacivertliler ilk yarıyı da 55-53 önde kapattı. C Grubu’ndaki temsilcimiz Galatasaray Medical Park ise deplasmanda Rusya’nın Spartak Moskova Region ekibine 66-40 yenildi.</TEXT>
+</DOC>

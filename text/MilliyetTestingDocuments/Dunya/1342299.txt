@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1342299 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fcd41d7/l/0l0smilliyet0n0btr0cgurcistan0eda0eradyoaktif0emadde0eele0egecirildi0cdunya0csondakika0c190b110b20a10a0c13160a0a0a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 19:01:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+g��rcistan'da radyoaktif madde ele ge��irildi
+</HEADLINE>
+<TEXT>Gürcistan’da kaçak radyoaktif madde ele geçirildiği, 4 kişinin gözaltına alındığı bildirildi.İmedi televizyonunun haberinde, radyoaktif maddenin "Sezyum-137" olduğunun sanıldığı, başkent Tiflis yakınlarında ele geçirildiği kaydedildi.İçişleri Bakanlığı kaynakları, konuya ilişkin başka bir ayrıntı vermedi.Sezyum maddesi sanayide geniş bir kullanım alanına sahip, ayrıca radyoterapide kullanılıyor. Ancak bu madde, klasik patlayıcılarla birlikte radyoaktif madde serpintisine yol radyolojik bomba yapımında kullanılabiliyor.Gürcistan’da Mart ayında da, Ermenistan’dan Gürcistan’a 2 Ermeni tarafından kaçırılan 18 gram, çok yüksek derecede zenginleştirilmiş uranyum ele geçirilmişti.</TEXT>
+</DOC>

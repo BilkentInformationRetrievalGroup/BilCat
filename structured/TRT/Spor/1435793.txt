@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1435793 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=40faa24e-323d-4196-9ecc-943b27facad3 </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 14:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hamilton: ���sorunlar��m��z�� ����zece��iz���
+</HEADLINE>
+<TEXT>
+İngiliz pilot, McLaren’in dayanıklılık sorunlarına çözüm getireceğine inanıyor.
+
+McLaren’in İngiliz pilotu Lewis Hamilton, rakiplerinin testlerde pistte geçirdikleri zamanın kendisini şaşkınlığa uğrattığını söyledi.
+
+Mark Webber’in RB7 ile Barcelona’daki üçüncü günde kaydettiği 140 turun inanılmaz olduğunu ifade eden Hamilton, “Rakiplerimizin testlerde pistte kaldığı sürelere inanmakta zorlanıyorum. Şimdiye dek onlar kadar tur atamadık. Biraz zaman alacak olsa da onların performansına erişeceğiz” dedi.
+
+MP4-26’nın dayanıklılık sorununun kısa sürede çözüleceğine inandığını dile getiren Hamilton, “Bazı teknik problemlerle karşı karşıya kaldık. Ancak çok iyi bir ekibimiz var ve çözüm için gereken her şeyi yapacaklardır. Keşke hiç sorunumuz olmasa ama bu çok kolay bir şey değil. Gelişme kaydediyoruz ancak her şey bir günde olmuyor” diye konuştu.
+</TEXT>
+</DOC>

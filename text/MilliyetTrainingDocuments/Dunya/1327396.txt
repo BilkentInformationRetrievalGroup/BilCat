@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327396 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5f3e5a/l/0l0smilliyet0n0btr0cvietnam0eda0esellerde0eolu0esayisi0e160eya0eyukseldi0cdunya0csondakika0c0a50b110b20a10a0c1310a6290cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:01:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+vietnam'da sellerde ��l�� say��s�� 16'ya y��kseldi
+</HEADLINE>
+<TEXT>Vietnam’ın orta kesimlerinde etkili olan aşırı yağışların yol açtığı yeni sel felaketinde ölenlerin sayısının 16’ya yükseldiği bildirildi.Afet İdaresi yetkilileri, Phu Yen, Khanh Hoa, Ninh Thuan ve Dak Lak’da etkili olan seller nedeniyle 40 binden fazla kişinin de tahliye edildiğini söyledi.Vietnam’da aşırı yağışlar nedeniyle meydana gel sellerde son bir ayda ölenlerin sayısı 159 oldu.Yetkililer, yağışların süreceği konusunda uyarıda bulundu.</TEXT>
+</DOC>

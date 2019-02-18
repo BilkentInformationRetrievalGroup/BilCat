@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328899 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f65965e/l/0l0smilliyet0n0btr0cobama0ehindistan0eda0cdunya0csondakika0c0a60b110b20a10a0c1310a9860cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 11:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+obama hindistan'da
+</HEADLINE>
+<TEXT>ABD Başkanı Barack Obama, Ticaret Bakanı Gary Locke ile Hindistan’ın ticaret merkezi Mumbai (Bombay) kentine geldi.Başkanlık Uçağı Air Force One ile Mumbai’ye gelen Obama’nın Hindistan ziyareti, 10 günlük Asya turunun ilk durağı.Endonezya, Güney Kore ve Japonya’yı da ziyaret edecek Obama, Güney Kore’nin başkenti Seul’de gelecek hafta yapılacak G-20 Devlet ve Hükümet Başkanları toplantısına katılacak.Obama, Mumbai’de 2008 terör kurbanlarını anma toplantısı da katılacak ve ulusal önder Mahatma Mohandas Gandi’nun evini ziyaret edecek.</TEXT>
+</DOC>

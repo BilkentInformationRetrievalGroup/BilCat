@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1423703 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0f7730c4-c173-47e5-9cc9-feabe33e7bdb </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 18:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yolcu minib��s�� kanala u��tu
+</HEADLINE>
+<TEXT>
+Kastamonu'da sürücüsünün kontrolünden çıkan minibüs kanala uçtu. Kazada bir yolcu öldü, 12 kişi ise yaralandı. 
+
+   Kastamonu&rsquo;dan aldığı yolcuları Daday&rsquo;a götüren minübüs,
+     Kasaba Köyü yakınlarında sürücünün hakimiyetini kaybetmesi sonucu su kanalına uçtu.
+
+     Yolculardan 49 yaşındaki Müşerref Kebelioğlu olay yerinde hayatını kaybetti. 
+
+     Kazada yaralanan 12 kişi ise olay yerine gelen çok sayıda ambulansla çevredeki hastanelere kaldırıldı.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1411331 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b7db1ec3-1b6b-4cd1-a6ed-122d2ca39b8d </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 13:03:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+milliler portekiz'le iki ma�� yapacak
+</HEADLINE>
+<TEXT>
+ Portekiz ile 1 ve 3 Şubat'ta deplasmanda iki özel maç yapacak 18 Yaş Altı Milli Futbol Takımı aday kadrosu yarın İstanbul'da toplanacak.
+
+Teknik direktörlüğünü Kemal Özdeş&rsquo;in yaptığı 18 Yaş Altı Milli Takımı&rsquo;nın aday kadrosuna şu oyuncular davet edildi:
+İbrahim Selen, Muhammed Alperen Uysal, Sadık Çiftpınar (Galatasaray), Atınç Nukan, Cumali Bişi (Beşiktaş), Emre Pehlivan (Bursaspor), Mehmet Topçu (Fenerbahçe), Onur Yavuz (Gençlerbirliği), Bilal Gülden (Ankaragücü), Eray Ataseven (Manisaspor), Erhan Kartal, Ozan Evrim Özenç (Denizlispor), Oğuzhan Azğar (Samsunspor), Artun Akçakın, Çağrı Tekin (Hacettepe), Taşkın Çalış (Borussia Mönchengladbach), Şervan Taştan (Metz), Erdal Akdarı (Hannover 96).
+
+
+</TEXT>
+</DOC>

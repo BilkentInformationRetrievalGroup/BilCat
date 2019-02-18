@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1402877 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5c9efae9-1a87-421b-9ee7-f2bc1f1a8698 </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 15:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev ma����n bilet fiyatlar��
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası'nda Beşiktaş ile Trabzonspor arasında yapılacak maçın biletleri 22 Ocak Cumartesi günü satışa sunulacak.
+
+Beşiktaş&rsquo;ın Ziraat Türkiye Kupası B Grubu&rsquo;nda 26 Ocak Çarşamba günü Trabzonspor ile Fiyapı İnönü Stadı&rsquo;nda oynayacağı maçın biletleri 22 Ocak Cumartesi günü saat 11.00&rsquo;den itibaren Biletix gişelerinden satışa çıkarılacak.
+ Biletlerin fiyatları şöyle:
+ VIP Üst B ve E 275,00 TL
+ VIP Üst A ve F 250,00 TL
+ VIP Alt A ve F 150,00 TL
+ VIP Alt B ve E 200,00 TL
+ VIP Alt C ve D 250,00 TL
+ Numaralı Orta 150,00 TL
+ Numaralı Kenar 125,00 TL
+ Kapalı Üst 110,00 TL
+ Kapalı Alt 90,00 TL
+ Yeni Açık 50,00 TL
+ Eski Açık 40,00 TL
+ Trabzonsporlu taraftarlar için ayrılan biletlerin 40 TL&rsquo;den satılacağı kaydedildi.
+</TEXT>
+</DOC>

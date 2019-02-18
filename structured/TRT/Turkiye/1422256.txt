@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1422256 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4d2173ab-4cd6-4129-95ed-fbdbfbafd62b </URL>
+<DATE> 2011/02/08 </DATE>
+<TIME> 13:15:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bursa'da feci kaza
+</HEADLINE>
+<TEXT>
+Kontrolden çıkarak dereye uçan otomobildeki 5 kişi öldü.
+
+
+ Bursa&rsquo;da meydana gelen trafik kazasında ikisi çocuk 5 kişi hayatını kaybetti. 
+
+     Kaza, Karacabey ilçesi yakınlarındaki Canbolu köprüsünde meydana geldi. 
+     Sürücünün kontrolünden çıkan bir otomobil köprüden dereye uçtu. 
+
+     İhbar üzerine olay yerine gelen ekipler ikisi 11 ve 15 yaşlarında çocuklar olmak üzere 5 kişinin cesedini buldu. 
+
+     Derede, düşen araca ait olduğu tahmin edilen üzerinde &rsquo;16 CHJ 55&rsquo; yazılı plaka ile içinde &rsquo;Şükriye Sarı&rsquo;ya ait kimlik bulunan bir çanta bulundu. 
+
+     Başka cesetler olma ihtimali üzerine arama çalışmaları sürdürülüyor. 
+
+
+</TEXT>
+</DOC>

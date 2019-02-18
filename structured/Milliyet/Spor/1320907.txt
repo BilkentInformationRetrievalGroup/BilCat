@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320907 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f4455d4/l/0l0smilliyet0n0btr0cbeko0ebasketbol0eligi0ende0ehaftanin0eprogrami0e0cspor0csondakika0c0a20b110b20a10a0c130a91650cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:16:58.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+beko basketbol ligi'nde haftan��n program��...
+</HEADLINE>
+<TEXT>Beko Basketbol Ligi’nde 4. haftanın programı belli oldu.Basketbol Federasyonu’ndan yapılan açıklamaya göre hafta sonu yapılacak 4. hafta maçlarının programı şöyle:         6 Kasım Cumartesi:         16.00 Antalya Büyükşehir Belediyesi-Banvit (Antalya Atatürk)         17.00 Olin Edirne Basket-Aliağa Petkim (Edirne Mimar Sinan)         20.00 Beşiktaş Cola Turka-Bornova Belediyesi (BJK Cola Turka Arena)         15.00 Fenerbahçe Ülker-Oyak Renault (Sinan Erdem)         18.00 Pınar Karşıyaka-Mersin Büyükşehir Belediyesi (Karşıyaka)         17.30 Erdemir-Türk Telekom (Erdemir)         7 Kasım Pazar:         15.00 Tofaş-Efes Pilsen (Bursa Atatürk)         13.00 Medical Park Trabzonspor-Galatasaray Cafe Crown (19 Mayıs)</TEXT>
+</DOC>

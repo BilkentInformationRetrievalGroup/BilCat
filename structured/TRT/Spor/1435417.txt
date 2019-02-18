@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1435417 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2c8c10d3-2d83-4082-aebe-0ba0ca44428e </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 09:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+nba all star
+</HEADLINE>
+<TEXT>
+LeBron James, NBA All-Star tarihinde Michael Jordan'dan sonra triple-double yapan ikinci oyuncu oldu. 
+
+NBA All-Star mücadelesinde Batı Karması, Doğu Karması&rsquo;nı 148-143&rsquo;lük skorla mağlup etti. 
+Staples Centre&rsquo;da oynanan karşılaşmada, Batı konferansında forma giyen Kobe Bryant, 37 sayı, 14 ribaund, 3 asistlik performansı ile gecenin en değerli oyuncusu seçildi.  
+Doğu konferansında ise LeBron James 29 sayı, 12 ribaund, 10 asistlik performansı ile triple-double yaparken, NBA All-Star tarihinde Michael Jordan&rsquo;dan sonra triple-double yapan ikinci oyuncu oldu. 
+ 1. Periyot: Doğu 27-37 Batı 2. Periyot: Doğu 37-39 Batı 3. Periyot: Doğu 36-41 Batı 4. Periyot: Doğu 43-31 Batı
+
+
+</TEXT>
+</DOC>

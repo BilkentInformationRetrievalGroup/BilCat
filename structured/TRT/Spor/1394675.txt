@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1394675 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=aa4e8089-e84a-47d4-b5f7-7508c972263b </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 20:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+arkas spor turlad��
+</HEADLINE>
+<TEXT>
+Voleybolda, GM Capital Erkekler Çalenç Kupası 8'li finallerinde Arkas Spor, deplasmanda Belarus ekibi Stroitel Minsk'i 3-1 yendi.
+
+ 
+Belarus&rsquo;ta oynanan karşılaşmada Türk ekibi setleri 25-16, 21-25, 25-27 ve 20-25 kazanarak, adını bir üst tura yazdırmayı başardı.
+ 
+Arkas Spor, İzmir&rsquo;de yapılan ilk maçta da rakibini 3-0 yenmişti
+</TEXT>
+</DOC>

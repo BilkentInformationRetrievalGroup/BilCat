@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1395760 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cd56c9ea-529a-4bb5-b608-dd3a43c0d143 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 17:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+12 g��nde 28 milyon bor�� ��dedik
+</HEADLINE>
+<TEXT>
+Türkiye, 1-12 Ocak 2011 tarihleri arasında özel sektör borçları hariç 28 milyon 240 bin dolar dış borç ödemesi gerçekleştirdi. 
+
+Merkez Bankası haftalık verilerine göre,  dış borç ödemesinin 20,2 milyon doları Hazine, 7,1 milyon doları genel ve katma bütçeli idarelerin dokümantasyon, kitap bedeli, katılma payı, üyelik aidatı ödemeleri ile MSB ve Savunma Sanayii ödemeleri gibi kalemler, 95 bin doları doları Türkiye Cumhuriyet Merkez Bankası ödemesinden oluştu.
+
+Söz konusu dönemde IMF&rsquo;ye ve Türk Savunma Fonu&rsquo;na ödeme yapılmadı.
+
+Türkiye, 2010 yılında toplam 13 milyar 327,9 milyon dolar tutarında dış borç ödemesi yapmıştı.
+
+</TEXT>
+</DOC>

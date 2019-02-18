@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1431594 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=507c9b99-eb08-4ff7-8b44-51532596ce05 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 12:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bakanl��k'tan "ithal et" a����klamas��
+</HEADLINE>
+<TEXT>
+Tarım Bakanlığı, son günlerde kamuoyunda canlı sığır ithalatı ile ilgili gündeme gelen gelişmeler üzerine bir açıklama yaptı.
+
+Bakanlık, canlı hayvan ve et ithalatında alınabilecek en üst tedbirlerin alındığını bildirdi.
+
+Bakanlık&rsquo;tan yapılan yazılı açıklamada, &quot;Bakanlığımız canlı hayvan ve hayvansal ürünlerle ilgili  bütün ithalat kararlarını, üyesi olduğumuz Dünya Hayvan Sağlığı Teşkilatı standartlarına ve ulusal mevzuatımıza göre yürütmektedir. Bu nedenle insan ve hayvan sağlığı açısından herhangi bir sorun bulunmamaktadır&quot; denildi. 
+
+Söz konusu standartların dışında bazı ilave önlemlerin de alındığı bilgisine yer verilen açıklamada, şimdiye kadar ithal edilen canlı hayvanlarda bir hastalık tespit edilemediği de kaydedildi. 
+
+</TEXT>
+</DOC>

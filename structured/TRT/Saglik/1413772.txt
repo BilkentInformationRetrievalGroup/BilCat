@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1413772 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bf36d4b1-6e7d-4c88-b6bf-cd89f733a47f </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 11:42:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��nce kafada bitirmek gerekiyor
+</HEADLINE>
+<TEXT>
+Amerikalı bilim adamları beyin faaliyetleri ile sigarayı bırakma kararı arasında ilişki tespit etti.
+
+ Beyin faaliyetleri, sigarayı bırakmayı planlayan bir kişinin kararlılığı hakkında fikir verebiliyor.
+
+Amerika Birleşik Devletleri&rsquo;nin Michigan Üniversitesinden bilim adamları, sigarayı bırakmaya çalışan bazı kişilere, sigarayı bırakmaya ilişkin mesajların verildiği bazı programlar seyrettirdi. 
+
+  Bu sırada katılımcıların beyin faaliyeti görüntülendi.
+
+  Her mesajdan sonra katılımcılar ne kadar etkilendiklerini ve kararlılıklarının artıp artmadığını not etti.
+
+ Mesajlar sırasında beynin ön korteks bölümünün faaliyete geçtiği görülen kişilerin bir sonraki ay sigarayı azaltmaya daha hevesli olduğu belirlendi.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318626 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f38507b/l/0l0smilliyet0n0btr0ckilicdaroglu0ena0esayistay0eyaniti0csiyaset0chaberdetay0c0a10b110b20a10a0c130a84880cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/10/31 </DATE>
+<TIME> 01:00:00.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+k��l����daro��lu���na say����tay yan��t��
+</HEADLINE>
+<TEXT>RA ANKATeklifin mimarlarından olan Canikli, getirilen yeni değişikliklerle, Sayıştay’ın genel bir denetim birimi haline geldiğini belirtti. Canikli, “Daha önceki uygulamada dış denetim, kurumların denetimi teftiş kurulları tarafından yapılıyordu. Bu denetim bakanlıklardan yani şimdi teftiş kurullarından alınıp Sayıştay’a veriliyor. En önemli düzenlemelerden bir tanesi de bu” dedi.</TEXT>
+</DOC>

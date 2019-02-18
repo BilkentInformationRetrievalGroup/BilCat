@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 1397313 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4f22ddfa-e245-408a-af3d-6db5a3bf470f </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 08:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+masaba���� ��al����anlar, sa��l������n��z i��in...
+</HEADLINE>
+<TEXT>
+Uzmanlar masa başında çalışanların molalarda oturmak yerine hareket etmeleri tavsiyelerinde bulundu.
+
+
+Uzun süre oturmanın sağlığı olumsuz etkilediğini ortaya koyan uzmanlar, masa başında çalışanlara verdikleri kısa molalarda oturmak yerine hareket etmeleri tavsiyesinde bulundu.
+
+İtalyan La Stampa gazetesinde çıkan habere göre, Avustralya&rsquo;daki Queensland Üniversitesinde yapılan bir araştırma, masa başında çalışanların kısa süreli molalar vererek az da olsa hareket etmesinin, kalp sağlıklarını korumalarına yardımcı olduğunu gösterdi.
+
+Uzmanlara göre, bu molalar ateroskleroz ve diyabet gibi hastalıklardan da korumaya yardımcı oluyor.
+
+Araştırma ekibinden Genevieve Healy, verilen molaların sayısına göre, bel ölçülerinde önemli farklılıklar gözlemlediğini belirterek, iş yerinde ara sıra ayağa kalkarak hareket etmeyi alışkanlık haline getirenlerin bellerinin ortalama 4 santimetre daha ince olduğunu söyledi.
+
+Sağlık İçin Daha Fazla Hareket...
+&quot;Sağlık için daha fazla hareket edin&quot; çağrısında bulunan uzmanların, masa başında çalışanlara yaptığı diğer bazı öneriler ise şöyle:
+* Şayet bir iş arkadaşınızla konuşmanız gerekiyorsa telefon açmak yerine kalkıp yanına gidin.
+* Her katta lavabo varsa, diğer katlardakileri kullanmaya çaba gösterin. 
+* Asansörü değil, merdivenleri kullanın. 
+* Telefon açmanız gerekiyorsa, ayakta açın.
+</TEXT>
+</DOC>

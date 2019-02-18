@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1397149 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d9ebee65-2cda-4882-89bf-74255f3daf1f </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 03:01:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+meksika'da 50 ara��l��k inan��lmaz kaza
+</HEADLINE>
+<TEXT>
+Meksika'nın Saltillo kentinde meydana gelen eşine az rastlanır zincirleme kazada, buzlanma ve yoğun sis yüzünden 50 araç birbirine girdi.
+
+
+
+    Zincirleme kazanın böylesi hiç görülmedi.
+
+   Meksika&rsquo;nın Saltillo kentinde bir otoyolda 50 araç birbirine girdi.
+    
+     Kazaya, sis yüzünden görüş mesafesinin bir iki metreye kadar düşmesi ve yoldaki gizli buzlanma neden oldu.
+
+     Yerel kanallar, olay yerine gitmeye çalışan bir polis aracının ve iki ambulansın da kazaya karıştığını duyurdu.
+
+     50 aracın birbirine girmesine rağmen can kaybı yaşanmadı.
+
+     Yaralanan 15 kişi ise hastaneye kaldırıldı.
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 1398406 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8e666d34-8860-4542-a4fe-7af1b57288b9 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 14:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hava so��uyor, ya������ geliyor
+</HEADLINE>
+<TEXT>
+Hava sıcaklığı yağışlı havayla birlikte Marmara'da 4 ila 6, Ege'de 2 ila 4 derece azalacak, diğer yerlerde önemli bir değişiklik olmayacak.
+
+Devlet Meteoroloji İşleri Genel Müdürlüğü’nün son verilerine göre hava sıcaklığı yağışla birlikte Marmara’da 4 ila 6, Ege’de 2 ila 4 derece azalacak, diğer yerlerde önemli bir değişiklik olmayacak.
+
+Rüzgar genellikle kuzey ve kuzeybatı yönlerden hafif, arasıra orta kuvvette, Marmara ile Kıyı Ege’de kuzey ve kuzeydoğu yönlerden kuvvetlice (30-50 Km/s) esecek.
+
+Kuvvetli Yağış ve Rüzgar Uyarısı
+
+İstanbul, Tekirdağ, Edirne, Çanakkale, Bursa, Yalova, Kocaeli ve Bandırma çevrelerinde yağışların kuvvetli olması beklendiğinden yaşanabilecek olumsuzluklara karşı (sel, su baskını vb.) ayrıca, rüzgarın; Marmara ve Kıyı Ege’de kuzey ve kuzeydoğu yönlerden kuvvetlice (30-50 Km/S) esmesi beklendiğinden yaşanabilecek olumsuzluklara karşı (çatı uçması, ulaşımda aksamalar vb.) dikkatli ve tedbirli olunması gerekiyor.
+
+Buzlanma, Don ve Sis Uyarısı
+
+Gece ve sabah saatlerinde ülkemizin iç ve doğu kesimlerinde buzlanma ve don olayı beklendiğinden, yaşanabilecek olumsuzluklara karşı (ulaşımda aksamalar vb.) ayrıca, gece ve sabah saatlerinde ülkemizin kuzey, iç ve doğu kesimlerinde yer yer yoğun olmak üzere sis hadisesi beklendiğinden yaşanabilecek olumsuzluklara karşı (ulaşımda aksamalar vb.) dikkatli ve tedbirli olunması gerekiyor
+
+Bölgelere Göre Hava Durumu
+Devlet Meteoroloji İşleri Genel Müdürlüğü’nün son verilerine göre bölgelerde hava durumu şöyle olacak:
+
+MARMARA: Parçalı ve çok bulutlu aralıklı yağışlı geçecek. Yağışlar İstanbul, Tekirdağ, Edirne, Çanakkale, Bursa, Yalova, Kocaeli ve Bandırma çevrelerinde kuvvetli olmak üzere genellikle yağmur, Edirne ve Kırklareli çevrelerinde karla karışık yağmur şeklinde görülecek. Rüzgar sabah saatlerinden itibaren bölge genelinde kuzey ve kuzeydoğu yönlerden kuvvetlice (30-50 Km/S) esecek.
+
+EGE: Çok bulutlu; kıyı kesimleri ile Kütahya çevreleri aralıklı yağmurlu geçecek. Gece ve sabah saatlerinde bölgenin iç kesimlerinde sis ile birlikte yüksek kesimlerde hafif buzlanma ve don olayı bekleniyor. Rüzgar kıyı kesimlerde kuzey ve kuzeydoğu yönlerden kuvvetlice (30-50 km/s) esecek.
+
+AKDENİZ: Çok bulutlu, batısı aralıklı sağanak yağmurlu geçecek.
+
+İÇ ANADOLU: Parçalı ve çok bulutlu geçecek. Bölge genelinde gece ve sabah saatlerinde sis, doğusunda buzlanma ve don olayı ile birlikte sis görülecek.
+
+BATI KARADENİZ: Parçalı ve çok bulutlu; akşam saatlerinden itibaren bölge geneli yağışlı geçecek. Yağışlar kıyı kesimlerde yağmur, iç kesimlerde yağmur ve karla karışık yağmur, yükseklerde kar şeklinde olacak. Gece ve sabah saatlerinde bölgenin iç kesimlerinde buzlanma ve don olayı ile birlikte yer yer sis bekleniyor.
+
+ORTA ve DOĞU KARADENİZ: Parçalı ve çok bulutlu; Sabah saatlerinde Rize ve Hopa, gece saatlerinde Samsun çevreleri yağmurlu geçecek. Gece ve sabah saatlerinde bölgenin iç kesimlerinde buzlanma ve don olayı ile birlikte yer yer sis bekleniyor.
+
+DOĞU ANADOLU: Parçalı, doğusu çok bulutlu, öğle saatlerinde Hakkari ve Van çevreleri kar yağışlı geçecek. Gece ve yarın sabah saatlerinde kuvvetli buzlanma ve don olayı ile birlikte yer yer sis bekleniyor.
+
+GÜNEYDOĞU ANADOLU: Parçalı bulutlu.
+
+ 
+ 
+</TEXT>
+</DOC>

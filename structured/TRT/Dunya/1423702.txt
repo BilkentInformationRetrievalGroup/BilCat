@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1423702 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=39ba1c73-3996-4719-af68-4cb103958e5e </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 18:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta sald��r��: 7 ��l��
+</HEADLINE>
+<TEXT>
+Irak'ın Kerkük kentinde meydana gelen bombalı saldırıda 7 kişi öldü, en az 80 kişi yaralandı.
+
+     Kerkük, art arda düzenlenen üç bombalı saldırı ile sarsıldı.
+
+     İlk iki saldırının etkisi geçmeden, 3&rsquo;üncü patlama meydana geldi.
+
+     Kenti yerle bir eden sonuncu bombanın, bir otomobilin içine yerleştirildiği tespit edildi.
+
+     Asayiş amirliğinin yalnızca bir sokak uzağında meydana gelen olayda, karakolda görevli Albay Ahmed Şamerani&rsquo;nin hedef alındığı sanılıyor.
+
+     Yetkililer, ölenlerden bazılarının karakolda görevli polisler olduğunu, ancak aralarında Şamerani&rsquo;nin bulunmadığını açıkladı.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331993 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f7546d6/l/0l0smilliyet0n0btr0cborsa0eyuzde0e0a0e230eyukseldi0cekonomi0csondakika0c0a80b110b20a10a0c13118630cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 19:00:43.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+borsa y��zde 0,23 y��kseldi
+</HEADLINE>
+<TEXT>İstanbul Menkul Kıymetler Borsasında (İMKB) işlem gören hisse senetleri günlük bazda ortalama yüzde 0,23 oranında değer kazandı.İMKB 100 Endeksi, ikinci seansta 439,64 puan artarak 70.941,06 puandan kapandı. Hisse senetleri ikinci seansta ortalama yüzde 0,62 oranında yükseldi.İlk seanstaki 277,73 puanlık düşüş dikkate alındığında, borsa endeksi günün tamamında 161,91 puan arttı.Hisse senetleri günlük bazda ortalama yüzde 0,23 değer kazandı.</TEXT>
+</DOC>

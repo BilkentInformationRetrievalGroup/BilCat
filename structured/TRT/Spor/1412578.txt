@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1412578 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=4ff03b83-0593-4f4f-b18c-ad8adc952a8d </URL>
+<DATE> 2011/01/29 </DATE>
+<TIME> 21:20:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+erzurum'da zirve rusya'n��n
+</HEADLINE>
+<TEXT>
+5. Dünya Üniversiteler Kış Oyunları'nda üçüncü gün sonunda en fazla madalyayı Rusya kazandı.
+
+Organizasyonda en fazla sporcu ile yer alan Rusya, madalya sıralamasında 6 altın, 2 gümüş ve 3 bronzla ilk sırada bulunuyor. 
+
+Oyunlarda üçüncü gün sonunda madalya sıralamasına bakıldığında Rusya&rsquo;yı 2 altın bir gümüş ve 3 bronz madalya alan Güney Kore ve 1 altın, 1 gümüş ve 1 bronz madalya kazanan Çin takip ediyor. 
+</TEXT>
+</DOC>

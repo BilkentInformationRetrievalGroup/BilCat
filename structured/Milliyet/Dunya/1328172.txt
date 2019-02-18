@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328172 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f634a29/l/0l0smilliyet0n0btr0cnorvec0eabd0earasinda0efisleme0ekrizi0cdunya0chaberdetay0c0a60b110b20a10a0c1310a7990cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+norve��-abd aras��nda fi��leme krizi
+</HEADLINE>
+<TEXT>Norveç’te yayın yapan TV2 kanalı, ABD’nin Oslo Büyükelçiliği’nin, ülkedeki Amerikan çıkarlarına olası tehditleri önlemek için 2000’den beri Norveç vatandaşlarını izlediğini öne sürdü. Habere göre, Amerikan elçiliği, aralarında Norveç polis teşkilatının eski üst düzey yetkililerinin de bulunduğu 15-20 kişiyi Norveçlileri izlemek için görevlendirdi. Amerikan elçiğili için çalışan bu kişiler, gösterilere katılanların fotoğraflarını çekti ve kişisel bilgilerini bilgisayar ortamındaki özel bir sistemle fişledi.Açıklama istedilerHaberin yayınlanmasının ardından Norveç Dışişleri Bakanlığı, ABD Büyükelçiliği yetkilileriyle temasa geçti ve bu konuda resmen açıklama istedi. Dışişleri Bakanı Jonas Gahr Stoere, haberin doğru olup olmadığının henüz kesinleşmediğini belirtirken, “Norveç yasalarının ihlal edilmesi ciddi bir durumdur” diye ekledi.ABD Dışişleri Sözcüsü P. J. Crowley ise Norveç hükümetinin izleme çalışmalarından önceden haberdar edildiğini, ancak “her şeyi bilmiyor olabileceklerini” söyledi.</TEXT>
+</DOC>

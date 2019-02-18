@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1394316 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dea9f7fd-567c-4f70-83b2-d1ff291933da </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 14:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��itme cihaz��n�� sgk ��deyecek
+</HEADLINE>
+<TEXT>
+SGK’nın analog işitme cihazı için 210 TL, dijital işitme cihazı için ise 420 TL sınırına kadar ödeme yapmasını öngören kararının yürütmesi durduruldu.
+
+Karar doğrultusunda SGK, işitme cihazlarının ücretinin tamamını ödeyecek. 
+
+SGK, yaptığı açıklama ile kurumları aleyhine işitme cihazları ile ilgili açılan dava neticesinde; Danıştay 10. Dairesinin, 25 Mart 2010 tarihinde Resmi Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği’nin İşitme Cihazları kısmında yer alan analog işitme cihazı için 210 TL, dijital işitme cihazı için 420 TL ödeme yapılacağına ilişkin sınırlamanın yürütmesinin durdurulduğuna karar verdiğini bildirdi. 
+
+Mahkemenin verdiği karara göre, SGK kapsamındaki kişilerin kullanmakta oldukları işitme cihazı bedellerinin ödenebilmesi için söz konusu mahkeme kararının kuruma tebliğ edildiği 22 Aralık 2010 tarihinden itibaren 2010 yılı Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği’nin “7.2.2. Ayakta tedavilerde reçete karşılığı hasta tarafından temin edilen tıbbi malzeme bedellerinin ödenmesi” maddesinde yer alan hükümler doğrultusunda işlem yapılmasının uygun görüldüğü belirtildi.
+
+
+</TEXT>
+</DOC>

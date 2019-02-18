@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1413909 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=eb8af26f-3a91-48d4-98c7-64d0d280894c </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 12:25:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bbc'den erdo��an belgeseli
+</HEADLINE>
+<TEXT>
+İngiliz televizyon kanalı BBC, Başbakan Erdoğan’ın hayatını anlatan bir belgesel hazırlayacak. 
+
+BBC, Başbakan Recep Tayyip Erdoğan’ın belgeselini hazırlıyor.
+
+Seçimlerden önce yayınlanması planlanan belgeselde Erdoğan’ın iç politika ve Ortadoğu’daki etkinliği ele alınacak.
+
+Başbakan’ın ve AK Parti hükümetinin son dönem politikalarına mercek tutacak olan BBC, 12 Eylül referandumu öncesi Erdoğan’ın mitinglerinden görüntüler aldı.
+
+Belgeselde, 1994’te geldiği Belediye Başkanlığı görevinden bu yana Cumhurbaşkanı seçimi ve Anayasa değişikliği referandumu da dahil olmak üzere arka arkaya 7 seçim kazandığı anlatılacak ve Haziran seçimlerinde izleyeceği politika ele alınacak.
+
+Erdoğan’ın, Türkiye’nin küresel ekonomik krizden başarıyla çıkması ve büyümesi ele alınarak, “Dünyanın Dikkatini Çeken Türkiye” vurgusuna yer verilecek. Eksen kayması tartışmaları, Ortadoğu ve diğer bölge ülkeleriyle ilişkiler konusunda da Erdoğan’ın mesajlarına yer verilmesi bekleniyor.
+
+Özellikle Lübnan, İran ve Irak’taki girişimler AK Parti hükümetinin yürüttüğü başarılı çalışmalar olarak değerlendiriliyor. 
+ 
+
+</TEXT>
+</DOC>

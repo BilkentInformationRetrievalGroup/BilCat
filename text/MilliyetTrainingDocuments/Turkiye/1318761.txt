@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1318761 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f384d22/l/0l0smilliyet0n0btr0ciste0epatlama0eani0cturkiye0csondakika0c0a10b110b20a10a0c130a83480cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 01:13:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+i��te patlama an��
+</HEADLINE>
+<TEXT>Olay yerinde üzeri gazete ile kapalı yerde yatan ve canlı bomba olduğu sanılan erkek kişinin fotoğrafları çekildi. Canlı bombanın üzerinde bir fünye daha olduğu ortaya çıktı. Bomba ekipleri bu fünyeyi patlattı.Bu arada polis helikopteri Taksim ve çevresinde de uçuş yaptı. Olay yerine barikat kuruldu ve gazetecilerin yaklaşmasına izin verilmedi. Olay yerinde patlamayla ilgili parçalar uzman polis ekipleri tarafından toplanıyor</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1398119 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3f26d467-33ce-492f-ba63-6fa971e6defa </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 05:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+davuto��lu'ndan ba��sa��l������
+</HEADLINE>
+<TEXT>
+Danimarka'da hapiste yaşamını yitiren Türk gencinin ailesine başsağlığı diledi.
+
+Dışişleri Bakanı Ahmet Davutoğlu, Danimarka&rsquo;da hapiste hayatını kaybeden Ekrem Şahin&rsquo;in ailesini arayarak başsağlığı diledi.
+
+Davutoğlu, Ekrem Şahin&rsquo;in amcası Yusuf Şahin&rsquo;i arayarak başsağlığı dileklerini iletti.
+       
+Bu arada Ekrem Şahin&rsquo;in naaşının Pazartesi günü Türkiye&rsquo;ye getirilmesi bekleniyor.
+
+İki yıllık hapis cezasını çektiği Danimarka&rsquo;nın Kolding Hapishanesinde gardiyanlar tarafından komalık edildiği iddia edilen 23 yaşındaki Türk genci Ekrem Şahin hayatını kaybetmişti.
+</TEXT>
+</DOC>

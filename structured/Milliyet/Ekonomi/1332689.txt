@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1332689 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f8254ba/l/0L0Smilliyet0N0Btr0Cnumara0Etasimada0E220Emilyona0Eyaklastik0Cekonomi0Csondakika0C10A0B110B20A10A0C13126330Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 13:04:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Numara taşımada 22 milyona yaklaştık
+</HEADLINE>
+<TEXT>Mobil abonelerin numara değiştirmeden farklı operatörden hizmet alabilmesine imkan sağlayan  Sisteminin (NTS) ’de hizmete girmesinin ikinci yılında numara taşıyan abone sayısı 22 milyona yaklaştı.
+
+Alınan bilgiye göre, 9 Kasım 2008’de hizmete giren ve dün itibariyle 2.
+
+yılını dolduran NTS kapsamında 21 milyon 931 bin 943 mobil numara taşındı. Buna göre, Türkiye’de günde ortalama 30 bin abone operatör değiştirdi.
+
+Bu yılın ikinci çeyrek rakamlarına göre, 61.5 milyon mobil abone bulunan Türkiye’de taşınan numara sayısının toplam abone sayısına oranı da yüzde 35 olarak gerçekleşmiş oldu. Geçen yıl 10 Eylülde başlayan sabit hatlarda numara taşınabilirliği uygulamasından ise bugüne kadar sadece 17 bin 448 abone yararlandı.
+
+Uygulamada cep telefonu numarasını değiştirmeden başka operatöre geçmek isteyen aboneler, geçiş yapacağı operatörlerin bayilerine başvuruyor.
+
+Operatörler, talepleri değerlendiriyor ve numaranın taşınması bir kaç gün içerisinde tamamlanıyor.
+
+Numara taşıma uygulaması  ülkelerinde de uygulanıyor. Buna göre, , ,  2004’te, , ,  ve  2003’te, , ,  2002’de, , ,  2001’de, , Avusturya,  2000’de,  ve  1999’da numara taşınması uygulamasını başlattı. Birlik üyesi ülkelerde numara taşınabilirliğinin ilk uygulanmaya başlandığı yıllarda taşınan numara sayısı beklenenden az gerçekleşti. Bunun nedenleri arasında, "abonelerin hizmetten haberdar olmamaları" gösterildi. Son yıllardaki taşıma oranlarının ilk yıllardan çok fazla olduğu belirlendi.
+
+Uygulamanın başarısını etkileyen faktörler arasında, "Kuralların baştan belirlenmiş olması ve değişen koşullara cevap verebilecek esneklikte olması", "Tek bir yere başvuru gibi taşıma yönteminin abone açısından kolay olması", "Taşıma süresinin uzunluğu", "Taşıma başına ücret alınıp alınmayacağı", "Hizmet tanıtımı ve abone tarafından bilinirliği" sayılıyor.</TEXT>
+</DOC>

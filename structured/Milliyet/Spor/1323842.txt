@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323842 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f52d3cc/l/0l0smilliyet0n0btr0cdevler0egol0eyagdirdi0cspor0chaberdetay0c0a40b110b20a10a0c130a99890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:13:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+devler gol ya��d��rd��
+</HEADLINE>
+<TEXT> E Grubu’nda Hamit Altıntop’un 90 dakika formasını giydiği Bayern Münih, rakip sahada CFR Cluj’u 4-0’lık skorla devirerek gruptan çıkmayı garantiledi. Son dakikada yerini Albiol’a bırakan Mesut Özil’in takımı Real Madrid de G Grubu’nda konuk olduğu Milan’la 2-2 berabere kalarak ikinci tur biletini aldı. Cüneyt Çakır’ın yönettiği ve Chelsea lehine bir de penaltı düdüğü çaldığı F Grubu mücadelesinde ev sahibi İngiliz ekibi, Rus Spartak Moskova’yı 4-1’le geçerek gecenin bir diğer gruptan çıkmayı garantileyen takımı oldu.</TEXT>
+</DOC>

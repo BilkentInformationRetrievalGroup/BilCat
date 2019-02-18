@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 1381695 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e88365fb-200b-4ca6-abc0-f88e978e2e99 </URL>
+<DATE> 2011/01/03 </DATE>
+<TIME> 10:28:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye'nin 2010 ihracat rakam��
+</HEADLINE>
+<TEXT>
+Devlet Bakanı Zafer Çağlayan, Türkiye'nin 2010 yılı ihracat rakamını açıkladı. 
+
+Devlet Bakanı Zafer Çağlayan, Türkiye İhracatçılar Meclisi (TİM) verilerine göre 2010 yılında Türkiye&rsquo;nin ihracatının 113 milyar 686 milyon dolar olduğunu bildirdi.
+</TEXT>
+</DOC>

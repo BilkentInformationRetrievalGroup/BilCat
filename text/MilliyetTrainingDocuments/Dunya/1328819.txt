@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1328819 </DOCNO>
+<SOURCE> Milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f620e7c/l/0L0Smilliyet0N0Btr0Ckanada0Eda0Esaglik0Eskandali0Cdunya0Csondakika0C0A50B110B20A10A0C1310A7520Cdefault0Bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 09:01:36.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanada'da sağlık skandalı
+</HEADLINE>
+<TEXT>’nın Alberta eyaletine bağlı Hinton kentinde kullanılmış enjektörle  testine alınan 173 kişiye Hepatit B,  ve  virüsü bulaştı.
+
+Alberta Eyalet Sağlık Müdürlüğünden Dr. Kathyrn Koliaska, 173 hastaya ulaştıklarını ve kan testlerinin yapıldığını açıkladı. Olayın, Hinton Sağlık Merkezi’nde 1 Mart-15 Eylül arasında endoskopi testine alınan kişilerde saptandığını belirten Dr. Koliaska, virüse maruz kalan hastaların, kullanılmış enjektörle doğrudan temas etmediklerini ifade ettiği açıklamasında, "Endoskopi uzmanlarının, test sırasında kullanılan ilaçlardan birkaç defa alınması gerektiğinde enjektör değişimi yapmamaları, ilaçlara ve başka hastalara virüs bulaşmasına neden oldu" değerlendirmesinde bulundu.
+
+Durumun, sağlık merkezi çalışanlarından birinin, test sırasındaki bu işlemi yönetime bildirmesi üzerine ortaya çıktığını bildiren Dr. Koliaska, eyalet genelindeki tüm hastanelerde, enjektörler başta olmak üzere test ve tedavilerde kullanılan tüm araç ve gereçlerin kullanımıyla ilgili eğitim programı başlatılacağını belirtti.
+
+Olayla ilgili soruşturma başlatıldığı da bildirildi.</TEXT>
+</DOC>

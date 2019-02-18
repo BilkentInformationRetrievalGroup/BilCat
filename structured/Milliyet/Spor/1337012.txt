@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337012 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/fa6b503/l/0l0smilliyet0n0btr0chagi0enin0esinirleri0ebozuldu0e0cspor0csondakika0c150b110b20a10a0c13146770cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 11:11:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hagi'nin sinirleri bozuldu!
+</HEADLINE>
+<TEXT>Manisaspor'a karşı alınan 2-0'lık mağlubiyet sonrasında herkes gibi Hagi'nin de sinirleri bozuldu.Takımın başına Fenerbahçe derbisinde geçen, oynadığı 4 lig maçında yalnızca 1 galibiyet alan Hagi'nin dün de canı oldukça sıkkındı.Karşılaşmanın başında muhabirlere mutlu ve gülen pozlar veren Rumen teknik adam, maç sonrasında ise üzüntüden kameralara bakamadı.Hagi hatta maç sonrasında kendisini fazla çektiğini söyleyen bir kameraya da bağırdı.</TEXT>
+</DOC>

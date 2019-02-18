@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1435957 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=337cb137-04a3-45b0-8e21-09908bc4b60a </URL>
+<DATE> 2011/02/21 </DATE>
+<TIME> 16:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+savc�� "mal varl��klar�� dondurulsun" dedi
+</HEADLINE>
+<TEXT>
+Mübarek ve yakınlarının yurt dışındaki mal varlıklarının dondurulması istendi.
+
+
+Mısır&rsquo;da Savcı Dışişleri Bakanlığından Hüsnü Mübarek ve yakınlarının yurt dışındaki mal varlıklarının dondurulmasını istedi. 
+
+Öte yandan, İngiltere Başbakanı David Cameron&rsquo;ın Mısır&rsquo;a gideceği bildirildi. 
+
+Cameron, Müslüman Kardeşler&rsquo;le görüşmeyecek.
+</TEXT>
+</DOC>

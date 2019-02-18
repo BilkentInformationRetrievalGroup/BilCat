@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1397655 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=f63fd680-bad1-438c-b39b-3e518d1d185f </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 15:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+100 liseli anne..!
+</HEADLINE>
+<TEXT>
+Teksas'taki bir lisede yaşları 18'in altındaki 100 liseli kızın bu yaşta anne olduğu ortaya çıktı.
+
+Teksas&rsquo;ta bir lisede ortaya çıkan bu olay ülke gerçeklerini bir kez daha ortaya koydu.
+
+Toplumun ve ailelerin ilgisizliği nedeniyle okuldaki 508 genç kızdan yaklaşık 100&rsquo;ü henüz 18 yaşına bile gelmeden hamile kaldı.
+
+Okula yanlarında bebekleriyle gelen genç kızların çokluğundan yakınan okul yetkilileri geç de olsa devreye girdi ve genç kızları bilinçlendirme kampanyaları başlattı.
+
+Okul Yetkilisi şehirde yüzde 26 ile en yüksek oran kendi okullarına ait olduğunu ve çözüm olarak ta gençleri bilinçlendirmek için çeşitli önlemler almaya başladıklarını söylüyor.
+
+</TEXT>
+</DOC>

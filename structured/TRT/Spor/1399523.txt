@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1399523 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=cbc7bf77-756a-49df-aa0d-95e2489d0924 </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 16:13:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ankarag��c��'nde bir transfer daha
+</HEADLINE>
+<TEXT>
+Başkent Ekibi, Kardemir Karabüksporlu oyuncuyu transfer etti.
+
+Ankaragücü Kulübü Basın Sözcüsü Avni Kavlak, yaptığı yazılı açıklamada, daha önce Karabükspor forması giyen Mehmet Çoğum ile 1,5 yıllığına anlaşmaya vardıklarını bildirdi.
+
+</TEXT>
+</DOC>

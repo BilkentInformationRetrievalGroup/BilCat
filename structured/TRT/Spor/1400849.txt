@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1400849 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dbecfbc4-715c-44ac-8ac6-5a2de0dcafad </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 19:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ba��kanlar erzurum'da
+</HEADLINE>
+<TEXT>
+Galatasaray başkanı Polat, Fenerbahçe başkanı Yıldırım'a, üzerinde Fenerbahçe yazan, oltu taşından bir tabak hediye etti.
+
+Gençlik ve Spor Genel Müdürlüğü&rsquo;nün daveti üzerine Erzurum&rsquo;a gelerek, 25.Dünya Üniversitelerarası Kış Oyunları için yapılan tesisleri ziyaret eden, Türkiye Futbol Federasyonu (TFF) Başkanı Mahmut Özgener ile kulüp başkanları, Oltu Taşı ürünlerinin satıldığı Taşhan&rsquo;ı gezdiler.
+ Özgener, Devlet Bakanı Faruk Nafız Özak&rsquo;ın da eşlik ettiği gezide, Galatasaray Başkanı Adnan Polat ve Fenerbahçe Başkanı Aziz Yıldırım ile diğer konuklarla birlikte, Türk Telekom Atlama Kuleleri önünde hatıra fotoğrafı çektirdi.
+ Gezi sırasında Fenerbahçe Başkanı Yıldırım, Taşhan&rsquo;ın tarihi hakkında bilgi veren bir çocuğa 200 TL harçlık verirken, Galatasaray Başkanı Polat da gezi anısına Yıldırım&rsquo;a üzerinde Fenerbahçe yazan Oltu taşından bir tabak hediye etti.
+</TEXT>
+</DOC>

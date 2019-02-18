@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337120 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fa7af69/l/0l0smilliyet0n0btr0ckurban0ebayrami0eispanya0eda0eresmi0etatil0cdunya0csondakika0c150b110b20a10a0c13147220cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 13:00:57.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kurban bayram�� ispanya'da resmi tatil
+</HEADLINE>
+<TEXT>Fas topraklarında olup İspanya’ya bağlı olan Ceuta ve Melilla kentlerinde, Kurban Bayramı ilk kez resmi tatil olarak kutlanacak.Ceuta ve Melilla özerk yönetim parlamentolarının geçtiğimiz yıl aldığı karar gereğince, Kurban Bayramı bu yıldan itibaren resmi tatil olarak tanınırken, Fas’ın uyguladığı takvime uygun olarak 17 Kasım’da bir günlük Kurban Bayramı kutlanacak. Her iki kentte de iktidar ortaklarından olan Katolik, muhafazakar görüşlü Halk Partisi (PP), Müslüman halkın en iyi şekilde bayramını kutlamasının sağlanacağını duyurdu.75 bin nüfuslu Ceuta’da 30 bin, 73 bin nüfuslu Melilla’da 37 bin Müslüman yaşarken, kurbanlık koyun fiyatlarının yaklaşık 160 avro olduğu belirtiliyor.Kurbanlıklar için özel kesim alanları kurulurken, Fas’tan ve İspanya’dan çok sayıda kurbanlık koyunun Ceuta ve Melilla’ya getirildiği bildirildi.</TEXT>
+</DOC>

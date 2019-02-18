@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1337336 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fa8d42d/l/0l0smilliyet0n0btr0cserbest0edoviz0epiyasasi0cekonomi0csondakika0c150b110b20a10a0c13147540cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/15 </DATE>
+<TIME> 15:00:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+serbest d��viz piyasas��
+</HEADLINE>
+<TEXT>Avro bugün öğlen saatlerinde 1,9760 liradan işlem gördü. Avro Cuma günü akşam saatlerinde 1,9640 liradan satılmıştı.Cuma günü akşam saatlerinde 1,3665 olan avro-dolar paritesi bugün öğlen saatlerinde 1,3622 oldu.Öte yandan, Kurban Bayramı tatili nedeniyle Merkez Bankasının 12 Kasım Cuma günü açıkladığı döviz kurları bayram sonrasına kadar geçerli olacak. Merkez Bankası, Cuma günü saat 15.30 itibariyle gösterge niteliğindeki doların efektif satışını 1,4371 lira, avronun efektif satış kurunu da 1,9653 lira olarak belirlemişti.Döviz kurlarını buradan takip edin!Yorum yaz Arkadaşına gönderSitene ekleSayfayı yazdırAA+-</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1395043 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fb188ae7-acd9-4749-a352-22e64c34eb6a </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 09:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��in yuan�� g��ne rekorla ba��lad��
+</HEADLINE>
+<TEXT>
+Çin yuanı güne ABD Doları karşısında yeni bir rekorla başladı. Çin Döviz Kuru Sistemi yuanın dolar karşısındaki paritesini 6,5997 olarak açıkladı.
+
+Yuanın dolar karşısındaki paritesi dün 6,6128 düzeyindeydi.
+
+Çin&rsquo;in Merkez Bankası Haziran 2010&rsquo;da esnekliğini artırmak için kur mekanizmasında reform yapılacağını açıklamıştı. Yuanın paritesi işlem günlerinde yüzde 0,5 düzeyinde yükseliş veya düşüş gösteriyor.
+
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1339423 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fbb67a1/l/0l0smilliyet0n0btr0cbabadan0esok0eiddia0e0cturkiye0csondakika0c170b110b20a10a0c13153890cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 17:10:56.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+babadan ��ok iddia!
+</HEADLINE>
+<TEXT>muhabirinin telefonla ulaştığı baba Mehmet Şahin, Gaziantep'te çiftçilik yaparak geçimini sağladığını, dört çocuğunun bulunduğunu, kızının kendisini vurmasının imkansız olduğunu, herhangi bir sorunu olmadığını dile getirdi. Baba Şahin şöyle dedi: “Kızımın kendini vuracak bir durumu yoktu. Onu polis vurdu. Altı ay önce iki defa evlenmek için annesiyle evimize gelip kızımı istedi. Hem ben hemde kızım bu isteğini reddettik. Eskişehir'de Açık Öğretim Fakültesi'nde öğrenim görüyordu. Zaman zaman oraya gidip geliyordu. En son olaydan 9 gün önce görüştüğümüzde, iş görüşmesi için İzmir'e gideceğini söylemişti. Nasıl buluştuklarını bilmiyorum. Polis bu olayla ilgili benim ifademi almadı.”</TEXT>
+</DOC>

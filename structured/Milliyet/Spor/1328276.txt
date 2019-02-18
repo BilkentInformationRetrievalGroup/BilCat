@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328276 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f639fd4/l/0l0smilliyet0n0btr0ctakima0eodeme0cspor0chaberdetay0c0a60b110b20a10a0c1310a90a30cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:14:19.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+tak��ma ��deme
+</HEADLINE>
+<TEXT>Sarı-kırmızılıların, geçtiğimiz günlerde oyunculara alacaklarının bir kısmını ödediği bildirildi. Trabzonspor maçı öncesi yapılan bu yüklü ödeme özellikle yaklaşık 4 aydır para alamayan yerli futbolcuların yüzünü güldürdü.</TEXT>
+</DOC>

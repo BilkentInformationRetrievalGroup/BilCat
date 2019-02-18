@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1433267 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7e7abea4-03b1-4d4d-84e1-043b77cce618 </URL>
+<DATE> 2011/02/18 </DATE>
+<TIME> 18:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+askerler temmuz'da ��ekilecek
+</HEADLINE>
+<TEXT>
+Clinton, Amerikan askerlerinin Afganistan'dan planlandığı gibi Temmuz ayında çekilmeye başlayacağını, çekilmenin 2014 sonunda tamamlanacağını söyledi.
+
+  Amerika Birleşik Devletleri Dışişleri Bakanı Hillary Clinton, Amerikan askerlerinin Afganistan&rsquo;dan planlandığı gibi Temmuz ayında çekilmeye başlayacağını ve çekilmenin 2014 yılının sonunda tamamlanacağını söyledi.
+
+ Clinton Washington&rsquo;da düzenlediği basın toplantısında, Afganistan&rsquo;da Amerikan hedeflerine saldırılar düzenleyen Taliban&rsquo;a da seslendi ve Taliban&rsquo;dan terör örgütü El Kaide&rsquo;ye destek vermekten vazgeçmesini istedi.
+
+Amerikan askerlerinin Afganistan&rsquo;dan çekilecek olmasının Taliban&rsquo;ı ümitlendirmemesi gerektiğini kaydeden Clinton, Taliban militanlarını silahlarını bırakmaya ve Afgan yasalarına uymaya çağırdı.
+
+ Clinton, Afganistan&rsquo;da El Kaide&rsquo;nin kökünü kazımakta kararlı olduklarını da sözlerine ekledi.
+
+</TEXT>
+</DOC>

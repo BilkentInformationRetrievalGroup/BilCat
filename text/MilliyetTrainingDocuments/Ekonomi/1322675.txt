@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322675 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4cd523/l/0l0smilliyet0n0btr0cdenizbank0e20a0emilyon0edolarlik0ekredi0eanlasmasi0eimzaladi0cekonomi0csondakika0c0a30b110b20a10a0c130a960a70cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:01:09.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+denizbank, 20 milyon dolarl��k kredi anla��mas�� imzalad��
+</HEADLINE>
+<TEXT>Denizbank, Japon İşbirliği Bankası (JBIC) ile, Ekonomik Büyüme ve Çevre Koruma Projeleri Küresel Aksiyon Programı (GREEN) kapsamında, 20 milyon dolar tutarında 5 yıl vadeli kredi sözleşmesi imzaladığını duyurdu.Denizbank’ın, Kamuyu Aydınlatma Platformu’nda (KAP) yayımlanan açıklamasında, "Denizbank, Japon İşbirliği Bankası (JBIC) ile, Ekonomik Büyüme ve Çevre Koruma Projeleri Küresel Aksiyon Programı (GREEN) kapsamında, 20 milyon dolar tutarında 5 yıl vadeli kredi sözleşmesi imzalamıştır. JBIC’ten sağlanan kredi, enerji verimliliği ve yenilenebilir enerji yatırımlarında faaliyet gösteren KOBİ’lerin kullanımına sunulacaktır" denildi.</TEXT>
+</DOC>

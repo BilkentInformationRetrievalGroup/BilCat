@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323718 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5298e4/l/0l0smilliyet0n0btr0cgm0eartik0esahalara0edonmeye0ehazir0cekonomi0chaberdetay0c0a40b110b20a10a0c130a99650cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 01:01:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+gm art��k sahalara d��nmeye haz��r
+</HEADLINE>
+<TEXT> Kurtarma operasyonundan sonra dünyanın en büyük kamu iktisadi teşebbüsüne (KİT) dönüşen GM hisselerinin hangi koşullar altında halka arz edileceği belirlendi. ABD Hazinesi’nin sermaye piyasalarını düzenleyen SEC’e teslim ettiği başvuruya göre GM’in 365 milyon hissesi 26-29 dolar aralığından satışa çıkarılacak. Yılı artıda bitirecekHalka arzdan elde edilecek gelir, şirketin devlete borcunun kapatılmasında kullanılacak. Operasyonun ardından ABD hazinesi de şirkette azınlık hissedarı olacak. GM yönetimi üçüncü çeyrekte 2.1 milyar dolar faiz ve vergi öncesi kâr beklediğini, yılı da artıda tamamlamayı öngördüğünü bildirdi. GM’in mali işlerden sorumlu yöneticisi Chris Liddell yaptığı açıklamada, “İflas sonrası güçlü ve kârlı bir ilk yıl bilançosu açıklayacağız ve bilançomuzu düzeltmeye, daha da önemlisi araçlarımızın kalitesini artırmaya devam edeceğiz” dedi.</TEXT>
+</DOC>

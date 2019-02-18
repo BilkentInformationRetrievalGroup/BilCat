@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326347 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f5bc844/l/0l0smilliyet0n0btr0cjapon0eismail0e0cspor0chaberdetay0c0a50b110b20a10a0c1310a4760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:12:27.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+japon ismail!
+</HEADLINE>
+<TEXT>Türkiye’ye hiç gelmese de, internetten bilgiler edinen, Türk tarihini okuyan ve ismini İsmail olarak değiştiren Japonya vatandaşı, her maç salona en erken gelen kişi oluyor. Müslüman olan Japon İsmail Türkiye’ye gelebilmek için para biriktirdiğini söylüyor.</TEXT>
+</DOC>

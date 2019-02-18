@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1408893 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5706b41f-9179-4811-9195-33f7fe2fe469 </URL>
+<DATE> 2011/01/26 </DATE>
+<TIME> 11:37:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rk da��c�� hayat��n�� kaybetti
+</HEADLINE>
+<TEXT>
+5033 metre yüksekliğindeki Kazbek Dağı'na tırmanırken buzda kayan Türk dağcı Emre Kuruoğlu, vadiye düşerek hayatını kaybetti. 
+
+Kütahya Dumlupınar Üniversitesi öğrencilerinden Emre Kuruoğlu, Sefa Sağlam, Burhan Aydın ve Ömer Bayraktutan&rsquo;dan oluşan grup, 6 gün önce Başkent Tiflis yakınlarındaki Kazbek Dağı&rsquo;na tırmanmak için Gürcistan&rsquo;a gitti. 
+Türk sporculardan Emre Kuruoğlu, tırmanış sırasında buzdan kayarak vadiye düştü. 
+Olay yerinde yaşamını yitiren Kuruoğlu&rsquo;nun cenazesi Türkiye Tiflis Büyükelçiliği&rsquo;nin yardımıyla hastane morguna kaldırıldı.
+Emre Kuruoğlu&rsquo;nun cenazesinin Türkiye&rsquo;ye nakli için işlemlerin devam ettiği öğrenildi. İşlemlerin tamamlanmasının ardından Kuruoğlu&rsquo;nun cenazesinin, memleketi Çanakkale&rsquo;ye getirilmesi bekleniyor.
+Öte yandan Tiflis güvenlik görevlilerinin de Türk sporcuların ifadesine başvurduğu bildirildi.
+Kazbek Dağları&rsquo;na tırmanış yapan 4 kişinin de Dağcılık Federasyonundan lisanslarının bulunduğu öğrenildi.
+
+
+</TEXT>
+</DOC>

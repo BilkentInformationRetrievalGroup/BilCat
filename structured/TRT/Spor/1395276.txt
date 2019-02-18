@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1395276 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=648fb563-5aae-4a8e-b5e7-ef7f4043dcb8 </URL>
+<DATE> 2011/01/13 </DATE>
+<TIME> 12:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+efes pilsen 2 isim ��nerdi
+</HEADLINE>
+<TEXT>
+Efes Pilsen Basketbol Kulübü, yasaktan sonra iki yeni isim teklifinde bulundu.
+
+Lacivert-beyazlı ekip Tütün ve Alkol Piyasası Düzenleme Kurulu&rsquo;na Anadolu Efes ve Efes Spor Kulübü isimlerini önerdi.
+
+</TEXT>
+</DOC>

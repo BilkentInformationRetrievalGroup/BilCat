@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1414174 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a06e4909-c7d3-4b03-b6c4-139b07500242 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 17:00:33.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+dev baloncuklar ilgi oda���� oldu
+</HEADLINE>
+<TEXT>
+Danimarka'da yapılan dev baloncuklar izleyenleri hayran bırakıyor.
+
+Danimarka&rsquo;da Baloncuk Festivali...
+
+Başkent Kopenhag&rsquo;da düzenlenen festivale katılan Tom Noddy, dev baloncuklar yaptı. 
+
+
+     Baloncuk Adam lakaplı Noddy, 30 yıllık ilginç uğraşısını festivalde hayranlarıyla paylaştı.
+
+
+     Noddy&rsquo;nin uzun çubuklar yardımıyla yaptığı baloncukları, 17 binden fazla kişi izledi. 
+
+     Tom Noddy, bugüne kadar bu ilginç gösteriyi 50&rsquo;nin üzerinde ülkede gerçekleştirmiş, binlerce insanı baloncuklarına hayran bırakmış. 
+</TEXT>
+</DOC>

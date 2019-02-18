@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1402136 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=fc35cd7e-090f-47e1-87f2-53c49e8637db </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 01:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kaybolan ����renciler bulundu
+</HEADLINE>
+<TEXT>
+Sivas'ta, dün öğleden beri kayıp olan üç ilköğretim öğrencisi, Şarkışla ilçesinde bulundu. 
+
+
+   
+           Dünden beri kendilerinden haber alınamayan öğrencilerin, Şarkışla ilçesine gittikleri, burada yaşayan bir akrabalarını da ziyaret  ettikleri belirlendi. 
+   
+          Kayıp öğrencilere, akrabanın aileye haber vermesiyle ulaşıldı. 
+
+
+
+
+
+</TEXT>
+</DOC>

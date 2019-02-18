@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1381120 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=7272a2a4-1550-4e34-ab7f-8e9370b3cb19 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 17:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ya������ geliyor
+</HEADLINE>
+<TEXT>
+Türkiye'yi hafta başından itibaren bol yağışlı günler bekliyor.
+
+Yeni haftayla birlikte yurdun batı bölgelerden başlamak üzere kuvvetli yağış etkili olacak ve yağışlı hava hafta boyunca sürecek.
+   
+Özellikle Muğla ve Antalya çevrelerinde kuvvetli yağış bekleniyor.
+
+Yurdun kuzey ve iç bölgelerinde ise karla karışık yağmur görülecek.
+
+Sıcaklıkların 4 ila 6 derece düşmesinin ardından yurdun iç ve doğu bölgelerinde don ve buzlanma görülecek. Uzmanlar, özellikle sürücüleri don ve buzlanmaya karşı uyarıyor.
+
+Hafta Sonu Hava Değişiyor...
+Yağışlı sistem hafta sonuna doğru doğu bölgelerden yurdu terk edecek.
+
+Hafta sonu ise yurt genelinde bahardan kalma havalar etkili olacak.
+
+</TEXT>
+</DOC>

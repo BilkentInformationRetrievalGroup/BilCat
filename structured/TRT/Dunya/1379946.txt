@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1379946 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a40eaf1b-59b2-4f83-bd75-10af7bc9dfc1 </URL>
+<DATE> 2011/01/01 </DATE>
+<TIME> 10:46:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+japonya'n��n n��fusu eriyor
+</HEADLINE>
+<TEXT>
+Japonya'nın nüfusu geçen yıl rekor düzeyde azaldı.
+
+Hükümet, hızla yaşlanan ülkede geçen yıl ölümlerin tüm zamanların en üst seviyesine çıktığını bildirdi.
+
+Sağlık Bakanlığı yetkilileri, geçen yıl 1,19 milyon kişinin öldüğünü, bu sayının bakanlığın nüfus kayıtlarını tutmaya başladığı 1947&rsquo;den bu yana en yüksek rakam olduğunu belirtti.
+
+Ölüm nedenlerinin üst sıralarında kanser, felç ve kalp hastalıklarının geldiği kaydedildi.
+
+Japonya&rsquo;da doğum oranında ise geçen yıl değişiklik olmadığı bildirildi.
+
+Yaklaşık 128 milyon nüfuslu Japonya, ortalama ömrün en uzun olduğu ülke durumunda bulunmasına rağmen, doğum oranları en düşük ülkelerin başında geliyor.
+
+</TEXT>
+</DOC>

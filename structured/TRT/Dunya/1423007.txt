@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1423007 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b6918aa1-c237-4f47-8eff-f203433e5446 </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 08:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da bina ����kt��: 4 ��ocuk ��ld��
+</HEADLINE>
+<TEXT>
+Hindistan’da bir binanın çökmesi sonucu 4 çocuk öldü, 5 kişi de yaralandı.
+
+
+Hindistan’ın başkenti Yeni Delhi yakınlarındaki Gaziabad şehrinde 2 katlı bina çöktü. Enkazdan aynı aileye mensup 4 çocuğun cesedi çıkarıldı. Olayda 5 kişi de yaralandı. 
+
+Olay yerinde inceleme yapan Gaziabad polis şefi Avadeş Kumar, evin bir çöplüğün kenarına yapıldığını ve burada temizleme çalışmaları yapıldığından evin temelinde kayma olduğunu belirtti. Göçükten 4 çocuğun cesedinin çıkarıldığı ve diğer çıkarılan 5 yaralının durumlarının da ciddi olduğu bildirildi. Bir görgü tanığı, belediyenin çöplüğü temizleme çalışmalarının binayı temelden zayıflattığını ve bu gece göçük öncesi temelden sesler duyduklarını söyledi. 
+
+Yeni Delhi ve Mumbai’de sık sık benzer ev göçükleri yaşanıyor. Bu evlerde dar gelirli göçmen işçi sınıfı kalıyor. Belediyeler, binaların yapı kontrolünü gerektiği kadar yapmamakla eleştiriliyor
+</TEXT>
+</DOC>

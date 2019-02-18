@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1406012 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=49a5627c-4c10-4d78-933b-491a837d83bb </URL>
+<DATE> 2011/01/23 </DATE>
+<TIME> 19:12:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+do��an: galibiyeti ka����ran taraft��k
+</HEADLINE>
+<TEXT>
+Konyaspor Teknik Direktörü Ziya Doğan, Bursaspor ile 0-0 berabere kaldıkları maçta, galibiyeti kaçıran taraf olduklarını söyledi.
+
+Konyaspor Teknik Direktörü Ziya Doğan, Bursaspor ile 0-0 berabere kaldıkları maç sonrası açıklamalarda bulundu.
+ Doğan, futbolcuların maçta iyi şeyler yaptığını dile getirerek, şunları kaydetti: &quot;Final paslarını yapabilsek galibiyetle ayrılabilirdik. Oyun beni mutlu etti. Her geçen gün daha iyi olacağız. Bugün galip gelmeliydik. Galip gelmeyi çok istiyordum. İkinci yarıya ayrı bir havayla girmek istiyorduk. Bugün galibiyeti kaçıran taraftık. Sonuç olarak 3 puanla başlasak çok iyi olurdu ama buna da şükür diyoruz.&quot;
+</TEXT>
+</DOC>

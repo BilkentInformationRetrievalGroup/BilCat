@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346236 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/ffbcda2/l/0l0smilliyet0n0btr0c250a0eye0e30a0emetre0eboyutlarinda0eled0eekranda0eoyun0ezevki0cdunya0csondakika0c250b110b20a10a0c13184290cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/25 </DATE>
+<TIME> 17:01:38.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+250'ye 30 metre boyutlar��nda led ekranda oyun zevki
+</HEADLINE>
+<TEXT>Azla yetinmeyen bilgisayar oyunu tutkunlarının taleplerini göz önünde tutan Çinli girişimciler, bu kişilere gerçekten dev bir ekranda oyun oynama fırsatı sunuyor.İtalyan La Repubblica gazetesinde yayımlanan habere göre, Çin’in başkenti Pekin’deki "The Place" adlı alışveriş merkezinin iki duvarı arasına yatay şekilde yerleştirilen 250’ye 30 metrelik LED ekranda bilgisayar oyunu oynamak mümkün.Dünyanın en büyük ikinci LED ekranında oyun oynamanın zevkini yaşamak için ekranın altına yerleştirilen uygun bir koltuğa oturup bilgisayarla networke bağlanmak yeterli. Bir de 10 dakikalık oyun için 15 bin doları gözden çıkarmak.</TEXT>
+</DOC>

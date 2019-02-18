@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1398553 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=17c09629-d35e-40ed-83a0-a5bceb25b661 </URL>
+<DATE> 2011/01/16 </DATE>
+<TIME> 16:53:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+beypazar�� ��ekerspor 2-1 denizlispor
+</HEADLINE>
+<TEXT>
+Ziraat Türkiye Kupası (A) Grubu'nda Beypazarı Şekerspor ile Denizlispor karşı karşıya geldi.
+
+Ziraat Türkiye Kupası (A) Grubu&rsquo;nda Beypazarı Şekerspor, Denizlispor&rsquo;u 2–1 yendi.
+ Beypazarı Şekerspor, bu galibiyetle puanını 4&rsquo;e yükseltti. Denizlispor ise 
+0 puanda kalarak gruptan çıkma şansını yitirdi. 
+ Hakemler: Mete Kalkanvan, Sedat Etik, Gükmen Olgaç
+ Beypazarı Şekerspor: Sunay, Erhan, Serkan Tanrıseven, Serkan Pala, Ali, Hüseyin, Salih, Caner, Selahattin (Dk. 57 Serkan Sevinç), Recep (Dk. 68 Özgür), Coşkun (Dk. 85 Sefa)
+ Denizlispor: Zafer, Yasin, Emin, Darrly Boven Robeert, Ahmet, Ali (Dk. 84 Fatih), Levent, İbrahim, Koffi Damien Anderson, Ahmet (Dk. 66 Erhan), Serdar (Dk. 65 Can),
+ Goller: Dk. 13 Salih ve Dk. 62 Coşkun (Beypazarı Şekerspor), Dk. 90 Fatih (Denizlispor)
+ Sarı kartlar: Dk. 42 Hüseyin, Dk. 65 Caner, Dk.75 Salih (Beypazarı Şekerspor) Dk. 90 Levent (Denizlispor)
+</TEXT>
+</DOC>

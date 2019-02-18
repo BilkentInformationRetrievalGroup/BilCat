@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327127 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5e1dab/l/0l0smilliyet0n0btr0cairbus0emotorunun0eariza0esebebi0etasarim0ehatasi0emi0e0cdunya0csondakika0c0a50b110b20a10a0c1310a5560cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 13:01:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+airbus motorunun ar��za sebebi tasar��m hatas�� m��?
+</HEADLINE>
+<TEXT>Avustralya’nın Qantas Havayolu şirketi, motorlarından birindeki arıza yüzünden Singapur’a zorunlu iniş yapan Airbus A380 uçağındaki sorunun, tasarım hatasından kaynaklanmış olabileceğini bildirdi.Qantas Başkanı Alan Joyce, düzenlediği basın toplantısında, uçağın motorlarından birindeki patlamanın "malzeme ya da tasarım hatasından kaynaklanmış olabileceğini" söyledi.Dünyanın 2007’den beri hizmet veren en büyük yolcu uçağı A380, teknik arıza nedeniyle dün Singapur’a zorunlu iniş yapmış, Qantas güvenli olduğu konusunda tatmin olana kadar ellerindeki 6 Airbus A380’in uçuşlarını askıya aldığını açıklamıştı.Joyce, uçaklarda bir terslik bulamazlarsa uçuşlara devam edeceklerini belirtti.Avustralya Ulaştırma Güvenliği Bürosu da, olayda pilotaj hatası olduğuna dair belirti bulunmadığını bildirdi.</TEXT>
+</DOC>

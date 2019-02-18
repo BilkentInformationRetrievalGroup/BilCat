@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327727 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f60ece0/l/0l0smilliyet0n0btr0csahile0ecikan0eyavru0efok0edenize0ebirakildi0cturkiye0csondakika0c0a50b110b20a10a0c1310a6970cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 17:16:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+sahile ����kan yavru fok denize b��rak��ld��
+</HEADLINE>
+<TEXT>Mersin’in Aydıncık ilçesinde sahile çıkan yavru fok, belediye görevlileri tarafından denize bırakıldı.Alınan bilgiye göre, Cumhuriyet mahallesi D-400 karayolu Küçükalan mevkisindeki sahilde yavru Akdeniz Foku gören vatandaşlar belediye yetkililerine durumu bildirdi.Sahile gelen belediye görevlileri yavru foku zarar görmemesi amacıyla tekrar denize bıraktı.Yetkililer, insanlardan korkup kaçmamasına şaşırdıkları fokun, annesiyle birlikte yakın çevredeki bir mağarada yaşadığını sandıklarını ifade etti.</TEXT>
+</DOC>

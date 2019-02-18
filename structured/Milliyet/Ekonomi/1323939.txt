@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323939 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5312de/l/0l0smilliyet0n0btr0cdunya0everimlilik0eodulleri0edagitildi0cekonomi0chaberdetay0c0a40b110b20a10a0c1310a0a0a10cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 03:00:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+d��nya verimlilik ��d��lleri da����t��ld��
+</HEADLINE>
+<TEXT>ANTALYA AA Bu ödüle, Türkiye’den Sayıştay Başkanı Recai Akyel, Denizli Valisi Yavuz Erkmen, TÜBİTAK Başkanı Prof. Dr. Nükhet Yetiş, TİSK Başkanı Tuğrul Kutadgobilik, TÜRK-İŞ Başkanı Mustafa Kumlu, TZOB Başkanı Şemsi Bayraktar, Sabancı Holding Yönetim Kurulu Başkanı ve Murahhas Üyesi Güler Sabancı, Ulaştırma Bakanlığı Müsteşar Yardımcısı Talat Aydın, eski MPM Genel Sekreteri Prof. Dr. Ergün Yener, TOBB Üniversitesi Öğretim Üyesi Prof. Dr. Adem Şahin ve Dr. Hasan Sert layık görüldü.</TEXT>
+</DOC>

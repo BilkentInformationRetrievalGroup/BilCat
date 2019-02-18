@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1407840 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=bde811c4-2904-40b8-b3ba-b70e71fa5a9c </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 13:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��mf: risk hala y��ksek
+</HEADLINE>
+<TEXT>
+IMF Dünya Ekonomik Görünümü ve Küresel Mali İstikrar raporlarını açıkladı, mali istikrarın hala sağlanamadığına vurgu yaptı.
+
+Uluslararası Para Fonu IMF yayınladığı 2 raporda, küresel mali istikrarın hala sağlanamadığını ve ekonomik iyileşmenin önündeki risklerin hala yüksek olduğunu dile getirdi.
+
+IMF Dünya Ekonomik Görünümü ve Küresel Mali İstikrar raporlarını açıkladı.
+
+IMF bu 2 raporda, dünya ekonomisinin genel durumunu küresel mali krizin doruğa ulaştığı döneme kıyasla çok daha iyi görüyor.
+
+Büyüme Tahmini Yükseldi
+Bunun sonucu olarak küresel ekonomi için büyüme tahminini de yüzde 4,2&rsquo;den yüzde 4,4&rsquo;e yükseltti.
+
+IMF, ekonomik iyileşme ve mali piyasalarda istikrarın sağlanması adına ciddi mesafe kaydedildiğini düşünüyor.
+
+Ancak büyümenin dünyanın farklı bölgelerine eşit olarak dağılmadığına dikkat çeken IMF, mali sektörde de risklerin devam ettiğini vurguladı.
+</TEXT>
+</DOC>

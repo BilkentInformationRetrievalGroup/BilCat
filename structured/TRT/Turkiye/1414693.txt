@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1414693 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=0209cee3-fbb8-491f-b49b-1ed654699b32 </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 10:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kar bin 435 k��y yolunu kapatt��
+</HEADLINE>
+<TEXT>
+Doğu Anadolu Bölgesi'nde etkili olan kar yağışı nedeniyle bin 435 köy yolunda ulaşım sağlanamıyor.
+
+Bölgede, aralıklarla devam eden kar yağışı nedeniyle Erzurum&rsquo;da 601, Erzincan&rsquo;da 189, Bingöl&rsquo;de 155, Tunceli&rsquo;de 153, Muş&rsquo;ta 130, Kars&rsquo;ta 118, Iğdır&rsquo;da 68 ve Ardahan&rsquo;da 21 olmak üzere toplam bin 435 köyün yolu kapalı bulunuyor. 
+
+Erzurum&rsquo;un Hınıs, Karayazı, Köprüköy, Tekman, Aşkale ve Karaçoban ilçelerindeki durumu ağır olan 13 hastanın bulunduğu yerleşim birimlerindeki kapalı yollar, karla mücadele ekipleri tarafından açılırken, hastalar, sağlık kuruluşlarına ulaştırıldı.
+
+Kar kalınlıkları, Ardahan&rsquo;da 26, Muş&rsquo;ta 22, Erzurum&rsquo;da 20, Kars&rsquo;ta 19, Tunceli&rsquo;de 9, Erzincan ve Iğdır&rsquo;da 2, Sarıkamış Bayraktepe Kayak Merkezi&rsquo;nde 75 ve Erzurum Palandöken Kayak Merkezi&rsquo;nde 50 santimetre olarak ölçüldü.
+
+Gece en düşük hava sıcaklıkları sıfırın altında olmak üzere Ardahan&rsquo;da 9, Erzurum&rsquo;da 8, Kars&rsquo;ta 7, Ağrı&rsquo;da 5, Erzincan&rsquo;da 4 ve Iğdır&rsquo;da 1 derece oldu.
+
+Meteoroloji yetkilileri, Erzurum&rsquo;da kar yağışının bugün aralıklarla devam edeceğini ve önümüzdeki iki gün içerisinde de kentin kuzey kesimlerinde kar yağışının beklendiğini belirtti.
+
+</TEXT>
+</DOC>

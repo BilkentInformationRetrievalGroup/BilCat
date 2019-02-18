@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 1407888 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dfad1e0d-d5a3-4c15-88fb-59fbc3301a2f </URL>
+<DATE> 2011/01/25 </DATE>
+<TIME> 13:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��mkb ilk seansta y��kseldi
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi birinci seansı 76 puan artarak 65 bin 277 puandan tamamladı.
+
+
+
+İstanbul Borsası bileşik endeksi dünkü yüzde 1,10&rsquo;luk değer kaybının ardından bugün alımlarla 66 bin puan seviyesine yaklaştı.
+
+ Daha sonra dış piyasalara paralel olarak gevşeyen Ulusal-100 Endeksi yatay bir seyre geçti. Hisse senetleri günün ilk yarısında ortalama yüzde 0,11 oranında değer kazandı. 
+
+Serbest piyasada Amerikan Doları 1 lira 56 kuruş, Avro ise 2 lira 12 kuruştan işlem görüyor.
+
+ Uluslararası piyasalarda altının ons fiyatı bin 325 dolar. 
+
+  Kapalıçarşı&rsquo;da Cumhuriyet altını 445 liradan alıcı buluyor. 
+
+İngiltere ekonomisi geçen yıl son çeyrekte yüzde 0,5 daraldı. 
+
+ İspanya bugün düzenlediği 2 ihalede beklentilere paralel bir borçlanma gerçekleştirdi.
+
+ Amerika&rsquo;da bilanço verileri piyasaların yönü üzerinde etkili oluyor.
+
+  New York Borsası&rsquo;nda dün Dow Jones Sanayi endeksi yüzde sıfır virgül 91, teknoloji göstergesi Nasdaq yüzde 1,04&rsquo;lük artış kaydetti.
+
+ Karışık bir tablo çizen Asya Pasifik piyasalarında bugün aşağı yönlü hareketler ön planda. 
+
+ Avrupa borsalarında da değer kayıpları yaşanıyor.
+
+</TEXT>
+</DOC>

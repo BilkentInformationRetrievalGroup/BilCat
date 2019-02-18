@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1338118 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fb5446e/l/0l0smilliyet0n0btr0ckadin0eisgucunun0e610ei0ekayitdisi0cekonomi0chaberdetay0c170b110b20a10a0c13152320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/17 </DATE>
+<TIME> 03:02:02.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+kad��n i��g��c��n��n % 61���i kay��td������
+</HEADLINE>
+<TEXT>Son 1 yılda istihdam edilen 1 milyon 87 bin kişinin yüzde 26’sını bu dönemde istihdam edilen 278 bin sosyal güvencesiz oluştururken, bu dönemde istihdam edilen 442 bin kadın çalışanın yüzde 61’inin kayıtdışı olduğu tespit edildi.Ağustos 2009’da yüzde 45.7 olan kayıtdışı istihdam oranı 2010 yılının aynı döneminde 0.9 puanlık azalışla yüzde 44.8’e indi. Ağustos itibariyle son bir yıllık dönemde kayıtdışı çalışanların sayısında 278 bin kişilik artış yaşandı. Böylece son 1 yıllık dönemde istihdam edilen 1 milyon 87 bin kişinin yüzde 26’sını, kayıtdışı istihdam edilenlerin oluşturduğu belirlendi.</TEXT>
+</DOC>

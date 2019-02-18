@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1389087 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9de42a16-34ba-45b4-b68f-8130a748901e </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 10:32:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+efes'e k������t������ haber
+</HEADLINE>
+<TEXT>
+Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelik Resmi Gazete'de yayımlandı. 
+
+Alkollü içecek firmalarının sponsorluk yapması ile spor kulüplerinin isimlerinde alkollü içki markalarını çağrıştıran isim, logo, işaret kullanmasını yasaklayan, bu nedenle de Efes Pilsen Spor Kulübü&rsquo;nü de ilgilendiren yönetmelikteki düzenleme şöyle:
+
+&quot;Alkollü içki markaları ile sportif içerikli her türlü faaliyet, hizmet ve organizasyonlar ile şirket şeklindeki yapılanmalar da dahil olmak üzere spor kulüpleri ve takımları arasında bağ kurulmasına neden olacak uygulamalar yapılamaz. 
+
+Söz konusu spor kulüpleri ve takımlarının isim ve tanıtımlarında alkollü içki markalarını çağrıştıran isim, amblem ve işaretler kullanılamaz.&quot;
+
+
+</TEXT>
+</DOC>

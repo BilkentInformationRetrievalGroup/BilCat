@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331079 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510894/s/f6f1950/l/0l0smilliyet0n0btr0cdoguran0edogurana0cyaman0etoruner0cekonomi0cyazardetay0c0a80b110b20a10a0c1311510a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 11:16:05.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+do��uran do��urana
+</HEADLINE>
+<TEXT>CIA-The World Factbook’dan derlediğim aşağıdaki tabloda, seçilmiş ülkelerin nüfusları, doğum oranları ve Gayri Safi Milli Hasıla’ları (GSMH) karşılaştırılıyor. Nüfuslar, 2010 Temmuz itibariyle büyüme trendleri esas alınarak yaklaşık olarak alınmış ve Afrika ülkelerinde giderek büyüyen AIDS salgınının etkisi göz önünde tutulmuş.“Doğum Oranı”, her 1000 kişilik nüfusa göre yıllık doğum sayısını ifade ediyor. Bu orandan ölüm sayısı veya çocuk ölüm sayısı düşülmemiş; dolayısıyla, nüfusun net artışı değil doğurganlık (fertility) oranı incelemeye alınmış. Yani, veriler ülke nüfusunun gerçek artış hızını göstermiyor. Oranlar, yine 2010 Temmuz ayı nüfusları esas alınarak, bulunmuş.“Milyar dolar” bazında ifade edilen ülke GSMH’ları, ABD’deki Satın Alma Gücü Paritesi (purchasing power parity) ile karşılaştırmalı olarak, 2010 yılı başı itibariyle hesaplanmış. Hesaplamada, 2009 yılı sonundaki döviz pariteleri kullanılmış. Bu rakamlardan, kişi başına düşen milli gelir de bazı sapmalarla hesaplanabilir ama kişi başı milli geliri oluşturan gelir kalemlerinin ne olduğu ve gelirin dağılımı da önemli. Petrol veya silah satılarak kolayca elde edilen bir milli gelirle, tekstil ihraç edilerek kazanılan milli gelir farklı oluyor. Bu nedenle, buradaki karşılaştırmalı GSMH rakamları önem kazanıyor.Ortaya çıkan gerçekler  ABD’nin GSMH gücüne hiç bir ülke tek başına yetişemiyor. Sadece Avrupa Birliği’nin toplam GSMH’sı (14.430), ABD’nin biraz üzerinde.Afrika ülkeleri, Hindistan, Pakistan, Bangladeş, Filipinler ve Mısır durmadan ürüyorlar. Başbakan’ın istediği gibi “asgari 3 çocuk” yapabilen ülkelerin neredeyse tümü Afrika’da bulunuyor (Afrika ülkelerine sadece Yemen-Gazze Şeridi-Afganistan-Laos eşlik ediyor) ve bu ülkeler yokluk ve hastalıkla boğuşuyor. “Doğum oranı” düştükçe zenginlik ve kişi başına düşen milli gelir artıyor; çocuk ölümü azalıyor.Türkiye’nin “doğum oranı”, tüm gelişmiş ülkelerden, Çin’den, Rusya’dan, İran’dan yüksek. Türkiye’nin oranı, Endonezya, Brezilya ve Meksika ile hemen hemen aynı seviyede.</TEXT>
+</DOC>

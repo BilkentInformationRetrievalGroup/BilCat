@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1397448 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=523f9025-95b1-489d-a0fd-43fc697810f4 </URL>
+<DATE> 2011/01/15 </DATE>
+<TIME> 11:47:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+istanbul'da bombal�� sald��r��
+</HEADLINE>
+<TEXT>
+İstanbul Ümraniye'de, maskeli bir kişi tarafından bir otomobil yıkama dükkanı önüne bırakılan bombanın patlaması sonucu maddi hasar meydana geldi. 
+
+Patlama, gece saatlerinde Ümraniye Birlik Mahallesi, Koçyiğit Sokak&rsquo;ta meydana geldi.
+
+ Otomobil yıkama dükkanının önüne bırakılan ses bombası büyük bir gürültü ile patladı. Polis, yaptığı incelemede bombanın zaman ayarlı olduğunu belirlerledi.
+ 
+Çevrede güvenlik önlemi alan polis, olay yerinde inceleme yaptı.
+
+İşyerinin güvenlik kamerası kayıtlarında maskeli bir kişinin bombayı bıraktıktan sonra koşarak uzaklaştığı görüldü. 
+      
+Bir gün önce de aynı dükkanın önüne bomba süsü verilmiş paketin bırakıldığı ortaya çıktı. 
+
+</TEXT>
+</DOC>

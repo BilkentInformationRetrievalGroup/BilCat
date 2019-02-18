@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1346852 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/fffa50c/l/0l0smilliyet0n0btr0c0ebankacilik0e10e50etrilyon0etl0eaktife0eulasacak0e0cekonomi0chaberdetay0c260b110b20a10a0c13186760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/26 </DATE>
+<TIME> 01:00:39.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���������bankac������l������k 1.5 trilyon tl aktife ula������acak���������
+</HEADLINE>
+<TEXT>Bilgin, bankaların 2010 ya da 2011’in ilk aylarında 1 trilyon TL aktif büyüklüğe ulaşacağını vurgulayarak, Türk bankacılık sektörünün ortalama büyüme hızı ile 2013 sonunda 1.5 trilyon TL aktif toplamına ulaşabileceğine belirtti.TBMM Plan ve Bütçe Komisyonu’nda BDDK’nın 2011 bütçesinin sunumunu yapan Bilgin, daralan faiz marjları, bankalararası rekabet ve piyasa faizlerindeki artış beklentisinin sektörün mevcut aktif ve pasif vade yapısı ile devam eden küresel istikrarsızlık ortamı nedeniyle 2011 ve sonraki yılların bankalar açısından oldukça zorlu geçeceğini söyledi. Bilgin, BDDK olarak gelecekte de bankalarla birlikte, sorunlarını çözmek ve tasarruf sahiplerinin haklarını korumak için gerekli denetimlerle yola devam edileceğini ifade etti.</TEXT>
+</DOC>

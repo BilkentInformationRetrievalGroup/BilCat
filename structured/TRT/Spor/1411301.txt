@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1411301 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d0df3046-53b5-4483-850c-b3b9edb4e754 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 12:50:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+"12 dev adam"��n rakipleri belli oluyor
+</HEADLINE>
+<TEXT>
+2011 Avrupa Basketbol Şampiyonası'nda bu yıl 24 takım mücadele edecek. 
+
+31 Ağustos-18 Eylül 2011 tarihleri arasında Litvanya&rsquo;da düzenlenecek Avrupa Basketbol Şampiyonası&rsquo;nın kura çekimi 30 Ocak Pazar günü Litvanya&rsquo;nın Vilnius kentinde saat 19:30&rsquo;da çekilecek. 
+
+Kura çekimine Vilnius&rsquo;deki Litvanya Uluslararası Drama Tiyatrosu&rsquo;nun evsahipliği yapacak.
+
+Bu yıl 24 takımla oynanacak Avrupa Şampiyonası&rsquo;nın kura çekimine, TBF Genel Sekreteri Ali Özsoy, A Milli Takım Menajeri Harun Erdenay, Milli Takımlar İdari Menajeri Barbaros Akkaş ve Türkiye Basketbol Federasyonu FIBA ve Dış İlişkiler Direktörü Emir Turam da katılacak.
+
+A Milli Takım, kura çekimine Fransa, Hırvatistan ve Rusya ile birlikte ikinci torbadan katılacak.
+</TEXT>
+</DOC>

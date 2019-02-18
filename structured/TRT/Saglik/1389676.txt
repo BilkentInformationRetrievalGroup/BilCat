@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1389676 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=469c0e24-466e-4898-83e6-0c8251acbd5e </URL>
+<DATE> 2011/01/07 </DATE>
+<TIME> 17:35:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+eczac�� ve doktorlar g��zalt��nda
+</HEADLINE>
+<TEXT>
+Mardin'de gerçekleştirilen rüşvet operasyonunda 5 eczacı ile 5 doktor gözaltına alındı.
+
+Mardin&rsquo;in Midyat ilçesinde gerçekleştirilen rüşvet operasyonunda 10 kişi gözaltına alındı.  
+
+Mardin Emniyeti&rsquo;nin yaptığı çalışmalar sonucunda 5 eczacı ve 5 doktor rüşvet almak ve görevi kötüye kullanmak iddiası ile gözaltına alındı.
+
+Yeni gözaltıların olabileceği olayla ilgili çok yönlü soruşturma devam ediyor.
+</TEXT>
+</DOC>

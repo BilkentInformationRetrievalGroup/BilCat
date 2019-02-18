@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1429120 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e29b0006-4d69-4ea6-b233-163b37c53463 </URL>
+<DATE> 2011/02/15 </DATE>
+<TIME> 10:26:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��ampiyonlar liginde heyecan ba��l��yor
+</HEADLINE>
+<TEXT>
+Devler Liginde 2. tur maçları, bu akşam oynanacak 2 karşılaşma ile başlayacak.
+
+Şampiyonlar Liginde 2. tur maçlarının programı şöyle:
+
+15.02.2011(Salı)
+21:45 AC Milan - Tottenham
+21:45 Valencia - Schalke 04
+
+16.02.2011(Çarşamba)
+21:45 Roma - Shakhtar Donetsk
+21:45 Arcenal - Barcelona 
+
+22.02.2011(Salı)
+21:45 Kobenhavn - Chelsea
+21:45 Lyon - Real Madrid
+
+23:02.2011(Çarşamba)
+21:45 Marsilya - Manchester United
+21:45 İnter - Bayern Münih
+</TEXT>
+</DOC>

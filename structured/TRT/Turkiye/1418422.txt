@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1418422 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c3aa331f-47cc-482c-a058-e2bf7bd88f59 </URL>
+<DATE> 2011/02/04 </DATE>
+<TIME> 16:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+askeri araca kamyon ��arpt��
+</HEADLINE>
+<TEXT>
+Şırnak Silopi'de meydana gelen kazada 7 asker hafif yaralandı.
+
+
+Şırnak&rsquo;ta meydana gelen trafik kazasında 7 asker yaralandı.
+
+Silopi&rsquo;den Habur&rsquo;a giden zırhlı araç, Başköy yakınlarında kamyonla çarpıştı.
+
+Takla atarak 50 metre sürüklenen araçta bulunan 7 asker hafif şekilde yaralandı.
+
+Yaralı askerler olay yerine gelen ambulans ile Silopi Devlet Hastanesi&rsquo;ne kaldırıldı.
+</TEXT>
+</DOC>

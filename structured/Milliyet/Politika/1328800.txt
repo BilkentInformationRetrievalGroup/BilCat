@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328800 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f64519d/l/0l0smilliyet0n0btr0ccumhurbaskani0egul0ee0efes0egiydirdiler0csiyaset0csondakika0c0a60b110b20a10a0c1310a9580cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 07:07:47.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+cumhurba��kan�� g��l���e fes giydirdiler
+</HEADLINE>
+<TEXT>Gelecek perşembe ve cuma günü Seul’de yapılacak G-20 zirvesi öncesinde, zirveye katılacak liderlerin kuklaları başkentte sergilendi. Güney Kore Kültür, Spor ve Turizm Bakanlığı’nın etkinlikleri kapsamında düzenlenen Seul Uçan Fener Festivali’nde Cumhurbaşkanı Abdullah Gül’ü temsil eden kuklanın, fesli olduğu gözlendi. Ancak G-20 zirvesinde gözler kuklalarda değil, araseçim bozgununun ardından görev süresinin bugüne kadarki en uzun dış gezisine çıkacak olan ABD Başkanı Barack Obama’da olacak. Obama’nın gündem maddesi bu kez Amerikan ekonomisi. 10 günlük Asya gezisinde Hindistan, Endonezya, G.Kore ve Japonya’ya gidecek Obama, özellikle Hindistan’da ekonomik anlaşmalar imzalayacak; hem Hintli işadamlarını yatırım için ABD’ye davet edecek, hem de Amerikalı işadamları için bu ülkede fırsat arayacak.</TEXT>
+</DOC>

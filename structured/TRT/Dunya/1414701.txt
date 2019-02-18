@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1414701 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3da9d2f8-7aa0-4ad1-8571-eb02a75d598a </URL>
+<DATE> 2011/02/01 </DATE>
+<TIME> 10:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+muhaliflere google - twitter deste��i
+</HEADLINE>
+<TEXT>
+Mısır'da Mübarek yönetiminin internete getirdiği kısıtlamalara karşı sanal dünyanın devleri işbirliğine gidiyor. 
+
+
+
+Ülkedeki son faal internet servis sağlayıcısının da engellendiği ve Mısır&rsquo;ın dünya ile internet üzerinden ilişkisinin hemen hemen tamamıyla kesildiği bildirildi. 
+
+İnternete halk şimdilik sadece cep telefonu şebekeleri üzerinden bağlanabiliyor. 
+
+Amerikan internet grubu Google da, Mısırlıların cep telefonu aracılığıyla Twitter üzerinden mesaj gönderebilmelerini sağlayacak bir sistem kurmak üzere, Twitter ile işbirliğine gideceğini duyurdu. 
+
+Google yetkilileri, kurdukları sistemin çalıştığını ve açıkladıkları üç uluslararası telefon numarasına mesaj bırakılabileceğini, bu şekilde Twitter&rsquo;a mesaj aktarılabileceğini duyurdu. 
+
+Sözkonusu Google yöneticileri, bu hizmetten yararlanmak için hiçbir internet bağlantısının gerekmediğini ve insanların aynı telefon numaralarını tuşlayarak ya da &quot;twitter.com/speak2tweet&quot; internet sitesine girerek, mesajları dinleyebileceklerini bildirdiler.
+</TEXT>
+</DOC>

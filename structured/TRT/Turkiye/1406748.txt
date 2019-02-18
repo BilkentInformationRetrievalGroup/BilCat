@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1406748 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=29e7720e-7d51-4db2-b832-efd141abfcba </URL>
+<DATE> 2011/01/24 </DATE>
+<TIME> 14:39:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rkiye'nin do��usunda n��kleer s��k��nt��
+</HEADLINE>
+<TEXT>
+Türkiye'nin doğusundaki 6 ilinde nükleer sızıntı iddiası üzerine radyasyon ölçümleri yapılmaya başlandı.
+
+Türkiye sınırına çok yakın bir bölgede bulunan Ermenistan&rsquo;daki Metzamor nükleer santralinden radyasyon sızmaları olduğu iddia edildi.
+
+İddialar üzerine Çekmece Nükleer Araştırma ve Eğitim Merkezi (ÇNAEM) ve Erzurum Atatürk Üniversitesi Fen Fakültesi Fizik Bölümü tarafından Iğdır, Ağrı, Muş, Tunceli, Hakkari ve Şırnak&rsquo;ta radyasyon ölçümleri yapılmaya başlandı.
+
+Çalışmalara Iğdır&rsquo;dan başlayan Atatürk Üniversitesi Fen Fakültesi Fizik Bölümü Öğretim Üyesi Doç. Dr. Neslihan Ekinci ile Asistan Bekir Doğan, yaptıkları çalışmalarla kentin radon haritasının çıkarılmasını ve son zamanlarda artan akciğer kanserinin nedenlerinin ortaya koyulmasını amaçladıklarını belirtti.
+
+Bekir Doğan, buna benzer çalışmaların Türkiye&rsquo;nin bütün şehirlerde yapıldığını ancak Iğdır, Ağrı, Muş,Tunceli, Hakkari, Şırnak gibi şehirlerde bu tür çalışmaların bulunmadığını söyledi.
+
+Söz konusu 6 ilde 60 gün süreyle ölçümler alınacak. 
+
+</TEXT>
+</DOC>

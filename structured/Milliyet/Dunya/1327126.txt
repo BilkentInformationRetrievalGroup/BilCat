@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327126 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5ec1bf/l/0l0smilliyet0n0btr0cafganistan0eda0esaldiri0e50eolu0cdunya0csondakika0c0a50b110b20a10a0c1310a5760cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 13:01:21.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+afganistan'da sald��r��: 5 ��l��
+</HEADLINE>
+<TEXT>Afganistan’da düzenlenen intihar saldırısında 5 kişi öldü.Polis, Feryab vilayetindeki pazar yerinde, bir saldırganın üzerindeki bombayı patlattığını belirtti.Patlamada 5 sivilin öldüğü, aralarında Feryab yetkililerinden Rahmetullah Türkistani’nin de bulunduğu 21 kişinin yaralandığı açıklandı. Yetkilinin durumu ile ilgili bilgi verilmedi.Öte yandan, NATO, dün Taliban militanlarıyla çıkan çatışmada 2 NATO askerinin öldüğünü duyurdu.Afganistan’da bu yıl ölen yabancı askerlerin sayısı 619’a çıktı.</TEXT>
+</DOC>

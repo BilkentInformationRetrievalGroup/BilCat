@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1333389 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f858427/l/0l0smilliyet0n0btr0cabd0eden0efilistin0ee0e150a0emilyon0edolarlik0eek0eyardim0cdunya0csondakika0c10a0b110b20a10a0c13127810cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/10 </DATE>
+<TIME> 21:00:33.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+abd'den filistin'e 150 milyon dolarl��k ek yard��m
+</HEADLINE>
+<TEXT>ABD Dışişleri Bakanı Hillary Clinton, Filistin’e 150 milyon dolarlık ek yardım yapacaklarını bildirdi.Clinton, ABD’nin yardımını, Filistin Başbakanı Selam Feyyad ile video konferans yöntemiyle yaptığı görüşmede açıkladı.Hillary Clinton, İsrail’in Batı Şeria’da yeni yerleşim birimleri inşa etme planından vazgeçmemesinin barış görüşmelerine zararı olacağını da söyledi.Clinton, Ortadoğu’da barış anlaşmasına varmanın hala mümkün ve gerekli olduğunu, ABD’nin görüşmelerin yeniden başlaması için çabalarını sürdürdüğünü kaydetti.Rusya da, Filistin’e ilave yardımlarda bulunmak için karar aldığını açıklamıştı.</TEXT>
+</DOC>

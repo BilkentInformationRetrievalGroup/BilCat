@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1403150 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=d8f44cb3-cc1e-4cae-a8c0-a2775a52350b </URL>
+<DATE> 2011/01/20 </DATE>
+<TIME> 13:58:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+beyin kanamas�� riski daha fazla
+</HEADLINE>
+<TEXT>
+HIV taşıyıcılarında, beyin rahatsızlıklarına yakalanma riskinin 3 kat fazla olduğu açıklandı.
+ 
+
+HIV taşıyıcılarının beyin rahatsızlıklarına yakalanma riskinin, kullandıkları ilaçlar nedeniyle daha fazla olduğu olduğu belirlendi. 
+
+ABD&rsquo;nin California Üniversitesi&rsquo;nden Bruce Ovbiagele ve ekibinin yaptığı araştırmada, HIV&rsquo;lilerde beyin damarları rahatsızlıklarının artmasının, virüse karşı kullanılan ilaçların yan etkisine bağlı olabileceği belirtildi. 
+
+Ovbiagele, ABD genelinde son yıllarda beyin kanaması nedeniyle hastaneye kaldırılanların sayısı azalırken, bu oranın HIV pozitiflerde arttığına dikkati çekti. 
+
+Araştırmada, ülkede 1997-2006 yılları arasında beyin damarları rahatsızlıkları nedeniyle hastaneye kaldırılan tüm hastaların verileri incelendi. 
+
+Bilim adamları, bu dönemde toplumun genelinde beyin damarları hastalıklarına yakalananların sayısının yüzde 7 azaldığını, HIV&rsquo;lilerde ise yüzde 67 arttığını gördü. 
+
+HIV taşıyıcılarının çoğunda beyne giden kan akımında azalmanın meydana geldiğini belirten Ovbiagele, araştırmanın virüse karşı kullanılan ilaçların piyasaya sürüldüğü ve yaygın olarak kullanıldığı döneme rastladığını, bu istatistiklerin ilaçların beyin rahatsızlıkları riskini artırabilen metabolik komplikasyonlara bağlı olabileceğini düşündürdüğünü vurguladı. 
+ 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320380 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f435c8a/l/0l0smilliyet0n0btr0cemekliye0emaas0emujdesi0cekonomi0csondakika0c0a20b110b20a10a0c130a91220cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+emekliye maa�� m��jdesi
+</HEADLINE>
+<TEXT>SSK ve Bağ-Kur emeklilerinin maaşlarının Kurban Bayramı’ndan önce ödeneceği bildirdi.Çalışma ve Sosyal Güvenlik Bakanlığı Basın ve Halkla İlişkiler Müşavirliğinden yapılan açıklamaya göre, SSK emekli ve hak sahipleri için tahsis numarasının son rakamı 9, 7 ve 5 olanlara 9 Kasım Salı, 3, 1 ve 8 olanlara 10 Kasım Çarşamba, 6 ve 4 olanlara 11 Kasım Perşembe, 2 ve 0 olanlara 12 Kasım Cuma günü ödeme gerçekleştirilecek.Bağ-Kur emekli ve hak sahipleri için tahsis numarasının son rakamı 9, 7 ve 5 olanların 9 Kasım Salı, 1 ve 3 olanların 10 Kasım Çarşamba, 4, 6 ve 8 olanların 11 Kasım Perşembe, 0 ve 2 olanların 12 Kasım Cuma günlerinde ödemeleri yapılacak.</TEXT>
+</DOC>

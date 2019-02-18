@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1394118 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=5ff1b895-4d34-4365-b5c3-7d0c084cba87 </URL>
+<DATE> 2011/01/12 </DATE>
+<TIME> 12:07:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+aral��k'ta k��l��e alt��n kazand��rd��
+</HEADLINE>
+<TEXT>
+Aralık ayında en çok kazandıran yatırımı aracı külçe altın oldu.
+
+2010 Aralık ayında külçe altın, yüzde 7,34 oran ile en yüksek getiriyi sağladı. 
+         
+Amerikan Dolarının yüzde 4,29, avro ise yüzde 0,81 getiri ile yatırımcısına kazandırdı.
+            
+Buna karşın mevduat faizi yüzde 0,70, borsa ise yüzde 4,87 oranında yatırımcısına kaybettirdi.
+            
+2010 yılının en çok kazandıranları da sırasıyla Borsa, külçe altın, mevduat faizi, Amerikan Doları ve Avro oldu.
+
+</TEXT>
+</DOC>

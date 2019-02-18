@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1327395 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f5f3e57/l/0l0smilliyet0n0btr0ctaliban0edan0eolum0etehdidi0cdunya0csondakika0c0a50b110b20a10a0c1310a6320cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 15:01:31.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+taliban'dan ��l��m tehdidi
+</HEADLINE>
+<TEXT>Afganistan Talibanı, hükümetle barış görüşmesi önerisini kabul edenleri ölümle tehdit etti.Önde gelen bir Taliban üyesi, Taliban lideri Molla Muhammed Ömer’in yazdığı tehdit notlarının Peştu bölgesindeki camilerde dağıtıldığını belirtti.Adının açıklanmasını istemeyen üye, hükümetle müzakerelere oturma konusunun, direnişi yürütenlerin gündeminde olmadığını da söyledi.Taliban üyesi AP’ye verdiği mülakatta, Molla Ömer’in el yazısı notlarının, Afganistan Devlet Başkanı Hamid Karzai’nin barış önerisi medyada açıklandığından beri camilerde dolaştığını ifade etti.Karzai, Taliban’la uzlaşmayı öncelikli hedefi olarak açıklamış, bunun için bir süre önce 70 kişilik Yüksek Barış Konseyi oluşturmuştu.</TEXT>
+</DOC>

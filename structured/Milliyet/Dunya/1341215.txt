@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1341215 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fc765f7/l/0l0smilliyet0n0btr0cnato0enun0eodtu0elu0esiber0esavas0ekomutani0cdunya0chaberdetay0c190b110b20a10a0c13158880cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/19 </DATE>
+<TIME> 03:01:03.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+nato���nun odt�����l�� siber sava�� komutan��
+</HEADLINE>
+<TEXT>AFP’ye konuşan Anıl, örgütün siber saldırılara karşı henüz tam olarak korunamadığını, 5 yıl önce başlatılan bir program sayesinde yüzde 100’lük korumanın 2013’te mümkün olabileceğini belirtti. AFP, 1989’da NATO’nun iletişim teknolojisi güvenliğinden sorumlu tek kişi olan Anıl’ın, bugün iki ekibin başında olduğunu yazdı. Ajans, NATO’nun bugün ve yarınki zirvesinde siber güvenliğin, teşkilatın önceliklerinden biri olarak kabul edileceğini de vurguladı.</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1331689 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510893/s/f736202/l/0l0smilliyet0n0btr0cjuventus0eta0eforlan0esesleri0cspor0csondakika0c0a80b110b20a10a0c13117710cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/08 </DATE>
+<TIME> 15:14:18.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+juventus'ta forlan sesleri
+</HEADLINE>
+<TEXT>İtalyan devi Juventus, Atletico Madrid'in yıldız golcüsü Diego Forlan'ı gözüne kestirdi.Rai Sport, Torino ekibinin, Uruguaylı golcü için resmi teklif yapmaya hazırlandığını iddia etti. Haberde Juventus'un diğer kulüplerden önce transferi tamamlamak istediği kaydedilirken, bu hafta içinde harekete geçmeyi planladığı ifade edildi. Forlan ile Juventus'un yanı sıra Lazio, Inter ve Liverpool'un da ilgilendiği biliniyor.</TEXT>
+</DOC>

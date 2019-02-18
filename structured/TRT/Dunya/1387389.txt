@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1387389 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2b6d72a8-9339-4188-9e8a-957e0deb4b41 </URL>
+<DATE> 2011/01/06 </DATE>
+<TIME> 08:49:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+hindistan'da kaza: 22 ��l��
+</HEADLINE>
+<TEXT>
+Hindistan'da meydana gelen trafik kazasında 22 kişi öldü, 18 kişi yaralandı.
+
+
+
+     Kaza, ülkenin kuzeyinde Nepal sınırındaki Uttarakhand eyaletinde meydana geldi.
+
+     Dehradun kenti yakınlarında kontrolden çıkan bir yolcu otobüsü şarampole yuvarlandı.
+
+     22 kişi ölürken, yaralılar bölgedeki hastanelere kaldırıldı.
+
+
+
+</TEXT>
+</DOC>

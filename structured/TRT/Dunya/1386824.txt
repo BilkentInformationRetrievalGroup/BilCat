@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1386824 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b767ba4b-6a1b-465b-b884-137ca7cc15b7 </URL>
+<DATE> 2011/01/05 </DATE>
+<TIME> 17:09:14.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+buzullara s��k����t��lar!
+</HEADLINE>
+<TEXT>
+Rusya'nın kuzeydoğusundaki Okhotsk Denizi'nde mahsur kalan 6 gemiyi kurtarmaya gelen buz kırma gemileri de buzullar arasında sıkıştı.
+
+
+ Ohotsk Denizi&rsquo;nde mahsur kalan gemileri kurtarmak için yola çıkan 2 buz kırma gemisi, çalışmalara başladı.
+
+     Gemilerden ikisi, sıkıştığı yerden kurtarıldı.
+
+     Ancak bu kez de, buz kırma gemilerinden biri buzullar arasında sıkıştı kaldı.
+
+     Ulaştırma Bakanlığı&rsquo;ndan yapılan açıklamada, gemilerde yeterli yakıt ve yiyecek olduğu, endişe edilecek bir durum olmadığı bildirildi.
+
+     6 gündür buzda mahsur olan üç gemi ve bir balıkçı teknesini ve buz kırma gemisini kurtarma çalışmaları sürüyor.
+
+     Kurtarma çalışmalarını yakından takip eden Başbakan Vladimir Putin, gemilerin en kısa zamanda kurtarılacağı sözünü verdi. 
+</TEXT>
+</DOC>

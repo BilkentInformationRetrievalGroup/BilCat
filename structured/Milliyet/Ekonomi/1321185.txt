@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1321185 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f470d26/l/0l0smilliyet0n0btr0cdolar0ekapanista0e10e4170a0eliraya0egeriledi0cekonomi0csondakika0c0a20b110b20a10a0c130a930a50cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 19:00:34.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+dolar kapan����ta 1,4170 liraya geriledi
+</HEADLINE>
+<TEXT>İstanbul serbest piyasada, kapanış saatlerinde doların satış fiyatı 1,4170 liraya gerilerken, avronun satış fiyatı 1,9840 liraya yükseldi.AA muhabirinin aldığı bilgiye göre, piyasanın kapanışı itibariyle Kapalıçarşı’da 1,4140 liradan alınan dolar 1,4170 liradan, 1,9790 liradan alınan avro 1,9840 liradan satılıyor.Serbest piyasada dünkü kapanışta 1,4260 lira olan dolar güne 1,4270 liradan, 1,9820 lira olan avro 1,9860 liradan başlamıştı.</TEXT>
+</DOC>

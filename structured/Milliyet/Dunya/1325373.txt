@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1325373 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f582a47/l/0l0smilliyet0n0btr0cterorist0esaldiri0egerekcesiyle0e20ekardes0egozaltina0ealindi0cdunya0csondakika0c0a40b110b20a10a0c1310a2410cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 17:01:20.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ter��rist sald��r�� gerek��esiyle 2 karde�� g��zalt��na al��nd��
+</HEADLINE>
+<TEXT>Fransa’da iki erkek kardeş, terörist saldırı hazırlığı içinde oldukları şüphesiyle gözaltına alındı.İçişleri Bakanı Brice Hortefeux, France-2 televizyonuna yaptığı açıklamada, "gözaltına alınan iki kişinin, terörist saldırı için suç örgütleriyle bağlantıda olduklarının tespit edildiğini" söyledi.İki erkek kardeşin Paris’in banliyösünde düzenlenen polis operasyonuyla gözaltına alındığını belirten Fransız bakan, ayrıntılı ilgi vermedi.Fransız güvenlik yetkilileri, özellikle peçe yasağının parlamentoda kabul edilmesinin ardından, El Kaide bağlantılı terör gruplarının ülkeye yönelik tehdidinin arttığı düşüncesinde.</TEXT>
+</DOC>

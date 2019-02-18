@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1328168 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f634a2d/l/0l0smilliyet0n0btr0ccamiye0eintihar0esaldirisi0cdunya0chaberdetay0c0a60b110b20a10a0c1310a7950cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/06 </DATE>
+<TIME> 01:01:24.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+camiye intihar sald��r��s��
+</HEADLINE>
+<TEXT>Pakistan’ın Peşaver kentinde iki camiye düzenlenen biri intihar diğeri el bombalı saldırıda 11’i çocuk 71 kişi öldü, 105 kişi yaralandı. Cuma Namazı sırasında yapılan intihar saldırısını Taliban üstlendi.</TEXT>
+</DOC>

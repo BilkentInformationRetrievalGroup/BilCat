@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1401433 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a71e95e4-53f3-4f59-9a69-08d74d3f4b7f </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 11:57:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+devlet hastanesinde yang��n ����kt��
+</HEADLINE>
+<TEXT>
+Çukurova Üniversitesi Balcalı Hastanesi'nde yangın çıktı. Kontrol altına alınan yangında, hastalar tahliye edildi.
+
+  Yangında ilk belirlemelere göre ölen ya da yaralanan olmadı.
+
+   Balcalı Hastanesi&rsquo;nde polikliniklerin bulunduğu bölümde yapılan tadilat sırasında yangın çıktı.
+
+   İtfaiye ekiplerinin müdahalesinin ardından yangın kontrol altına alındı.
+
+    Hastaların tahliye edildiği yangında ilk belirlemelere göre ölen ya da yaralanan olmadı.
+
+</TEXT>
+</DOC>

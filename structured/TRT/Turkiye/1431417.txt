@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1431417 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=3ca2cdba-f5c8-400f-868f-68af07d76b1e </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 10:17:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+diyarbak��r'da g��zalt��lar
+</HEADLINE>
+<TEXT>
+İzinsiz gösterilerde 46 kişi gözaltına alındı.
+
+     Terör örgütü elebaşı Abdullah Öcalan&rsquo;ın yakalanışının yıldönümü bahane eden bir grup, önceki gün Diyarbakır&rsquo;ın kent merkezinde izinsiz gösteri düzenledi.
+
+     Polisin müdahale ettiği olaylarda 33 kişi gözaltına alındı. 
+
+     Gösterilerden bir gün önce bir evde yapılan aramada 100&rsquo;den fazla molotof kokteyl ele geçirilmişti. 
+
+     Polis, motoloflarla ilgili 13 kişinin gözaltına alındığını açıkladı. 
+
+     Emniyette sorgulamaları tamamlanan zanlılar adliyeye sevk edildi. 
+
+
+
+</TEXT>
+</DOC>

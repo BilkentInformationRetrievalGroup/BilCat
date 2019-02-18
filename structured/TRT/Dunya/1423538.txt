@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 1423538 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=77696cae-6f70-4747-986c-87bb74df861d </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 15:11:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+milyonlar milyarlar�� say��yor!
+</HEADLINE>
+<TEXT>
+Hindistan'da nüfus sayımı başladı.
+
+Çin&rsquo;den sonra dünyanın ikinci en kalabalık ülkesi Hindistan&rsquo;da nüfus sayımı başladı.
+
+Hindistan&rsquo;da nüfusun, 1 milyar 170 milyon civarında olduğu tahmin ediliyor.
+
+10 yılda bir yapılan nüfus sayımında ilk kez isim ve adres bilgileri de soruluyor.
+
+Sayımda iki milyon 700 bin memur görev yapıyor.
+
+Sayımın kesin sonuçlarının 2 yıl içinde alınması bekleniyor.
+</TEXT>
+</DOC>

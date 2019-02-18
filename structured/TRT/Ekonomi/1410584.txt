@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1410584 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=1224ed44-a157-479c-9937-3a0516eae6f6 </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 17:54:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+borsa d����t��
+</HEADLINE>
+<TEXT>
+İstanbul Borsası Ulusal-100 Endeksi günü 922 puan azalarak 65 bin 38 puandan tamamladı.
+
+İstanbul Borsası Ulusal-100 Endeksi günü 922 puan azalarak 65 bin 38 puandan kapattı. Hisse senetleri günlük ortalama yüzde 1,39 oranında değer yitirdi. 
+
+Serbest piyasada Amerikan Doları 1 lira 57 kuruş, Avro ise 2 lira 16 kuruştan işlem gördü.
+
+Uluslararası piyasalarda altının ons fiyatı bin 335 dolar olurken Kapalıçarşı&rsquo;da Cumhuriyet altını 458 liradan alıcı buldu. 
+
+Asya Pasifik piyasaları karışık bir görünüm sergilerken Avrupa borsalarında değer artışları ön plana çıktı. New York Borsası ise yükselişle açıldı.
+</TEXT>
+</DOC>

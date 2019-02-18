@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1421268 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=6dc3c1e6-caac-4e7b-ba32-faab77b2b654 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 16:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+bankalar��n k��r�� 22 milyar lira
+</HEADLINE>
+<TEXT>
+Türk bankacılık sektörünün 2010 yılı kârı önceki yıla göre yüzde 8,7 artarak 21,9 milyar liraya yükseldi.
+
+Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) “Türk Bankacılık Sektörü Genel Görünümü-Aralık 2010” raporunu yayımladı.
+
+Buna göre, sektörün kârlılığı 2010 yılında da artmaya devam etti. Bankacılık sektörü dönem net kârı, geçen yılın aynı dönemine göre azalan net faiz marjına karşın, temelde varlık kalitesindeki iyileşmeye bağlı olarak 1 milyar 748 milyon lira (yüzde 8,7) artarak 2010 yıl sonunda 21 milyar 931 milyon liraya yükseldi.
+
+Türk bankacılık sektöründe şubeleşme ve istihdam artışı devam ederken, bankaların yurt dışı şubeleşme faaliyetleri de sürdü. 
+
+Bankacılık sektöründe şube ve personel sayısında Aralık 2009 döneminde başlayan artış 2010 yılında da devam etti. 
+
+Bu çerçevede, sektörün personel sayısı son bir yıllık dönemde 6 bin 975 kişi artarak 184 bin 205 kişiden 191 bin 180 kişiye, şube sayısı ise 485 adet artarak 9 bin 581&rsquo;den 10 bin 66&rsquo;ya yükseldi.
+
+Sektörün toplam aktifleri de 1 trilyon lirayı aştı. Bankacılık sektörünün aktif toplamı 2009 yıl sonuna göre yüzde 20,8 oranında artarak Aralık 2010 itibarıyla 1 trilyon 7,6 milyar lira seviyesine ulaştı.
+
+</TEXT>
+</DOC>

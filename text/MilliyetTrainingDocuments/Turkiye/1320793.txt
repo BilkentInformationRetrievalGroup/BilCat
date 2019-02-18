@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1320793 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/f44a561/l/0l0smilliyet0n0btr0cturk0egezgini0eokyanusta0easker0ekoruyor0e0cturkiye0csondakika0c0a20b110b20a10a0c130a91930cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/02 </DATE>
+<TIME> 17:12:37.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+t��rk gezgini okyanusta asker koruyor!
+</HEADLINE>
+<TEXT>Türk gezgin Erden Eruc'u, dünyanın çevresini kas gücüyle dolaşan ilk kişi olmak için başlattığı yolculuğunda deniz haydutluğuna karşı Türk Deniz Kuvvetliği Komutanlığı koruyor. Avustralya'nın batı sahilindeki Carnavon kasabasından kürek çekerek Afrika sahillerine ulaşmak üzere Hint Okyanusu'na açılan Eruc, limandan ayrılmasından 109 gün sonra, deniz haydutluğuyla mücadele kapsamında bölgede bulunan TCG Gaziantep fırkateyni ile buluştu. </TEXT>
+</DOC>

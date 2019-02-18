@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1436597 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=68cfe676-bb65-4202-8ea8-e46d9602b226 </URL>
+<DATE> 2011/02/22 </DATE>
+<TIME> 09:56:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+helikopterli bili��im operasyonu
+</HEADLINE>
+<TEXT>
+İstanbul'da Bilişim Suçları Şube Müdürlüğü ekiplerinin sabaha karşı birçok adrese düzenlediği operasyonlarda çok sayıda belge ele geçirildi.  
+
+İstanbul Emniyet Müdürlüğü&rsquo;ne bağlı Bilişim Suçlar ve Sistemleri Şube Müdürlüğü polislerinin düzenlediği operasyona,  özel harekat polisinin yanı sıra, polis helikopteri de destek verdi. 
+
+Beyoğlu Örnektepe Mahallesi Gül Sokak&rsquo;taki eve yapılan baskında polis bilişim suçlarıyla ilgili olduğu öne sürülen çok sayıda belgeye el koydu.
+
+      Beyoğlu&rsquo;nda yapılan operasyonda kimse gözaltına alınmazken, ele geçirilen belgeler incelenmek üzere emniyet müdürlüğüne götürüldü
+
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 1420770 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=ef100385-187e-446c-98ed-5f245eede440 </URL>
+<DATE> 2011/02/07 </DATE>
+<TIME> 09:55:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��mr��klerde ya��anan en b��y��k olay
+</HEADLINE>
+<TEXT>
+Gümrüklerde işlemlerin bir gün boyunca kilitlenmesine Bakan Yazıcı “Komaya girme” olarak nitelendirdi.
+
+Gümrüklerden Sorumlu Devlet Bakanı Hayati Yazıcı, günlük 1 milyar dolara yakın işlem hacmi olan gümrüklerde geçtiğimiz hafta ülkeye giriş çıkışları bir günlüğüne durduran bilgisayarlardaki kilitlenmeyi sistemin “komaya girmesi” olarak nitelendirdi. 
+
+Yabancı Parmağı Var mı?
+Yazıcı, “Türkiye’nin bu alanda bugüne kadar yaşadığı en büyük olay” dedi. Kilitlenmenin gümrüklerdeki soruşturma ve atamaların ardından gerçekleşmesini manidar bulan Bakan Yazıcı, siber saldırıdan, yabancı parmağının olup olmadığına kadar her türlü olasılığın ortaya çıkarılması için inceleme başlattığını söyledi.
+
+Bankanın Çökmesinden Sonra En Büyük Olay
+Yazıcı, ABD’deki gümrük sistemini yerinde incelemek ve temaslarda bulunmak amacıyla gittiği Washington’da, geçtiğimiz hafta Türkiye genelinde gümrüklerde yaşanan kilitlenme hakkında açıklamalarda bulundu.
+
+Yazıcı, şunları söyledi: “Buna benzer bir olay 2005 veya 2006 yılında yaşanmış ve bir kamu bankasının bilgisayar sisteminin çökmesi yüzünden emekli maaşları ödenememişti. 
+
+Ondan sonra en büyük olay. Onun için bütün kapılarda yoğun bir sıkıntı yaşadık. Sistemdeki kilitlenmenin İstanbul Gümrüğü’nde başlatılan rüşvet operasyonu ile yaptığımız atamalarla aynı sürece denk gelmesinin arkasında birtakım kötü maksatlı eylemcilerin var olduğunu söylemenin mümkün olmadığını belirtti.
+
+Haber Türk&rsquo;ün haberine göre,  Yazıcı, “Ama her olasılığı da düşünmek zorundayız. Sistemin komaya girmesine neyin neden olduğunu en iyi tayin edecek olan sistemin patent sahibi firma. Araştırıyorlar, raporlarını bekliyorum. Her yönüyle konunun incelenmesi talimatını verdim.” diye konuştu.
+
+İstedikleri Sistemi Kilitleyebiliyorlar
+İsmini açıklayamayacağı bazı uzmanların kendisine “Biz istersek Türkiye’de herhangi bir kamu idaresinin sistemini kilitleyip ve yeniden açabiliriz. Bu o sistemin güvenlik testidir. 
+
+İsterseniz size de böyle bir test yapabiliriz” dediğini aktaran Yazıcı, “Ben de, ‘Siz kimsiniz, size nasıl güveneceğim’ dedim, referanslar verdiler. Bana sunulacak rapordan sonra test denemesi yaptırabiliriz. Siber savaş buna diyorlar” diye konuştu.
+
+Gümrüklerin bilgisayar sisteminde yaşanan kilitlenme Gümrük Müsteşarlığı’nın üzerinde çalıştığı ‘İnsansız Gümrük Projesi’ni de vurdu. 
+
+</TEXT>
+</DOC>

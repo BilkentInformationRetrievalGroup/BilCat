@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1431756 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8984b287-13b2-429a-b7c1-28acaa241bc4 </URL>
+<DATE> 2011/02/17 </DATE>
+<TIME> 14:33:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+atanamayan ����retmenler ne olacak?
+</HEADLINE>
+<TEXT>
+YÖK Genel Kurulu'na katılan Milli Eğitim Bakanı Nimet Çubukçu atanamayan öğretmenlerin durumunu değerlendirdi.
+
+     Milli Eğitim Bakanı Nimet Çubukçu YÖK Genel Kurulu sonrası öğretmen yetiştirme ve atamalarını değerlendirdi.
+
+        Özellikle bugünlerde atanamayan öğretmenlerin istismar edildiğini belirten Çubukçu, sorunun sadece Milli Eğitim Bakanlığı&rsquo;nda olmadığını savundu.
+
+         Nimet Çubukçu gerekli olmayan alanlarda bölümlerin açılmış olması ve bu alanda çok sayıda öğretmenin mezun verilmesinin sorunu artırdığını söyledi.
+
+          Çubukçu ayrıca bazı eğitim fakültelerinin kontenjanının azaltılacağını, bazılarının da kapatılacağını vurguladı.
+
+</TEXT>
+</DOC>

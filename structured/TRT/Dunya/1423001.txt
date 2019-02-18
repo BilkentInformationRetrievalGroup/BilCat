@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1423001 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=455b62fe-8b6f-4144-9031-1429a034828f </URL>
+<DATE> 2011/02/09 </DATE>
+<TIME> 07:24:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+temsilciler meclisi yasay�� uzatmad��
+</HEADLINE>
+<TEXT>
+ABD'de, 11 Eylül sonrası uygulamalarıyla büyük tepki çeken "Terörle Mücadele Yasası"nın 3 maddesi yürürlükten kaldırılıyor.
+
+
+
+Temsilciler Meclisi&rsquo;nde yapılan oylamada, söz konusu maddelerin uzatılma teklifi, 148 &quot;hayır&quot; ve 277 &quot;evet&quot; oyuna rağmen reddedildi. 
+
+Terörle mücadele kapsamında güvenlik güçlerine geniş yetkiler tanıyan düzenlemenin, sivil özgürlüklere büyük darbe indirdiği için eleştiriliyordu. 
+
+Düzenlemenin süresi 28 Şubat&rsquo;ta doluyor. 
+</TEXT>
+</DOC>

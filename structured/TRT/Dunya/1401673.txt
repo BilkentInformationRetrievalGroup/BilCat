@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 1401673 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=646b5d1f-314c-483b-b6d6-08957cc66feb </URL>
+<DATE> 2011/01/19 </DATE>
+<TIME> 15:00:24.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yollar buz pistine d��nd��...
+</HEADLINE>
+<TEXT>
+Sert kış koşulları buzlanmaya, buzlanma da inanılmaz kazalara yol açıyor. ABD'deki zincirleme kaza tüyler ürperten cinsten... 
+
+
+     Amerika Birleşik Devletleri&rsquo;nde Pittsburgh kenti de sert kış koşulların yaşandığı bölgelerden...
+
+     Soğuk hava yollarda buzlanmaya sebep olunca kazalar da kaçınılmaz oluyor.
+
+     Yollar buz pistine dönüyor ve sonunda böyle manzaralar yaşanıyor.
+
+     Bir kent sakini de buzlanan yokuşta yaşananları kamerasıyla kaydetti.
+</TEXT>
+</DOC>

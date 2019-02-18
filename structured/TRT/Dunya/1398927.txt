@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1398927 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=52d22817-c97e-4631-bf1a-8cb739c43aef </URL>
+<DATE> 2011/01/17 </DATE>
+<TIME> 07:40:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+pakistan'da patlama
+</HEADLINE>
+<TEXT>
+Pakistan'ın kuzeybatısında meydana gelen bombalı saldırıda en az 15 kişi hayatını yitirdi.
+
+
+
+Hangu&rsquo;dan Kohat şehrine giden bir minibüste düzenlenen patlamanın detayları henüz bilinmiyor. 
+
+Ancak Taliban&rsquo;a bağlı Pakistan&rsquo;daki milisler tarafından düzenlendiği sanılıyor.
+
+Ölü sayısının artmasından endişe ediliyor.
+
+
+
+</TEXT>
+</DOC>

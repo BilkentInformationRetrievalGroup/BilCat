@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 1396341 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a176c3ee-2c5e-4e73-9b12-99b48a671740 </URL>
+<DATE> 2011/01/14 </DATE>
+<TIME> 10:45:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+real madrid emin ad��mlarla ilerliyor
+</HEADLINE>
+<TEXT>
+İspanya Kral Kupası çeyrek final ilk maçında Real Madrid sahasında Atletico Madrid'i ağırladı. Maçın sonucunu Mesut belirledi. 
+
+İki Madrid ekibinin Santiago Bernabeu Stadı&rsquo;ndaki mücadelesinde 7. dakikada Atletico, Uruguaylı golcüsü Diego Forlan&rsquo;ın golüyle 1-0 öne geçti. 
+
+Real Madridli Sergio Ramos, 14. dakikada kornerden gelen topa yaptığı kafa vuruşuyla durumu 1-1&rsquo;e getirdi ve devre bu sonuçla bitti. 
+
+61. dakikada Portekizli Cristiano Ronaldo Real Madrid&rsquo;i 2-1 öne geçiren golü kaydetti. Real Madrid&rsquo;in 3. golü 90. dakikada Mesut Özil&rsquo;in ayağından geldi ve maç Real&rsquo;in 3-1 galibiyetiyle bitti.
+
+Real Madrid Teknik Direktörü Jose Mourinho, maçtan sonra yaptığı açıklamada tüm maçları böyle hızlı oynamaları gerektiğini belirtti.
+
+Çeyrek finalin dün oynanan diğer maçında Almeria sahasında Deportivo&rsquo;u 1-0 mağlup ederek 2. maç öncesinde ufak da olsa bir avantaj elde etti.
+
+Çeyrek finalin diğer maçlarında Barcelona evinde Real Betis&rsquo;i 5-0 yenmiş, 
+kupanın son şampiyonu Sevilla deplasmanda Villarreal ile 3-3 berabere kalmıştı.
+
+Maçların rövanşları gelecek hafta oynanacak.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323104 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f4f589c/l/0l0smilliyet0n0btr0cab0ede0eyunanistan0edan0esonra0eirlanda0ekorkusu0cekonomi0csondakika0c0a30b110b20a10a0c130a97370cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 17:00:16.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ab'de yunanistan���dan sonra irlanda korkusu
+</HEADLINE>
+<TEXT>Avrupa Birliği’nde (AB) borç dinamikleri hızla kötüleşen İrlanda’nın, Yunanistan gibi dış yardıma muhtaç kalacağı korkusunun başladığı belirtildi.Ekonomik ve parasal işlerden sorumlu AB Komisyonu Üyesi Olli Rehn, gelecek hafta başında Dublin’i ziyaret ederek parlamento gündemindeki 15 milyar avroluk kemer sıkma paketi için destek isteyecek.İrlanda’da ilave vergiler ve kamu harcamalarında kesintiler içeren 15 milyar avroluk paketin oylaması öncesinde iktidar kanadından bir milletvekilinin istifa etmesi, hükümetle muhalefet arasındaki sandalye farkını 3’e düşürdü.Kamuoyunda büyük tepki çeken paketin reddedilmesi halinde piyasalar tarafından ağır bir şekilde cezalandırılması beklenen İrlanda’nın, Avro Bölgesi’nin, Uluslararası Para Fonu’nun da (IMF) katkısıyla oluşturduğu 750 milyar avroluk kurtarma fonuna başvurma seçeneğini değerlendireceği belirtiliyor.Gelişmeleri, paketin geçmeyeceğinin işareti olarak yorumlayan piyasalarda İrlanda tahvillerine yoğun satış gelirken faiz oranı tarihi seviyelere yükseldi.Gösterge niteliğindeki 10 yıl vadeli Alman tahvillerinin faiz oranı yüzde 2,5 düzeyinde bulunmasına rağmen 10 yıllık İrlanda kağıtlarının faiz oranı yüzde 7,4’e ulaştı.Avro Bölgesi’nce daha önce kurtarılan Yunanistan’ın 10 yıl vadeli tahvilleri uluslararası piyasalarda yüzde 10,7 faiz oranıyla işlem görürken yüksek bütçe açığına sahip bir diğer avro ülkesi Portekiz’in 10 yıllık tahvilleri de yüzde 6,2 ile tehlike bölgesinde bulunuyor.AB liderlerinin geçen haftaki zirvesinde, 3 yıllık bir süre için oluşturulan 750 milyar avroluk Avro Bölgesi acil yardım paketinin kalıcı hale getirilmesi için AB’nin bu yıl yürürlüğe giren yeni anayasası Lizbon Anlaşması’nda kısmi değişiklik yapılması konusunda uzlaşma sağlanmıştı.</TEXT>
+</DOC>

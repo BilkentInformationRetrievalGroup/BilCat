@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1330006 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f691c8a/l/0l0smilliyet0n0btr0c0egeorge0esuriye0eyi0ebombalar0emisin0e0cdunya0chaberdetay0c0a70b110b20a10a0c13111420cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/07 </DATE>
+<TIME> 01:01:20.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+���george, suriye���yi bombalar m��s��n?���
+</HEADLINE>
+<TEXT> Reuters ajansı, kitabın bir bölümünde Bush’un İsrail eski Başbakanı Ehud Olmert ile bir görüşmesini anlattığını yazdı. Buna göre, Olmert 2007’de Bush’la yaptığı telefon görüşmesinde, Suriye’deki şüpheli bir tesisten bahsederek, “George, bu tesisi bombalamanı istiyorum” dedi. Bush, İsrail’in bu “ricasını” güvenlik ekibiyle görüştüğünü, ancak sonunda  bundan vazgeçtiğini belirtiyor. İsrail daha sonra söz konusu tesisi vurmuştu.</TEXT>
+</DOC>

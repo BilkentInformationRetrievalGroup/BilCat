@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344249 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/fd74fa0/l/0l0smilliyet0n0btr0ccin0ede0esu0ebasan0emadende0e280eisci0emahsur0ekaldi0cdunya0csondakika0c210b110b20a10a0c13165670cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 13:01:28.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+��in'de su basan madende 28 i����i mahsur kald��
+</HEADLINE>
+<TEXT>Çin’in güneybatısındaki Sichuan eyaletinde su basan bir kömür madeninde 28 işçi mahsur kaldı.Şinhua haber ajansının haberine göre, Neycian şehrine bağlı Veyyüen ilçesindeki Batien kömür ocağında öğlen saatlerinde meydana gelen olay sırasında ocakta 41 işçi bulunuyordu. İşçilerden 13’ü kurtulmayı başardı.Kurtarma çalışmalarının sürdüğü, ancak işçilerin bulundukları yerin henüz belirlenemediği bildirildi.</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 1411595 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=e0989f16-7083-4b61-b68d-200432158db1 </URL>
+<DATE> 2011/01/28 </DATE>
+<TIME> 16:34:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+i��te mhp'nin se��im beyannamesi
+</HEADLINE>
+<TEXT>
+Milliyetçi Hareket Partisi seçim beyannamesini açıkladı.
+
+Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, toplumsal istikrarın sağlanması için ellerinden geleni yapacaklarını söyledi.
+
+Bahçeli partisinin hedeflerini ise söyle sıraladı:
+- Toplumsal uzlaşma niteliği taşıyan yeni bir anayasa yapmak için ne gerekiyorsa yapılacak.
+
+- Terörün kökü kazınacak. Huzur ve güvenlik tesis edilecek. 
+
+- İşsizlik ve yoksulluk sorunu çözülüp, refah düzeyi yükseltilecek. 
+
+- Devlet ve millet teşkilatı yeni baştan yapılandırılıp, demokrasi yeniden işler hale getirilecek. 
+
+- Temel haklar teminat altına alınacak. Hak ve özgürlükler güçlendirilecek.
+
+- Ekonominin yıllık ortalama yüzde 7 büyümesi ve yıllık 700 bin kişiye iş imkanı sağlanması için gerekli tedbirler alınacak.
+
+- Milli gelir 1.1 trilyon dolara, kişi başına milli gelir 14 bin dolara, ihracat 200 milyar  dolara yükseltilecek.
+</TEXT>
+</DOC>

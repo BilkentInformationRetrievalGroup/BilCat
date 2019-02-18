@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 1419195 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=8a70efb8-e9f2-43b8-9d7e-483828842198 </URL>
+<DATE> 2011/02/05 </DATE>
+<TIME> 13:04:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+t��rk kad��n��na k��t�� haber!
+</HEADLINE>
+<TEXT>
+Saygın bir tıp dergisinde yayımlanan araştırmaya göre, Avrupa'daki en obez kadınlar Türkiye'de...
+
+
+Dünyanın en saygın tıp dergilerinden Lancet&rsquo;te yayımlanan bir araştırmanın sonuçları Türkiye ve tüm dünyada giderek artan obezite riskini gözler önüne serdi. 
+
+199 ülke ve bölgede yapılan araştırmaya göre, son 30 yılda obez sayısı ikiye katlandı. Dünyada 205 milyon erkek ve 297 milyon kadın obez. 
+
+Gelişmiş ülkeler arasında obezite konusunda tehlike çanlarının çaldığı ülkelerin başında ABD geliyor.
+
+En Şişman Türk, Çek, İngiliz ve Maltalı Kadınlar...
+Avrupa&rsquo;da ise en şişman Türk kadınları... Türk kadınlarını Çek Cumhuriyeti, İngiltere ve Maltalı kadınlar izliyor...
+
+Avrupa&rsquo;nın en zayıf kadınları ise İsviçreliler. İsviçre&rsquo;yi İtalya, Fransa ve Yunanistan takip ediyor.
+
+Araştırmacılar obezitenin artışını beslenme alışkanlıklarındaki değişim, gelir seviyesinin yükselmesi ve artan kentleşmeye bağlıyor.
+</TEXT>
+</DOC>

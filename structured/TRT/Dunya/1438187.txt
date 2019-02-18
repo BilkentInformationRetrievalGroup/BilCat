@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 1438187 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=dca6a3ce-0d47-452b-a4e9-f18df0b749e8 </URL>
+<DATE> 2011/02/23 </DATE>
+<TIME> 15:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+yunanistan'da ��at����ma
+</HEADLINE>
+<TEXT>
+Atina'da göstercilerle polis arasında çatışma çıktı.
+
+Tarihinin en büyük ekonomik krizlerinden birini yaşayan Yunanistan&rsquo;da hükümetin yürürlüğe koyduğu ekonomik istikrar paketi, halkın tepkisini çekmeye devam ediyor.
+     Başkent Atina&rsquo;da, 30 binden fazla çalışan ekonomik tedbir paketini protesto için parlamento binası önünde toplandı.
+
+     Gösteriye katılan bir grup genç ile polis arasında çatışma çıktı.
+
+     Gençler polise taş ve molotof kokteylleri ile saldırırken polis göstericileri dağıtmak için göz yaşartıcı gaz kullandı.
+
+     Yunan sendikalarının genel grev kararına ülkedeki bütün kamu çalışanları tam destek veriyor. 
+
+     Acil servislerin dışında doktorlar işbaşı yapmıyor. Devlete ait bütün okullarda da öğretmenlerin greve katılmasından ötürü derslere ara verilmiş durumda. 
+
+     Ulaşım sektöründe de tam bir kaos yaşanıyor. 
+</TEXT>
+</DOC>

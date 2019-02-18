@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 1414420 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=a9c3a72d-a214-4890-8ba9-16b705cc93c3 </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 23:00:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+amerikal��lar��n wikileaks ilgisizli��i
+</HEADLINE>
+<TEXT>
+ABD'de yapılan bir araştırma Amerikalıların % 42'sinin Wikileaks'in ne olduğunu bilmediği ortaya çıktı.
+
+ABD&rsquo;de yapılan bir araştırma, Amerikalıların sadece yüzde 9&rsquo;unun Wikileaks&rsquo;in &quot;iyi birşey olduğunu&quot; düşündüğünü, yüzde 22&rsquo;sinin de &quot;hain&quot; olarak gördüğünü ortaya koydu.
+
+Amerikan Vanity Fair dergisinin talebi üzerine yapılan araştırma, Amerikalıların çoğunun Prens William ile Kate Middleton&rsquo;ın evliliğiyle hiç ilgilenmediğini, yüzde 8&rsquo;lik bir kesimin 29 Nisan&rsquo;da öngörülen düğünü merakla beklediğini gösterdi.
+</TEXT>
+</DOC>

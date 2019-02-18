@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 1413766 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=be34c70d-c44c-4a50-8431-974e19a3b0ca </URL>
+<DATE> 2011/01/31 </DATE>
+<TIME> 11:38:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+ingiliz ekonomisi k������ld��!
+</HEADLINE>
+<TEXT>
+Hükümet küçülmeden hava koşullarını sorumlu tuttu. Merkez uyardı: "Enflasyon artacak, yaşam koşulları kötüleşecek."
+
+
+İngiltere ekonomisi, 2010&rsquo;un son 3 ayında yüzde 0,5 küçülerek, tahminlerden daha kötü bir performans sergiledi.
+
+Merkez Bankası da enflasyonun artacağı ve yaşam koşullarının kötüleşeceği uyarısında bulundu.
+
+Hükümetse, küçülmeden geçen Aralıktaki zorlu kış koşullarını sorumlu tutuyor. Ancak Ulusal İstatistik Kurumu&rsquo;na göre, havalar kötü olmasaydı da göstergeler bir ekonomik canlanmaya işaret etmeyecekti.
+
+Kemer Sıkma Programından Geri Adım Atılmayacak
+Maliye Bakanı George Osborne sonucun düş kırıklığı yaratıcı olduğunu ancak kemer sıkma programından geri adım atmayacaklarını söyledi.
+
+Büyüme rakamları, bu yıl içine kamu harcamalarında ciddi oranda kesintilerin yapılacağı ülkede ekonominin geleceğine ilişkin kaygıları artırdı.
+
+&quot;Halkın Büyümeyle İlgili Kaygıları Yerinde&quot;
+BBC ekonomi editörü Stephanie Flanders, enflasyonun beklenenden daha fazla çıkması nedeniyle geçim şartları ağırlaşan halkın büyümeyle ilgili kaygılarının yerinde olduğunu söylüyor.
+
+Resesyondan en geç çıkan gelişmiş ülkelerden biri olan İngiltere&rsquo;de ekonomi son 4 çeyrektir büyüyordu.
+
+Uzmanlar, ekonominin 2010&rsquo;un son 3 aylık döneminde büyümesini bekliyordu.
+
+Bu yüzden rakamlar, herkesi şaşırttı. 
+
+Küçülmede en fazla pay inşaat sektörüne ait. Bu sektör, yüzde 3,3 oranında küçüldü. İmalat sektöründe ise yüzde 1,4&rsquo;lük bir artış görüldü. 
+</TEXT>
+</DOC>

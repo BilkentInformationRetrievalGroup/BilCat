@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1400452 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=24c7be85-e005-4df8-a2dc-7f4c86e67d33 </URL>
+<DATE> 2011/01/18 </DATE>
+<TIME> 14:23:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+teled��nya t��rkiye kupas��
+</HEADLINE>
+<TEXT>
+Voleybolda Teledünya Bayanlar Türkiye Kupası çeyrek final ilk maçları yarın ve 20 Ocak Perşembe günü yapılacak. Program şöyle:
+
+
+
+19 Ocak Çarşamba:
+15.30 Ankaragücü-Vakıfbank Güneş Sigorta Türk Telekom (TVF Başkent)
+16.00 Eczacıbaşı VitrA-Pursaklar Voleybol İhtisas (Eczacıbaşı)
+17.00 Yeşilyurt-Nilüfer Belediyesi (Yeşilyurt)
+
+20 Ocak Perşembe:
+18.00 İller Bankası-İBA Kimya TED Kolejliler (TVF Başkent)
+
+Maçların rövanşı 16-17 Şubat&rsquo;ta oynanacak ve kupada dörtlü finale yükselecek ekipler belli olacak.
+</TEXT>
+</DOC>

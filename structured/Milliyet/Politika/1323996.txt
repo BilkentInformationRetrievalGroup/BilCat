@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1323996 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510889/s/f53046d/l/0l0smilliyet0n0btr0cyumruklar0ekonustu0csiyaset0chaberdetay0c0a40b110b20a10a0c130a99980cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/04 </DATE>
+<TIME> 03:09:08.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+yumruklar konu��tu
+</HEADLINE>
+<TEXT> Her iki taraf da kendi yönetimlerinin geçerli olduğunu savunurken, gerginlik partililere de yansıdı. Önce Kılıçdaroğlu’nu destekleyenler tezahüratta bulunurken daha sonra da Sav yanlıları parti önünde ve koridorlarda slogan attı. 4. kattaki salona Sav’ı destekleyen gençlerin girmek istemesi üzerine kapıda bekleyen görevliler ile gençler arasında yumruklaşma yaşandı.</TEXT>
+</DOC>

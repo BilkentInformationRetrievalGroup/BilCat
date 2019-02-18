@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1344159 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510885/s/fd6abce/l/0l0smilliyet0n0btr0csicakliklar0e10eile0e30ederece0eazalacak0cturkiye0csondakika0c210b110b20a10a0c13165380cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/21 </DATE>
+<TIME> 11:08:10.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+s��cakl��klar 1 ile 3 derece azalacak
+</HEADLINE>
+<TEXT>RA: Parçalı bulutlu, sabah ve gece saatlerinde yer yer hafif sisli 18 İZMİR: Parçalı bulutlu 20 ANTALYA: Parçalı bulutlu 25 SAMSUN: Parçalı zamanla çok bulutlu, akşam saatlerinden sonra hafif olmak üzere, aralıklı sağanak yağışlı 17 ERZURUM: Parçalı ve az bulutlu, sabah ve gece saatlerinde buzlanma ve don olayı ile birlikte yer yer hafif sisli 14 DİYARBAKIR: Az bulutlu ve açık 23 -BÖLGELERDE HAVA DURUMU-Devlet Meteoroloji İşleri Genel Müdürlüğü’nün son verilerine göre bölgelerde hava durumu şöyle olacak: MARMARA: Parçalı ve çok bulutlu, öğle saatlerinde Kırklareli ve Edirne çevreleri hafif sağanak yağışlı geçecek. Sabah ve gece saatlerinde bölgenin güneydoğusunda yer yer sis görülecek.EGE: Parçalı bulutlu geçecek. Sabah ve gece saatlerinde bölgenin iç kesimlerinde yer yer sis görülecek.AKDENİZ: Batısı parçalı bulutlu, diğer yerler az bulutlu ve açık geçecek. Sabah ve gece saatlerinde Göller yöresinde yer yer hafif sis görülecek.İÇ ANADOLU: Parçalı az bulutlu geçecek. Sabah ve gece saatlerinde bölge genelinde yer yer hafif sis ile birlikte Kayseri çevrelerinde buzlanma ve don olayı görülecek.BATI KARADENİZ: Parçalı ve çok bulutlu, öğle saatlerinde Zonguldak, Bartın ve Sinop çevreleri hafif sağanak yağışlı geçecek. Sabah saatlerinde bölgenin iç kesimlerinde yer yer sis görülecek.ORTA ve DOĞU KARADENİZ: Parçalı zamanla çok bulutlu, akşam saatlerinden sonra kıyı kesimleri hafif olmak üzere, aralıklı sağanak yağışlı geçecek. Sabah saatlerinde bölgenin iç kesimlerde yer yer hafif sis ile birlikte Çorum ve Bayburt çevrelerinde buzlanma ve don olayı görülecek.DOĞU ANADOLU: Parçalı ve az bulutlu geçecek. Sabah ve gece saatlerinde bölgenin kuzeyinde buzlanma ve don olayı ile birlikte yer yer hafif sis görülecek.GÜNEYDOĞU ANADOLU: Az bulutlu ve açık geçecek.</TEXT>
+</DOC>

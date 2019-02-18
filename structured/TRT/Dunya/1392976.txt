@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1392976 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=c429f16e-473c-4036-b70a-dcfdb725a414 </URL>
+<DATE> 2011/01/11 </DATE>
+<TIME> 13:14:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+g��rcistan'da patlama
+</HEADLINE>
+<TEXT>
+Gürcistan'da bir askeri üste meydana gelen patlamada  3 asker öldü.
+
+Gürcistan Savunma Bakanlığı patlamanın Krtsani Askeri üssündeki bir mayından kaynaklandığını açıkladı.
+
+     Patlamada 3 asker öldü, 4&rsquo;ü ağır 13 asker de yaralandı. Olayla ilgili soruşturma sürüyor.
+
+</TEXT>
+</DOC>

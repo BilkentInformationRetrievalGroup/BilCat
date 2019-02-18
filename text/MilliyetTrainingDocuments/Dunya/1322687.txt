@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1322687 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f4d2fe0/l/0l0smilliyet0n0btr0csirbistan0eda0edeprem0e20eolu0cdunya0csondakika0c0a30b110b20a10a0c130a96240cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/03 </DATE>
+<TIME> 15:01:35.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+s��rbistan'da deprem: 2 ��l��
+</HEADLINE>
+<TEXT>Sırbistan’da meydana gelen 5,4 büyüklüğündeki depremde 2 kişinin öldüğü, yaklaşık 50 kişinin yaralandığı bildirildi.Edinilen bilgiye göre, Sırbistan’ın güneyinde bulunan Kralyevo kentinin yaklaşık 10 kilometre mesafede, gece 01.56 sıralarında 5,4 büyüklüğünde deprem meydana geldi. Belgrad ve Novi Sad kentlerinde de hissedilen depremde, ilk bilgilere göre 2 kişi hayatını kaybetti, yaklaşık 50 kişi yaralandı.Sırbistan İçişleri Bakanı İvica Daçiç, depremin ardından Kralyevo kentini ziyaret etti.Daçiç, Sırbistan’ın resmi haber ajansı Tanjug’a yaptığı açıklamada, ilk bilgilere göre depremde 2 kişinin hayatını kaybettiğini doğruladı.Depremin bilançosunun henüz kesinleşmediğini ifade eden Daçiç, "Şu ana kadar evinde bulunan 2 kişinin hayatını kaybettiğini biliyoruz ve yaralıların olduğunu söyleyebiliriz. Depremle birlikte önemli maddi hasarlar da meydana geldi" dedi.</TEXT>
+</DOC>

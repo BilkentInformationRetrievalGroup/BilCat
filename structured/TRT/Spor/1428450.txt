@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1428450 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=af5fa382-1390-4a47-994f-853516a605c9 </URL>
+<DATE> 2011/02/14 </DATE>
+<TIME> 15:10:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+galatasaray toparlan��yor
+</HEADLINE>
+<TEXT>
+Sarı kırmızılılar, Bucaspor ile yapılacak maçın hazırlıklarına, izinli ve tedavileri devam futbolcular sebebiyle yine eksik başladı.
+
+Galatasaray, bu sabah yaptığı antrenmanla Cumartesi günü Bucaspor ile oynayacağı karşılaşmanın hazırlıklarına başladı.
+Antrenmana izinli olan Harry Kewell, Lucas Neill, Bogdan Stancu ve Gökhan Zan, A2 takımının Bursaspor’la oynayacağı maç kadrosunda yer alan Emre Çolak ile Aydın Yılmaz katılmadı.
+Gaziantepspor maçı sonrasında darbeye bağlı olarak adelesinde zorlanma olan Sabri Sarıoğlu ile Hakan Balta’nın tedavilerine başlandı.
+Juan Pablo Pino fizyoterapist eşliğinde saha egzersizleri ve düz koşu yaptı. Arda Turan kondisyoner Fatih Yıldız eşliğinde kuvvet çalışmasının ardından düz koşulara devam etti. 
+Gaziantepspor maçında ilk 11’de oynayan oyuncuların yenilenme çalışması yaptığı antrenmanda diğer oyuncular top kontrol ve pozisyon çalışmalarına ağırlık verdi. Yaklaşık 1,5 saat süren antrenmanda kondisyon ve dayanıklılık çalışması yapıldı. 
+
+</TEXT>
+</DOC>

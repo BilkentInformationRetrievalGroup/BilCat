@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1319608 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510886/s/f3b62d0/l/0l0smilliyet0n0btr0cogrenciye0etokat0eyasaklandi0cdunya0csondakika0c0a10b110b20a10a0c130a8660a0cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/01 </DATE>
+<TIME> 13:02:29.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+����renciye tokat yasakland��
+</HEADLINE>
+<TEXT>Güney Kore’nin başkenti Seul’deki okullarda öğretmenler artık kurallara uymayan çocuklara dayak veya tokat atamayacak.Seul Eğitim Dairesinin sözcüsü, yasağın Seul’deki tüm özel ve devlet okullarında uygulanacağını belirtti.Bugüne dek bu tür cezaların "işe yaradığını" düşünen bazı öğretmenlere göre ise kurallara uymayan çocuklara ihtar, veliyle görüşme, İngilizce kelime ezberleme gibi "cezalar" verilmesi "çok idealist" yöntemler.</TEXT>
+</DOC>

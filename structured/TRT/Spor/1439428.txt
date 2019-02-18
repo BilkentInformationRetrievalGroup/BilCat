@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 1439428 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=b5948a7f-10e2-4ea1-aaa9-e827d5127cc6 </URL>
+<DATE> 2011/02/24 </DATE>
+<TIME> 18:43:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+kewell'dan yalanlama
+</HEADLINE>
+<TEXT>
+Galatasaray'ın yıldız oyuncusu, basında çıkan haberleri yalanladı.
+
+Galatasaray&rsquo;ın yıldız futbolcusu Harry Kewell, bugün bir gazetede yer alan &quot;Hagi varsa zor kalırım&quot; şeklinde çıkan haberin gerçek dışı olduğunu açıkladı.
+ Kulubün resmi sitesinden Kewell&rsquo;ın yaptığı açıklama şöyle: &quot;Bugün yayınlanan &quot;Hagi varsa zor kalırım&quot; başlıklı haberde hakkımda yazılan iddialar doğru değildir. Bu doğrultuda bir görüşüm olmadığı gibi; herhangi bir medya mensubuyla yaptığım konuşma da yoktur.&quot;
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 1410245 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=719c3d51-c244-4457-846f-de942ed18bcd </URL>
+<DATE> 2011/01/27 </DATE>
+<TIME> 13:48:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+��rak'ta intihar sald��r��s��: 35 ��l��
+</HEADLINE>
+<TEXT>
+Bağdat'ta, bir cenaze töreninde düzenlenen intihar saldırısında 35 kişi öldü.
+
+Irak&rsquo;ın başkenti Bağdat&rsquo;ta bir cenaze töreninde düzenlenen intihar saldırısında 35 kişi öldü.
+
+Şiilerin yoğun olduğu kesimde bomba yüklü araçla düzenlenen intihar saldırısında, 65 kişi de yaralandı.
+
+Irak&rsquo;ta geçen hafta düzenlenen saldırılarda 200&rsquo;e yakın kişi hayatını kaybetmişti. 
+
+
+</TEXT>
+</DOC>

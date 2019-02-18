@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1392222 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=39111d81-9080-4923-bde0-e0763525c3f1 </URL>
+<DATE> 2011/01/10 </DATE>
+<TIME> 17:58:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+eski��ehirspor 3 - 1 werder bremen
+</HEADLINE>
+<TEXT>
+Eskişehirspor, hazırlık maçında Almanya'nın Werder Bremen takımı ile karşılaştı. 
+
+Eskişehirspor, Antalya&rsquo;da yapılan özel maçta Bundesliga ekibi karşısında etkili bir oyun ortaya koyduğu ilk yarıyı, Sezer ve Erkan&rsquo;ın golleriyle 2-0 önde tamamladı.
+
+Karşılaşmanın ikinci yarısında da Burhan&rsquo;ın ayağından bir gol bulan Eskişehirspor, karşılaşmadan 3-1 galip ayrıldı. Maçta Werder Bremen&rsquo;in golünü 
+Pizarro kaydetti.
+
+Süper lig ekibi, Werder Bremen karşısına Ivesa, Sezgin, Veysel, Nadarevic, Diego, Burhan, Sezer, Pele, Erkan, Tello ve Batuhan 11&rsquo;i ile çıktı.
+</TEXT>
+</DOC>

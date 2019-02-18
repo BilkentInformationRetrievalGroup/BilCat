@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 1403722 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=2b30579c-a03b-4542-a4f2-77158eaa3a65 </URL>
+<DATE> 2011/01/21 </DATE>
+<TIME> 11:27:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+biraz buz, biraz kum...
+</HEADLINE>
+<TEXT>
+Rusya'nın başkenti Moskova buz ve kumdan yapılan eserlere ev sahipliği yapıyor.
+
+&quot;Kutsal Rusya&quot; adı verilen sergide Ortodoksların dini liderleri, Rus kahramanlar ve kilise heykelleri sergileniyor.
+
+Moskova’daki Kurtarıcı İsa Kilisesi&rsquo;nin hemen yanında 450 metrekarelik bir çadırda açılan kum ve buzdan dini mekan ve figür heykelleri sergisine Moskovalılar yoğun ilgi gösterdi.
+
+
+
+Sergideki kumdan heykeller bölümü, geçen yıl mayıs ayındaki uluslararası kum heykelleri yarışması kapsamında açılırken, 7 metre yüksekliğinde ve 23 metre uzunluğundaki kumdan heykellerin yapımınında yaklaşık bin ton kum kullanıldığı kaydedildi.
+
+Sergiye, daha sonra havanın soğumasıyla yapılan buzdan heykeller de eklendi. 
+
+
+
+“Kutsal Rusya Sergisi”nin Genel Sanat Yönetmeni ve UNESCO Uluslararası Ressamlar Derneği üyesi Roman Padgorni, “Kum heykeller tüm yaz boyunca burada sergilendi. Sonra buz ve kumu birleştirme fikri ortaya çıktı. Bizden önce kimse kum ve buzu birleştirememişti. Gelecekte buz, kum ve ateş gibi 3 maddeyi bir araya geldiği bir sergi açma planımız var&quot; dedi. 
+
+Padgorni, buzdan heykellerin yapımında kullanılan suyu da itinayla seçtiklerini belirterek konuşmasını şöyle sürdürdü:
+
+“Buzun şeffaf olması tamamen suyun kalitesine bağlı. Malzeme bakarken, Moskova yakınındaki gölleri uzay haritalarından araştırdık. Göllerin rengi bizim için çok önemli. Yüksekten batığınızda mavi görünen göller buz heykeller için en iyi suya sahip olan göllerdir. Gölün üst bölümünün 20-25 cm kadar buzlaşmasını bekliyoruz. Hazır olduğunda buz küplerini keserek özel tekniklerle serginin olacağı yere getiriyoruz. Buz heykelleri yapımı için havanın en fazla eksi 15 olması gerekiyor. Daha soğuk havalarda cam gibi hassas madde olan buz kırılabiliyor.”
+</TEXT>
+</DOC>

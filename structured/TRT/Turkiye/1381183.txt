@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 1381183 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=9cef241f-c76a-44d7-a018-637be6ecf6a2 </URL>
+<DATE> 2011/01/02 </DATE>
+<TIME> 23:18:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+u������������������akta "bomba var" notu panikletti
+</HEADLINE>
+<TEXT>
+Türk Hava Yolları'nın Lefkoşe-İstanbul seferini yapan uçakta yapılan bomba ihbarı hareketli saatlerin yaşanmasına neden oldu.
+
+
+Uçak sorunsuz şekilde Atatürk Havalimanı&rsquo;na indikten sonra yapılan aramada bombaya rastlanmadı.
+
+Türk Hava Yolları&rsquo;na ait Airbus 319 tipi uçak havadayken bomba olduğuna dair el yazısı bir not bulundu.
+
+105 yolcusu bulunan uçak, saat 20.15&rsquo;te Atatürk Havalimanı&rsquo;na sorunsuz indikten sonra güvenli bir bölgeye çekildi.
+
+Yolcuların tahliyesinin ardından uzman polis ekiplerince uçağın içinde ve bagajlarda yapılan aramada bomba bulunmadı. 
+
+Asılsız bomba ihbarını yapanın bulunabilmesi için yolculardan el yazısı örnekleri alındı.
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 1413210 </DOCNO>
+<SOURCE> trt </SOURCE>
+<URL> http://www.trt.net.tr/haber/haberdetay.aspx?haberkodu=382cec46-6459-4df7-8aa3-9a0e18dd0eb4 </URL>
+<DATE> 2011/01/30 </DATE>
+<TIME> 17:19:00.0 </TIME>
+<AUTHOR>    </AUTHOR>
+<HEADLINE>
+sudan da kar����t��
+</HEADLINE>
+<TEXT>
+Tunus ve Mısır'ın ardından Sudan'da da iç karışıklık yaşanıyor.
+
+Sudan&rsquo;da gençler bir sosyal paylaşım sitesi aracılığıyla toplanarak sokaklara döküldü.
+
+Başkent Hartum&rsquo;da yaşanan olaylarda göstericiler, hükümet aleyhtarı sloganlar attı.
+
+Çoğunluğunu gençlerin oluşturduğu ve hükümetin istifasını isteyen göstericiler polisle çatıştı.
+
+Polisin kalabalığı dağıtmak için biber gazı kullandığı olaylarda bazı göstericiler gözaltına alındı.
+
+Olayları düzenleyen ve kendilerini &quot;Değişim İçin Gençlik Hareketi&quot; olarak tanıtan grubun internet üzerinde 15 binden fazla üyesi bulunuyor.
+
+Grup üyeleri arasında gönderilen elektronik postalarda, adaletsizlik ve gıda fiyatlarının yüksekliğine dikkat çekilierek, yoksulluğa karşı halkın birlik olması isteniyor.
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> 1326262 </DOCNO>
+<SOURCE> milliyet </SOURCE>
+<URL> http://rss.feedsportal.com/c/32727/f/510887/s/f5b817e/l/0l0smilliyet0n0btr0ch0em0eden0ekuyruklu0eozel0eacilis0e0cekonomi0chaberdetay0c0a50b110b20a10a0c1310a4330cdefault0bhtm/story01.htm </URL>
+<DATE> 2010/11/05 </DATE>
+<TIME> 03:00:13.0 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+h&m���den kuyruklu �����zel a����l�������
+</HEADLINE>
+<TEXT>MESUT YILMAZTürkiye’deki ilk mağazası için Forum İstanbul Alışveriş Merkezi’ni seçen H&M, dün gece özel davetliler için kapılarını ilk kez açtı. Bayrampaşa’daki mağazanın önünde açılışa saatler kala uzun kuyruklar oluştu. 2 bine yakın davetlinin katıldığı açılışta, müşteriler alışveriş için birbiriyle yarışa girerken ortaya renkli görüntüler çıktı. Açılış sonrası bir de parti verildi. Mağazanın resmi açılışı ise 6 Kasım cumartesi gerçekleştirilecek. Resmi açılışta oluşması beklenen uzun kuyruklar için ekstra giysi stoğu ve 30 kişilik güvenlik ekibi hazır bekletilecek. Cumartesi saat 11’de ‘resmen’ açılacak olan H&M, mağazaya gelecek ilk 200 kişiye özel tasarım tişört hediye edecek.</TEXT>
+</DOC>
