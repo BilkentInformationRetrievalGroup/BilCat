@@ -1,2 +1,11 @@
 # BilCat
 Bilkent Text Categorization (Classification) Dataset
+
+Bilkent Text Categorization Dataset: BilCat-MIL and BilCat-TRT
+
+There are 2 folders:
+structured: Meta-attributes and raw text together.
+text: Raw text for each file.
+
+Please find details and cite the following study for the BilCat dataset:
+C. Toraman, F. Can and S. Koçberber, "Developing a text categorization template for Turkish news portals," 2011 International Symposium on Innovations in Intelligent Systems and Applications, Istanbul, 2011, pp. 379-383. DOI: 10.1109/INISTA.2011.5946096
