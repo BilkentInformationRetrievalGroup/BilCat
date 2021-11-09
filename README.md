@@ -9,7 +9,8 @@ text: Raw text for each file.
 # Merged and Cleaned Dataset:
 There are some character encoding errors and missing lines in the folders. To get a cleaned and fixed version of BilCat, please use the following file: 
 ## BilCat-merged.tsv
-7540 news articles (Milliyet and TRT merged)
+7540 news articles (Milliyet and TRT merged) 
+
 Column header is the first line.
 
 # Citation:
