@@ -1,6 +1,6 @@
-# BilCat: Bilkent Text Categorization (Classification) Dataset
+# BilCat: Bilkent Text Classification (News Categorization) Dataset
 
-Bilkent Text Categorization Dataset consists of BilCat-MIL and BilCat-TRT.
+Bilkent Text Classification Dataset consists of BilCat-MIL and BilCat-TRT.
 
 There are 2 folders:
 structured: Meta-attributes and raw text together.
