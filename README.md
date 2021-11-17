@@ -2,7 +2,7 @@
 
 Bilkent Text Classification Dataset consists of BilCat-MIL and BilCat-TRT.
 
-There are 2 folders:
+(Deprecated) There are 2 folders:
 structured: Meta-attributes and raw text together.
 text: Raw text for each file.
 
